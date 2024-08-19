@@ -31,6 +31,7 @@ jobs:
 
       - name: Verify generated files
         run: |
+          echo "Generated files in _site directory:"
           ls -R _site
 
       - name: Deploy to GitHub Pages
