@@ -1,55 +1,55 @@
-name: Deploy Flask Site to GitHub Pages
+name: Build and Deploy Flask Site to GitHub Pages
 
 on:
-  # Runs on pushes targeting the default branch
   push:
-    branches: ["master"]
-
-  # Allows you to run this workflow manually from the Actions tab
+    branches:
+      - master
   workflow_dispatch:
 
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
 jobs:
-  # Build job
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-      
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.9'
+    - name: Checkout code
+      uses: actions/checkout@v4
 
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
 
-      - name: Copy static files
-        run: |
-          mkdir -p _site
-          cp -r static/* _site/
-          cp -r templates/* _site/
-          # Ajoutez ici toutes les étapes nécessaires pour copier vos fichiers statiques
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
 
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+    - name: Generate static HTML
+      run: |
+        python -c "
+from flask import Flask, render_template
+from update_data import download_jsons, config
 
-  # Deployment job
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+app = Flask(__name__)
+missing = download_jsons()
+
+# Function to render and save the HTML to a file
+def render_static_html():
+    with app.app_context():
+        rendered = render_template(
+            'index.html',
+            missing=missing,
+            images_size=config.get('images-size', 100),
+            len=len
+        )
+        with open('_site/index.html', 'w') as f:
+            f.write(rendered)
+
+render_static_html()
+"
+
+    - name: Deploy to GitHub Pages
+      uses: actions/deploy-pages@v4
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./_site
