@@ -6,6 +6,7 @@
     <title>Missing Nintendo Switch Content</title>
 
     <script src="../static/js/showTables.js"></script>
+    <script src="../static/js/searchBar.js"></script>
     <link rel="stylesheet" href="../static/css/style.css">
 </head>
 <body>
@@ -33,10 +34,10 @@
             
             <div class="table-container" id="missing{{table_name}}Container" style="display: {%if table_name == 'titles'%} block {%else%} none {%endif%};">
                 <h2>{{button_title}}</h2>
-                {# <input type="text" id="missing{{table_name}}Search"
-                    onkeyup="if (!window.__cfRLUnblockHandlers) return false; searchTable('missing{{table_name}}')"
+                <input type="text" id="missing{{table_name}}Search"
+                    onkeyup="searchTable('missing{{table_name}}')"
                     placeholder="Search {{button_title}}..."
-                > #}
+                >
                 <table id="missing{{table_name}}Table">
                     
                     {% if table_name == 'titles' %}
