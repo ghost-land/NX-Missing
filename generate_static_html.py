@@ -1,4 +1,4 @@
-from flask import Flask, render_template, url_for
+from flask import Flask, render_template
 from update_data import download_jsons, config
 import os
 import shutil
@@ -12,15 +12,12 @@ def render_static_html():
         if not os.path.exists('_site'):
             os.makedirs('_site')
 
-        static_dir = os.path.join('_site', 'static')
-        if not os.path.exists(static_dir):
-            os.makedirs(static_dir)
-            os.makedirs(os.path.join(static_dir, 'css'))
-            os.makedirs(os.path.join(static_dir, 'js'))
-
-        shutil.copy('static/css/style.css', os.path.join(static_dir, 'css/style.css'))
-
-        shutil.copy('static/js/showTables.js', os.path.join(static_dir, 'js/showTables.js'))
+        static_src_dir = 'static'
+        static_dest_dir = os.path.join('_site', 'static')
+        
+        if os.path.exists(static_dest_dir):
+            shutil.rmtree(static_dest_dir)
+        shutil.copytree(static_src_dir, static_dest_dir)
 
         rendered = render_template(
             'index.html',
