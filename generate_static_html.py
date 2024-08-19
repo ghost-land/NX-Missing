@@ -26,7 +26,7 @@ def render_static_html():
             images_size=config.get('images-size', 100),
             len=len
         )
-        with open(os.path.join('_site', 'index.jinja'), 'w', encoding='utf-8') as f:
+        with open(os.path.join('_site', 'index.html'), 'w', encoding='utf-8') as f:
             f.write(rendered)
 
 if __name__ == "__main__":
