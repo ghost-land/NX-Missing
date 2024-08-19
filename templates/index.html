@@ -44,7 +44,7 @@
                         <tbody>
                             {% for tid, title in missing['missing-titles'].items() %}
                                 <tr>
-                                    <td><img src="https://tinfoil.media/ti/{{tid}}/100/100/" class="icon" alt="{{title.get('Title Name', '')}}"></td>
+                                    <td><img src="https://tinfoil.media/ti/{{tid}}/{{images_size}}/{{images_size}}/" class="icon" alt="{{title.get('Title Name', '')}}"></td>
                                     <td><a href="https://tinfoil.io/Title/{{tid}}" target="_blank">{{tid}}</a></td>
                                     <td>{{title.get('Title Name', '')}}</td>
                                     <td>{{title.get('Release Date', '')}}</td>
