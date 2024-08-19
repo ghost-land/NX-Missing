@@ -7,7 +7,7 @@ missing = download_jsons()
 @app.route('/', methods=['GET'])
 def home():
     return render_template(
-        'index.html',
+        'index.jinja',
         missing=missing,
         images_size=config.get('images-size', 100),
         len=len
