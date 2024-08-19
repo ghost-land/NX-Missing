@@ -1,1 +1,66 @@
+name: Build and Deploy Flask Site to GitHub Pages
 
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Create _site directory
+      run: mkdir -p _site
+
+    - name: Copy static files
+      run: cp -r static/* _site/
+
+    - name: Copy templates
+      run: cp -r templates/* _site/
+
+    - name: Generate static HTML
+      run: |
+        python -c "
+from flask import Flask, render_template
+from update_data import download_jsons, config
+
+app = Flask(__name__)
+missing = download_jsons()
+
+def render_static_html():
+    with app.app_context():
+        rendered = render_template(
+            'index.html',
+            missing=missing,
+            images_size=config.get('images-size', 100),
+            len=len
+        )
+        with open('_site/index.html', 'w') as f:
+            f.write(rendered)
+
+render_static_html()
+"
+
+    - name: List _site directory (for debugging)
+      run: ls -R _site
+
+    - name: Deploy to GitHub Pages
+      uses: actions/deploy-pages@v4
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./_site
