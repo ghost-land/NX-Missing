@@ -2,6 +2,7 @@
     "host": "0.0.0.0",
     "port": 80,
     "flask-debug": false,
+    "data-repo-name": "LenochJaaJ/flask-webhook-updater-test",
     "urls": {
         "missing-titles": "https://raw.githubusercontent.com/ghost-land/nx-missing/main/json/missingTitles.json",
         "missing-updates": "https://raw.githubusercontent.com/ghost-land/nx-missing/main/json/missingUpdates.json",

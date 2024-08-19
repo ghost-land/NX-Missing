@@ -17,14 +17,18 @@ def download_jsons():
     else:
         last_updated = {key: {} for key in config['urls']}
 
+    all_json_data = {
+        "last_updated": last_updated,
+    }
     
     for key, url in config['urls'].items():
         response = requests.get(url)
         if response.status_code == 200:
             try:
-                json_data = response.json()
                 filename = f"{key}.json"
                 filepath = os.path.join(data_dir, filename)
+                json_data = response.json()
+                all_json_data[key] = json_data
                 with open(filepath, 'w', encoding='utf-8') as f:
                     json.dump(json_data, f, ensure_ascii=False, indent=2)
                 print(f"Downloaded and validated {filename}")
@@ -41,6 +45,12 @@ def download_jsons():
             print(f"Failed to download {key}: HTTP status {response.status_code}")
             last_updated[key]['timestamp'] = datetime.now().isoformat()
             last_updated[key]['success'] = False
+            
+        if last_updated[key]['success'] == False:
+            with open(filepath, 'r', encoding='utf-8') as f:
+                all_json_data[key] = json.load(f)
     
     with open(last_updated_filepath, 'w', encoding='utf-8') as f:
         json.dump(last_updated, f, ensure_ascii=False, indent=2)
+    
+    return all_json_data
