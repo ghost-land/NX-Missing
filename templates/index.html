@@ -11,11 +11,11 @@
 <body>
     <h1>Missing Nintendo Switch Content</h1>
 
-    {# <div class="stats">
-        <div>Missing Titles: 995</div>
-        <div>Missing DLCs: 4679</div>
-        <div>Missing Updates: 285</div>
-    </div> #}
+    <div class="stats">
+        <div>Missing Titles: {{len(missing['missing-titles'])}}</div>
+        <div>Missing DLCs: {{len(missing['missing-dlcs'])}}</div>
+        <div>Missing Updates: {{len(missing['missing-updates'])}}</div>
+    </div>
 
     <div class="table-buttons">
         <button onclick="showTable('missingtitlesContainer')">Show Missing Titles</button>

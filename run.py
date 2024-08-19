@@ -6,7 +6,7 @@ missing = download_jsons()
 
 @app.route('/', methods=['GET'])
 def home():
-    return render_template('index.html', missing=missing)
+    return render_template('index.html', missing=missing, len=len)
 
 @app.route('/jsonwebhook', methods=['POST'])
 def jsonwebhook():
