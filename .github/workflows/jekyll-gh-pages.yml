@@ -24,27 +24,6 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Create generate_static_html.py
-        run: |
-          echo "from flask import Flask, render_template
-from update_data import download_jsons, config
-
-app = Flask(__name__)
-missing = download_jsons()
-
-def render_static_html():
-    with app.app_context():
-        rendered = render_template(
-            'index.html',
-            missing=missing,
-            images_size=config.get('images-size', 100),
-            len=len
-        )
-        with open('_site/index.html', 'w') as f:
-            f.write(rendered)
-
-render_static_html()" > generate_static_html.py
-
       - name: Generate static HTML
         run: |
           mkdir -p _site
