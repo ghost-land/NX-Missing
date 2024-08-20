@@ -23,6 +23,10 @@ h1 {
     font-weight: bold;
     color: #1a73e8;
 }
+.stats div {
+    margin-left: 10px;
+    margin-right: 10px;
+}
 
 .table-buttons {
     text-align: center;
