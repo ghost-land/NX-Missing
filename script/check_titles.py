@@ -121,20 +121,22 @@ def find_missing_titles(data_directory):
     # Load working.txt
     working_txt_path = os.path.join(data_directory, 'working.txt')
     with open(working_txt_path, 'r', encoding='utf-8') as txt_file:
-        working_titles = set(line.strip() for line in txt_file)
+        working_titles = set(line.split('|')[0].strip().upper() for line in txt_file)  # Normalize title_ids
     
     # Find missing titles that end with '000'
     missing_titles = {}
     missing_txt_output = []
     
     for title_id, details in titles_db.items():
-        if title_id.endswith('000') and title_id not in working_titles:
-            missing_titles[title_id] = {
+        # Normalize the title_id for comparison
+        normalized_title_id = title_id.upper()
+        if normalized_title_id.endswith('000') and normalized_title_id not in working_titles:
+            missing_titles[normalized_title_id] = {
                 "Release Date": details.get("Release Date"),
                 "Title Name": details.get("Title Name"),
                 "size": details.get("size")
             }
-            missing_txt_output.append(f"{title_id}|{details['Release Date']}|{details['Title Name']}|{details['size']}")
+            missing_txt_output.append(f"{normalized_title_id}|{details['Release Date']}|{details['Title Name']}|{details['size']}")
     
     # Write missing-titles.json
     missing_json_file_path = os.path.join(data_directory, 'missing-titles.json')
