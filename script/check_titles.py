@@ -3,7 +3,7 @@ import aiohttp
 import json
 import os
 import logging
-from concurrent.futures import ThreadPoolExecutor
+from datetime import datetime
 
 # Define log format with colors for better visibility in the console
 class CustomFormatter(logging.Formatter):
@@ -88,14 +88,27 @@ async def fetch_and_process_json(session, url):
                     title_name = details.get("name")
                     size = details.get("size")
 
+                    # Ensure release_date is a string before processing
+                    if release_date is not None:
+                        release_date = str(release_date)
+
+                    # Format release_date if it's in the format YYYYMMDD
+                    if release_date and len(release_date) == 8 and release_date.isdigit():
+                        try:
+                            formatted_date = datetime.strptime(release_date, "%Y%m%d").strftime("%Y/%m/%d")
+                        except ValueError:
+                            formatted_date = release_date  # Keep the original if parsing fails
+                    else:
+                        formatted_date = release_date
+
                     # Avoid duplicates: only add if title_id is not already in merged_data
                     if title_id and title_id not in merged_data:
                         merged_data[title_id] = {
-                            "Release Date": release_date,
+                            "Release Date": formatted_date,
                             "Title Name": title_name,
                             "size": size
                         }
-                        txt_output.append(f"{title_id}|{release_date}|{title_name}|{size}")
+                        txt_output.append(f"{title_id}|{formatted_date}|{title_name}|{size}")
                 logger.info(f"Processed data from {url}")
         else:
             logger.error(f"Failed to fetch data from {url} - Status Code: {response.status}")
