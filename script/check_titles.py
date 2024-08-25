@@ -95,7 +95,7 @@ async def fetch_and_process_json(session, url):
                     # Format release_date if it's in the format YYYYMMDD
                     if release_date and len(release_date) == 8 and release_date.isdigit():
                         try:
-                            formatted_date = datetime.strptime(release_date, "%Y%m%d").strftime("%Y/%m/%d")
+                            formatted_date = datetime.strptime(release_date, "%Y%m%d").strftime("%Y-%m-%d")
                         except ValueError:
                             formatted_date = release_date  # Keep the original if parsing fails
                     else:
