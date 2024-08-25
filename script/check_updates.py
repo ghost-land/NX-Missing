@@ -3,41 +3,76 @@ import json
 import requests
 import subprocess
 import sys
+import asyncio
+import aiohttp
+from concurrent.futures import ThreadPoolExecutor
+from bs4 import BeautifulSoup
 
 # Define the current directory and data directory
 current_directory = os.path.dirname(os.path.abspath(__file__))
 data_directory = os.path.join(current_directory, 'data')
 
-# Path for working.json
-working_file_path = os.path.join(data_directory, 'working.json')
+# Path for working.txt
+working_file_path = os.path.join(data_directory, 'working.txt')
 
-# Function to load working.json data
+# Function to load working.txt data
 def load_working_data(file_path):
     try:
+        working_data = {}
         with open(file_path, 'r', encoding='utf-8') as working_file:
-            working_data = json.load(working_file)
-        print(f"Loaded working.json with {len(working_data)} entries.")
+            for line in working_file:
+                if '|' in line:
+                    title_id, version = line.strip().split('|')
+                    version = int(version)
+                    if title_id not in working_data:
+                        working_data[title_id] = {"Versions": set(), "Game Name": title_id}
+                    working_data[title_id]["Versions"].add(version)
+        print(f"Loaded working.txt with {len(working_data)} entries.")
         return working_data
     except FileNotFoundError:
-        print(f"Error: working.json file not found at {file_path}")
+        print(f"Error: working.txt file not found at {file_path}")
         return None
-    except json.JSONDecodeError as e:
-        print(f"Error decoding working.json: {e}")
+    except Exception as e:
+        print(f"Error reading working.txt: {e}")
         return None
 
-# Check if working.json exists
+# Asynchronous function to fetch game name from tinfoil.io
+async def fetch_game_name(session, title_id):
+    url = f"https://tinfoil.io/Title/{title_id[:-3]}000"
+    try:
+        async with session.get(url) as response:
+            response.raise_for_status()
+            text = await response.text()
+            soup = BeautifulSoup(text, 'html.parser')
+            return title_id, soup.title.string.strip()  # Get the entire title as the game name
+    except Exception as e:
+        print(f"Error fetching game name for {title_id}: {e}")
+        return title_id, "UNKNOWN GAME"
+
+# Asynchronous function to manage the fetching process
+async def fetch_all_game_names(title_ids):
+    async with aiohttp.ClientSession() as session:
+        tasks = [fetch_game_name(session, title_id) for title_id in title_ids]
+        return await asyncio.gather(*tasks)
+
+# Function to fetch all game names using threading and asyncio
+def fetch_game_names(title_ids):
+    loop = asyncio.get_event_loop()
+    return loop.run_until_complete(fetch_all_game_names(title_ids))
+
+# Check if working.txt exists
 working_data = load_working_data(working_file_path)
 
-# If working.json does not exist, run list.py to generate it
+# If working.txt does not exist, run list.py to generate it
 if working_data is None:
-    print("Running list.py to generate working.json...")
+    print("Running list.py to generate working.txt...")
     try:
         # Run list.py in the same directory as the current script
         subprocess.run(['python', os.path.join(current_directory, 'list.py')], check=True)
-        # Reload working.json after running list.py
+        # Reload working.txt after running list.py
         working_data = load_working_data(working_file_path)
         if working_data is None:
-            print("Error: Unable to load working.json even after running list.py.")
+            print("Error: Unable to load working.txt even after running list.py.")
             sys.exit(1)
     except subprocess.CalledProcessError as e:
         print(f"Error running list.py: {e}")
@@ -74,6 +109,9 @@ total_entries = 0
 missing_updates_count = 0
 missing_old_updates_count = 0
 
+# Prepare a list of title_ids to fetch game names
+title_ids_to_fetch = set()
+
 # Check for missing or outdated versions
 for title_id, version_info in latest_versions_data.items():
     # Modify the title_id: change the last three digits from 000 to 800
@@ -83,26 +121,22 @@ for title_id, version_info in latest_versions_data.items():
     latest_version = max(map(int, version_info.keys()))
     latest_date = version_info[str(latest_version)]
 
-    # Find the actual key for modified_title_id in working.json
+    # Find the actual key for modified_title_id in working.txt data
     found_key = find_normalized_key(modified_title_id, working_data)
 
     if found_key:
-        working_version = int(working_data[found_key]["Version"])
-        game_name = working_data[found_key]["Game Name"]
+        working_versions = working_data[found_key]["Versions"]
+        game_name = None
 
-        # Check if the working version is outdated
-        if latest_version > working_version:
+        # Check if the latest version is missing in working.txt
+        if latest_version not in working_versions:
             missing_updates_count += 1
-            missing_updates_txt.append(f"{modified_title_id}|{game_name}|{latest_version}|{latest_date}")
-            missing_updates_json[modified_title_id] = {
-                "Game Name": game_name,
-                "Version": str(latest_version),
-                "Release Date": latest_date
-            }
+            # We need to fetch the game name
+            title_ids_to_fetch.add(found_key)
 
-            # Add any versions between the working version and the latest version
+            # Add only the missing versions that are not the latest version to missing_old_updates_json
             for version in sorted(map(int, version_info.keys())):
-                if version > working_version:
+                if version > max(working_versions) and version != latest_version:
                     missing_old_updates_count += 1
                     missing_old_updates_json.setdefault(modified_title_id, []).append({
                         "Version": str(version),
@@ -114,27 +148,56 @@ for title_id, version_info in latest_versions_data.items():
         found_key = find_normalized_key(original_title_id, working_data)
 
         if found_key:
-            game_name = working_data[found_key]["Game Name"]
+            title_ids_to_fetch.add(found_key)
         else:
-            game_name = "UNKNOWN GAME"
+            title_ids_to_fetch.add(title_id[:-3] + '000')
 
         missing_updates_count += 1
+
+        # Add only the missing versions that are not the latest version to missing_old_updates_json
+        for version, date in version_info.items():
+            if int(version) != latest_version:
+                missing_old_updates_count += 1
+                missing_old_updates_json.setdefault(modified_title_id, []).append({
+                    "Version": version,
+                    "Release Date": date
+                })
+
+    total_entries += 1
+
+# Fetch all game names asynchronously
+fetched_game_names = fetch_game_names(title_ids_to_fetch)
+
+# Map fetched game names to their title IDs
+game_name_map = {title_id: game_name for title_id, game_name in fetched_game_names}
+
+# Update missing_updates_json with fetched game names
+for title_id, version_info in latest_versions_data.items():
+    modified_title_id = title_id[:-3] + '800'
+    latest_version = max(map(int, version_info.keys()))
+    latest_date = version_info[str(latest_version)]
+
+    found_key = find_normalized_key(modified_title_id, working_data)
+
+    if found_key:
+        if latest_version not in working_data[found_key]["Versions"]:
+            game_name = game_name_map.get(found_key, "UNKNOWN GAME")
+            missing_updates_txt.append(f"{modified_title_id}|{game_name}|{latest_version}|{latest_date}")
+            missing_updates_json[modified_title_id] = {
+                "Game Name": game_name,
+                "Version": str(latest_version),
+                "Release Date": latest_date
+            }
+    else:
+        original_title_id = title_id[:-3] + '000'
+        found_key = find_normalized_key(original_title_id, working_data)
+        game_name = game_name_map.get(found_key or title_id[:-3] + '000', "UNKNOWN GAME")
         missing_updates_txt.append(f"{modified_title_id}|{game_name}|{latest_version}|{latest_date}")
         missing_updates_json[modified_title_id] = {
             "Game Name": game_name,
             "Version": str(latest_version),
             "Release Date": latest_date
         }
-
-        # Add any versions for missing_old_updates_json
-        for version, date in version_info.items():
-            missing_old_updates_count += 1
-            missing_old_updates_json.setdefault(modified_title_id, []).append({
-                "Version": version,
-                "Release Date": date
-            })
-
-    total_entries += 1
 
 # Sort missing updates by Release Date in descending order
 missing_updates_txt.sort(key=lambda x: x.split('|')[-1], reverse=True)
