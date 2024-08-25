@@ -167,18 +167,25 @@ def find_missing_titles(data_directory):
 async def main():
     await process_all_files()
 
+    # Sort the data by release date in descending order (most recent first)
+    sorted_data = dict(sorted(merged_data.items(), key=lambda x: x[1]['Release Date'] or '', reverse=True))
+
+    # Replace txt_output with the sorted data
+    txt_output = [f"{title_id}|{details['Release Date']}|{details['Title Name']}|{details['size']}" 
+                  for title_id, details in sorted_data.items()]
+
     # Define the current directory and output directory
     current_directory = os.path.dirname(os.path.abspath(__file__))
     data_directory = os.path.join(current_directory, 'data')
     os.makedirs(data_directory, exist_ok=True)
 
-    # Write the merged JSON output
+    # Write the sorted merged JSON output
     json_file_path = os.path.join(data_directory, 'titles_db.json')
     with open(json_file_path, 'w', encoding='utf-8') as json_file:
-        json.dump(merged_data, json_file, indent=4)
+        json.dump(sorted_data, json_file, indent=4)
     logger.info(f"Merged JSON data saved to {json_file_path}")
 
-    # Write the TXT output
+    # Write the sorted TXT output
     txt_file_path = os.path.join(data_directory, 'titles_db.txt')
     with open(txt_file_path, 'w', encoding='utf-8') as txt_file:
         txt_file.write('\n'.join(txt_output))

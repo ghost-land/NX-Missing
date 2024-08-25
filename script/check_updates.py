@@ -136,6 +136,11 @@ for title_id, version_info in latest_versions_data.items():
 
     total_entries += 1
 
+# Sort missing updates by Release Date in descending order
+missing_updates_txt.sort(key=lambda x: x.split('|')[-1], reverse=True)
+missing_updates_json = dict(sorted(missing_updates_json.items(), key=lambda item: item[1]['Release Date'], reverse=True))
+missing_old_updates_json = {k: sorted(v, key=lambda x: x['Release Date'], reverse=True) for k, v in missing_old_updates_json.items()}
+
 # Write missing-updates.txt file
 missing_txt_file_path = os.path.join(data_directory, 'missing-updates.txt')
 with open(missing_txt_file_path, 'w', encoding='utf-8') as txt_file:
