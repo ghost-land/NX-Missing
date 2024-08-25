@@ -5,8 +5,8 @@
     "images-size": 100,
     "data-repo-name": "ghost-land/nx-missing",
     "urls": {
-        "missing-titles": "https://raw.githubusercontent.com/ghost-land/nx-missing/main/json/missing-titles.json",
-        "missing-updates": "https://raw.githubusercontent.com/ghost-land/nx-missing/main/json/missing-updates.json",
-        "missing-dlcs": "https://raw.githubusercontent.com/ghost-land/nx-missing/main/json/missing-dlcs.json"
+        "missing-titles": "https://raw.githubusercontent.com/ghost-land/nx-missing/master/data/missing-titles.json",
+        "missing-dlcs": "https://raw.githubusercontent.com/ghost-land/nx-missing/master/data/missing-dlcs.json",
+        "missing-updates": "https://raw.githubusercontent.com/ghost-land/nx-missing/master/data/missing-updates.json"
     }
 }
