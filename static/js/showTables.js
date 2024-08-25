@@ -1,5 +1,5 @@
 function showTable(tableId) {
-    const tables = ['missingtitlesContainer', 'missingdlcsContainer', 'missingupdatesContainer']
+    const tables = ['missingtitlesContainer', 'missingdlcsContainer', 'missingupdatesContainer', 'missingoldupdatesContainer']
     
     tables.forEach(table => {
         const element = document.getElementById(table)

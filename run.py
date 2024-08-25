@@ -1,5 +1,5 @@
 from flask import Flask, request, jsonify, render_template
-from update_data import download_jsons, config
+from update_data import download_jsons, get_old_updates_lenght, config
 
 app = Flask(__name__)
 missing = download_jsons()
@@ -9,6 +9,7 @@ def home():
     return render_template(
         'index.jinja',
         missing=missing,
+        old_updates_count=get_old_updates_lenght(missing),
         images_size=config.get('images-size', 100),
         len=len
     )

@@ -15,19 +15,21 @@
     <div class="stats">
         <div>Missing Titles: {{len(missing['missing-titles'])}}</div>
         <div>Missing DLCs: {{len(missing['missing-dlcs'])}}</div>
-        <div>Missing Updates: {{len(missing['missing-updates'])}}</div>
+        <div>Missing Updates: {{len(missing['missing-updates'])}} + <span title="Old updates">{{old_updates_count}}</span></div>
     </div>
 
     <div class="table-buttons">
         <button onclick="showTable('missingtitlesContainer')">Show Missing Titles</button>
         <button onclick="showTable('missingdlcsContainer')">Show Missing DLCs</button>
         <button onclick="showTable('missingupdatesContainer')">Show Missing Updates</button>
+        <button onclick="showTable('missingoldupdatesContainer')">Show Missing Old Updates</button>
     </div>
 
     <div class="container">
         {% set tables = {
             'titles': 'Missing Titles',
             'updates': 'Missing Updates',
+            'oldupdates': 'Missing Old Updates',
             'dlcs': 'Missing DLCs',
         } %}
         {% for table_name, button_title in tables.items() %}
@@ -66,6 +68,20 @@
                             {% endfor %}
                         </tbody>
 
+                    {% elif table_name == 'oldupdates' %}
+                        <thead><tr></tr><th>Title ID</th><th>Version</th><th>Release Date</th></tr></thead>
+                        <tbody>
+                            {% for tid, title in missing['missing-old-updates'].items() %}
+                                {% for version in title %}
+                                    <tr>
+                                        <td><a href="https://tinfoil.io/Title/{{tid}}" target="_blank">{{tid}}</a></td>
+                                        <td>{{version.get('Version', '')}}</td>
+                                        <td>{{version.get('Release Date', '')}}</td>
+                                    </tr>
+                                {% endfor %}
+                            {% endfor %}
+                        </tbody>
+
                     {% elif table_name == 'dlcs' %}
                         <thead><tr></tr><th>Title ID</th><th>Publisher</th><th>Size</th><th>Release Date</th></tr></thead>
                         <tbody>
@@ -73,7 +89,7 @@
                                 <tr>
                                     <td><a href="https://tinfoil.io/Title/{{tid}}" target="_blank">{{tid}}</a></td>
                                     <td>{{title.get('Publisher', '')}}</td>
-                                    <td>{{title.get('Size', '')}}</td>
+                                    <td>{{title.get('size', '')}}</td>
                                     <td>{{title.get('Release Date', '')}}</td>
                                 </tr>
                             {% endfor %}

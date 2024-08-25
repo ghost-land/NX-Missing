@@ -22,6 +22,9 @@ def download_jsons():
     }
     
     for key, url in config['urls'].items():
+        if key not in last_updated:
+            last_updated[key] = {}
+        
         filepath = os.path.join(data_dir, f"{key}.json")  # Define filepath here
         response = requests.get(url)
         if response.status_code == 200:
@@ -42,6 +45,7 @@ def download_jsons():
                 last_updated[key]['success'] = False
         else:
             print(f"Failed to download {key}: HTTP status {response.status_code}")
+            
             last_updated[key]['timestamp'] = datetime.now().isoformat()
             last_updated[key]['success'] = False
             
@@ -54,3 +58,7 @@ def download_jsons():
         json.dump(last_updated, f, ensure_ascii=False, indent=2)
     
     return all_json_data
+
+
+def get_old_updates_lenght(missing):
+    return sum(len(versions) for versions in missing['missing-old-updates'].values())

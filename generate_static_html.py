@@ -1,5 +1,5 @@
 from flask import Flask, render_template, url_for
-from update_data import download_jsons, config
+from update_data import download_jsons, get_old_updates_lenght, config
 import os
 import shutil
 
@@ -23,6 +23,7 @@ def render_static_html():
         rendered = render_template(
             'index.jinja',
             missing=missing,
+            old_updates_count=get_old_updates_lenght(missing),
             images_size=config.get('images-size', 100),
             len=len
         )
