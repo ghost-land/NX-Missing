@@ -83,12 +83,12 @@
                         </tbody>
 
                     {% elif table_name == 'dlcs' %}
-                        <thead><tr></tr><th>Title ID</th><th>Publisher</th><th>Size</th><th>Release Date</th></tr></thead>
+                        <thead><tr></tr><th>Title ID</th>{#<th>Publisher</th>#}<th>Size</th><th>Release Date</th></tr></thead>
                         <tbody>
                             {% for tid, title in missing['missing-dlcs'].items() %}
                                 <tr>
                                     <td><a href="https://tinfoil.io/Title/{{tid}}" target="_blank">{{tid}}</a></td>
-                                    <td>{{title.get('Publisher', '')}}</td>
+                                    {# <td>{{title.get('Publisher', '')}}</td> #}
                                     <td>{{title.get('size', '')}}</td>
                                     <td>{{title.get('Release Date', '')}}</td>
                                 </tr>
