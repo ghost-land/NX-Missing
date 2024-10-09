@@ -38,13 +38,13 @@ def load_working_data(file_path):
 
 # Asynchronous function to fetch game name from tinfoil.io
 async def fetch_game_name(session, title_id):
-    url = f"https://tinfoil.io/Title/{title_id[:-3]}000"
+    url = f"https://api.nlib.cc/nx/{title_id[:-3]}000"
     try:
         async with session.get(url) as response:
             response.raise_for_status()
-            text = await response.text()
-            soup = BeautifulSoup(text, 'html.parser')
-            return title_id, soup.title.string.strip()  # Get the entire title as the game name
+            data = await response.json()
+            game_name = data.get("name", "UNKNOWN GAME")
+            return title_id, game_name
     except Exception as e:
         print(f"Error fetching game name for {title_id}: {e}")
         return title_id, "UNKNOWN GAME"
