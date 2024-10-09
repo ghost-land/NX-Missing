@@ -26,13 +26,12 @@ def decrement_13th_character(tid):
 
 # Asynchronous function to fetch game name from tinfoil.io
 async def fetch_game_name(session, base_tid):
-    url = f"https://tinfoil.io/Title/{base_tid}"
+    url = f"https://api.nlib.cc/nx/{base_tid}"
     try:
         async with session.get(url) as response:
             response.raise_for_status()
-            text = await response.text()
-            soup = BeautifulSoup(text, 'html.parser')
-            base_game_name = soup.title.string.strip() if soup.title else 'Unknown Base Game'
+            data = await response.json()
+            base_game_name = data.get("name", "Unknown Base Game")
             logger.debug(f"Fetched base game name for {base_tid}: {base_game_name}")
             return base_tid, base_game_name
     except Exception as e:
