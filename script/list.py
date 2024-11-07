@@ -8,8 +8,9 @@ from concurrent.futures import ThreadPoolExecutor
 # Folder containing the files
 folder_path = r''
 
-# Regular expression to extract information from filenames
-pattern = re.compile(r'(?P<game_name>.+?) \[(?P<titleid>[0-9A-Fa-f]+)\]\[v(?P<version>\d+)\]\.(?P<type>\w+)')
+# Updated regex pattern to match any extra content in brackets or parentheses,
+# capturing only the last two brackets for titleid and version.
+pattern = re.compile(r'^(?P<game_name>.+?) (?:[\[\(].*?[\]\)])*\[(?P<titleid>[0-9A-Fa-f]+)\]\[v(?P<version>\d+)\]\.(?P<type>nsp|nsz|xci|xcz)$')
 
 # Initialize data structures for txt and json
 txt_content = []
@@ -57,7 +58,9 @@ async def walk_and_process():
         for root, dirs, files in os.walk(folder_path):
             for filename in files:
                 file_path = os.path.join(root, filename)
-                tasks.append(loop.run_in_executor(executor, process_file, file_path, filename))
+                # Only process files that match the specified pattern
+                if pattern.match(filename):
+                    tasks.append(loop.run_in_executor(executor, process_file, file_path, filename))
         await asyncio.gather(*tasks)
 
 # Main function to run the script
