@@ -3,6 +3,7 @@ import subprocess
 import sys
 import shutil
 import json
+from datetime import datetime
 
 # Define the current directory and data directory
 current_directory = os.path.dirname(os.path.abspath(__file__))
@@ -77,18 +78,24 @@ after_update_count = count_entries_in_json(os.path.join(git_data_directory, 'mis
 after_titles_count = count_entries_in_json(os.path.join(git_data_directory, 'missing-titles.json'))
 after_dlcs_count = count_entries_in_json(os.path.join(git_data_directory, 'missing-dlcs.json'))
 
-# Calculate the difference in counts
-update_diff = after_update_count - before_update_count
-titles_diff = after_titles_count - before_titles_count
-dlcs_diff = after_dlcs_count - before_dlcs_count
-
-# Prepare commit message with summary
+# Prepare commit message with a simplified summary
 commit_message = (
-    f"Update data files\n\n"
-    f"missing-updates.json: {update_diff} changes\n"
-    f"missing-titles.json: {titles_diff} changes\n"
-    f"missing-dlcs.json: {dlcs_diff} changes\n"
+    f"Update data files on {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n"
+    f"Current content count:\n"
+    f"missing-updates.json: {after_update_count} entries\n"
+    f"missing-titles.json: {after_titles_count} entries\n"
+    f"missing-dlcs.json: {after_dlcs_count} entries\n"
 )
+
+# Function to set Git username and email
+def set_git_config():
+    try:
+        subprocess.run(['git', '-C', git_repo_path, 'config', 'user.name', ''], check=True)
+        subprocess.run(['git', '-C', git_repo_path, 'config', 'user.email', ''], check=True)
+        print("\nGit username and email configured.")
+    except subprocess.CalledProcessError as e:
+        print(f"Error setting Git configuration: {e.stderr}")
+        sys.exit(1)
 
 # Function to check if there are changes in the Git repository
 def check_for_changes():
@@ -109,6 +116,8 @@ def check_for_changes():
 # Function to push changes to GitHub
 def push_changes():
     try:
+        # Set Git username and email
+        set_git_config()
         # Add modified files to the git staging area
         subprocess.run(['git', '-C', git_repo_path, 'add', 'data'], check=True)
         # Commit the changes with a detailed message
