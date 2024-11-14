@@ -77,7 +77,7 @@ async def main():
     current_directory = os.path.dirname(os.path.abspath(__file__))
 
     # Create the 'data' directory if it doesn't exist
-    data_directory = os.path.join(current_directory, 'data')
+    data_directory = os.path.join(current_directory, './../data')
     os.makedirs(data_directory, exist_ok=True)
 
     # Write working.txt file

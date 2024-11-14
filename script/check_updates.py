@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup
 
 # Define the current directory and data directory
 current_directory = os.path.dirname(os.path.abspath(__file__))
-data_directory = os.path.join(current_directory, 'data')
+data_directory = os.path.join(current_directory, './../data')
 
 # Path for working.txt
 working_file_path = os.path.join(data_directory, 'working.txt')

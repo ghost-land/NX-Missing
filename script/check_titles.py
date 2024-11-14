@@ -176,7 +176,7 @@ async def main():
 
     # Define the current directory and output directory
     current_directory = os.path.dirname(os.path.abspath(__file__))
-    data_directory = os.path.join(current_directory, 'data')
+    data_directory = os.path.join(current_directory, './../data')
     os.makedirs(data_directory, exist_ok=True)
 
     # Write the sorted merged JSON output
