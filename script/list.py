@@ -4,12 +4,17 @@ import json
 import threading
 import asyncio
 from concurrent.futures import ThreadPoolExecutor
+from dotenv import load_dotenv
 
-# Folder containing the files
-folder_path = r''
+# Charger les variables d'environnement
+load_dotenv()
 
-# Updated regex pattern to match any extra content in brackets or parentheses,
-# capturing only the last two brackets for titleid and version.
+# Récupérer le chemin du dossier depuis le .env
+folder_path = os.getenv('FOLDER_PATH')
+if not folder_path:
+    raise ValueError("FOLDER_PATH is not set in the .env file.")
+
+# Regex pattern
 pattern = re.compile(r'^(?P<game_name>.+?) (?:[\[\(].*?[\]\)])*\[(?P<titleid>[0-9A-Fa-f]+)\]\[v(?P<version>\d+)\]\.(?P<type>nsp|nsz|xci|xcz)$')
 
 # Initialize data structures for txt and json
