@@ -108,7 +108,7 @@ def push_changes_ssh():
         # Commit the changes with a detailed message
         subprocess.run(['git', '-C', git_repo_path, 'commit', '-m', commit_message], check=True)
         # Push the changes to the remote repository using SSH
-        subprocess.run(['git', '-C', git_repo_path, 'push', 'origin', 'main'], check=True)
+        subprocess.run(['git', '-C', git_repo_path, 'push', 'origin', 'master'], check=True)
         print("\nChanges pushed to GitHub successfully.")
     except subprocess.CalledProcessError as e:
         print(f"Error pushing changes to GitHub: {e.stderr}")
