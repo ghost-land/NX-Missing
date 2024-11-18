@@ -7,8 +7,8 @@ import shutil
 # URL of the working.txt file on GitHub
 url = "https://raw.githubusercontent.com/ghost-land/NX-Missing/master/data/working.txt"
 
-# Root folder containing the .nsp files
-nsp_directory = r"./check_missing"
+# Root folder containing the files
+file_directory = r"./check_missing"
 
 # Folders to store already in Ghost eShop and missing files
 already_in_ghosteshop_dir = r"./already_in_ghosteshop"
@@ -36,10 +36,13 @@ def extract_tid_version(file_name):
 already_in_ghosteshop = []
 missing_files = []
 
-# Recursively search for .nsp files in the specified directory and subdirectories
-for root, dirs, files in os.walk(nsp_directory):
+# File extensions to check
+valid_extensions = (".nsp", ".nsz", ".xci", ".xcz")
+
+# Recursively search for files in the specified directory and subdirectories
+for root, dirs, files in os.walk(file_directory):
     for file_name in files:
-        if file_name.endswith(".nsp"):	# Check if the file is an .nsp file
+        if file_name.endswith(valid_extensions):  # Check if the file has a valid extension
             tid, version = extract_tid_version(file_name)
             if tid and version:
                 file_path = os.path.join(root, file_name)
