@@ -7,7 +7,7 @@ import fs from 'fs-extra';
 const copyDataDirPlugin = () => ({
   name: 'copy-data-dir',
   closeBundle: async () => {
-    await fs.copy('data', 'dist/data');
+    await fs.copy('data', 'dist/');
   }
 });
 
