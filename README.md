@@ -2,7 +2,7 @@
 
 A modern web application for tracking missing Nintendo Switch content, including games, DLCs, and updates.
 
-![NX Missing Demo Video]()
+https://github.com/user-attachments/assets/705ade58-2615-4607-b432-9a9c3c2362ab
 
 ## Features
 
