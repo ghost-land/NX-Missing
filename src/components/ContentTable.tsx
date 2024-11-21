@@ -1,5 +1,5 @@
 import React, { useState, useMemo } from 'react';
-import { Search, ArrowUpDown } from 'lucide-react';
+import { Search, ArrowUpDown, ExternalLink } from 'lucide-react';
 import { TableType } from '../types';
 import { formatDate, formatSize, getIconUrl } from '../utils/formatters';
 
@@ -100,15 +100,26 @@ export function ContentTable({ type, data, searchQuery, onSearchChange }: Conten
 
   return (
     <div className="space-y-4">
-      <div className="relative">
-        <input
-          type="text"
-          value={searchQuery}
-          onChange={(e) => onSearchChange(e.target.value)}
-          placeholder="Search..."
-          className="w-full pl-10 pr-4 py-2 border border-gray-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-700 text-gray-900 dark:text-gray-100 placeholder-gray-500 dark:placeholder-gray-400 focus:ring-2 focus:ring-blue-500 dark:focus:ring-blue-400 focus:border-transparent"
-        />
-        <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400 dark:text-gray-500 h-5 w-5" />
+      <div className="flex flex-col sm:flex-row gap-4 items-stretch sm:items-center">
+        <div className="relative flex-grow">
+          <input
+            type="text"
+            value={searchQuery}
+            onChange={(e) => onSearchChange(e.target.value)}
+            placeholder="Search..."
+            className="w-full pl-10 pr-4 py-2 border border-gray-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-700 text-gray-900 dark:text-gray-100 placeholder-gray-500 dark:placeholder-gray-400 focus:ring-2 focus:ring-blue-500 dark:focus:ring-blue-400 focus:border-transparent"
+          />
+          <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400 dark:text-gray-500 h-5 w-5" />
+        </div>
+        <a
+          href="https://nx-working.ghostland.at"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-flex items-center justify-center px-4 py-2 border border-transparent rounded-lg shadow-sm text-sm font-medium text-white bg-blue-600 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 transition-colors"
+        >
+          <ExternalLink className="h-4 w-4 mr-2" />
+          View Working Content
+        </a>
       </div>
 
       <div className="overflow-x-auto rounded-lg border border-gray-200 dark:border-gray-700">
@@ -119,7 +130,7 @@ export function ContentTable({ type, data, searchQuery, onSearchChange }: Conten
                 <th
                   key={index}
                   onClick={() => column.sortable && handleSort(column.key)}
-                  className={`px-6 py-3 text-left text-xs font-medium text-gray-500 dark:text-gray-400 uppercase tracking-wider ${
+                  className={`px-3 sm:px-6 py-3 text-left text-xs font-medium text-gray-500 dark:text-gray-400 uppercase tracking-wider ${
                     column.sortable ? 'cursor-pointer hover:bg-gray-100 dark:hover:bg-gray-700' : ''
                   }`}
                 >
@@ -138,24 +149,29 @@ export function ContentTable({ type, data, searchQuery, onSearchChange }: Conten
           <tbody className="bg-white dark:bg-gray-800 divide-y divide-gray-200 dark:divide-gray-700">
             {paginatedData.map((item: any, index: number) => (
               <tr key={index} className="hover:bg-gray-50 dark:hover:bg-gray-700/50 transition-colors">
-                <td className="px-6 py-4 whitespace-nowrap">
+                <td className="px-3 sm:px-6 py-4 whitespace-nowrap">
                   <img 
                     src={getIconUrl(item.id)}
                     alt="Game Icon"
-                    className="w-16 h-16 rounded-lg shadow-md hover:shadow-lg transition-shadow"
+                    className="w-12 h-12 sm:w-16 sm:h-16 rounded-lg shadow-md hover:shadow-lg transition-shadow"
                     loading="lazy"
                   />
                 </td>
-                <td className="px-6 py-4 whitespace-nowrap text-sm font-mono text-gray-900 dark:text-gray-100">
+                <td className="px-3 sm:px-6 py-4 whitespace-nowrap text-xs sm:text-sm font-mono text-gray-900 dark:text-gray-100">
                   {item.id}
                 </td>
                 {columns.slice(2).map((column) => (
-                  <td key={column.key} className="px-6 py-4 whitespace-nowrap text-sm text-gray-900 dark:text-gray-100">
-                    {column.key === 'Release Date'
-                      ? formatDate(item[column.key])
-                      : column.key === 'size'
-                        ? formatSize(item[column.key])
-                        : item[column.key]}
+                  <td 
+                    key={column.key} 
+                    className="px-3 sm:px-6 py-4 text-xs sm:text-sm text-gray-900 dark:text-gray-100"
+                  >
+                    <div className="max-w-[150px] sm:max-w-[200px] md:max-w-[300px] truncate" title={item[column.key]}>
+                      {column.key === 'Release Date'
+                        ? formatDate(item[column.key])
+                        : column.key === 'size'
+                          ? formatSize(item[column.key])
+                          : item[column.key]}
+                    </div>
                   </td>
                 ))}
               </tr>
@@ -164,15 +180,15 @@ export function ContentTable({ type, data, searchQuery, onSearchChange }: Conten
         </table>
       </div>
 
-      <div className="flex items-center justify-between px-4 py-3 bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg">
-        <div className="flex items-center">
+      <div className="flex flex-col sm:flex-row items-center justify-between gap-4 px-4 py-3 bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg">
+        <div className="flex items-center w-full sm:w-auto">
           <select
             value={itemsPerPage}
             onChange={(e) => {
               setItemsPerPage(Number(e.target.value));
               setCurrentPage(1);
             }}
-            className="border border-gray-300 dark:border-gray-600 rounded-md px-2 py-1 bg-white dark:bg-gray-700 text-gray-900 dark:text-gray-100"
+            className="w-full sm:w-auto border border-gray-300 dark:border-gray-600 rounded-md px-2 py-1 bg-white dark:bg-gray-700 text-gray-900 dark:text-gray-100"
           >
             <option value={10}>10 per page</option>
             <option value={20}>20 per page</option>
