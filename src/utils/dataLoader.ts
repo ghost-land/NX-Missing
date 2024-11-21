@@ -1,25 +1,49 @@
 import { ContentData } from '../types';
 
+const getDataUrl = (filename: string) => {
+  return `/data/${filename}`;
+};
+
 export const loadData = async (): Promise<ContentData> => {
   try {
     const [titlesResponse, dlcsResponse, updatesResponse, oldUpdatesResponse] = await Promise.all([
-      fetch('/missing-titles.txt'),
-      fetch('/missing-dlcs.txt'),
-      fetch('/missing-updates.txt'),
-      fetch('/missing-old-updates.json')
+      fetch(getDataUrl('missing-titles.txt')),
+      fetch(getDataUrl('missing-dlcs.txt')),
+      fetch(getDataUrl('missing-updates.txt')),
+      fetch(getDataUrl('missing-old-updates.json'))
     ]);
 
-    if (!titlesResponse.ok || !dlcsResponse.ok || !updatesResponse.ok || !oldUpdatesResponse.ok) {
-      throw new Error('Failed to load one or more data files');
-    }
+    const checkResponse = async (response: Response, filename: string) => {
+      if (!response.ok) {
+        throw new Error(`Failed to load ${filename}: ${response.status} ${response.statusText}`);
+      }
+      return response;
+    };
 
-    const [titlesText, dlcsText, updatesText] = await Promise.all([
+    await Promise.all([
+      checkResponse(titlesResponse, 'missing-titles.txt'),
+      checkResponse(dlcsResponse, 'missing-dlcs.txt'),
+      checkResponse(updatesResponse, 'missing-updates.txt'),
+      checkResponse(oldUpdatesResponse, 'missing-old-updates.json')
+    ]);
+
+    const [titlesText, dlcsText, updatesText, oldUpdatesJson] = await Promise.all([
       titlesResponse.text(),
       dlcsResponse.text(),
-      updatesResponse.text()
+      updatesResponse.text(),
+      oldUpdatesResponse.text()
     ]);
 
-    const oldUpdates = await oldUpdatesResponse.json();
+    let oldUpdates;
+    try {
+      oldUpdates = JSON.parse(oldUpdatesJson);
+    } catch (e) {
+      throw new Error('Failed to parse missing-old-updates.json: Invalid JSON format');
+    }
+
+    if (!titlesText?.trim() || !dlcsText?.trim() || !updatesText?.trim() || !oldUpdates) {
+      throw new Error('One or more data files are empty or invalid');
+    }
 
     return {
       'missing-titles': parseTxtFile(titlesText, 'titles'),
@@ -29,11 +53,15 @@ export const loadData = async (): Promise<ContentData> => {
     };
   } catch (error) {
     console.error('Error loading data:', error);
-    throw error;
+    throw error instanceof Error ? error : new Error('Failed to load data');
   }
 };
 
 const parseTxtFile = (content: string, type: 'titles' | 'dlcs' | 'updates') => {
+  if (!content?.trim()) {
+    return {};
+  }
+
   const lines = content.trim().split('\n').filter(line => line.trim());
   const result: Record<string, any> = {};
 
@@ -46,7 +74,7 @@ const parseTxtFile = (content: string, type: 'titles' | 'dlcs' | 'updates') => {
           const [id, date, name, size] = parts;
           result[id] = {
             'Release Date': date,
-            'Title Name': name.length > 50 ? name.substring(0, 47) + '...' : name,
+            'Title Name': name,
             size: parseInt(size, 10) || 0
           };
         }
@@ -57,8 +85,8 @@ const parseTxtFile = (content: string, type: 'titles' | 'dlcs' | 'updates') => {
           const [id, date, name, baseGame, size] = parts;
           result[id] = {
             'Release Date': date,
-            dlc_name: name.length > 50 ? name.substring(0, 47) + '...' : name,
-            base_game: baseGame.length > 50 ? baseGame.substring(0, 47) + '...' : baseGame,
+            dlc_name: name,
+            base_game: baseGame,
             size: parseInt(size, 10) || 0
           };
         }
@@ -68,7 +96,7 @@ const parseTxtFile = (content: string, type: 'titles' | 'dlcs' | 'updates') => {
         if (parts.length === 4) {
           const [id, name, version, date] = parts;
           result[id] = {
-            'Game Name': name.length > 50 ? name.substring(0, 47) + '...' : name,
+            'Game Name': name,
             Version: version,
             'Release Date': date
           };

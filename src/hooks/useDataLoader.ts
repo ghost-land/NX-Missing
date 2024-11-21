@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import { ContentData } from '../types';
 import { loadData } from '../utils/dataLoader';
 
-export function useDataLoader() {
+export const useDataLoader = () => {
   const [data, setData] = useState<ContentData | null>(null);
   const [isLoading, setIsLoading] = useState(true);
   const [error, setError] = useState<Error | null>(null);
@@ -26,4 +26,4 @@ export function useDataLoader() {
   }, []);
 
   return { data, isLoading, error };
-}
+};

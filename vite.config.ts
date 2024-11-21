@@ -7,7 +7,10 @@ import fs from 'fs-extra';
 const copyDataDirPlugin = () => ({
   name: 'copy-data-dir',
   closeBundle: async () => {
-    await fs.copy('data', 'dist/');
+    // Ensure the data directory exists in dist
+    await fs.ensureDir('dist/data');
+    // Copy data files
+    await fs.copy('data', 'dist/data');
   }
 });
 
