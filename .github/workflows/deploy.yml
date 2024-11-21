@@ -17,6 +17,9 @@ jobs:
         with:
           node-version: 22
 
+      - name: Configure npm to ignore scripts
+        run: npm config set ignore-scripts true
+
       - name: Install dependencies and build
         run: |
           npm ci
