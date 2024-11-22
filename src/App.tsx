@@ -4,6 +4,7 @@ import { ContentTable } from './components/ContentTable';
 import { TabButton } from './components/TabButton';
 import { TableType } from './types';
 import { useDataLoader } from './hooks/useDataLoader';
+import pkg from '../package.json';
 
 function App() {
   const [activeTab, setActiveTab] = useState<TableType>('missing-titles');
@@ -70,9 +71,14 @@ function App() {
           <div className="flex items-center justify-between mb-6">
             <div className="flex items-center space-x-3">
               <Database className="h-8 w-8 text-blue-600 dark:text-blue-400" />
-              <h1 className="text-2xl font-bold text-gray-900 dark:text-white">
-                NX Missing Content Tracker
-              </h1>
+              <div>
+                <h1 className="text-2xl font-bold text-gray-900 dark:text-white">
+                  NX Missing Content Tracker
+                </h1>
+                <p className="text-sm text-gray-500 dark:text-gray-400">
+                  Version {pkg.version}
+                </p>
+              </div>
             </div>
             <div className="flex items-center gap-4">
               <button

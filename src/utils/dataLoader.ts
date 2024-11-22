@@ -1,16 +1,37 @@
 import { ContentData } from '../types';
 
 const getDataUrl = (filename: string) => {
-  return `/data/${filename}`;
+  // Add timestamp to prevent caching
+  return `/data/${filename}?_=${Date.now()}`;
 };
 
 export const loadData = async (): Promise<ContentData> => {
   try {
     const [titlesResponse, dlcsResponse, updatesResponse, oldUpdatesResponse] = await Promise.all([
-      fetch(getDataUrl('missing-titles.txt')),
-      fetch(getDataUrl('missing-dlcs.txt')),
-      fetch(getDataUrl('missing-updates.txt')),
-      fetch(getDataUrl('missing-old-updates.json'))
+      fetch(getDataUrl('missing-titles.txt'), {
+        headers: {
+          'Cache-Control': 'no-cache, no-store, must-revalidate',
+          'Pragma': 'no-cache'
+        }
+      }),
+      fetch(getDataUrl('missing-dlcs.txt'), {
+        headers: {
+          'Cache-Control': 'no-cache, no-store, must-revalidate',
+          'Pragma': 'no-cache'
+        }
+      }),
+      fetch(getDataUrl('missing-updates.txt'), {
+        headers: {
+          'Cache-Control': 'no-cache, no-store, must-revalidate',
+          'Pragma': 'no-cache'
+        }
+      }),
+      fetch(getDataUrl('missing-old-updates.json'), {
+        headers: {
+          'Cache-Control': 'no-cache, no-store, must-revalidate',
+          'Pragma': 'no-cache'
+        }
+      })
     ]);
 
     const checkResponse = async (response: Response, filename: string) => {
