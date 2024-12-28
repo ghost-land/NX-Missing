@@ -1359,6 +1359,11 @@
         "Title Name": "EGGCONSOLE RIGLAS PC-8801",
         "size": 39845888
     },
+    "0100BD4021216000": {
+        "Release Date": "2024-12-05",
+        "Title Name": "All-Star Supermarket Simulator: Vinyl Vibes",
+        "size": 751828992
+    },
     "010048F01F286000": {
         "Release Date": "2024-12-05",
         "Title Name": "Hentai Girls: College Romance",
@@ -1373,11 +1378,6 @@
         "Release Date": "2024-12-05",
         "Title Name": "UNDER DEFEAT",
         "size": 364904448
-    },
-    "0100BD4021216000": {
-        "Release Date": "2024-12-05",
-        "Title Name": "\u5168\u660e\u661f\u8d85\u5e02\u6a21\u64ec\u5668 - All-Star Supermarket Simulator: Vinyl Vibes",
-        "size": 751828992
     },
     "010074B0213AC000": {
         "Release Date": "2024-12-05",
@@ -1394,20 +1394,20 @@
         "Title Name": "Hentai Waifu 3",
         "size": 265289728
     },
-    "01003E7021414000": {
-        "Release Date": "2024-12-05",
-        "Title Name": "\uace0\uc591\uc774 \uc218\uc758\ud559: \ub0b4 \uadfc\ucc98 \uc751\uae09 \ub3d9\ubb3c \ubcd1\uc6d0 (Cat Veterinary: Emergency Hospital Close to Me)",
-        "size": 218103808
-    },
-    "0100A1C021420000": {
-        "Release Date": "2024-12-05",
-        "Title Name": "\uac15\uc544\uc9c0 \uc218\uc758\ud559: \uadfc\ucc98\uc758 \ud6c8\ub828 \ubcd1\uc6d0 (Dog Veterinary: Training Hospital Near Me)",
-        "size": 222298112
-    },
     "010009F01F072000": {
         "Release Date": "2024-12-05",
         "Title Name": "Robo Rescue",
         "size": 61865984
+    },
+    "01003E7021414000": {
+        "Release Date": "2024-12-05",
+        "Title Name": "Cat Veterinary: Emergency Hospital Close to Me",
+        "size": 218103808
+    },
+    "0100A1C021420000": {
+        "Release Date": "2024-12-05",
+        "Title Name": "Dog Veterinary: Training Hospital Near Me",
+        "size": 222298112
     },
     "01006AD01E7C0000": {
         "Release Date": "2024-12-05",
@@ -2184,11 +2184,6 @@
         "Title Name": "MotoX Madness 2025",
         "size": 1096810496
     },
-    "01000BE014F78000": {
-        "Release Date": "2024-11-14",
-        "Title Name": "Aerofly FS Flight Simulator",
-        "size": 5513412608
-    },
     "0100B920202CC000": {
         "Release Date": "2024-11-14",
         "Title Name": "\uc22b\uc790\ub97c \ucc3e\uc544\ub77c!",
@@ -2213,6 +2208,11 @@
         "Release Date": "2024-11-13",
         "Title Name": "BEYBLADE X XONE",
         "size": 2733637632
+    },
+    "01000BE014F78000": {
+        "Release Date": "2024-11-11",
+        "Title Name": "Aerofly FS Flight Simulator",
+        "size": 5513412608
     },
     "01009F401F6A0000": {
         "Release Date": "2024-11-08",
@@ -2776,8 +2776,13 @@
     },
     "01000AE020D6A000": {
         "Release Date": "2024-10-24",
-        "Title Name": "Interior design: Transform your space with style",
+        "Title Name": "Decoraci\u00f3n de interiores: Transforma tu espacio con estilo",
         "size": 73400320
+    },
+    "0100BDC020A56000": {
+        "Release Date": "2024-10-24",
+        "Title Name": "Inside The Crystal Mountain",
+        "size": 87031808
     },
     "01000D702071C000": {
         "Release Date": "2024-10-24",
@@ -2894,6 +2899,11 @@
         "Title Name": "EGGCONSOLE UNDEADLINE MSX2",
         "size": 46137344
     },
+    "010057901FD82000": {
+        "Release Date": "2024-10-17",
+        "Title Name": "Hentai Girls: Autumn Crush",
+        "size": 344981504
+    },
     "010063D01FEB0000": {
         "Release Date": "2024-10-17",
         "Title Name": "\uc560\ub2c8\uba54\uc774\uc158 \uc18c\ub144 \ub370\uc774\ud305: \uc139\uc2dc\ud55c \ud560\ub85c\uc708 \uc758\uc0c1 (Anime Boys Dating: Sexy Halloween Costumes)",
@@ -2903,11 +2913,6 @@
         "Release Date": "2024-10-17",
         "Title Name": "\uc560\ub2c8\uba54 \uc18c\ub140 \ub370\uc774\ud2b8: \uc139\uc2dc\ud55c \ud560\ub85c\uc708 \ucf54\uc2a4\ud2ac (Anime Girls Dating: Sexy Halloween Costumes)",
         "size": 287309824
-    },
-    "010057901FD82000": {
-        "Release Date": "2024-10-17",
-        "Title Name": "Hentai Girls: Autumn Crush",
-        "size": 344981504
     },
     "0100E1801DC70000": {
         "Release Date": "2024-10-17",
@@ -3024,11 +3029,6 @@
         "Title Name": "Thronefall",
         "size": 830472192
     },
-    "0100BDC020A56000": {
-        "Release Date": "2024-10-10",
-        "Title Name": "Inside The Crystal Mountain",
-        "size": 87031808
-    },
     "0100D9501FE02000": {
         "Release Date": "2024-10-10",
         "Title Name": "Faster Than Bolt",
@@ -3082,7 +3082,7 @@
     "0100727018A10000": {
         "Release Date": "2024-10-04",
         "Title Name": "SWORD ART ONLINE Fractured Daydream",
-        "size": 14384365568
+        "size": 13408141312
     },
     "01009F001FC56000": {
         "Release Date": "2024-10-04",
@@ -3216,7 +3216,7 @@
     },
     "0100A2E01BEF0000": {
         "Release Date": "2024-10-01",
-        "Title Name": "Perlas de la Atl\u00e1ntida: La Cala",
+        "Title Name": "Pearls of Atlantis: The Cove",
         "size": 942669824
     },
     "01004A1020B2E000": {
@@ -3339,15 +3339,15 @@
         "Title Name": "\u5b9d\u53ef\u68a6 \u8d70\u5427\uff01\u4f0a\u5e03",
         "size": 4473225216
     },
-    "0100DF201F992000": {
-        "Release Date": "2024-09-26",
-        "Title Name": "\ube44\uce58 \ubcf4\uc774\uc988: \ud0c0\ub85c \ud56b \uce74\ub4dc (Beach Boys: Tarot Hot Cards)",
-        "size": 190840832
-    },
     "010032E020562000": {
         "Release Date": "2024-09-26",
         "Title Name": "Anime Girls: Beautiful Bride",
         "size": 284164096
+    },
+    "0100DF201F992000": {
+        "Release Date": "2024-09-26",
+        "Title Name": "\ube44\uce58 \ubcf4\uc774\uc988: \ud0c0\ub85c \ud56b \uce74\ub4dc (Beach Boys: Tarot Hot Cards)",
+        "size": 190840832
     },
     "0100EAD01091A000": {
         "Release Date": "2024-09-26",
@@ -3459,6 +3459,11 @@
         "Title Name": "I Got Isekai\u2019d into a Shmup",
         "size": 338690048
     },
+    "010010001DCA4000": {
+        "Release Date": "2024-09-19",
+        "Title Name": "Coloring Pixels: Collection 4",
+        "size": 356515840
+    },
     "0100BDB01ECA2000": {
         "Release Date": "2024-09-19",
         "Title Name": "Pixel Game Maker Series NYANxTECH",
@@ -3483,11 +3488,6 @@
         "Release Date": "2024-09-19",
         "Title Name": "Spot The Difference Food & Drink",
         "size": 154140672
-    },
-    "010010001DCA4000": {
-        "Release Date": "2024-09-19",
-        "Title Name": "\u5f69\u8272\u9b54\u65b9\uff1a\u7cfb\u5217 \u00b74",
-        "size": 356515840
     },
     "0100B0C01D9F4000": {
         "Release Date": "2024-09-19",
@@ -3632,7 +3632,7 @@
     "01008F401E224000": {
         "Release Date": "2024-09-12",
         "Title Name": "MARVEL vs. CAPCOM Fighting Collection: Arcade Classics",
-        "size": 3362783232
+        "size": 3403677696
     },
     "01009820151B6000": {
         "Release Date": "2024-09-12",
@@ -3914,11 +3914,6 @@
         "Title Name": "\u54e5\u91cc\uff1a\u53ef\u611b\u7684\u5927\u5c60\u6bba (Gori: Cuddly Carnage)",
         "size": 5630853120
     },
-    "0100F2C01E6CA000": {
-        "Release Date": "2024-08-29",
-        "Title Name": "Wer wei\u00df denn sowas? - Das 3. Spiel",
-        "size": 4548722688
-    },
     "0100DCA01CDC4000": {
         "Release Date": "2024-08-29",
         "Title Name": "\u30b4\u30fc\u30d8\u30eb\u30b4\u30fc \u3064\u304d\u304a\u3068\u3057\u3066\u3053",
@@ -3943,6 +3938,11 @@
         "Release Date": "2024-08-29",
         "Title Name": "\u795e\u96a0\u3057\u30df\u30b9\u30c6\u30ea\u30fc\u30fc\u884c\u65b9\u4e0d\u660e\u63a2\u5075\uff01\u672a\u89e3\u6c7a\u4e8b\u4ef6\u8b0e\u89e3\u304d\u63a8\u7406\u30b5\u30b9\u30da\u30f3\u30b9\u30b2\u30fc\u30e0\u30fc",
         "size": 261095424
+    },
+    "0100F2C01E6CA000": {
+        "Release Date": "2024-08-29",
+        "Title Name": "Wer wei\u00df denn sowas? - Das 3. Spiel",
+        "size": 4548722688
     },
     "010088A01FE5C000": {
         "Release Date": "2024-08-28",
@@ -4727,7 +4727,7 @@
     "0100C3501FE4E000": {
         "Release Date": "2024-07-25",
         "Title Name": "Sketch Personality Test",
-        "size": 317718528
+        "size": 379584512
     },
     "01008D201CBE4000": {
         "Release Date": "2024-07-25",
@@ -7547,7 +7547,7 @@
     "0100CC701A0BC000": {
         "Release Date": "2023-11-03",
         "Title Name": "Fashion Dreamer",
-        "size": 6650068992
+        "size": 7450132480
     },
     "01000B301BF48000": {
         "Release Date": "2023-11-03",
@@ -11007,7 +11007,7 @@
     "0100645012C20000": {
         "Release Date": "2020-11-24",
         "Title Name": "Cobra Kai: The Karate Kid Saga Continues",
-        "size": 5270142976
+        "size": 5269094400
     },
     "0100B1500EF32000": {
         "Release Date": "2020-11-20",
@@ -11664,25 +11664,25 @@
         "Title Name": "Don't Get Caught",
         "size": 693108736
     },
-    "0100AA90119D2000": {
+    "01005E5011696000": {
         "Release Date": "2020-07-16",
         "Title Name": "Waifu Uncovered",
-        "size": 269484032
+        "size": 272629760
     },
     "01005F0012704000": {
         "Release Date": "2020-07-16",
         "Title Name": "Desktop Volleyball",
         "size": 838860800
     },
+    "0100AA90119D2000": {
+        "Release Date": "2020-07-16",
+        "Title Name": "Waifu Uncovered",
+        "size": 269484032
+    },
     "0100E990104DC000": {
         "Release Date": "2020-07-16",
         "Title Name": "\ud14c\ub77c\ub9ac\uc544 (Terraria)",
         "size": 537919488
-    },
-    "01005E5011696000": {
-        "Release Date": "2020-07-16",
-        "Title Name": "Waifu Uncovered",
-        "size": 272629760
     },
     "0100D8E010B1A000": {
         "Release Date": "2020-07-16",
@@ -12212,7 +12212,7 @@
     "010066501069C000": {
         "Release Date": "2020-02-25",
         "Title Name": "SAMURAI SHODOWN",
-        "size": 16184770560
+        "size": 16183721984
     },
     "0100B2900DF06000": {
         "Release Date": "2020-02-21",
