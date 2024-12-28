@@ -575,18 +575,6 @@
         "base_game": "HEAVEN SEEKER \u2015\u2015The Savior of This Cruel World",
         "size": 5242880
     },
-    "0100af701fb2f002": {
-        "Release Date": "2024-12-05",
-        "dlc_name": "UFO ROBOT GRENDIZER \u2013 The Feast of the Wolves - Princely Outfit",
-        "base_game": "\u91d1\u525b\u6230\u795e\uff1a\u7fa4\u72fc\u76db\u5bb4 (UFO Robot Grendizer - The Feast of the Wolves)",
-        "size": 3145728
-    },
-    "0100af701fb2f001": {
-        "Release Date": "2024-12-05",
-        "dlc_name": "UFO ROBOT GRENDIZER \u2013 The Feast of the Wolves Deluxe Edition - Upgrade",
-        "base_game": "\u91d1\u525b\u6230\u795e\uff1a\u7fa4\u72fc\u76db\u5bb4 (UFO Robot Grendizer - The Feast of the Wolves)",
-        "size": 3145728
-    },
     "0100bd4021217001": {
         "Release Date": "2024-12-05",
         "dlc_name": "All-Star Vinyl Vibes: Coin Flip",
@@ -603,6 +591,18 @@
         "Release Date": "2024-12-05",
         "dlc_name": "All-Star Vinyl Vibes: License Star",
         "base_game": "All-Star Supermarket Simulator: Vinyl Vibes",
+        "size": 3145728
+    },
+    "0100af701fb2f002": {
+        "Release Date": "2024-12-05",
+        "dlc_name": "UFO ROBOT GRENDIZER \u2013 The Feast of the Wolves - Princely Outfit",
+        "base_game": "\u91d1\u525b\u6230\u795e\uff1a\u7fa4\u72fc\u76db\u5bb4 (UFO Robot Grendizer - The Feast of the Wolves)",
+        "size": 3145728
+    },
+    "0100af701fb2f001": {
+        "Release Date": "2024-12-05",
+        "dlc_name": "UFO ROBOT GRENDIZER \u2013 The Feast of the Wolves Deluxe Edition - Upgrade",
+        "base_game": "\u91d1\u525b\u6230\u795e\uff1a\u7fa4\u72fc\u76db\u5bb4 (UFO Robot Grendizer - The Feast of the Wolves)",
         "size": 3145728
     },
     "0100ea4021509001": {
@@ -1139,6 +1139,12 @@
         "base_game": "Let's Sing 2025",
         "size": 3145728
     },
+    "01001c101ed11005": {
+        "Release Date": "2024-11-05",
+        "dlc_name": "Let's Sing 2025 - Spanish Hits",
+        "base_game": "Let's Sing 2025",
+        "size": 1075838976
+    },
     "01001c101ed11006": {
         "Release Date": "2024-11-05",
         "dlc_name": "Let's Sing 2025 - Hits from UK",
@@ -1150,12 +1156,6 @@
         "dlc_name": "Let's Sing 2025 - German Hits",
         "base_game": "Let's Sing 2025",
         "size": 1076887552
-    },
-    "01001c101ed11005": {
-        "Release Date": "2024-11-05",
-        "dlc_name": "Let's Sing 2025 - Spanish Hits",
-        "base_game": "Let's Sing 2025",
-        "size": 1075838976
     },
     "010037c01e2a300d": {
         "Release Date": "2024-11-01",
@@ -5089,7 +5089,7 @@
     },
     "01000d3013e8d001": {
         "Release Date": "2024-05-30",
-        "dlc_name": "World 3 - New Kelp City",
+        "dlc_name": "\u041c\u0438\u0440 3 - New Kelp City!",
         "base_game": "SpongeBob: Krusty Cook-Off",
         "size": 3145728
     },
@@ -11473,7 +11473,7 @@
     },
     "01003ed016e53001": {
         "Release Date": "2022-06-24",
-        "dlc_name": "Exclusive new illustrations & music remixes",
+        "dlc_name": "\u041d\u043e\u0432\u044b\u0435 \u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u044b\u0435\n\u0438\u043b\u043b\u044e\u0441\u0442\u0440\u0430\u0446\u0438\u0438 \u0438\n\u0441\u0432\u0435\u0436\u0438\u0435 \u0440\u0435\u043c\u0438\u043a\u0441\u044b",
         "base_game": "Capcom Fighting Collection",
         "size": 3145728
     },
@@ -21273,7 +21273,7 @@
         "Release Date": "2020-06-25",
         "dlc_name": "SAMURAI SHODOWN DLC \"WARDEN\"",
         "base_game": "SAMURAI SHODOWN",
-        "size": 108003328
+        "size": 106954752
     },
     "01005a200f36d06c": {
         "Release Date": "2020-06-25",
@@ -21729,7 +21729,7 @@
         "Release Date": "2020-05-07",
         "dlc_name": "SAMURAI SHODOWN DLC CHARACTER \"IROHA\"",
         "base_game": "SAMURAI SHODOWN",
-        "size": 104857600
+        "size": 103809024
     },
     "01003e300ffd9004": {
         "Release Date": "2020-05-07",
@@ -21795,7 +21795,7 @@
         "Release Date": "2020-04-02",
         "dlc_name": "SAMURAI SHODOWN DLC CHARACTER \"SOUGETSU KAZAMA\"",
         "base_game": "SAMURAI SHODOWN",
-        "size": 108003328
+        "size": 106954752
     },
     "01005a200f36d06a": {
         "Release Date": "2020-04-02",
@@ -22299,7 +22299,7 @@
         "Release Date": "2020-02-27",
         "dlc_name": "SAMURAI SHODOWN DLC CHARACTER \"MINA MAJIKINA\"",
         "base_game": "SAMURAI SHODOWN",
-        "size": 118489088
+        "size": 117440512
     },
     "01005a200f36d069": {
         "Release Date": "2020-02-27",
@@ -22319,6 +22319,24 @@
         "base_game": "LoveR Kiss\uff08\u30e9\u30f4\u30a2\u30fc\u30eb \u30ad\u30b9\uff09",
         "size": 96468992
     },
+    "0100a0800e9c5001": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "\u042f\u0437\u044b\u043a\u043e\u0432\u043e\u0439 \u043f\u0430\u043a\u0435\u0442 '\u0412\u0435\u0434\u044c\u043c\u0430\u043a 3: \u0414\u0438\u043a\u0430\u044f \u041e\u0445\u043e\u0442\u0430 \u2014 \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435' (PL)",
+        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
+        "size": 2349858816
+    },
+    "0100a0800e9c5005": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "\u042f\u0437\u044b\u043a\u043e\u0432\u043e\u0439 \u043f\u0430\u043a\u0435\u0442 '\u0412\u0435\u0434\u044c\u043c\u0430\u043a 3: \u0414\u0438\u043a\u0430\u044f \u041e\u0445\u043e\u0442\u0430 \u2014 \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435' (FR)",
+        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
+        "size": 2334130176
+    },
+    "0100a0800e9c5003": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "\u042f\u0437\u044b\u043a\u043e\u0432\u043e\u0439 \u043f\u0430\u043a\u0435\u0442 '\u0412\u0435\u0434\u044c\u043c\u0430\u043a 3: \u0414\u0438\u043a\u0430\u044f \u041e\u0445\u043e\u0442\u0430 \u2014 \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435' (DE)",
+        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
+        "size": 2364538880
+    },
     "010039400e8d7003": {
         "Release Date": "2020-02-26",
         "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (DE)",
@@ -22336,24 +22354,6 @@
         "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (RU)",
         "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
         "size": 2441084928
-    },
-    "0100a0800e9c5001": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (PL)",
-        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
-        "size": 2349858816
-    },
-    "0100a0800e9c5005": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (FR)",
-        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
-        "size": 2334130176
-    },
-    "0100a0800e9c5003": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (DE)",
-        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
-        "size": 2364538880
     },
     "010070a00e9cf001": {
         "Release Date": "2020-02-26",
