@@ -607,25 +607,25 @@
     },
     "0100ea4021509001": {
         "Release Date": "2024-12-05",
-        "dlc_name": "Cat MeowMart: Cash Boost",
+        "dlc_name": "\u30ad\u30e3\u30c3\u30b7\u30e5\u30d6\u30fc\u30b9\u30c8 - Cat MeowMart: Cash Boost",
         "base_game": "Cat MeowMart: Supermarket Simulator",
         "size": 3145728
     },
     "0100ea4021509003": {
         "Release Date": "2024-12-05",
-        "dlc_name": "Cat MeowMart: New License",
+        "dlc_name": "\u65b0\u3057\u3044\u30e9\u30a4\u30bb\u30f3\u30b9 - Cat MeowMart: New License",
         "base_game": "Cat MeowMart: Supermarket Simulator",
         "size": 3145728
     },
     "0100ea4021509002": {
         "Release Date": "2024-12-05",
-        "dlc_name": "Cat MeowMart: Storage Bonus",
+        "dlc_name": "Cat MeowMart: Storage Bonus - \u30b9\u30c8\u30ec\u30fc\u30b8\u30dc\u30fc\u30ca\u30b9",
         "base_game": "Cat MeowMart: Supermarket Simulator",
         "size": 3145728
     },
     "0100ea4021509004": {
         "Release Date": "2024-12-05",
-        "dlc_name": "Cat MeowMart: Christmas Mood",
+        "dlc_name": "\u30af\u30ea\u30b9\u30de\u30b9\u6c17\u5206 - Cat MeowMart: Christmas Mood",
         "base_game": "Cat MeowMart: Supermarket Simulator",
         "size": 3145728
     },
@@ -1157,17 +1157,17 @@
         "base_game": "Let's Sing 2025",
         "size": 1075838976
     },
-    "01001c101ed11006": {
-        "Release Date": "2024-11-05",
-        "dlc_name": "Let's Sing 2025 - Hits from UK",
-        "base_game": "Let's Sing 2025",
-        "size": 1066401792
-    },
     "01001c101ed11003": {
         "Release Date": "2024-11-05",
         "dlc_name": "Let's Sing 2025 - German Hits",
         "base_game": "Let's Sing 2025",
         "size": 1076887552
+    },
+    "01001c101ed11006": {
+        "Release Date": "2024-11-05",
+        "dlc_name": "Let's Sing 2025 - Hits from UK",
+        "base_game": "Let's Sing 2025",
+        "size": 1066401792
     },
     "010037c01e2a300d": {
         "Release Date": "2024-11-01",
@@ -14672,7 +14672,7 @@
     "010017301007f001": {
         "Release Date": "2021-08-26",
         "dlc_name": "\u604b\u611b\u5019\u88dc\u30d1\u30c3\u30af\u300c\u305f\u305d\u304c\u308c\u306e\u5cf6\u300d",
-        "base_game": "\u7267\u5834\u7269\u8a9e \u30aa\u30ea\u30fc\u30d6\u30bf\u30a6\u30f3\u3068\u5e0c\u671b\u306e\u5927\u5730",
+        "base_game": "Unknown Base Game",
         "size": 57671680
     },
     "01008b0014523003": {
@@ -16370,7 +16370,7 @@
     "010017301007f003": {
         "Release Date": "2021-06-24",
         "dlc_name": "\u604b\u611b\u5019\u88dc\u30d1\u30c3\u30af\u300c\u8d64\u571f\u306e\u30aa\u30a2\u30b7\u30b9\u300d",
-        "base_game": "\u7267\u5834\u7269\u8a9e \u30aa\u30ea\u30fc\u30d6\u30bf\u30a6\u30f3\u3068\u5e0c\u671b\u306e\u5927\u5730",
+        "base_game": "Unknown Base Game",
         "size": 56623104
     },
     "010089a0117d5008": {
@@ -16862,7 +16862,7 @@
     "010017301007f002": {
         "Release Date": "2021-04-28",
         "dlc_name": "\u604b\u611b\u5019\u88dc\u30d1\u30c3\u30af\u300c\u98a8\u306e\u6e56\u7554\u300d",
-        "base_game": "\u7267\u5834\u7269\u8a9e \u30aa\u30ea\u30fc\u30d6\u30bf\u30a6\u30f3\u3068\u5e0c\u671b\u306e\u5927\u5730",
+        "base_game": "Unknown Base Game",
         "size": 56623104
     },
     "01008a801370d007": {
@@ -17834,7 +17834,7 @@
     "010017301007f00d": {
         "Release Date": "2021-02-25",
         "dlc_name": "\u30ea\u30b3\u30ea\u30b9\u306e\u30ef\u30f3\u30d4\u30fc\u30b9",
-        "base_game": "\u7267\u5834\u7269\u8a9e \u30aa\u30ea\u30fc\u30d6\u30bf\u30a6\u30f3\u3068\u5e0c\u671b\u306e\u5927\u5730",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100307011d8100f": {
@@ -22337,12 +22337,6 @@
         "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
         "size": 2441084928
     },
-    "010070a00e9cf001": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (PL)",
-        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
-        "size": 2350907392
-    },
     "0100a0800e9c5001": {
         "Release Date": "2020-02-26",
         "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (PL)",
@@ -22360,6 +22354,12 @@
         "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (DE)",
         "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
         "size": 2364538880
+    },
+    "010070a00e9cf001": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (PL)",
+        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
+        "size": 2350907392
     },
     "010076f00e9c9001": {
         "Release Date": "2020-02-26",
