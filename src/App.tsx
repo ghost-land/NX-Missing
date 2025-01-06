@@ -1,14 +1,16 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useCallback } from 'react';
 import { Database, Github, Sun, Moon } from 'lucide-react';
 import { ContentTable } from './components/ContentTable';
 import { TabButton } from './components/TabButton';
 import { TableType } from './types';
 import { useDataLoader } from './hooks/useDataLoader';
+import { useSearchParams } from './hooks/useSearchParams';
 import pkg from '../package.json';
 
 function App() {
-  const [activeTab, setActiveTab] = useState<TableType>('missing-titles');
-  const [searchQuery, setSearchQuery] = useState('');
+  const { searchParams, updateSearchParams } = useSearchParams();
+  const activeTab = searchParams.tab || 'missing-titles';
+  const searchQuery = searchParams.search || '';
   const [isDark, setIsDark] = useState(() => {
     if (typeof window !== 'undefined') {
       return localStorage.getItem('theme') === 'dark' || 
@@ -23,6 +25,14 @@ function App() {
     document.documentElement.classList.toggle('dark', isDark);
     localStorage.setItem('theme', isDark ? 'dark' : 'light');
   }, [isDark]);
+
+  const handleTabChange = useCallback((tab: TableType) => {
+    updateSearchParams({ tab });
+  }, [updateSearchParams]);
+
+  const handleSearchChange = useCallback((search: string) => {
+    updateSearchParams({ search });
+  }, [updateSearchParams]);
 
   if (isLoading) {
     return (
@@ -124,7 +134,7 @@ function App() {
                 type={type as TableType}
                 active={activeTab === type}
                 count={count}
-                onClick={() => setActiveTab(type as TableType)}
+                onClick={() => handleTabChange(type as TableType)}
                 label={type.split('-').map(word => 
                   word.charAt(0).toUpperCase() + word.slice(1)
                 ).join(' ')}
@@ -136,7 +146,7 @@ function App() {
             type={activeTab}
             data={data[activeTab]}
             searchQuery={searchQuery}
-            onSearchChange={setSearchQuery}
+            onSearchChange={handleSearchChange}
           />
         </div>
       </div>

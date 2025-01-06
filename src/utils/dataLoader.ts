@@ -87,13 +87,14 @@ const parseTxtFile = (content: string, type: 'titles' | 'dlcs' | 'updates') => {
   const result: Record<string, any> = {};
 
   lines.forEach(line => {
-    const parts = line.split('|').map(part => part.trim());
+    const parts = line.split('|').map(part => part.trim()).filter(Boolean);
     
     switch (type) {
       case 'titles':
         if (parts.length === 4) {
           const [id, date, name, size] = parts;
           result[id] = {
+            id,
             'Release Date': date,
             'Title Name': name,
             size: parseInt(size, 10) || 0
@@ -105,6 +106,7 @@ const parseTxtFile = (content: string, type: 'titles' | 'dlcs' | 'updates') => {
         if (parts.length === 5) {
           const [id, date, name, baseGame, size] = parts;
           result[id] = {
+            id,
             'Release Date': date,
             dlc_name: name,
             base_game: baseGame,
@@ -117,6 +119,7 @@ const parseTxtFile = (content: string, type: 'titles' | 'dlcs' | 'updates') => {
         if (parts.length === 4) {
           const [id, name, version, date] = parts;
           result[id] = {
+            id,
             'Game Name': name,
             Version: version,
             'Release Date': date

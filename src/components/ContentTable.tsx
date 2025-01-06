@@ -1,4 +1,4 @@
-import React, { useState, useMemo } from 'react';
+import React, { useState, useMemo, useEffect } from 'react';
 import { Search, ArrowUpDown, ExternalLink } from 'lucide-react';
 import { TableType } from '../types';
 import { formatDate, formatSize, getIconUrl } from '../utils/formatters';
@@ -97,6 +97,11 @@ export function ContentTable({ type, data, searchQuery, onSearchChange }: Conten
   const paginatedData = itemsPerPage === -1 
     ? filteredAndSortedData 
     : filteredAndSortedData.slice(startIndex, startIndex + itemsPerPage);
+    
+  // Reset current page when type changes or when total pages changes
+  useEffect(() => {
+    setCurrentPage(1);
+  }, [type, totalPages]);
 
   return (
     <div className="space-y-4">
@@ -199,6 +204,13 @@ export function ContentTable({ type, data, searchQuery, onSearchChange }: Conten
 
         <div className="flex items-center gap-2">
           <button
+            onClick={() => setCurrentPage(1)}
+            disabled={currentPage === 1}
+            className="px-3 py-1 border border-gray-300 dark:border-gray-600 rounded-md disabled:opacity-50 bg-white dark:bg-gray-700 text-gray-900 dark:text-gray-100 hover:bg-gray-50 dark:hover:bg-gray-600 transition-colors"
+          >
+            First
+          </button>
+          <button
             onClick={() => setCurrentPage(p => Math.max(1, p - 1))}
             disabled={currentPage === 1}
             className="px-3 py-1 border border-gray-300 dark:border-gray-600 rounded-md disabled:opacity-50 bg-white dark:bg-gray-700 text-gray-900 dark:text-gray-100 hover:bg-gray-50 dark:hover:bg-gray-600 transition-colors"
@@ -214,6 +226,13 @@ export function ContentTable({ type, data, searchQuery, onSearchChange }: Conten
             className="px-3 py-1 border border-gray-300 dark:border-gray-600 rounded-md disabled:opacity-50 bg-white dark:bg-gray-700 text-gray-900 dark:text-gray-100 hover:bg-gray-50 dark:hover:bg-gray-600 transition-colors"
           >
             Next
+          </button>
+          <button
+            onClick={() => setCurrentPage(totalPages)}
+            disabled={currentPage === totalPages}
+            className="px-3 py-1 border border-gray-300 dark:border-gray-600 rounded-md disabled:opacity-50 bg-white dark:bg-gray-700 text-gray-900 dark:text-gray-100 hover:bg-gray-50 dark:hover:bg-gray-600 transition-colors"
+          >
+            Last
           </button>
         </div>
       </div>
