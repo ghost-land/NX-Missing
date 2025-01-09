@@ -19,7 +19,13 @@ jobs:
         with:
           node-version: 22
 
-      # Step 3: Check and synchronize package-lock.json if necessary
+      # Step 3: Configure Git user
+      - name: Configure Git user
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+
+      # Step 4: Check and synchronize package-lock.json if necessary
       - name: Check and synchronize package-lock.json
         run: |
           if ! npm ci --dry-run > /dev/null 2>&1; then
@@ -32,13 +38,13 @@ jobs:
             echo "package.json and package-lock.json are in sync."
           fi
 
-      # Step 4: Install dependencies and build the project
+      # Step 5: Install dependencies and build the project
       - name: Install dependencies and build
         run: |
           npm ci
           npm run build
 
-      # Step 5: Deploy to GitHub Pages
+      # Step 6: Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
