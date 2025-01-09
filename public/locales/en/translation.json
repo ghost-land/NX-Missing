@@ -1,0 +1,77 @@
+{
+  "app": {
+    "title": "NX Missing Content Tracker",
+    "version": "Version",
+    "viewOnGithub": "View on GitHub"
+  },
+  "home": {
+    "title": "Missing Nintendo Switch Content Tracker",
+    "description": "Track missing Nintendo Switch content that is available on the eShop but hasn't been dumped yet. This includes games, DLCs, and updates. To see content that has already been dumped, visit",
+    "viewAll": "View All Missing Content",
+    "about": {
+      "title": "About This Content",
+      "description": "The items shown below are the 10 most recent releases and upcoming content available on the Nintendo eShop that have not yet been dumped. This helps track new content that needs to be preserved."
+    },
+    "stats": {
+      "totalItems": "Total Items",
+      "missingTitles": "Missing Titles",
+      "missingDlcs": "Missing DLCs",
+      "missingUpdates": "Missing Updates",
+      "missingOldUpdates": "Missing Old Updates"
+    },
+    "sections": {
+      "games": "Games",
+      "updates": "Updates",
+      "dlcs": "DLCs",
+      "latestReleases": "Latest Releases",
+      "comingSoon": "Coming Soon"
+    }
+  },
+  "table": {
+    "search": "Search...",
+    "filters": {
+      "allYears": "All Years",
+      "allMonths": "All Months",
+      "months": {
+        "1": "January",
+        "2": "February",
+        "3": "March",
+        "4": "April",
+        "5": "May",
+        "6": "June",
+        "7": "July",
+        "8": "August",
+        "9": "September",
+        "10": "October",
+        "11": "November",
+        "12": "December"
+      }
+    },
+    "columns": {
+      "icon": "Icon",
+      "id": "ID",
+      "name": "Name",
+      "game": "Game",
+      "baseGame": "Base Game",
+      "releaseDate": "Release Date",
+      "version": "Version",
+      "size": "Size"
+    },
+    "pagination": {
+      "perPage": "{{count}} per page",
+      "page": "Page {{current}} of {{total}}",
+      "first": "First",
+      "previous": "Previous",
+      "next": "Next",
+      "last": "Last"
+    },
+    "home": {
+      "title": "Home",
+      "backToHome": "Back to home"
+    }
+  },
+  "releaseTimer": {
+    "noDate": "No date available",
+    "invalidDate": "Invalid date"
+  }
+}

@@ -10,7 +10,7 @@ export function useSearchParams() {
   const [searchParams, setSearchParams] = useState<SearchParams>(() => {
     const params = new URLSearchParams(window.location.search);
     return {
-      tab: params.get('tab') as TableType || 'missing-titles',
+      tab: params.get('tab') as TableType || 'home',
       search: params.get('search') || '',
     };
   });
@@ -33,7 +33,7 @@ export function useSearchParams() {
     const handlePopState = () => {
       const params = new URLSearchParams(window.location.search);
       setSearchParams({
-        tab: params.get('tab') as TableType || 'missing-titles',
+        tab: params.get('tab') as TableType || 'home',
         search: params.get('search') || '',
       });
     };

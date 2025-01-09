@@ -27,6 +27,7 @@ export interface ContentData {
   'missing-dlcs': Record<string, DLCContent>;
   'missing-updates': Record<string, UpdateContent>;
   'missing-old-updates': Record<string, OldUpdateVersion[]>;
+  'home': never;
 }
 
 export type TableType = keyof ContentData;

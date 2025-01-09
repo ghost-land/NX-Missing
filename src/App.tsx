@@ -1,15 +1,19 @@
-import React, { useState, useEffect, useCallback } from 'react';
+import React, { useState, useEffect, useCallback, useMemo } from 'react';
 import { Database, Github, Sun, Moon } from 'lucide-react';
+import { useTranslation } from 'react-i18next';
 import { ContentTable } from './components/ContentTable';
+import { HomePage } from './components/HomePage';
 import { TabButton } from './components/TabButton';
+import { LanguageSwitcher } from './components/LanguageSwitcher';
 import { TableType } from './types';
 import { useDataLoader } from './hooks/useDataLoader';
 import { useSearchParams } from './hooks/useSearchParams';
 import pkg from '../package.json';
 
 function App() {
+  const { t } = useTranslation();
   const { searchParams, updateSearchParams } = useSearchParams();
-  const activeTab = searchParams.tab || 'missing-titles';
+  const activeTab = searchParams.tab || 'home';
   const searchQuery = searchParams.search || '';
   const [isDark, setIsDark] = useState(() => {
     if (typeof window !== 'undefined') {
@@ -76,21 +80,22 @@ function App() {
 
   return (
     <div className="min-h-screen bg-gray-50 dark:bg-gray-900 transition-colors duration-200">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-        <div className="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-6 mb-8">
+      <div className="container mx-auto px-4 sm:px-6 xl:px-0 py-8">
+        <div className="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-4 sm:p-6 lg:p-8">
           <div className="flex items-center justify-between mb-6">
             <div className="flex items-center space-x-3">
               <Database className="h-8 w-8 text-blue-600 dark:text-blue-400" />
               <div>
                 <h1 className="text-2xl font-bold text-gray-900 dark:text-white">
-                  NX Missing Content Tracker
+                  {t('app.title')}
                 </h1>
                 <p className="text-sm text-gray-500 dark:text-gray-400">
-                  Version {pkg.version}
+                  {t('app.version')} {pkg.version}
                 </p>
               </div>
             </div>
-            <div className="flex items-center gap-4">
+            <div className="flex items-center gap-2">
+              <LanguageSwitcher />
               <button
                 onClick={() => setIsDark(!isDark)}
                 className="p-2 rounded-lg bg-gray-100 dark:bg-gray-700 text-gray-600 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-600 transition-colors"
@@ -105,49 +110,37 @@ function App() {
                 className="flex items-center space-x-2 text-gray-600 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white transition-colors"
               >
                 <Github className="h-6 w-6" />
-                <span className="hidden sm:inline">View on GitHub</span>
+                <span className="hidden sm:inline">{t('app.viewOnGithub')}</span>
               </a>
             </div>
           </div>
 
-          <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 mb-8">
-            <div className="bg-blue-50 dark:bg-blue-900/50 rounded-lg p-4">
-              <h3 className="text-sm font-medium text-blue-600 dark:text-blue-400">Total Items</h3>
-              <p className="text-2xl font-bold text-blue-900 dark:text-blue-200">{totalItems}</p>
-            </div>
-            {Object.entries(counts).map(([key, count]) => (
-              <div key={key} className="bg-gray-50 dark:bg-gray-700/50 rounded-lg p-4">
-                <h3 className="text-sm font-medium text-gray-600 dark:text-gray-400">
-                  {key.split('-').map(word => 
-                    word.charAt(0).toUpperCase() + word.slice(1)
-                  ).join(' ')}
-                </h3>
-                <p className="text-2xl font-bold text-gray-900 dark:text-gray-100">{count}</p>
+          {activeTab === 'home' ? (
+            <HomePage data={data} />
+          ) : (
+            <>
+              <div className="flex flex-wrap gap-2 mb-6 items-center">
+                {Object.entries(counts).map(([type, count]) => (
+                  <TabButton
+                    key={type}
+                    type={type as TableType}
+                    active={activeTab === type}
+                    count={count}
+                    onClick={() => handleTabChange(type as TableType)}
+                    label={type.split('-').map(word => 
+                      word.charAt(0).toUpperCase() + word.slice(1)
+                    ).join(' ')}
+                  />
+                ))}
               </div>
-            ))}
-          </div>
-
-          <div className="flex flex-wrap gap-2 mb-6">
-            {Object.entries(counts).map(([type, count]) => (
-              <TabButton
-                key={type}
-                type={type as TableType}
-                active={activeTab === type}
-                count={count}
-                onClick={() => handleTabChange(type as TableType)}
-                label={type.split('-').map(word => 
-                  word.charAt(0).toUpperCase() + word.slice(1)
-                ).join(' ')}
+              <ContentTable
+                type={activeTab as Exclude<TableType, 'home'>}
+                data={data[activeTab as Exclude<TableType, 'home'>]}
+                searchQuery={searchQuery}
+                onSearchChange={handleSearchChange}
               />
-            ))}
-          </div>
-
-          <ContentTable
-            type={activeTab}
-            data={data[activeTab]}
-            searchQuery={searchQuery}
-            onSearchChange={handleSearchChange}
-          />
+            </>
+          )}
         </div>
       </div>
     </div>

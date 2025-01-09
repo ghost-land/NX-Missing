@@ -1,6 +1,6 @@
 # NX Missing
 
-A modern web application for tracking missing Nintendo Switch content, including games, DLCs, and updates.
+A modern, multilingual web application for tracking missing Nintendo Switch content, including games, DLCs, and updates.
 
 https://github.com/user-attachments/assets/705ade58-2615-4607-b432-9a9c3c2362ab
 
@@ -8,12 +8,23 @@ https://github.com/user-attachments/assets/705ade58-2615-4607-b432-9a9c3c2362ab
 
 - 📱 Responsive design that works on desktop and mobile
 - 🌓 Light and dark mode support
+- 🌍 Multilingual support (8 languages)
+  - English
+  - French (Français)
+  - Spanish (Español)
+  - German (Deutsch)
+  - Japanese (日本語)
+  - Portuguese (Português)
+  - Korean (한국어)
+  - Russian (Русский)
 - 🔍 Advanced search functionality across all content
 - 📊 Sortable tables with multiple viewing options
 - 🎮 Real-time game icon loading
 - 📱 Pagination and items per page selection
 - 🔄 Auto-formatting for dates and file sizes
 - 🎯 Intelligent title ID handling for base games, updates, and DLCs
+- 🌐 Automatic language detection
+- 🔄 Real-time language switching
 
 ## Content Types
 
@@ -58,7 +69,7 @@ TitleID|Game Name|Version|Release Date
 ### Prerequisites
 
 - Node.js 18 or higher
-- npm, yarn or bun
+- npm 8 or higher
 
 ### Installation
 
@@ -88,7 +99,8 @@ The built files will be in the `dist` directory.
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome! Please feel free to submit a Pull Request. We especially welcome translations
+for new languages.
 
 ## License
 

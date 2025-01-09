@@ -1,5 +1,30 @@
+import { format } from 'date-fns';
+import { enUS, fr, es, de, ja, pt, ko, ru } from 'date-fns/locale';
+import i18next from 'i18next';
+
+const locales: { [key: string]: Locale } = {
+  en: enUS,
+  fr: fr,
+  es: es,
+  de: de,
+  ja: ja,
+  pt: pt,
+  ko: ko,
+  ru: ru
+};
+
 export const formatDate = (dateString: string): string => {
-  return new Date(dateString).toLocaleDateString('en-US', {
+  if (!dateString) return 'N/A';
+  
+  // Validate date string
+  const date = new Date(dateString);
+  if (isNaN(date.getTime())) {
+    return 'Invalid date';
+  }
+
+  const currentLocale = locales[i18next.language] || enUS;
+  return format(date, 'PP', {
+    locale: currentLocale,
     year: 'numeric',
     month: 'short',
     day: 'numeric'
@@ -37,4 +62,8 @@ export const getBaseTitleId = (titleId: string): string => {
 
 export const getIconUrl = (titleId: string): string => {
   return `https://api.nlib.cc/nx/${getBaseTitleId(titleId)}/icon/128/128`;
+};
+
+export const getBannerUrl = (titleId: string): string => {
+  return `https://api.nlib.cc/nx/${getBaseTitleId(titleId)}/banner/1280/720`;
 };

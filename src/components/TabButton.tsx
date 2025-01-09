@@ -1,4 +1,5 @@
 import React from 'react';
+import { useTranslation } from 'react-i18next';
 import { TableType } from '../types';
 import clsx from 'clsx';
 
@@ -10,7 +11,24 @@ interface TabButtonProps {
   label: string;
 }
 
-export function TabButton({ active, count, onClick, label }: TabButtonProps) {
+export function TabButton({ type, active, count, onClick }: TabButtonProps) {
+  const { t } = useTranslation();
+  
+  const getLabel = (type: TableType) => {
+    switch (type) {
+      case 'missing-titles':
+        return t('home.stats.missingTitles');
+      case 'missing-dlcs':
+        return t('home.stats.missingDlcs');
+      case 'missing-updates':
+        return t('home.stats.missingUpdates');
+      case 'missing-old-updates':
+        return t('home.stats.missingOldUpdates');
+      default:
+        return type;
+    }
+  };
+
   return (
     <button
       onClick={onClick}
@@ -21,7 +39,7 @@ export function TabButton({ active, count, onClick, label }: TabButtonProps) {
           : 'bg-white text-gray-600 hover:bg-gray-50 border border-gray-200'
       )}
     >
-      {label}
+      {getLabel(type)}
       <span className={clsx(
         'ml-2 px-2 py-0.5 rounded-full bg-opacity-20 text-xs font-semibold inline-block',
         active ? 'bg-white text-white' : 'bg-blue-100 text-blue-600'

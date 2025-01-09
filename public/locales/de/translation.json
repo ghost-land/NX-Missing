@@ -1,0 +1,77 @@
+{
+  "app": {
+    "title": "NX Fehlender Inhalt Tracker",
+    "version": "Version",
+    "viewOnGithub": "Auf GitHub ansehen"
+  },
+  "home": {
+    "title": "Nintendo Switch Fehlender Inhalt Tracker",
+    "description": "Verfolge fehlende Nintendo Switch Inhalte, die im eShop verfügbar sind, aber noch nicht extrahiert wurden. Dies umfasst Spiele, DLCs und Updates. Um bereits extrahierte Inhalte zu sehen, besuche",
+    "viewAll": "Alle fehlenden Inhalte anzeigen",
+    "about": {
+      "title": "Über diesen Inhalt",
+      "description": "Die unten angezeigten Elemente sind die 10 neuesten Veröffentlichungen und kommende Inhalte, die im Nintendo eShop verfügbar sind, aber noch nicht extrahiert wurden. Dies hilft, neue Inhalte zu verfolgen, die erhalten werden müssen."
+    },
+    "stats": {
+      "totalItems": "Gesamtanzahl",
+      "missingTitles": "Fehlende Titel",
+      "missingDlcs": "Fehlende DLCs",
+      "missingUpdates": "Fehlende Updates",
+      "missingOldUpdates": "Fehlende alte Updates"
+    },
+    "sections": {
+      "games": "Spiele",
+      "updates": "Updates",
+      "dlcs": "DLCs",
+      "latestReleases": "Neueste Veröffentlichungen",
+      "comingSoon": "Demnächst"
+    }
+  },
+  "table": {
+    "search": "Suchen...",
+    "filters": {
+      "allYears": "Alle Jahre",
+      "allMonths": "Alle Monate",
+      "months": {
+        "1": "Januar",
+        "2": "Februar",
+        "3": "März",
+        "4": "April",
+        "5": "Mai",
+        "6": "Juni",
+        "7": "Juli",
+        "8": "August",
+        "9": "September",
+        "10": "Oktober",
+        "11": "November",
+        "12": "Dezember"
+      }
+    },
+    "columns": {
+      "icon": "Symbol",
+      "id": "ID",
+      "name": "Name",
+      "game": "Spiel",
+      "baseGame": "Hauptspiel",
+      "releaseDate": "Erscheinungsdatum",
+      "version": "Version",
+      "size": "Größe"
+    },
+    "pagination": {
+      "perPage": "{{count}} pro Seite",
+      "page": "Seite {{current}} von {{total}}",
+      "first": "Erste",
+      "previous": "Vorherige",
+      "next": "Nächste",
+      "last": "Letzte"
+    },
+    "home": {
+      "title": "Startseite",
+      "backToHome": "Zurück zur Startseite"
+    }
+  },
+  "releaseTimer": {
+    "noDate": "Kein Datum verfügbar",
+    "invalidDate": "Ungültiges Datum"
+  }
+}
