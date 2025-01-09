@@ -96,10 +96,9 @@ export function HomePage({ data }: HomePageProps) {
               <p className="text-xl sm:text-2xl font-bold text-gray-900 dark:text-gray-100">{totalItems}</p>
             </div>
             {Object.entries(counts).map(([key, count]) => (
-              <div 
+              <div
                 key={key} 
-                className="bg-white dark:bg-gray-800 rounded-lg p-4 shadow-sm cursor-pointer hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors"
-                onClick={() => window.location.search = `?tab=missing-${key.replace(/([A-Z])/g, '-$1').toLowerCase()}`}
+                className="bg-white dark:bg-gray-800 rounded-lg p-4 shadow-sm"
               >
                 <h3 className="text-sm font-medium text-gray-600 dark:text-gray-400">
                   {t(`home.stats.${key}`)}
@@ -145,7 +144,7 @@ export function HomePage({ data }: HomePageProps) {
             <div className="border-b border-gray-200 dark:border-gray-700 pb-2">
               <h2 
                 className="text-2xl font-bold text-gray-900 dark:text-white cursor-pointer hover:text-blue-600 dark:hover:text-blue-400 transition-colors"
-                onClick={() => window.location.search = `?tab=missing-${section.title.toLowerCase()}`}
+                onClick={() => window.location.search = `?tab=missing-${section.title === 'Games' ? 'titles' : section.title.toLowerCase()}`}
               >
                 {section.title}
               </h2>
