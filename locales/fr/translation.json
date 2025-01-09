@@ -1,0 +1,77 @@
+{
+  "app": {
+    "title": "Suivi du Contenu NX Manquant",
+    "version": "Version",
+    "viewOnGithub": "Voir sur GitHub"
+  },
+  "home": {
+    "title": "Suivi du Contenu Nintendo Switch Manquant",
+    "description": "Suivez le contenu Nintendo Switch manquant qui est disponible sur l'eShop mais n'a pas encore été extrait. Cela inclut les jeux, DLC et mises à jour. Pour voir le contenu déjà extrait, visitez",
+    "viewAll": "Voir Tout le Contenu Manquant",
+    "about": {
+      "title": "À Propos de ce Contenu",
+      "description": "Les éléments affichés ci-dessous sont les 10 sorties les plus récentes et le contenu à venir disponible sur le Nintendo eShop qui n'ont pas encore été extraits. Cela aide à suivre le nouveau contenu qui doit être préservé."
+    },
+    "stats": {
+      "totalItems": "Total des Éléments",
+      "missingTitles": "Titres Manquants",
+      "missingDlcs": "DLC Manquants",
+      "missingUpdates": "Mises à Jour Manquantes",
+      "missingOldUpdates": "Anciennes Mises à Jour Manquantes"
+    },
+    "sections": {
+      "games": "Jeux",
+      "updates": "Mises à Jour",
+      "dlcs": "DLC",
+      "latestReleases": "Dernières Sorties",
+      "comingSoon": "Prochainement"
+    }
+  },
+  "table": {
+    "search": "Rechercher...",
+    "filters": {
+      "allYears": "Toutes les Années",
+      "allMonths": "Tous les Mois",
+      "months": {
+        "1": "Janvier",
+        "2": "Février",
+        "3": "Mars",
+        "4": "Avril",
+        "5": "Mai",
+        "6": "Juin",
+        "7": "Juillet",
+        "8": "Août",
+        "9": "Septembre",
+        "10": "Octobre",
+        "11": "Novembre",
+        "12": "Décembre"
+      }
+    },
+    "columns": {
+      "icon": "Icône",
+      "id": "ID",
+      "name": "Nom",
+      "game": "Jeu",
+      "baseGame": "Jeu de Base",
+      "releaseDate": "Date de Sortie",
+      "version": "Version",
+      "size": "Taille"
+    },
+    "pagination": {
+      "perPage": "{{count}} par page",
+      "page": "Page {{current}} sur {{total}}",
+      "first": "Première",
+      "previous": "Précédente",
+      "next": "Suivante",
+      "last": "Dernière"
+    },
+    "home": {
+      "title": "Accueil",
+      "backToHome": "Retour à l'accueil"
+    }
+  },
+  "releaseTimer": {
+    "noDate": "Pas de date disponible",
+    "invalidDate": "Date invalide"
+  }
+}

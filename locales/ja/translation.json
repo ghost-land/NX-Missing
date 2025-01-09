@@ -1,0 +1,77 @@
+{
+  "app": {
+    "title": "NX 未収録コンテンツトラッカー",
+    "version": "バージョン",
+    "viewOnGithub": "GitHubで見る"
+  },
+  "home": {
+    "title": "Nintendo Switch 未収録コンテンツトラッカー",
+    "description": "eShopで利用可能だがまだ抽出されていないNintendo Switchコンテンツを追跡します。これにはゲーム、DLC、アップデートが含まれます。すでに抽出されたコンテンツを見るには、こちらをご覧ください",
+    "viewAll": "すべての未収録コンテンツを表示",
+    "about": {
+      "title": "このコンテンツについて",
+      "description": "以下に表示されているのは、Nintendo eShopで利用可能な最新の10件のリリースと今後のコンテンツで、まだ抽出されていないものです。これは保存が必要な新しいコンテンツを追跡するのに役立ちます。"
+    },
+    "stats": {
+      "totalItems": "総アイテム数",
+      "missingTitles": "未収録タイトル",
+      "missingDlcs": "未収録DLC",
+      "missingUpdates": "未収録アップデート",
+      "missingOldUpdates": "未収録の古いアップデート"
+    },
+    "sections": {
+      "games": "ゲーム",
+      "updates": "アップデート",
+      "dlcs": "DLC",
+      "latestReleases": "最新リリース",
+      "comingSoon": "近日公開"
+    }
+  },
+  "table": {
+    "search": "検索...",
+    "filters": {
+      "allYears": "すべての年",
+      "allMonths": "すべての月",
+      "months": {
+        "1": "1月",
+        "2": "2月",
+        "3": "3月",
+        "4": "4月",
+        "5": "5月",
+        "6": "6月",
+        "7": "7月",
+        "8": "8月",
+        "9": "9月",
+        "10": "10月",
+        "11": "11月",
+        "12": "12月"
+      }
+    },
+    "columns": {
+      "icon": "アイコン",
+      "id": "ID",
+      "name": "名前",
+      "game": "ゲーム",
+      "baseGame": "ベースゲーム",
+      "releaseDate": "発売日",
+      "version": "バージョン",
+      "size": "サイズ"
+    },
+    "pagination": {
+      "perPage": "ページあたり{{count}}件",
+      "page": "ページ {{current}}/{{total}}",
+      "first": "最初",
+      "previous": "前へ",
+      "next": "次へ",
+      "last": "最後"
+    },
+    "home": {
+      "title": "ホーム",
+      "backToHome": "ホームに戻る"
+    }
+  },
+  "releaseTimer": {
+    "noDate": "日付なし",
+    "invalidDate": "無効な日付"
+  }
+}

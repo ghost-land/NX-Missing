@@ -1,0 +1,77 @@
+{
+  "app": {
+    "title": "Rastreador de Contenido NX Faltante",
+    "version": "Versión",
+    "viewOnGithub": "Ver en GitHub"
+  },
+  "home": {
+    "title": "Rastreador de Contenido Nintendo Switch Faltante",
+    "description": "Rastrea el contenido de Nintendo Switch faltante que está disponible en la eShop pero aún no ha sido extraído. Esto incluye juegos, DLC y actualizaciones. Para ver el contenido que ya ha sido extraído, visita",
+    "viewAll": "Ver Todo el Contenido Faltante",
+    "about": {
+      "title": "Acerca de este Contenido",
+      "description": "Los elementos mostrados a continuación son los 10 lanzamientos más recientes y el contenido próximo disponible en la Nintendo eShop que aún no han sido extraídos. Esto ayuda a rastrear el nuevo contenido que necesita ser preservado."
+    },
+    "stats": {
+      "totalItems": "Total de Elementos",
+      "missingTitles": "Títulos Faltantes",
+      "missingDlcs": "DLC Faltantes",
+      "missingUpdates": "Actualizaciones Faltantes",
+      "missingOldUpdates": "Actualizaciones Antiguas Faltantes"
+    },
+    "sections": {
+      "games": "Juegos",
+      "updates": "Actualizaciones",
+      "dlcs": "DLC",
+      "latestReleases": "Últimos Lanzamientos",
+      "comingSoon": "Próximamente"
+    }
+  },
+  "table": {
+    "search": "Buscar...",
+    "filters": {
+      "allYears": "Todos los Años",
+      "allMonths": "Todos los Meses",
+      "months": {
+        "1": "Enero",
+        "2": "Febrero",
+        "3": "Marzo",
+        "4": "Abril",
+        "5": "Mayo",
+        "6": "Junio",
+        "7": "Julio",
+        "8": "Agosto",
+        "9": "Septiembre",
+        "10": "Octubre",
+        "11": "Noviembre",
+        "12": "Diciembre"
+      }
+    },
+    "columns": {
+      "icon": "Icono",
+      "id": "ID",
+      "name": "Nombre",
+      "game": "Juego",
+      "baseGame": "Juego Base",
+      "releaseDate": "Fecha de Lanzamiento",
+      "version": "Versión",
+      "size": "Tamaño"
+    },
+    "pagination": {
+      "perPage": "{{count}} por página",
+      "page": "Página {{current}} de {{total}}",
+      "first": "Primera",
+      "previous": "Anterior",
+      "next": "Siguiente",
+      "last": "Última"
+    },
+    "home": {
+      "title": "Inicio",
+      "backToHome": "Volver al inicio"
+    }
+  },
+  "releaseTimer": {
+    "noDate": "Sin fecha disponible",
+    "invalidDate": "Fecha inválida"
+  }
+}

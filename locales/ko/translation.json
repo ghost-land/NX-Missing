@@ -1,0 +1,77 @@
+{
+  "app": {
+    "title": "NX 누락 콘텐츠 트래커",
+    "version": "버전",
+    "viewOnGithub": "GitHub에서 보기"
+  },
+  "home": {
+    "title": "Nintendo Switch 누락 콘텐츠 트래커",
+    "description": "eShop에서 이용 가능하지만 아직 추출되지 않은 Nintendo Switch 콘텐츠를 추적합니다. 여기에는 게임, DLC 및 업데이트가 포함됩니다. 이미 추출된 콘텐츠를 보려면 다음을 방문하세요",
+    "viewAll": "모든 누락 콘텐츠 보기",
+    "about": {
+      "title": "이 콘텐츠에 대하여",
+      "description": "아래에 표시된 항목은 Nintendo eShop에서 이용 가능한 최신 10개의 출시작과 예정된 콘텐츠 중 아직 추출되지 않은 것입니다. 이는 보존이 필요한 새로운 콘텐츠를 추적하는 데 도움이 됩니다."
+    },
+    "stats": {
+      "totalItems": "전체 항목",
+      "missingTitles": "누락된 타이틀",
+      "missingDlcs": "누락된 DLC",
+      "missingUpdates": "누락된 업데이트",
+      "missingOldUpdates": "누락된 이전 업데이트"
+    },
+    "sections": {
+      "games": "게임",
+      "updates": "업데이트",
+      "dlcs": "DLC",
+      "latestReleases": "최신 출시작",
+      "comingSoon": "출시 예정"
+    }
+  },
+  "table": {
+    "search": "검색...",
+    "filters": {
+      "allYears": "모든 연도",
+      "allMonths": "모든 월",
+      "months": {
+        "1": "1월",
+        "2": "2월",
+        "3": "3월",
+        "4": "4월",
+        "5": "5월",
+        "6": "6월",
+        "7": "7월",
+        "8": "8월",
+        "9": "9월",
+        "10": "10월",
+        "11": "11월",
+        "12": "12월"
+      }
+    },
+    "columns": {
+      "icon": "아이콘",
+      "id": "ID",
+      "name": "이름",
+      "game": "게임",
+      "baseGame": "기본 게임",
+      "releaseDate": "출시일",
+      "version": "버전",
+      "size": "크기"
+    },
+    "pagination": {
+      "perPage": "페이지당 {{count}}개",
+      "page": "페이지 {{current}}/{{total}}",
+      "first": "처음",
+      "previous": "이전",
+      "next": "다음",
+      "last": "마지막"
+    },
+    "home": {
+      "title": "홈",
+      "backToHome": "홈으로 돌아가기"
+    }
+  },
+  "releaseTimer": {
+    "noDate": "날짜 없음",
+    "invalidDate": "잘못된 날짜"
+  }
+}
