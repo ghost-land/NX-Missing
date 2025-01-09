@@ -9,19 +9,36 @@ jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
+      # Step 1: Check out the repository
       - name: Checkout the repository
         uses: actions/checkout@v3
 
+      # Step 2: Set up Node.js
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
           node-version: 22
 
+      # Step 3: Check and synchronize package-lock.json if necessary
+      - name: Check and synchronize package-lock.json
+        run: |
+          if ! npm ci --dry-run > /dev/null 2>&1; then
+            echo "package-lock.json is not in sync with package.json. Synchronizing..."
+            npm install
+            git add package-lock.json
+            git commit -m "Auto-sync package-lock.json with package.json"
+            git push
+          else
+            echo "package.json and package-lock.json are in sync."
+          fi
+
+      # Step 4: Install dependencies and build the project
       - name: Install dependencies and build
         run: |
           npm ci
           npm run build
 
+      # Step 5: Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
