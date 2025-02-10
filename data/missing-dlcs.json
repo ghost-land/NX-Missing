@@ -79,7 +79,7 @@
     },
     "01000c001f82b001": {
         "Release Date": "2025-03-18",
-        "dlc_name": "Digital Deluxe Edition Bonus Content",
+        "dlc_name": "Bonuscontent Digital Deluxe Edition",
         "base_game": "Unknown Base Game",
         "size": 3145728
     },
@@ -175,7 +175,7 @@
     },
     "010027901c89d001": {
         "Release Date": "2025-01-30",
-        "dlc_name": "Deluxe Edition",
+        "dlc_name": "Deluxe Editie",
         "base_game": "Hello Kitty Island Adventure",
         "size": 3145728
     },
@@ -334,6 +334,24 @@
         "dlc_name": "Neptunia Riders VS Dogoos Costume Set",
         "base_game": "Neptunia Riders VS Dogoos",
         "size": 0
+    },
+    "0100766021751001": {
+        "Release Date": "2025-01-24",
+        "dlc_name": "Santa's Adventure: Music Pack",
+        "base_game": "\u8056\u8a95\u8001\u4eba\u7684\u5192\u96aa\uff1a\u8056\u8a95\u79ae\u7269\u6436\u8cfc - Santa's Adventure: Christmas Gifts Rush",
+        "size": 3145728
+    },
+    "0100b24021541001": {
+        "Release Date": "2025-01-24",
+        "dlc_name": "Sky Diving: Cash Flight",
+        "base_game": "Sky Diving: Parachute Flight Simulator",
+        "size": 3145728
+    },
+    "0100b24021541002": {
+        "Release Date": "2025-01-24",
+        "dlc_name": "Sky Diving: Backpack Customization",
+        "base_game": "Sky Diving: Parachute Flight Simulator",
+        "size": 3145728
     },
     "010091201b797001": {
         "Release Date": "2025-01-23",
@@ -665,12 +683,6 @@
         "base_game": "Star Trek: Legends",
         "size": 3145728
     },
-    "0100766021751001": {
-        "Release Date": "2024-12-26",
-        "dlc_name": "Santa's Adventure: Music Pack",
-        "base_game": "\u8056\u8a95\u8001\u4eba\u7684\u5192\u96aa\uff1a\u8056\u8a95\u79ae\u7269\u6436\u8cfc - Santa's Adventure: Christmas Gifts Rush",
-        "size": 3145728
-    },
     "010043c01fe69001": {
         "Release Date": "2024-12-26",
         "dlc_name": "\uc720\uc801 \ud0d0\uc0c9\uc790 - DLC1: \ubaa8\ud2f0\uc544\uc758 \uc720\uc0b0(Artifact Seeker - DLC 1: The Legacy of Mortia)",
@@ -679,7 +691,7 @@
     },
     "01008e401e6d1001": {
         "Release Date": "2024-12-24",
-        "dlc_name": "The Smurfs - Dreams - Cosmic Costume",
+        "dlc_name": "De Smurfen - Dreams - Cosmic Costume",
         "base_game": "The Smurfs \u2013 Dreams",
         "size": 3145728
     },
@@ -729,18 +741,6 @@
         "Release Date": "2024-12-21",
         "dlc_name": "Block Jam: Cute Power",
         "base_game": "Block Jam",
-        "size": 3145728
-    },
-    "0100b24021541002": {
-        "Release Date": "2024-12-19",
-        "dlc_name": "Sky Diving: Backpack Customization",
-        "base_game": "Sky Diving: Parachute Flight Simulator",
-        "size": 3145728
-    },
-    "0100b24021541001": {
-        "Release Date": "2024-12-19",
-        "dlc_name": "Sky Diving: Cash Flight",
-        "base_game": "Sky Diving: Parachute Flight Simulator",
         "size": 3145728
     },
     "0100d5c01faad001": {
@@ -1075,37 +1075,37 @@
     },
     "0100b2301f4a9006": {
         "Release Date": "2024-11-19",
-        "dlc_name": "LIFE IS STRANGE: DOUBLE EXPOSURE - SPOOKY OUTFIT PACK",
+        "dlc_name": "LIFE IS STRANGE: DOUBLE EXPOSURE \u2013 SPOOKY-OUTFITPACK",
         "base_game": "Life is Strange: Double Exposure",
         "size": 3145728
     },
     "0100b2301f4a9001": {
         "Release Date": "2024-11-19",
-        "dlc_name": "LIFE IS STRANGE: DOUBLE EXPOSURE - DECADES OUTFIT PACK",
+        "dlc_name": "LIFE IS STRANGE: DOUBLE EXPOSURE \u2013 DECADES-OUTFITPACK",
         "base_game": "Life is Strange: Double Exposure",
         "size": 3145728
     },
     "0100b2301f4a9002": {
         "Release Date": "2024-11-19",
-        "dlc_name": "LIFE IS STRANGE: DOUBLE EXPOSURE - FAN FAVORITE OUTFIT PACK",
+        "dlc_name": "LIFE IS STRANGE: DOUBLE EXPOSURE \u2013 FAN FAVORITE-OUTFITPACK",
         "base_game": "Life is Strange: Double Exposure",
         "size": 3145728
     },
     "0100b2301f4a9003": {
         "Release Date": "2024-11-19",
-        "dlc_name": "LIFE IS STRANGE: DOUBLE EXPOSURE - FINAL FANTASY VII OUTFIT PACK",
+        "dlc_name": "LIFE IS STRANGE: DOUBLE EXPOSURE \u2013 FINAL FANTASY VII-OUTFITPACK",
         "base_game": "Life is Strange: Double Exposure",
         "size": 3145728
     },
     "0100b2301f4a9004": {
         "Release Date": "2024-11-19",
-        "dlc_name": "LIFE IS STRANGE: DOUBLE EXPOSURE - PAW PRINTS CAT OUTFIT PACK",
+        "dlc_name": "LIFE IS STRANGE: DOUBLE EXPOSURE \u2013 PAW PRINTS CAT-OUTFITPACK",
         "base_game": "Life is Strange: Double Exposure",
         "size": 3145728
     },
     "0100b2301f4a9005": {
         "Release Date": "2024-11-19",
-        "dlc_name": "LIFE IS STRANGE: DOUBLE EXPOSURE - EXCLUSIVE CAT CONTENT",
+        "dlc_name": "LIFE IS STRANGE: DOUBLE EXPOSURE \u2013 EXCLUSIEVE KATTENCONTENT",
         "base_game": "Life is Strange: Double Exposure",
         "size": 3145728
     },
@@ -1397,6 +1397,12 @@
         "base_game": "Let's Sing 2025",
         "size": 1066401792
     },
+    "01001c101ed11006": {
+        "Release Date": "2024-11-05",
+        "dlc_name": "Let's Sing 2025 - Hits from UK",
+        "base_game": "Let's Sing 2025",
+        "size": 1066401792
+    },
     "01001c101ed11008": {
         "Release Date": "2024-11-05",
         "dlc_name": "Let's Sing 2025 - Pase vip de PROS",
@@ -1408,12 +1414,6 @@
         "dlc_name": "Let's Sing 2025 - German Hits",
         "base_game": "Let's Sing 2025",
         "size": 1076887552
-    },
-    "01001c101ed11006": {
-        "Release Date": "2024-11-05",
-        "dlc_name": "Let's Sing 2025 - Hits from UK",
-        "base_game": "Let's Sing 2025",
-        "size": 1066401792
     },
     "01001c101ed11005": {
         "Release Date": "2024-11-05",
@@ -1475,6 +1475,48 @@
         "base_game": "Giant Rush",
         "size": 0
     },
+    "01009370207ff001": {
+        "Release Date": "2024-11-01",
+        "dlc_name": "Experience x3 - Journey to Kreisia",
+        "base_game": "Journey to Kreisia",
+        "size": 3145728
+    },
+    "01009370207ff002": {
+        "Release Date": "2024-11-01",
+        "dlc_name": "Weapon Level x3 - Journey to Kreisia",
+        "base_game": "Journey to Kreisia",
+        "size": 3145728
+    },
+    "01009370207ff003": {
+        "Release Date": "2024-11-01",
+        "dlc_name": "Experience & Weapon Level x2 - Journey to Kreisia",
+        "base_game": "Journey to Kreisia",
+        "size": 3145728
+    },
+    "01009370207ff004": {
+        "Release Date": "2024-11-01",
+        "dlc_name": "No Encounters - Journey to Kreisia",
+        "base_game": "Journey to Kreisia",
+        "size": 3145728
+    },
+    "01009370207ff005": {
+        "Release Date": "2024-11-01",
+        "dlc_name": "Damage x2 - Journey to Kreisia",
+        "base_game": "Journey to Kreisia",
+        "size": 3145728
+    },
+    "01009370207ff006": {
+        "Release Date": "2024-11-01",
+        "dlc_name": "Full Restore - Journey to Kreisia",
+        "base_game": "Journey to Kreisia",
+        "size": 3145728
+    },
+    "01009370207ff007": {
+        "Release Date": "2024-11-01",
+        "dlc_name": "No Skill Cost - Journey to Kreisia",
+        "base_game": "Journey to Kreisia",
+        "size": 3145728
+    },
     "010037c01e2a300d": {
         "Release Date": "2024-11-01",
         "dlc_name": "Buddy Skin Bundle",
@@ -1521,48 +1563,6 @@
         "Release Date": "2024-11-01",
         "dlc_name": "\ud30c\ub9c8\uae30\uc544 (FARMAGIA) \ub514\uc9c0\ud138 \uc544\ud2b8 \ubd81 & \ub514\uc9c0\ud138 \uc0ac\uc6b4\ub4dc\ud2b8\ub799",
         "base_game": "\u9b54\u8fb2\u50b3\u8a18 FARMAGIA",
-        "size": 3145728
-    },
-    "01009370207ff001": {
-        "Release Date": "2024-11-01",
-        "dlc_name": "Experience x3 - Journey to Kreisia",
-        "base_game": "Journey to Kreisia",
-        "size": 3145728
-    },
-    "01009370207ff002": {
-        "Release Date": "2024-11-01",
-        "dlc_name": "Weapon level x3 - Journey to Kreisia",
-        "base_game": "Journey to Kreisia",
-        "size": 3145728
-    },
-    "01009370207ff003": {
-        "Release Date": "2024-11-01",
-        "dlc_name": "Experience & Weapon level x2 - Journey to Kreisia",
-        "base_game": "Journey to Kreisia",
-        "size": 3145728
-    },
-    "01009370207ff004": {
-        "Release Date": "2024-11-01",
-        "dlc_name": "No Encounters - Journey to Kreisia",
-        "base_game": "Journey to Kreisia",
-        "size": 3145728
-    },
-    "01009370207ff005": {
-        "Release Date": "2024-11-01",
-        "dlc_name": "Damage x2 - Journey to Kreisia",
-        "base_game": "Journey to Kreisia",
-        "size": 3145728
-    },
-    "01009370207ff006": {
-        "Release Date": "2024-11-01",
-        "dlc_name": "Full Restore - Journey to Kreisia",
-        "base_game": "Journey to Kreisia",
-        "size": 3145728
-    },
-    "01009370207ff007": {
-        "Release Date": "2024-11-01",
-        "dlc_name": "No Skill Cost - Journey to Kreisia",
-        "base_game": "Journey to Kreisia",
         "size": 3145728
     },
     "0100cf80118c9032": {
@@ -1663,7 +1663,7 @@
     },
     "010045301b86d001": {
         "Release Date": "2024-10-24",
-        "dlc_name": "Romancing SaGa 2: Revenge of the Seven Bonus Accessory Set",
+        "dlc_name": "Romancing SaGa 2: Revenge of the Seven Extra Accessoireset",
         "base_game": "Romancing Saga 2: Revenge of the Seven",
         "size": 3145728
     },
@@ -2011,7 +2011,7 @@
     },
     "01006560184e701c": {
         "Release Date": "2024-09-24",
-        "dlc_name": "MK1: Pre-order Khaos Reigns Skin Pack",
+        "dlc_name": "MK1: pre-order Khaos Reigns-skinpack",
         "base_game": "Mortal Kombat\u2122 1",
         "size": 3145728
     },
@@ -2027,15 +2027,15 @@
         "base_game": "Farm It",
         "size": 3145728
     },
-    "0100f3a0206c7001": {
-        "Release Date": "2024-09-19",
-        "dlc_name": "Heavy Hand: Coin Collector\u2019s Bounty",
+    "0100f3a0206c7002": {
+        "Release Date": "2024-09-20",
+        "dlc_name": "Heavy Hand: Dynamic Duo Unleashed",
         "base_game": "Heavy Hand: Pixel Tree Forest Fury",
         "size": 3145728
     },
-    "0100f3a0206c7002": {
-        "Release Date": "2024-09-19",
-        "dlc_name": "Heavy Hand: Dynamic Duo Unleashed",
+    "0100f3a0206c7001": {
+        "Release Date": "2024-09-20",
+        "dlc_name": "Heavy Hand: Coin Collector\u2019s Bounty",
         "base_game": "Heavy Hand: Pixel Tree Forest Fury",
         "size": 3145728
     },
@@ -2137,7 +2137,7 @@
     },
     "01006b0016ad712b": {
         "Release Date": "2024-09-05",
-        "dlc_name": "Taiko no Tatsujin: Rhythm Festival - Pack de temas de apertura de KAMEN RIDER",
+        "dlc_name": "Taiko no Tatsujin: Rhythm Festival - KAMEN RIDER Opening Theme Songs Pack",
         "base_game": "Taiko no Tatsujin: Rhythm Festival",
         "size": 3145728
     },
@@ -2221,7 +2221,7 @@
     },
     "0100f9301b30d001": {
         "Release Date": "2024-08-30",
-        "dlc_name": "as well as special titles!",
+        "dlc_name": "<Titel>",
         "base_game": "Umamusume: Pretty Derby \u2013 Party Dash",
         "size": 3145728
     },
@@ -3649,7 +3649,7 @@
     },
     "0100926016013009": {
         "Release Date": "2024-07-18",
-        "dlc_name": "PowerWash Simulator \u2013 Muckingham Files \u2013 Part 3",
+        "dlc_name": "PowerWash Simulator \u2013 Muckingham Files \u2013 Deel 3",
         "base_game": "PowerWash Simulator",
         "size": 207618048
     },
@@ -4543,13 +4543,13 @@
     },
     "01009e201f359001": {
         "Release Date": "2024-07-08",
-        "dlc_name": "Bug & Seek: Isopods Expansion",
+        "dlc_name": "Bug & Seek: Isopods",
         "base_game": "Bug & Seek",
         "size": 3145728
     },
     "01009e201f359002": {
         "Release Date": "2024-07-08",
-        "dlc_name": "Bug & Seek: Weevils Expansion",
+        "dlc_name": "Bug & Seek: Weevils",
         "base_game": "Bug & Seek",
         "size": 3145728
     },
@@ -4585,7 +4585,7 @@
     },
     "0100d5601eb0d004": {
         "Release Date": "2024-07-04",
-        "dlc_name": "New Character:Hildr",
+        "dlc_name": "New Character: Hildr",
         "base_game": "Taboo Trial",
         "size": 3145728
     },
@@ -4669,13 +4669,13 @@
     },
     "0100926016013008": {
         "Release Date": "2024-07-02",
-        "dlc_name": "PowerWash Simulator \u2013 Alice\u2019s Adventures Special Pack",
+        "dlc_name": "PowerWash Simulator \u2013 Alice's Adventures Special-pack",
         "base_game": "PowerWash Simulator",
         "size": 352321536
     },
     "0100e7301d41d002": {
         "Release Date": "2024-06-28",
-        "dlc_name": "PAWfectly Designed - Extra Mission",
+        "dlc_name": "PAWfectly Designed - Extra Missie",
         "base_game": "PAWfectly Designed",
         "size": 3145728
     },
@@ -5017,7 +5017,7 @@
     },
     "010039801d79b001": {
         "Release Date": "2024-06-10",
-        "dlc_name": "Pony World - Color by Numbers Spring DLC",
+        "dlc_name": "Pony World - Kleuren op Nummer Lente DLC",
         "base_game": "Pony World - Color by Numbers",
         "size": 14680064
     },
@@ -5293,7 +5293,7 @@
     },
     "01000d3013e8d001": {
         "Release Date": "2024-05-30",
-        "dlc_name": "World 3 - New Kelp City",
+        "dlc_name": "Wereld 3 - New Kelp City!",
         "base_game": "SpongeBob: Krusty Cook-Off",
         "size": 3145728
     },
@@ -5359,13 +5359,13 @@
     },
     "010000b01a453007": {
         "Release Date": "2024-05-29",
-        "dlc_name": "Jujutsu Kaisen Cursed Clash - Inventario oculto/Muerte prematura",
+        "dlc_name": "Jujutsu Kaisen Cursed Clash - Hidden Inventory/Premature Death",
         "base_game": "Jujutsu Kaisen Cursed Clash",
         "size": 3145728
     },
     "010000b01a45300a": {
         "Release Date": "2024-05-29",
-        "dlc_name": "Jujutsu Kaisen Cursed Clash - Conjunto de ropa del tema final 1 del anime",
+        "dlc_name": "Jujutsu Kaisen Cursed Clash - Anime Ending Theme 1 Outfit Set",
         "base_game": "Jujutsu Kaisen Cursed Clash",
         "size": 3145728
     },
@@ -5983,7 +5983,7 @@
     },
     "01008be01e1c3001": {
         "Release Date": "2024-04-25",
-        "dlc_name": "Pre-order Bonus",
+        "dlc_name": "Pre-orderbonus",
         "base_game": "SaGa Emerald Beyond",
         "size": 3145728
     },
@@ -6451,13 +6451,13 @@
     },
     "010073901802100f": {
         "Release Date": "2024-03-13",
-        "dlc_name": "LEGO\u00ae 2K Drive Season 4 Coin Bundle",
+        "dlc_name": "LEGO\u00ae 2K Drive Seizoen 4 Munten Bundel",
         "base_game": "LEGO\u00ae 2K Drive",
         "size": 3145728
     },
     "01004c400cf9702a": {
         "Release Date": "2024-03-12",
-        "dlc_name": "Dead by Daylight: All Things Wicked Chapter",
+        "dlc_name": "Dead by Daylight: All Things Wicked-hoofdstuk",
         "base_game": "Dead by Daylight",
         "size": 3145728
     },
@@ -7423,7 +7423,7 @@
     },
     "01004c400cf97029": {
         "Release Date": "2024-01-30",
-        "dlc_name": "Dead by Daylight: Alan Wake Chapter",
+        "dlc_name": "Dead by Daylight: Alan Wake-hoofdstuk",
         "base_game": "Dead by Daylight",
         "size": 3145728
     },
@@ -7807,7 +7807,7 @@
     },
     "01004c400cf97028": {
         "Release Date": "2023-11-28",
-        "dlc_name": "Dead by Daylight: Chucky Chapter",
+        "dlc_name": "Dead by Daylight: Chucky-hoofdstuk",
         "base_game": "Dead by Daylight",
         "size": 3145728
     },
@@ -7867,43 +7867,43 @@
     },
     "0100cc701a0bd065": {
         "Release Date": "2023-11-03",
-        "dlc_name": "Loungewear Outfit Patterns",
+        "dlc_name": "Loungewear Outfit-patronen",
         "base_game": "Fashion Dreamer",
         "size": 3145728
     },
     "0100cc701a0bd066": {
         "Release Date": "2023-11-03",
-        "dlc_name": "Model Outfit Patterns",
+        "dlc_name": "Model Outfit-patronen",
         "base_game": "Fashion Dreamer",
         "size": 3145728
     },
     "0100cc701a0bd069": {
         "Release Date": "2023-11-03",
-        "dlc_name": "Pop Outfit Patterns",
+        "dlc_name": "Pop Outfit-patronen",
         "base_game": "Fashion Dreamer",
         "size": 3145728
     },
     "0100cc701a0bd068": {
         "Release Date": "2023-11-03",
-        "dlc_name": "Cute Outfit Patterns",
+        "dlc_name": "Cute Outfit-patronen",
         "base_game": "Fashion Dreamer",
         "size": 3145728
     },
     "0100cc701a0bd06b": {
         "Release Date": "2023-11-03",
-        "dlc_name": "Sporty Outfit Patterns",
+        "dlc_name": "Sporty Outfit-patronen",
         "base_game": "Fashion Dreamer",
         "size": 3145728
     },
     "0100cc701a0bd067": {
         "Release Date": "2023-11-03",
-        "dlc_name": "Gothic Outfit Patterns",
+        "dlc_name": "Gothic Outfit-patronen",
         "base_game": "Fashion Dreamer",
         "size": 3145728
     },
     "0100cc701a0bd06a": {
         "Release Date": "2023-11-03",
-        "dlc_name": "Cool Outfit Patterns",
+        "dlc_name": "Cool Outfit-patronen",
         "base_game": "Fashion Dreamer",
         "size": 3145728
     },
@@ -9439,7 +9439,7 @@
     },
     "01004c400cf97021": {
         "Release Date": "2023-06-19",
-        "dlc_name": "Dead by Daylight x Attack on Titan: Armored\u202fPack",
+        "dlc_name": "Dead by Daylight x Attack on Titan: Armored Pack",
         "base_game": "Dead by Daylight",
         "size": 3145728
     },
@@ -11527,13 +11527,13 @@
     },
     "0100b040117430b6": {
         "Release Date": "2022-06-30",
-        "dlc_name": "\"Morale Boost\" gesture",
+        "dlc_name": "\"Morale Boost\"-gebaar",
         "base_game": "Monster Hunter Rise",
         "size": 3145728
     },
     "0100b040117430b7": {
         "Release Date": "2022-06-30",
-        "dlc_name": "\"Warm Up\" gesture",
+        "dlc_name": "\"Warm Up\"-gebaar",
         "base_game": "Monster Hunter Rise",
         "size": 3145728
     },
@@ -11557,7 +11557,7 @@
     },
     "01003ed016e53001": {
         "Release Date": "2022-06-24",
-        "dlc_name": "Exclusive new illustrations & music remixes",
+        "dlc_name": "Exclusieve nieuwe illustraties en muziekremixes",
         "base_game": "Capcom Fighting Collection",
         "size": 3145728
     },
@@ -22415,24 +22415,6 @@
         "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
         "size": 2350907392
     },
-    "0100a0800e9c5001": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (PL)",
-        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
-        "size": 2349858816
-    },
-    "0100a0800e9c5005": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (FR)",
-        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
-        "size": 2334130176
-    },
-    "0100a0800e9c5003": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (DE)",
-        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
-        "size": 2364538880
-    },
     "010039400e8d7003": {
         "Release Date": "2020-02-26",
         "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (DE)",
@@ -22450,6 +22432,24 @@
         "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (RU)",
         "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
         "size": 2441084928
+    },
+    "0100a0800e9c5001": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (PL)",
+        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
+        "size": 2349858816
+    },
+    "0100a0800e9c5005": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (FR)",
+        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
+        "size": 2334130176
+    },
+    "0100a0800e9c5003": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (DE)",
+        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
+        "size": 2364538880
     },
     "010076f00e9c9001": {
         "Release Date": "2020-02-26",
