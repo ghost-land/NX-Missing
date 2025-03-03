@@ -2075,17 +2075,17 @@
         "base_game": "Let's Sing 2025",
         "size": 3145728
     },
-    "01001c101ed11003": {
-        "Release Date": "2024-11-05",
-        "dlc_name": "Let's Sing 2025 - German Hits",
-        "base_game": "Let's Sing 2025",
-        "size": 1076887552
-    },
     "01001c101ed11006": {
         "Release Date": "2024-11-05",
         "dlc_name": "Let's Sing 2025 - Hits from UK",
         "base_game": "Let's Sing 2025",
         "size": 1066401792
+    },
+    "01001c101ed11003": {
+        "Release Date": "2024-11-05",
+        "dlc_name": "Let's Sing 2025 - German Hits",
+        "base_game": "Let's Sing 2025",
+        "size": 1076887552
     },
     "01001c101ed11005": {
         "Release Date": "2024-11-05",
@@ -5245,13 +5245,13 @@
     },
     "01009e201f359001": {
         "Release Date": "2024-07-08",
-        "dlc_name": "Bug & Seek: Isopods",
+        "dlc_name": "Bug & Seek: Isopods Expansion",
         "base_game": "Bug & Seek",
         "size": 3145728
     },
     "01009e201f359002": {
         "Release Date": "2024-07-08",
-        "dlc_name": "Bug & Seek: Weevils",
+        "dlc_name": "Bug & Seek: Weevils Expansion",
         "base_game": "Bug & Seek",
         "size": 3145728
     },
@@ -5293,7 +5293,7 @@
     },
     "0100d5601eb0d004": {
         "Release Date": "2024-07-04",
-        "dlc_name": "New Character: Hildr",
+        "dlc_name": "New Character:Hildr",
         "base_game": "Taboo Trial",
         "size": 3145728
     },
@@ -5395,7 +5395,7 @@
     },
     "0100e7301d41d002": {
         "Release Date": "2024-06-28",
-        "dlc_name": "PAWfectly Designed - Extra Missie",
+        "dlc_name": "PAWfectly Designed - Extra Mission",
         "base_game": "PAWfectly Designed",
         "size": 3145728
     },
@@ -5453,6 +5453,12 @@
         "base_game": "Burst Hero",
         "size": 3145728
     },
+    "0100016018865006": {
+        "Release Date": "2024-06-27",
+        "dlc_name": "Pathfinder: Wrath of the Righteous - A Dance of Masks",
+        "base_game": "Pathfinder: Wrath of the Righteous - Cloud Version",
+        "size": 3145728
+    },
     "010045d01afc9015": {
         "Release Date": "2024-06-27",
         "dlc_name": "\u8ffd\u52a0\u8863\u88c5\u3000\u685c\u30df\u30af",
@@ -5494,12 +5500,6 @@
         "dlc_name": "[Moving] Okinawa: Winds of the Ryukyu Islands",
         "base_game": "Jigsaw Masterpieces 2",
         "size": 61865984
-    },
-    "0100016018865006": {
-        "Release Date": "2024-06-26",
-        "dlc_name": "Pathfinder: Wrath of the Righteous - A Dance of Masks",
-        "base_game": "Pathfinder: Wrath of the Righteous - Cloud Version",
-        "size": 3145728
     },
     "0100354017669002": {
         "Release Date": "2024-06-25",
@@ -5677,7 +5677,7 @@
     },
     "010039801d79b001": {
         "Release Date": "2024-06-10",
-        "dlc_name": "Pony World - Kleuren op Nummer Lente DLC",
+        "dlc_name": "Pony World - Color by Numbers Spring DLC",
         "base_game": "Pony World - Color by Numbers",
         "size": 14680064
     },
@@ -7135,7 +7135,7 @@
     },
     "01004c400cf9702a": {
         "Release Date": "2024-03-12",
-        "dlc_name": "Dead by Daylight: All Things Wicked-hoofdstuk",
+        "dlc_name": "Dead by Daylight: All Things Wicked Chapter",
         "base_game": "Dead by Daylight",
         "size": 3145728
     },
@@ -8107,7 +8107,7 @@
     },
     "01005a001489b001": {
         "Release Date": "2024-01-26",
-        "dlc_name": "DoDonPachi Resurrectio Chiptune Disponere Novum",
+        "dlc_name": "DoDonPachi Resurrection Chiptune Arranger le son",
         "base_game": "DoDonPachi Resurrection",
         "size": 3145728
     },
@@ -8502,7 +8502,7 @@
         "size": 11534336
     },
     "0100016018865005": {
-        "Release Date": "2023-11-21",
+        "Release Date": "2023-11-22",
         "dlc_name": "Pathfinder: Wrath of the Righteous - The Lord of Nothing",
         "base_game": "Pathfinder: Wrath of the Righteous - Cloud Version",
         "size": 3145728
@@ -23087,6 +23087,24 @@
         "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
         "size": 2350907392
     },
+    "010039400e8d7003": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (DE)",
+        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
+        "size": 2365587456
+    },
+    "010039400e8d7005": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (FR)",
+        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
+        "size": 2335178752
+    },
+    "010039400e8d7002": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (RU)",
+        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
+        "size": 2441084928
+    },
     "0100a0800e9c5001": {
         "Release Date": "2020-02-26",
         "dlc_name": "\u042f\u0437\u044b\u043a\u043e\u0432\u043e\u0439 \u043f\u0430\u043a\u0435\u0442 '\u0412\u0435\u0434\u044c\u043c\u0430\u043a 3: \u0414\u0438\u043a\u0430\u044f \u041e\u0445\u043e\u0442\u0430 \u2014 \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435' (PL)",
@@ -23115,24 +23133,6 @@
         "Release Date": "2020-02-26",
         "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (RU)",
         "base_game": "Unknown Base Game",
-        "size": 2441084928
-    },
-    "010039400e8d7003": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (DE)",
-        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
-        "size": 2365587456
-    },
-    "010039400e8d7005": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (FR)",
-        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
-        "size": 2335178752
-    },
-    "010039400e8d7002": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (RU)",
-        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
         "size": 2441084928
     },
     "0100d3200c52b001": {
