@@ -569,12 +569,6 @@
         "base_game": "Little Paws: Kitty Cat Simulator",
         "size": 3145728
     },
-    "01009820151b7003": {
-        "Release Date": "2025-02-20",
-        "dlc_name": "\u6e21\u795e\u7eaa \u82ac\u5c3c\u65af\u5d1b\u8d77\uff1a\u8bd5\u70bc",
-        "base_game": "Unknown Base Game",
-        "size": 7683964928
-    },
     "0100d1c020dd7065": {
         "Release Date": "2025-02-20",
         "dlc_name": "\u30ec\u30c8\u30ed\u30ec\u30eb\u30e0\u30ba: \u30ed\u30fc\u30ea\u30fc\u30fb\u30b9\u30c8\u30ed\u30fc\u30c9 (RetroRealms: Laurie Strode)",
@@ -598,6 +592,12 @@
         "dlc_name": "RetroRealms\uff1a\u6b7b\u970a\u306e\u306f\u3089\u308f\u305f \u30ea\u30bf\u30fc\u30f3\u30ba",
         "base_game": "RetroRealms",
         "size": 699400192
+    },
+    "01009820151b7003": {
+        "Release Date": "2025-02-20",
+        "dlc_name": "\u6e21\u795e\u7eaa \u82ac\u5c3c\u65af\u5d1b\u8d77\uff1a\u8bd5\u70bc",
+        "base_game": "Unknown Base Game",
+        "size": 7683964928
     },
     "01006a0021a75001": {
         "Release Date": "2025-02-14",
@@ -1451,36 +1451,6 @@
         "base_game": "Rage Swarm",
         "size": 3145728
     },
-    "01005fe020ac1002": {
-        "Release Date": "2024-11-29",
-        "dlc_name": "Lofi Chill Sessions: Haunted Vibes",
-        "base_game": "Lofi Chill Sessions: Relax Island",
-        "size": 3145728
-    },
-    "01005fe020ac1005": {
-        "Release Date": "2024-11-29",
-        "dlc_name": "Lofi Chill Sessions: Spooky Pack",
-        "base_game": "Lofi Chill Sessions: Relax Island",
-        "size": 3145728
-    },
-    "01005fe020ac1004": {
-        "Release Date": "2024-11-29",
-        "dlc_name": "Lofi Chill Sessions: Decor Anime Girl Collection",
-        "base_game": "Lofi Chill Sessions: Relax Island",
-        "size": 3145728
-    },
-    "01005fe020ac1003": {
-        "Release Date": "2024-11-29",
-        "dlc_name": "Lofi Chill Sessions: Dreamy Girl Beats",
-        "base_game": "Lofi Chill Sessions: Relax Island",
-        "size": 3145728
-    },
-    "01005fe020ac1001": {
-        "Release Date": "2024-11-29",
-        "dlc_name": "Lofi Chill Sessions: New Anime Girl",
-        "base_game": "Lofi Chill Sessions: Relax Island",
-        "size": 3145728
-    },
     "0100f6c01ae97001": {
         "Release Date": "2024-11-28",
         "dlc_name": "Crown Wars - Blood Pact Weapon Skins",
@@ -1491,6 +1461,36 @@
         "Release Date": "2024-11-28",
         "dlc_name": "Crown Wars - Brotherhood of Light Cosmetic Pack",
         "base_game": "Crown Wars: The Black Prince",
+        "size": 3145728
+    },
+    "01005fe020ac1002": {
+        "Release Date": "2024-11-28",
+        "dlc_name": "Lofi Chill Sessions: Haunted Vibes",
+        "base_game": "Lofi Chill Sessions: Relax Island",
+        "size": 3145728
+    },
+    "01005fe020ac1005": {
+        "Release Date": "2024-11-28",
+        "dlc_name": "Lofi Chill Sessions: Spooky Pack",
+        "base_game": "Lofi Chill Sessions: Relax Island",
+        "size": 3145728
+    },
+    "01005fe020ac1004": {
+        "Release Date": "2024-11-28",
+        "dlc_name": "Lofi Chill Sessions: Decor Anime Girl Collection",
+        "base_game": "Lofi Chill Sessions: Relax Island",
+        "size": 3145728
+    },
+    "01005fe020ac1003": {
+        "Release Date": "2024-11-28",
+        "dlc_name": "Lofi Chill Sessions: Dreamy Girl Beats",
+        "base_game": "Lofi Chill Sessions: Relax Island",
+        "size": 3145728
+    },
+    "01005fe020ac1001": {
+        "Release Date": "2024-11-28",
+        "dlc_name": "Lofi Chill Sessions: New Anime Girl",
+        "base_game": "Lofi Chill Sessions: Relax Island",
         "size": 3145728
     },
     "0100f7901cc3b002": {
@@ -1913,17 +1913,17 @@
         "base_game": "Let's Sing 2025",
         "size": 3145728
     },
-    "01001c101ed11006": {
-        "Release Date": "2024-11-05",
-        "dlc_name": "Let's Sing 2025 - Hits from UK",
-        "base_game": "Let's Sing 2025",
-        "size": 1066401792
-    },
     "01001c101ed11003": {
         "Release Date": "2024-11-05",
         "dlc_name": "Let's Sing 2025 - German Hits",
         "base_game": "Let's Sing 2025",
         "size": 1076887552
+    },
+    "01001c101ed11006": {
+        "Release Date": "2024-11-05",
+        "dlc_name": "Let's Sing 2025 - Hits from UK",
+        "base_game": "Let's Sing 2025",
+        "size": 1066401792
     },
     "01001c101ed11005": {
         "Release Date": "2024-11-05",
@@ -2513,16 +2513,16 @@
         "base_game": "Anime Puzzle Quest: The Magical Girls Adventure - \u52d5\u6f2b\u89e3\u8b0e\u4efb\u52d9\uff1a\u9b54\u6cd5\u5c11\u5973\u7684\u5192\u96aa",
         "size": 30408704
     },
-    "01004d901afdb001": {
-        "Release Date": "2024-09-25",
-        "dlc_name": "Disney Epic Mickey: Rebrushed - Costume Pack",
-        "base_game": "Disney Epic Mickey: Rebrushed",
-        "size": 3145728
-    },
     "01006560184e701c": {
         "Release Date": "2024-09-24",
         "dlc_name": "MK1: Pre-order Khaos Reigns Skin Pack",
         "base_game": "Mortal Kombat\u2122 1",
+        "size": 3145728
+    },
+    "01004d901afdb001": {
+        "Release Date": "2024-09-24",
+        "dlc_name": "Disney Epic Mickey: Rebrushed - Costume Pack",
+        "base_game": "Disney Epic Mickey: Rebrushed",
         "size": 3145728
     },
     "010070b01bebd001": {
@@ -2647,7 +2647,7 @@
     },
     "01006b0016ad712b": {
         "Release Date": "2024-09-05",
-        "dlc_name": "Taiko no Tatsujin: Rhythm Festival - KAMEN RIDER Opening Theme Songs Pack",
+        "dlc_name": "Taiko no Tatsujin: Rhythm Festival - Pack de chansons Th\u00e8mes d'ouverture KAMEN RIDER",
         "base_game": "Taiko no Tatsujin: Rhythm Festival",
         "size": 3145728
     },
@@ -2833,13 +2833,13 @@
     },
     "010000a017f97004": {
         "Release Date": "2024-08-29",
-        "dlc_name": "Gori: Cuddly Carnage  - Chinese Dragon Skin Pack",
+        "dlc_name": "Gori : Cuddly Carnage - Chinese Dragon premium Skin Pack",
         "base_game": "Gori: Cuddly Carnage",
         "size": 3145728
     },
     "010000a017f97003": {
         "Release Date": "2024-08-29",
-        "dlc_name": "Gori: Cuddly Carnage - Neon Neko Triple Skin Pack",
+        "dlc_name": "Gori Cuddly Carnage : Neon Neko Triple Skin Pack",
         "base_game": "Gori: Cuddly Carnage",
         "size": 3145728
     },
@@ -2975,12 +2975,6 @@
         "base_game": "Bowling Fever",
         "size": 3145728
     },
-    "01008e900706509f": {
-        "Release Date": "2024-08-16",
-        "dlc_name": "Modern Yukata Set: Violet",
-        "base_game": "WorldNeverland - Elnea Kingdom",
-        "size": 3145728
-    },
     "01008cd0172d7004": {
         "Release Date": "2024-08-16",
         "dlc_name": "DREDGE - The Iron Rig",
@@ -3016,6 +3010,12 @@
         "dlc_name": "Parking Masters - Bus Driver",
         "base_game": "Parking Masters",
         "size": 0
+    },
+    "01008e900706509f": {
+        "Release Date": "2024-08-15",
+        "dlc_name": "Modern Yukata Set: Violet",
+        "base_game": "WorldNeverland - Elnea Kingdom",
+        "size": 3145728
     },
     "01007250089f9087": {
         "Release Date": "2024-08-14",
@@ -3149,12 +3149,6 @@
         "base_game": "Shopping Mall Girl",
         "size": 3145728
     },
-    "01008e900706509e": {
-        "Release Date": "2024-08-02",
-        "dlc_name": "Modern Yukata Set: Vermilion",
-        "base_game": "WorldNeverland - Elnea Kingdom",
-        "size": 3145728
-    },
     "010074600cc7b00a": {
         "Release Date": "2024-08-02",
         "dlc_name": "2nd OBAKEIDORO! Fest Bundle",
@@ -3178,6 +3172,12 @@
         "dlc_name": "The Long Dark: Tales from the Far Territory",
         "base_game": "The Long Dark",
         "size": 818937856
+    },
+    "01008e900706509e": {
+        "Release Date": "2024-08-01",
+        "dlc_name": "Modern Yukata Set: Vermilion",
+        "base_game": "WorldNeverland - Elnea Kingdom",
+        "size": 3145728
     },
     "01006b0016ad7129": {
         "Release Date": "2024-08-01",
@@ -3205,7 +3205,7 @@
     },
     "01001e001c773005": {
         "Release Date": "2024-08-01",
-        "dlc_name": "Ariadne Level pack",
+        "dlc_name": "Ariadne Level Pack",
         "base_game": "Beauties Unveiled",
         "size": 3145728
     },
@@ -3979,7 +3979,7 @@
     },
     "0100697019027004": {
         "Release Date": "2024-07-24",
-        "dlc_name": "UNI2 Character Unlock: Uzuki",
+        "dlc_name": "UNI2 D\u00e9bloquer personnage : Uzuki",
         "base_game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
         "size": 3145728
     },
@@ -3993,36 +3993,6 @@
         "Release Date": "2024-07-22",
         "dlc_name": "Bus Simulator 2023: City Driver - Cash Boost Pack",
         "base_game": "Bus Simulator 2023: City Driver",
-        "size": 3145728
-    },
-    "010085201f027001": {
-        "Release Date": "2024-07-22",
-        "dlc_name": "Aimi's Secrets",
-        "base_game": "Love Elysium: Secret of the Goddess",
-        "size": 3145728
-    },
-    "010085201f027002": {
-        "Release Date": "2024-07-22",
-        "dlc_name": "Emiko's Secrets",
-        "base_game": "Love Elysium: Secret of the Goddess",
-        "size": 3145728
-    },
-    "010085201f027003": {
-        "Release Date": "2024-07-22",
-        "dlc_name": "Haru's Secrets",
-        "base_game": "Love Elysium: Secret of the Goddess",
-        "size": 3145728
-    },
-    "010085201f027004": {
-        "Release Date": "2024-07-22",
-        "dlc_name": "Tomoe's Secrets",
-        "base_game": "Love Elysium: Secret of the Goddess",
-        "size": 3145728
-    },
-    "010085201f027005": {
-        "Release Date": "2024-07-22",
-        "dlc_name": "Yuina's Secrets",
-        "base_game": "Love Elysium: Secret of the Goddess",
         "size": 3145728
     },
     "010023101f7f1001": {
@@ -4091,12 +4061,6 @@
         "base_game": "Stylist Girl",
         "size": 3145728
     },
-    "01008e9007065099": {
-        "Release Date": "2024-07-19",
-        "dlc_name": "Summer Hiking Wear Set: Lime",
-        "base_game": "WorldNeverland - Elnea Kingdom",
-        "size": 3145728
-    },
     "01004c301d957008": {
         "Release Date": "2024-07-19",
         "dlc_name": "Character Outfit\uff1aDark Maid",
@@ -4162,6 +4126,12 @@
         "dlc_name": "PowerWash Simulator \u2013 Muckingham Files \u2013 Part 3",
         "base_game": "PowerWash Simulator",
         "size": 207618048
+    },
+    "01008e9007065099": {
+        "Release Date": "2024-07-18",
+        "dlc_name": "Summer Hiking Wear Set: Lime",
+        "base_game": "WorldNeverland - Elnea Kingdom",
+        "size": 3145728
     },
     "01005fd018eb1001": {
         "Release Date": "2024-07-18",
@@ -4901,6 +4871,36 @@
         "base_game": "RPG Alchemy",
         "size": 3145728
     },
+    "010085201f027001": {
+        "Release Date": "2024-07-12",
+        "dlc_name": "Aimi's Secrets",
+        "base_game": "Love Elysium: Secret of the Goddess",
+        "size": 3145728
+    },
+    "010085201f027002": {
+        "Release Date": "2024-07-12",
+        "dlc_name": "Emiko's Secrets",
+        "base_game": "Love Elysium: Secret of the Goddess",
+        "size": 3145728
+    },
+    "010085201f027003": {
+        "Release Date": "2024-07-12",
+        "dlc_name": "Haru's Secrets",
+        "base_game": "Love Elysium: Secret of the Goddess",
+        "size": 3145728
+    },
+    "010085201f027004": {
+        "Release Date": "2024-07-12",
+        "dlc_name": "Tomoe's Secrets",
+        "base_game": "Love Elysium: Secret of the Goddess",
+        "size": 3145728
+    },
+    "010085201f027005": {
+        "Release Date": "2024-07-12",
+        "dlc_name": "Yuina's Secrets",
+        "base_game": "Love Elysium: Secret of the Goddess",
+        "size": 3145728
+    },
     "010026801e0ad001": {
         "Release Date": "2024-07-12",
         "dlc_name": "\u521d\u97f3\u935b\u934a\u7de8\u8f2f\u5668",
@@ -5111,12 +5111,6 @@
         "base_game": "Taboo Trial",
         "size": 3145728
     },
-    "01008e9007065098": {
-        "Release Date": "2024-07-05",
-        "dlc_name": "Summer Hiking Wear Set: Beach",
-        "base_game": "WorldNeverland - Elnea Kingdom",
-        "size": 3145728
-    },
     "010089b01ab45006": {
         "Release Date": "2024-07-05",
         "dlc_name": "SPYxANYA: Operation Memories Early Unlock Halo and Devil Horns for Anya",
@@ -5127,6 +5121,12 @@
         "Release Date": "2024-07-05",
         "dlc_name": "Knights & Guns Armor Pack #3",
         "base_game": "Knights & Guns",
+        "size": 3145728
+    },
+    "01008e9007065098": {
+        "Release Date": "2024-07-04",
+        "dlc_name": "Summer Hiking Wear Set: Beach",
+        "base_game": "WorldNeverland - Elnea Kingdom",
         "size": 3145728
     },
     "0100bca0135a111a": {
@@ -5273,16 +5273,16 @@
         "base_game": "Hentai Dating Stories: Brazil",
         "size": 3145728
     },
-    "01000fa01ab31001": {
-        "Release Date": "2024-06-27",
-        "dlc_name": "Stray Gods: Orpheus",
-        "base_game": "Stray Gods: The Roleplaying Musical",
-        "size": 3145728
-    },
     "010089b01ab45001": {
         "Release Date": "2024-06-27",
         "dlc_name": "SPY\u00d7ANYA: Operation Memories - Early Bird Purchase Bonus",
         "base_game": "SPY\u00d7ANYA: Operation Memories",
+        "size": 3145728
+    },
+    "01000fa01ab31001": {
+        "Release Date": "2024-06-27",
+        "dlc_name": "Stray Gods: Orpheus",
+        "base_game": "Stray Gods: The Roleplaying Musical",
         "size": 3145728
     },
     "010045d01afc9015": {
@@ -5337,12 +5337,6 @@
         "Release Date": "2024-06-26",
         "dlc_name": "Pathfinder: Wrath of the Righteous - A Dance of Masks",
         "base_game": "Pathfinder: Wrath of the Righteous - Cloud Version",
-        "size": 3145728
-    },
-    "01008e9007065097": {
-        "Release Date": "2024-06-21",
-        "dlc_name": "Summer Sailor Uniform Set: Bowa",
-        "base_game": "WorldNeverland - Elnea Kingdom",
         "size": 3145728
     },
     "01001be01908d017": {
@@ -5411,6 +5405,12 @@
         "base_game": "Ylands: Nintendo Switch\u2122 Edition",
         "size": 3145728
     },
+    "01008e9007065097": {
+        "Release Date": "2024-06-20",
+        "dlc_name": "Summer Sailor Uniform Set: Bowa",
+        "base_game": "WorldNeverland - Elnea Kingdom",
+        "size": 3145728
+    },
     "010024101d629001": {
         "Release Date": "2024-06-20",
         "dlc_name": "WARZONE CHRONICLES - Night Vision DLC",
@@ -5428,12 +5428,6 @@
         "dlc_name": "\u306a\u3064\u3082\u3093\uff01 \uff12\uff10\u4e16\u7d00\u306e\u590f\u4f11\u307f\u3000\u8ffd\u52a0\u30b3\u30f3\u30c6\u30f3\u30c4\u300e\u3086\u3046\u3084\u3051\u306e\u5cf6\u3068\u30e9\u30b8\u30aa\u5c40\u300f",
         "base_game": "\u306a\u3064\u3082\u3093\uff01 \uff12\uff10\u4e16\u7d00\u306e\u590f\u4f11\u307f",
         "size": 466616320
-    },
-    "01008e9007065096": {
-        "Release Date": "2024-06-14",
-        "dlc_name": "Summer Sailor Uniform Set: Blue",
-        "base_game": "WorldNeverland - Elnea Kingdom",
-        "size": 3145728
     },
     "0100e4701ebb1001": {
         "Release Date": "2024-06-13",
@@ -5453,17 +5447,17 @@
         "base_game": "The Battle of Polytopia",
         "size": 3145728
     },
+    "01008e9007065096": {
+        "Release Date": "2024-06-13",
+        "dlc_name": "Summer Sailor Uniform Set: Blue",
+        "base_game": "WorldNeverland - Elnea Kingdom",
+        "size": 3145728
+    },
     "0100c1401cedd003": {
         "Release Date": "2024-06-13",
         "dlc_name": "Cluedo - Whispering Pines Retreat Crime Scene",
         "base_game": "Clue",
         "size": 139460608
-    },
-    "0100bd10190c102a": {
-        "Release Date": "2024-06-13",
-        "dlc_name": "AEW: Fight Forever Rated Gold Superstar Pack",
-        "base_game": "AEW: Fight Forever",
-        "size": 3145728
     },
     "0100f5501986f02a": {
         "Release Date": "2024-06-13",
@@ -5481,6 +5475,12 @@
         "Release Date": "2024-06-13",
         "dlc_name": "\u30b8\u30e3\u30b9\u30c8\u30c7\u30b6\u30fc\u30c8DLC\u30d1\u30c3\u30af",
         "base_game": "Boomerang Fu",
+        "size": 3145728
+    },
+    "0100bd10190c102a": {
+        "Release Date": "2024-06-12",
+        "dlc_name": "AEW: Fight Forever Rated Gold Superstar Pack",
+        "base_game": "AEW: Fight Forever",
         "size": 3145728
     },
     "010025a00df2b005": {
@@ -5513,12 +5513,6 @@
         "base_game": "\u6c99\u77f3\u93ae\u6642\u5149",
         "size": 3145728
     },
-    "01008e900706509d": {
-        "Release Date": "2024-06-07",
-        "dlc_name": "Bee Apparel Set",
-        "base_game": "WorldNeverland - Elnea Kingdom",
-        "size": 3145728
-    },
     "0100ba3013fb7002": {
         "Release Date": "2024-06-07",
         "dlc_name": "\u521d\u97f3\u672a\u6765\u8054\u52a8 DLC 2\u300cRin\u00b7Len's Mirrorland\u300d",
@@ -5536,6 +5530,12 @@
         "dlc_name": "Pinball M - Texas Chainsaw Massacre",
         "base_game": "Pinball M",
         "size": 177209344
+    },
+    "01008e900706509d": {
+        "Release Date": "2024-06-06",
+        "dlc_name": "Bee Apparel Set",
+        "base_game": "WorldNeverland - Elnea Kingdom",
+        "size": 3145728
     },
     "0100b3901cb15001": {
         "Release Date": "2024-06-06",
@@ -5723,12 +5723,6 @@
         "base_game": "Bomb Cat",
         "size": 3145728
     },
-    "01000d3013e8d001": {
-        "Release Date": "2024-05-31",
-        "dlc_name": "World 3 - New Kelp City!",
-        "base_game": "SpongeBob: Krusty Cook-Off",
-        "size": 3145728
-    },
     "01000b301bf493fc": {
         "Release Date": "2024-05-31",
         "dlc_name": "Monster Whisperer",
@@ -5781,6 +5775,12 @@
         "Release Date": "2024-05-31",
         "dlc_name": "KS CASUAL CLOTH 2 SUPERFAN",
         "base_game": "\u304d\u307f\u306e\u307e\u3061 \u30b5\u30f3\u30c9\u30ed\u30c3\u30af",
+        "size": 3145728
+    },
+    "01000d3013e8d001": {
+        "Release Date": "2024-05-30",
+        "dlc_name": "World 3 - New Kelp City",
+        "base_game": "SpongeBob: Krusty Cook-Off",
         "size": 3145728
     },
     "01005a20190a7009": {
@@ -5845,13 +5845,13 @@
     },
     "010000b01a453007": {
         "Release Date": "2024-05-29",
-        "dlc_name": "Jujutsu Kaisen Cursed Clash - Hidden Inventory/Premature Death",
+        "dlc_name": "Jujutsu Kaisen Cursed Clash - Inventaire cach\u00e9/Mort pr\u00e9matur\u00e9e",
         "base_game": "Jujutsu Kaisen Cursed Clash",
         "size": 3145728
     },
     "010000b01a45300a": {
         "Release Date": "2024-05-29",
-        "dlc_name": "Jujutsu Kaisen Cursed Clash - Anime Ending Theme 1 Outfit Set",
+        "dlc_name": "Jujutsu Kaisen Cursed Clash - Tenues Fin d'anime th\u00e8me\u00a01",
         "base_game": "Jujutsu Kaisen Cursed Clash",
         "size": 3145728
     },
@@ -5873,12 +5873,6 @@
         "base_game": "Paint It",
         "size": 12582912
     },
-    "01008e900706509c": {
-        "Release Date": "2024-05-24",
-        "dlc_name": "White Rose Wedding Attire Set",
-        "base_game": "WorldNeverland - Elnea Kingdom",
-        "size": 3145728
-    },
     "0100ef801b7fb001": {
         "Release Date": "2024-05-24",
         "dlc_name": "The Serpent King's Domain",
@@ -5895,6 +5889,12 @@
         "Release Date": "2024-05-23",
         "dlc_name": "SOUTH PARK: SNOW DAY! Asspen Pack",
         "base_game": "SOUTH PARK: SNOW DAY!",
+        "size": 3145728
+    },
+    "01008e900706509c": {
+        "Release Date": "2024-05-23",
+        "dlc_name": "White Rose Wedding Attire Set",
+        "base_game": "WorldNeverland - Elnea Kingdom",
         "size": 3145728
     },
     "010066601cddf008": {
@@ -6222,7 +6222,7 @@
         "size": 832569344
     },
     "01008e900706509b": {
-        "Release Date": "2024-05-10",
+        "Release Date": "2024-05-09",
         "dlc_name": "Black Modern Wedding Outfit Set",
         "base_game": "WorldNeverland - Elnea Kingdom",
         "size": 3145728
@@ -6232,12 +6232,6 @@
         "dlc_name": "Fallen Knight: Rebellion of the Fallen + Fallen Knight: Rise of the Fallen",
         "base_game": "Fallen Knight",
         "size": 1904214016
-    },
-    "0100bd10190c1029": {
-        "Release Date": "2024-05-09",
-        "dlc_name": "AEW: Fight Forever World War Joe",
-        "base_game": "AEW: Fight Forever",
-        "size": 3145728
     },
     "0100f5501986f029": {
         "Release Date": "2024-05-09",
@@ -6317,8 +6311,14 @@
         "base_game": "PAC-MAN Mega Tunnel Battle: Chomp Champs",
         "size": 3145728
     },
+    "0100bd10190c1029": {
+        "Release Date": "2024-05-08",
+        "dlc_name": "AEW: Fight Forever World War Joe",
+        "base_game": "AEW: Fight Forever",
+        "size": 3145728
+    },
     "0100d1501abaf005": {
-        "Release Date": "2024-05-07",
+        "Release Date": "2024-05-06",
         "dlc_name": "SOUTH PARK: SNOW DAY! Snowball",
         "base_game": "SOUTH PARK: SNOW DAY!",
         "size": 3145728
@@ -6449,6 +6449,12 @@
         "base_game": "Jigsaw Masterpieces 2",
         "size": 68157440
     },
+    "01003eb01c2f101c": {
+        "Release Date": "2024-04-25",
+        "dlc_name": "Attire \"Arshem (Captain's Uniform)\"",
+        "base_game": "MEGATON MUSASHI W: WIRED Standard Edition",
+        "size": 3145728
+    },
     "01005b2017d93003": {
         "Release Date": "2024-04-25",
         "dlc_name": "DLC 3: Kaoruko Character Pack",
@@ -6471,12 +6477,6 @@
         "Release Date": "2024-04-25",
         "dlc_name": "DLC 6: Kaede\u00a0 Character Pack",
         "base_game": "BIRDIE WING -Golf Girls' Story-",
-        "size": 3145728
-    },
-    "01003eb01c2f101c": {
-        "Release Date": "2024-04-25",
-        "dlc_name": "Attire \"Arshem (Captain's Uniform)\"",
-        "base_game": "MEGATON MUSASHI W: WIRED Standard Edition",
         "size": 3145728
     },
     "0100a3d0199ad001": {
@@ -6557,12 +6557,6 @@
         "base_game": "Construction Machine Simulator 2023 : Hard Truck Work Job",
         "size": 3145728
     },
-    "01008e900706509a": {
-        "Release Date": "2024-04-19",
-        "dlc_name": "White Modern Wedding Outfit Set",
-        "base_game": "WorldNeverland - Elnea Kingdom",
-        "size": 3145728
-    },
     "0100ae501ac17001": {
         "Release Date": "2024-04-19",
         "dlc_name": "Premium Pack: Sakura",
@@ -6581,11 +6575,11 @@
         "base_game": "Skateboard Drifting with Maxwell Cat: The Game Simulator",
         "size": 3145728
     },
-    "0100a2601720b003": {
+    "0100a2601720b002": {
         "Release Date": "2024-04-19",
-        "dlc_name": "Gas Station Simulator - Airstrip DLC",
+        "dlc_name": "Gas Station Simulator - Party Time DLC",
         "base_game": "Gas Station Simulator",
-        "size": 132120576
+        "size": 57671680
     },
     "0100a2601720b001": {
         "Release Date": "2024-04-19",
@@ -6593,11 +6587,11 @@
         "base_game": "Gas Station Simulator",
         "size": 198180864
     },
-    "0100a2601720b002": {
+    "0100a2601720b003": {
         "Release Date": "2024-04-19",
-        "dlc_name": "Gas Station Simulator - Party Time DLC",
+        "dlc_name": "Gas Station Simulator - Airstrip DLC",
         "base_game": "Gas Station Simulator",
-        "size": 57671680
+        "size": 132120576
     },
     "0100dbb01b4f9001": {
         "Release Date": "2024-04-19",
@@ -6616,6 +6610,12 @@
         "dlc_name": "Sixtar Gate: STARTRAIL - yomoha's Planet Pack",
         "base_game": "Sixtar Gate: STARTRAIL",
         "size": 62914560
+    },
+    "01008e900706509a": {
+        "Release Date": "2024-04-18",
+        "dlc_name": "White Modern Wedding Outfit Set",
+        "base_game": "WorldNeverland - Elnea Kingdom",
+        "size": 3145728
     },
     "0100fbf017d73001": {
         "Release Date": "2024-04-18",
@@ -6663,12 +6663,6 @@
         "Release Date": "2024-04-11",
         "dlc_name": "HOT WHEELS UNLEASHED\u2122 2 - Mega Bites Free Pack",
         "base_game": "HOT WHEELS UNLEASHED\u2122 2 - Turbocharged",
-        "size": 3145728
-    },
-    "0100bd10190c1021": {
-        "Release Date": "2024-04-11",
-        "dlc_name": "AEW: Fight Forever Hayter's Gunna Game",
-        "base_game": "AEW: Fight Forever",
         "size": 3145728
     },
     "0100ee101ad67001": {
@@ -6803,9 +6797,21 @@
         "base_game": "Inertial Drift",
         "size": 3145728
     },
+    "0100bd10190c1021": {
+        "Release Date": "2024-04-10",
+        "dlc_name": "AEW: Fight Forever Hayter's Gunna Game",
+        "base_game": "AEW: Fight Forever",
+        "size": 3145728
+    },
     "01005a801dbbf001": {
         "Release Date": "2024-04-05",
         "dlc_name": "Heisting: Arsenal",
+        "base_game": "Heisting",
+        "size": 3145728
+    },
+    "01005a801dbbf002": {
+        "Release Date": "2024-04-05",
+        "dlc_name": "Heisting: Wicked No. 1",
         "base_game": "Heisting",
         "size": 3145728
     },
@@ -6814,12 +6820,6 @@
         "dlc_name": "R\u00e9ussir : Code de la Route - Nouvelle \u00c9dition - Bonus ASSR1 - ASSR2 - Permis AM (French Highway Code)",
         "base_game": "R\u00e9ussir : Code de la Route - Nouvelle \u00c9dition (French Highway Code)",
         "size": 130023424
-    },
-    "01005a801dbbf002": {
-        "Release Date": "2024-04-05",
-        "dlc_name": "Heisting: Wicked No. 1",
-        "base_game": "Heisting",
-        "size": 3145728
     },
     "0100bb901a46100a": {
         "Release Date": "2024-04-04",
@@ -7866,13 +7866,13 @@
         "size": 3145728
     },
     "010081e01a45d001": {
-        "Release Date": "2024-02-10",
+        "Release Date": "2024-02-09",
         "dlc_name": "Bang-On Balls: Chronicles - Soundtrack",
         "base_game": "Bang-On Balls: Chronicles",
         "size": 3145728
     },
     "010081e01a45d002": {
-        "Release Date": "2024-02-10",
+        "Release Date": "2024-02-09",
         "dlc_name": "Bang-On Balls: Chronicles - Survival Guide",
         "base_game": "Bang-On Balls: Chronicles",
         "size": 3145728
@@ -7915,7 +7915,7 @@
     },
     "01005a001489b001": {
         "Release Date": "2024-01-26",
-        "dlc_name": "DoDonPachi Resurrection Chiptune Arrange Sound",
+        "dlc_name": "DoDonPachi Resurrection Chiptune Arranger le son",
         "base_game": "DoDonPachi Resurrection",
         "size": 3145728
     },
@@ -9245,17 +9245,17 @@
         "base_game": "EA SPORTS FC\u2122 24",
         "size": 3145728
     },
-    "01000b9019013001": {
-        "Release Date": "2023-09-29",
-        "dlc_name": "WILD MACHINE PACK",
-        "base_game": "EXTREME BIKE X",
-        "size": 3145728
-    },
     "01004800197f1004": {
         "Release Date": "2023-09-28",
         "dlc_name": "Master Detective Archives: RAIN CODE - Ch. Halara: Raining Cats & Dog",
         "base_game": "Master Detective Archives: RAIN CODE",
         "size": 156237824
+    },
+    "01000b9019013001": {
+        "Release Date": "2023-09-28",
+        "dlc_name": "WILD MACHINE PACK",
+        "base_game": "EXTREME BIKE X",
+        "size": 3145728
     },
     "01002be01af69003": {
         "Release Date": "2023-09-28",
@@ -9570,7 +9570,7 @@
         "size": 3145728
     },
     "0100753019cc1001": {
-        "Release Date": "2023-09-08",
+        "Release Date": "2023-09-07",
         "dlc_name": "Variety Uniform Pack",
         "base_game": "Desktop Football 2",
         "size": 3145728
@@ -11189,12 +11189,6 @@
         "base_game": "\u5403\u8c46\u4eba \u5403\u904d\u4e16\u754c (PAC-MAN WORLD Re-PAC)",
         "size": 4194304
     },
-    "0100d7701692f012": {
-        "Release Date": "2022-11-15",
-        "dlc_name": "Let's Sing 2023 Australian Song Pack",
-        "base_game": "Let's Sing 2023",
-        "size": 805306368
-    },
     "0100d7701692f00e": {
         "Release Date": "2022-11-15",
         "dlc_name": "Let's Sing 2023 German Song Pack",
@@ -11212,6 +11206,12 @@
         "dlc_name": "Let's Sing 2023 French Song Pack",
         "base_game": "Let's Sing 2023",
         "size": 1054867456
+    },
+    "0100d7701692f012": {
+        "Release Date": "2022-11-15",
+        "dlc_name": "Let's Sing 2023 Australian Song Pack",
+        "base_game": "Let's Sing 2023",
+        "size": 805306368
     },
     "010042801530700c": {
         "Release Date": "2022-11-14",
@@ -14682,7 +14682,7 @@
         "size": 585105408
     },
     "0100bf4013d71001": {
-        "Release Date": "2021-09-25",
+        "Release Date": "2021-09-24",
         "dlc_name": "Extended Edition Bonus Content",
         "base_game": "Spacebase Startopia",
         "size": 5242880
@@ -15347,12 +15347,6 @@
         "base_game": "\u73fe\u4ee3\u5927\u6226\u75652020\uff5e\u63fa\u308c\u308b\u4e16\u754c\u79e9\u5e8f\uff01\u5927\u56fd\u306e\u91ce\u671b\u3068\u4e16\u754c\u5927\u6226\uff5e",
         "size": 7340032
     },
-    "01003e2010283001": {
-        "Release Date": "2021-07-09",
-        "dlc_name": "Sage - Candy Witch",
-        "base_game": "Bake \u2018n Switch",
-        "size": 3145728
-    },
     "01007c100e4a9008": {
         "Release Date": "2021-07-09",
         "dlc_name": "R-TYPE FINAL 2 - \u30aa\u30de\u30fc\u30b8\u30e5\u30b9\u30c6\u30fc\u30b8 Set 3",
@@ -15369,6 +15363,12 @@
         "Release Date": "2021-07-09",
         "dlc_name": "\u5b89\u5fc3\u5b89\u5168\uff01\u30a2\u30a4\u30c6\u30e0\u30d1\u30c3\u30af",
         "base_game": "Monster Hunter Stories 2: \u7834\u6ec5\u4e4b\u7ffc",
+        "size": 3145728
+    },
+    "01003e2010283001": {
+        "Release Date": "2021-07-08",
+        "dlc_name": "Sage - Candy Witch",
+        "base_game": "Bake \u2018n Switch",
         "size": 3145728
     },
     "0100f88012e35064": {
@@ -16811,12 +16811,6 @@
         "base_game": "\u9b54\u754c\u6230\u8a18DISGAEA\uff16",
         "size": 3145728
     },
-    "010066501069d06f": {
-        "Release Date": "2021-06-15",
-        "dlc_name": "SAMURAI SHODOWN DLC \"AMAKUSA SHIRO TOKISADA\"",
-        "base_game": "SAMURAI SHODOWN",
-        "size": 95420416
-    },
     "01008fc00d96506f": {
         "Release Date": "2021-06-15",
         "dlc_name": "DLC\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u300c\u5929\u8349\u56db\u90ce\u6642\u8c9e\u300d",
@@ -16827,6 +16821,12 @@
         "Release Date": "2021-06-15",
         "dlc_name": "DLC \uce90\ub9ad\ud130 \"\uc544\ub9c8\ucfe0\uc0ac \uc2dc\ub85c \ub3c4\ud0a4\uc0ac\ub2e4\"",
         "base_game": "\uc0ac\ubb34\ub77c\uc774 \uc1fc\ub2e4\uc6b4",
+        "size": 95420416
+    },
+    "010066501069d06f": {
+        "Release Date": "2021-06-14",
+        "dlc_name": "SAMURAI SHODOWN DLC \"AMAKUSA SHIRO TOKISADA\"",
+        "base_game": "SAMURAI SHODOWN",
         "size": 95420416
     },
     "0100e330127fd002": {
@@ -21633,7 +21633,7 @@
         "Release Date": "2020-06-25",
         "dlc_name": "SAMURAI SHODOWN DLC \"WARDEN\"",
         "base_game": "SAMURAI SHODOWN",
-        "size": 106954752
+        "size": 108003328
     },
     "01008fc00d96506c": {
         "Release Date": "2020-06-25",
@@ -22101,7 +22101,7 @@
         "Release Date": "2020-05-07",
         "dlc_name": "SAMURAI SHODOWN DLC CHARACTER \"IROHA\"",
         "base_game": "SAMURAI SHODOWN",
-        "size": 103809024
+        "size": 104857600
     },
     "01003e300ffd9004": {
         "Release Date": "2020-05-07",
@@ -22161,7 +22161,7 @@
         "Release Date": "2020-04-02",
         "dlc_name": "SAMURAI SHODOWN DLC CHARACTER \"SOUGETSU KAZAMA\"",
         "base_game": "SAMURAI SHODOWN",
-        "size": 106954752
+        "size": 108003328
     },
     "01008fc00d96506a": {
         "Release Date": "2020-04-02",
@@ -22671,7 +22671,7 @@
         "Release Date": "2020-02-27",
         "dlc_name": "SAMURAI SHODOWN DLC CHARACTER \"MINA MAJIKINA\"",
         "base_game": "SAMURAI SHODOWN",
-        "size": 117440512
+        "size": 118489088
     },
     "01008fc00d965069": {
         "Release Date": "2020-02-27",
@@ -22702,6 +22702,18 @@
         "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (PL)",
         "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
         "size": 2350907392
+    },
+    "010076f00e9c9001": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (PL)",
+        "base_game": "Unknown Base Game",
+        "size": 2350907392
+    },
+    "010076f00e9c9002": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (RU)",
+        "base_game": "Unknown Base Game",
+        "size": 2441084928
     },
     "010039400e8d7003": {
         "Release Date": "2020-02-26",
@@ -22738,18 +22750,6 @@
         "dlc_name": "\u042f\u0437\u044b\u043a\u043e\u0432\u043e\u0439 \u043f\u0430\u043a\u0435\u0442 '\u0412\u0435\u0434\u044c\u043c\u0430\u043a 3: \u0414\u0438\u043a\u0430\u044f \u041e\u0445\u043e\u0442\u0430 \u2014 \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435' (DE)",
         "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
         "size": 2364538880
-    },
-    "010076f00e9c9001": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (PL)",
-        "base_game": "Unknown Base Game",
-        "size": 2350907392
-    },
-    "010076f00e9c9002": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (RU)",
-        "base_game": "Unknown Base Game",
-        "size": 2441084928
     },
     "0100d3200c52b001": {
         "Release Date": "2020-02-20",
@@ -24078,7 +24078,7 @@
         "size": 4194304
     },
     "01009d000eed7001": {
-        "Release Date": "2019-08-10",
+        "Release Date": "2019-08-09",
         "dlc_name": "Party Pack",
         "base_game": "Our Flick Erasers",
         "size": 4194304
@@ -26151,7 +26151,7 @@
         "Release Date": "2018-11-29",
         "dlc_name": "DRAGON BALL FIGHTERZ - Operator DLC",
         "base_game": "DRAGON BALL FIGHTERZ",
-        "size": 3145728
+        "size": 4194304
     },
     "0100e8c0046171f8": {
         "Release Date": "2018-11-29",
