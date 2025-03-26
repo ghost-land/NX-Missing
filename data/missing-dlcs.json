@@ -1217,12 +1217,6 @@
         "base_game": "Little Paws: Kitty Cat Simulator",
         "size": 3145728
     },
-    "01009820151b7003": {
-        "Release Date": "2025-02-20",
-        "dlc_name": "\u6e21\u795e\u7eaa \u82ac\u5c3c\u65af\u5d1b\u8d77\uff1a\u8bd5\u70bc",
-        "base_game": "Unknown Base Game",
-        "size": 7683964928
-    },
     "0100d1c020dd7066": {
         "Release Date": "2025-02-20",
         "dlc_name": "\ub808\ud2b8\ub85c\ub810\ub984: \ucf08\ub9ac \ub9e5\uc2a4\uc6f0 (RetroRealms: Kelly Maxwell)",
@@ -1246,6 +1240,12 @@
         "dlc_name": "RetroRealms: Ash vs Evil Dead (\ub808\ud2b8\ub85c\ub810\ub984: \uc560\uc26c vs \uc774\ube14\ub370\ub4dc)",
         "base_game": "RetroRealms",
         "size": 699400192
+    },
+    "01009820151b7003": {
+        "Release Date": "2025-02-20",
+        "dlc_name": "\u6e21\u795e\u7eaa \u82ac\u5c3c\u65af\u5d1b\u8d77\uff1a\u8bd5\u70bc",
+        "base_game": "Unknown Base Game",
+        "size": 7683964928
     },
     "010082d01d25f208": {
         "Release Date": "2025-02-20",
@@ -3521,17 +3521,17 @@
         "base_game": "Let's Sing 2025",
         "size": 1076887552
     },
-    "01001c101ed11006": {
-        "Release Date": "2024-11-05",
-        "dlc_name": "Let's Sing 2025 - Hits from UK",
-        "base_game": "Let's Sing 2025",
-        "size": 1066401792
-    },
     "01001c101ed11005": {
         "Release Date": "2024-11-05",
         "dlc_name": "Let's Sing 2025 - Spanish Hits",
         "base_game": "Let's Sing 2025",
         "size": 1075838976
+    },
+    "01001c101ed11006": {
+        "Release Date": "2024-11-05",
+        "dlc_name": "Let's Sing 2025 - Hits from UK",
+        "base_game": "Let's Sing 2025",
+        "size": 1066401792
     },
     "010037c01e2a300d": {
         "Release Date": "2024-11-01",
@@ -24617,18 +24617,6 @@
         "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
         "size": 2350907392
     },
-    "010076f00e9c9001": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (PL)",
-        "base_game": "Unknown Base Game",
-        "size": 2350907392
-    },
-    "010076f00e9c9002": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (RU)",
-        "base_game": "Unknown Base Game",
-        "size": 2441084928
-    },
     "010039400e8d7003": {
         "Release Date": "2020-02-26",
         "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (DE)",
@@ -24645,6 +24633,18 @@
         "Release Date": "2020-02-26",
         "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (RU)",
         "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
+        "size": 2441084928
+    },
+    "010076f00e9c9001": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (PL)",
+        "base_game": "Unknown Base Game",
+        "size": 2350907392
+    },
+    "010076f00e9c9002": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (RU)",
+        "base_game": "Unknown Base Game",
         "size": 2441084928
     },
     "0100a0800e9c5001": {
