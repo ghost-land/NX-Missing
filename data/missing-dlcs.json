@@ -419,23 +419,23 @@
         "base_game": "Maliki : Poison of the Past",
         "size": 3145728
     },
-    "0100314023339001": {
-        "Release Date": "2025-04-24",
-        "dlc_name": "ESCAPE BACKROOMS: DARKNESS HORROR CHARACTER REPLICAS",
-        "base_game": "ESCAPE BACKROOMS: DARKNESS HORROR",
-        "size": 3145728
-    },
-    "0100314023339002": {
-        "Release Date": "2025-04-24",
-        "dlc_name": "ESCAPE BACKROOMS: DARKNESS HORROR NEW TRACKS",
-        "base_game": "ESCAPE BACKROOMS: DARKNESS HORROR",
-        "size": 3145728
-    },
     "010088b0215bd002": {
         "Release Date": "2025-04-24",
         "dlc_name": "\ud658\uc0c1\ud5a5 \uc548\uc2ec \ubaa8\ud5d8\ud329",
         "base_game": "\ub3d9\ubc29 \uc2a4\ud3a0 \uce74\ub2c8\ubc1c",
         "size": 6291456
+    },
+    "0100314023339001": {
+        "Release Date": "2025-04-24",
+        "dlc_name": "ESCAPE BACKROOMS: DARKNESS HORROR CHARACTER REPLICAS-ESCAPE BACKROOMS: \ub2e4\ud06c\ub2c8\uc2a4 \ud638\ub7ec \uce90\ub9ad\ud130 \ubcf5\uc81c\ud488",
+        "base_game": "ESCAPE BACKROOMS: DARKNESS HORROR",
+        "size": 3145728
+    },
+    "0100314023339002": {
+        "Release Date": "2025-04-24",
+        "dlc_name": "ESCAPE BACKROOMS: DARKNESS HORROR NEW TRACKS-ESCAPE BACKROOMS: \ub2e4\ud06c\ub2c8\uc2a4 \ud638\ub7ec \uc2e0\uace1",
+        "base_game": "ESCAPE BACKROOMS: DARKNESS HORROR",
+        "size": 3145728
     },
     "010059d020671003": {
         "Release Date": "2025-04-24",
@@ -10933,7 +10933,7 @@
     },
     "01005a001489b001": {
         "Release Date": "2024-01-26",
-        "dlc_name": "DoDonPachi Resurrectio Chiptune Disponere Novum",
+        "dlc_name": "DoDonPachi Resurrection Chiptune Arrange Sound",
         "base_game": "DoDonPachi Resurrection",
         "size": 3145728
     },
@@ -25715,17 +25715,23 @@
         "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
         "size": 2350907392
     },
-    "010076f00e9c9001": {
+    "0100a0800e9c5001": {
         "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (PL)",
-        "base_game": "Unknown Base Game",
-        "size": 2350907392
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (PL)",
+        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
+        "size": 2349858816
     },
-    "010076f00e9c9002": {
+    "0100a0800e9c5005": {
         "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (RU)",
-        "base_game": "Unknown Base Game",
-        "size": 2441084928
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (FR)",
+        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
+        "size": 2334130176
+    },
+    "0100a0800e9c5003": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (DE)",
+        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
+        "size": 2364538880
     },
     "010039400e8d7003": {
         "Release Date": "2020-02-26",
@@ -25745,23 +25751,17 @@
         "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
         "size": 2441084928
     },
-    "0100a0800e9c5001": {
+    "010076f00e9c9001": {
         "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (PL)",
-        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
-        "size": 2349858816
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (PL)",
+        "base_game": "Unknown Base Game",
+        "size": 2350907392
     },
-    "0100a0800e9c5005": {
+    "010076f00e9c9002": {
         "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (FR)",
-        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
-        "size": 2334130176
-    },
-    "0100a0800e9c5003": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (DE)",
-        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
-        "size": 2364538880
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (RU)",
+        "base_game": "Unknown Base Game",
+        "size": 2441084928
     },
     "010079500fd5d002": {
         "Release Date": "2020-02-20",
