@@ -431,12 +431,6 @@
         "base_game": "\ub3d9\ubc29 \uc2a4\ud3a0 \uce74\ub2c8\ubc1c",
         "size": 6291456
     },
-    "0100d5701e9dd001": {
-        "Release Date": "2025-04-24",
-        "dlc_name": "Bonus Content for Pre-Order",
-        "base_game": "Maliki : Poison of the Past",
-        "size": 3145728
-    },
     "010059d020671003": {
         "Release Date": "2025-04-24",
         "dlc_name": "DLC\u30e6\u30cb\u30c3\u30c8\u30c7\u30fc\u30bf \u300c\u3055\u3055\u3089 \u4f8d Ver.\u300d",
@@ -603,6 +597,12 @@
         "Release Date": "2025-04-24",
         "dlc_name": "DLC\u30e6\u30cb\u30c3\u30c8\u30c7\u30fc\u30bf \u300c\u30a6\u30eb\u30a5\u30eb\u30fb\u30b5\u30e9\u30a1\u30ca\u300d",
         "base_game": "\u3046\u305f\u308f\u308c\u308b\u3082\u306e \u6563\u308a\u3086\u304f\u8005\u3078\u306e\u5b50\u5b88\u5504",
+        "size": 3145728
+    },
+    "0100d5701e9dd001": {
+        "Release Date": "2025-04-24",
+        "dlc_name": "Bonus Content for Pre-Order",
+        "base_game": "Maliki : Poison of the Past",
         "size": 3145728
     },
     "0100cbe0227a5002": {
@@ -910,6 +910,12 @@
         "dlc_name": "\ud06c\ub77c\uc6b4 \uc6cc: \ub354 \ube14\ub799 \ud504\ub9b0\uc2a4 - \ube14\ub7ec\ub4dc \ud329 \ubb34\uae30 \uc2a4\ud0a8 DLC",
         "base_game": "\ud06c\ub77c\uc6b4 \uc6cc: \ub354 \ube14\ub799 \ud504\ub9b0\uc2a4 (Crown Wars: The Black Prince)",
         "size": 3145728
+    },
+    "0100b9801f873042": {
+        "Release Date": "2025-03-31",
+        "dlc_name": "Bonus Feature: \"Arena\"",
+        "base_game": "FAIRY TAIL 2",
+        "size": 0
     },
     "01007e30210df12e": {
         "Release Date": "2025-03-31",
@@ -2537,12 +2543,6 @@
         "base_game": "FAIRY TAIL 2",
         "size": 3145728
     },
-    "0100e6701df4f004": {
-        "Release Date": "2025-02-13",
-        "dlc_name": "Ravenswatch - Unleashed Skin Pack",
-        "base_game": "Ravenswatch",
-        "size": 3145728
-    },
     "0100d8501f977001": {
         "Release Date": "2025-02-13",
         "dlc_name": "\u8d85\u5973\u795e\u4fe1\u4ef0 \u30ce\u30ef\u30fc\u30eb \u6fc0\u795e\u30d6\u30e9\u30c3\u30af\u30cf\u30fc\u30c8\u3000\u30c7\u30b8\u30bf\u30eb\u30a2\u30fc\u30c8\u30d6\u30c3\u30af/\u6fc0\u795e\u30d5\u30a9\u30c8\u30a2\u30d7\u30ea",
@@ -2619,6 +2619,12 @@
         "Release Date": "2025-02-11",
         "dlc_name": "Fishing Valley - Pixelize It!",
         "base_game": "Fishing Valley",
+        "size": 3145728
+    },
+    "0100e6701df4f004": {
+        "Release Date": "2025-02-10",
+        "dlc_name": "Ravenswatch - Unleashed Skin Pack",
+        "base_game": "Ravenswatch",
         "size": 3145728
     },
     "010046b020751001": {
@@ -2703,12 +2709,6 @@
         "Release Date": "2025-01-30",
         "dlc_name": "Monster Jam\u2122 Showdown - Off The Leash",
         "base_game": "Monster Jam\u2122 Showdown",
-        "size": 3145728
-    },
-    "0100b9801f873042": {
-        "Release Date": "2025-01-30",
-        "dlc_name": "Bonus Feature: \"Arena\"",
-        "base_game": "FAIRY TAIL 2",
         "size": 3145728
     },
     "0100dc701a925001": {
@@ -4595,12 +4595,6 @@
         "base_game": "\u30d0\u30c8\u30eb\u30b9\u30d4\u30ea\u30c3\u30c4 \u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc",
         "size": 3145728
     },
-    "01001c101ed11004": {
-        "Release Date": "2024-11-06",
-        "dlc_name": "Let's Sing 2025 - International Hits",
-        "base_game": "Let's Sing 2025",
-        "size": 1066401792
-    },
     "0100f9301b30d003": {
         "Release Date": "2024-11-06",
         "dlc_name": "DLC Vol. 2: Team Geranium",
@@ -4613,23 +4607,29 @@
         "base_game": "Let's Sing 2025",
         "size": 1065353216
     },
+    "01001c101ed11004": {
+        "Release Date": "2024-11-05",
+        "dlc_name": "Let's Sing 2025 - International Hits",
+        "base_game": "Let's Sing 2025",
+        "size": 1066401792
+    },
     "01001c101ed11008": {
         "Release Date": "2024-11-05",
         "dlc_name": "Let's Sing 2025 - PROS VIP Pass",
         "base_game": "Let's Sing 2025",
         "size": 3145728
     },
-    "01001c101ed11006": {
-        "Release Date": "2024-11-05",
-        "dlc_name": "Let's Sing 2025 - Hits from UK",
-        "base_game": "Let's Sing 2025",
-        "size": 1066401792
-    },
     "01001c101ed11003": {
         "Release Date": "2024-11-05",
         "dlc_name": "Let's Sing 2025 - German Hits",
         "base_game": "Let's Sing 2025",
         "size": 1076887552
+    },
+    "01001c101ed11006": {
+        "Release Date": "2024-11-05",
+        "dlc_name": "Let's Sing 2025 - Hits from UK",
+        "base_game": "Let's Sing 2025",
+        "size": 1066401792
     },
     "01001c101ed11005": {
         "Release Date": "2024-11-05",
@@ -4661,24 +4661,6 @@
         "base_game": "Mars Survivor",
         "size": 0
     },
-    "0100f85020061001": {
-        "Release Date": "2024-11-01",
-        "dlc_name": "Giant Rush: Brave DLC",
-        "base_game": "Giant Rush",
-        "size": 0
-    },
-    "0100f85020061002": {
-        "Release Date": "2024-11-01",
-        "dlc_name": "Giant Rush: Cute DLC",
-        "base_game": "Giant Rush",
-        "size": 0
-    },
-    "0100f85020061003": {
-        "Release Date": "2024-11-01",
-        "dlc_name": "Giant Rush: Silly DLC",
-        "base_game": "Giant Rush",
-        "size": 0
-    },
     "0100c91020dfb001": {
         "Release Date": "2024-11-01",
         "dlc_name": "Ecchi Oppai: Fantasy DLC",
@@ -4695,6 +4677,24 @@
         "Release Date": "2024-11-01",
         "dlc_name": "Ecchi Oppai: Fusion DLC",
         "base_game": "Ecchi Oppai",
+        "size": 0
+    },
+    "0100f85020061001": {
+        "Release Date": "2024-11-01",
+        "dlc_name": "Giant Rush: Brave DLC",
+        "base_game": "Giant Rush",
+        "size": 0
+    },
+    "0100f85020061002": {
+        "Release Date": "2024-11-01",
+        "dlc_name": "Giant Rush: Cute DLC",
+        "base_game": "Giant Rush",
+        "size": 0
+    },
+    "0100f85020061003": {
+        "Release Date": "2024-11-01",
+        "dlc_name": "Giant Rush: Silly DLC",
+        "base_game": "Giant Rush",
         "size": 0
     },
     "010037c01e2a300d": {
@@ -4745,48 +4745,6 @@
         "base_game": "\u9b54\u8fb2\u50b3\u8a18 FARMAGIA",
         "size": 3145728
     },
-    "01009370207ff001": {
-        "Release Date": "2024-11-01",
-        "dlc_name": "Experience x3 - Journey to Kreisia",
-        "base_game": "Journey to Kreisia",
-        "size": 3145728
-    },
-    "01009370207ff002": {
-        "Release Date": "2024-11-01",
-        "dlc_name": "Weapon Level x3 - Journey to Kreisia",
-        "base_game": "Journey to Kreisia",
-        "size": 3145728
-    },
-    "01009370207ff003": {
-        "Release Date": "2024-11-01",
-        "dlc_name": "Experience & Weapon Level x2 - Journey to Kreisia",
-        "base_game": "Journey to Kreisia",
-        "size": 3145728
-    },
-    "01009370207ff004": {
-        "Release Date": "2024-11-01",
-        "dlc_name": "No Encounters - Journey to Kreisia",
-        "base_game": "Journey to Kreisia",
-        "size": 3145728
-    },
-    "01009370207ff005": {
-        "Release Date": "2024-11-01",
-        "dlc_name": "Damage x2 - Journey to Kreisia",
-        "base_game": "Journey to Kreisia",
-        "size": 3145728
-    },
-    "01009370207ff006": {
-        "Release Date": "2024-11-01",
-        "dlc_name": "Full Restore - Journey to Kreisia",
-        "base_game": "Journey to Kreisia",
-        "size": 3145728
-    },
-    "01009370207ff007": {
-        "Release Date": "2024-11-01",
-        "dlc_name": "No Skill Cost - Journey to Kreisia",
-        "base_game": "Journey to Kreisia",
-        "size": 3145728
-    },
     "0100cf80118c9032": {
         "Release Date": "2024-11-01",
         "dlc_name": "FARMAGIA(\u30d5\u30a1\u30fc\u30de\u30ae\u30a2) \u30c7\u30b8\u30bf\u30eb\u30a2\u30fc\u30c8\u30d6\u30c3\u30af\uff06\n\u30c7\u30b8\u30bf\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
@@ -4822,6 +4780,48 @@
         "dlc_name": "[Moving] The Living Things That Heal Our Heart",
         "base_game": "Jigsaw Masterpieces 2",
         "size": 58720256
+    },
+    "01009370207ff001": {
+        "Release Date": "2024-10-31",
+        "dlc_name": "Experience x3 - Journey to Kreisia",
+        "base_game": "Journey to Kreisia",
+        "size": 3145728
+    },
+    "01009370207ff002": {
+        "Release Date": "2024-10-31",
+        "dlc_name": "Weapon Level x3 - Journey to Kreisia",
+        "base_game": "Journey to Kreisia",
+        "size": 3145728
+    },
+    "01009370207ff003": {
+        "Release Date": "2024-10-31",
+        "dlc_name": "Experience & Weapon Level x2 - Journey to Kreisia",
+        "base_game": "Journey to Kreisia",
+        "size": 3145728
+    },
+    "01009370207ff004": {
+        "Release Date": "2024-10-31",
+        "dlc_name": "No Encounters - Journey to Kreisia",
+        "base_game": "Journey to Kreisia",
+        "size": 3145728
+    },
+    "01009370207ff005": {
+        "Release Date": "2024-10-31",
+        "dlc_name": "Damage x2 - Journey to Kreisia",
+        "base_game": "Journey to Kreisia",
+        "size": 3145728
+    },
+    "01009370207ff006": {
+        "Release Date": "2024-10-31",
+        "dlc_name": "Full Restore - Journey to Kreisia",
+        "base_game": "Journey to Kreisia",
+        "size": 3145728
+    },
+    "01009370207ff007": {
+        "Release Date": "2024-10-31",
+        "dlc_name": "No Skill Cost - Journey to Kreisia",
+        "base_game": "Journey to Kreisia",
+        "size": 3145728
     },
     "010093e01ceff003": {
         "Release Date": "2024-10-31",
@@ -8869,13 +8869,13 @@
     },
     "010000b01a453007": {
         "Release Date": "2024-05-29",
-        "dlc_name": "Jujutsu Kaisen Cursed Clash - Inventario oculto/Muerte prematura",
+        "dlc_name": "Jujutsu Kaisen Cursed Clash - Hidden Inventory/Premature Death",
         "base_game": "Jujutsu Kaisen Cursed Clash",
         "size": 3145728
     },
     "010000b01a45300a": {
         "Release Date": "2024-05-29",
-        "dlc_name": "Jujutsu Kaisen Cursed Clash - Conjunto de ropa del tema final 1 del anime",
+        "dlc_name": "Jujutsu Kaisen Cursed Clash - Anime Ending Theme 1 Outfit Set",
         "base_game": "Jujutsu Kaisen Cursed Clash",
         "size": 3145728
     },
@@ -10927,7 +10927,7 @@
     },
     "01005a001489b001": {
         "Release Date": "2024-01-26",
-        "dlc_name": "DoDonPachi Resurrection Chiptune Arranger le son",
+        "dlc_name": "DoDonPachi Resurrection Chiptune Arrange Sound",
         "base_game": "DoDonPachi Resurrection",
         "size": 3145728
     },
@@ -25715,22 +25715,16 @@
         "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
         "size": 2350907392
     },
-    "010039400e8d7003": {
+    "010076f00e9c9001": {
         "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (DE)",
-        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
-        "size": 2365587456
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (PL)",
+        "base_game": "Unknown Base Game",
+        "size": 2350907392
     },
-    "010039400e8d7005": {
+    "010076f00e9c9002": {
         "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (FR)",
-        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
-        "size": 2335178752
-    },
-    "010039400e8d7002": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (RU)",
-        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (RU)",
+        "base_game": "Unknown Base Game",
         "size": 2441084928
     },
     "0100a0800e9c5001": {
@@ -25751,16 +25745,22 @@
         "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
         "size": 2364538880
     },
-    "010076f00e9c9001": {
+    "010039400e8d7003": {
         "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (PL)",
-        "base_game": "Unknown Base Game",
-        "size": 2350907392
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (DE)",
+        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
+        "size": 2365587456
     },
-    "010076f00e9c9002": {
+    "010039400e8d7005": {
         "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (RU)",
-        "base_game": "Unknown Base Game",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (FR)",
+        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
+        "size": 2335178752
+    },
+    "010039400e8d7002": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (RU)",
+        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
         "size": 2441084928
     },
     "0100d3200c52b001": {
