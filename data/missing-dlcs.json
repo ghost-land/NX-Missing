@@ -413,18 +413,6 @@
         "base_game": "Unknown Base Game",
         "size": 0
     },
-    "0100092021b2d001": {
-        "Release Date": "2025-06-19",
-        "dlc_name": "Watermelon Halloween Set",
-        "base_game": "Hungry Meem",
-        "size": 3145728
-    },
-    "0100092021b2d002": {
-        "Release Date": "2025-06-19",
-        "dlc_name": "Watermelon Halloween Set 2",
-        "base_game": "Hungry Meem",
-        "size": 3145728
-    },
     "01005d1022b51001": {
         "Release Date": "2025-06-19",
         "dlc_name": "KOWA Train | Train Plus Rolling Stock Add-On Pack",
@@ -453,6 +441,18 @@
         "Release Date": "2025-06-19",
         "dlc_name": "Jujin chan: Wrapping Train | Train Plus Rolling Stock Add-On Pack",
         "base_game": "Train Plus",
+        "size": 3145728
+    },
+    "0100092021b2d001": {
+        "Release Date": "2025-06-19",
+        "dlc_name": "Watermelon Halloween Set",
+        "base_game": "Hungry Meem",
+        "size": 3145728
+    },
+    "0100092021b2d002": {
+        "Release Date": "2025-06-19",
+        "dlc_name": "Watermelon Halloween Set 2",
+        "base_game": "Hungry Meem",
         "size": 3145728
     },
     "01001e001ad99001": {
@@ -5891,11 +5891,11 @@
         "base_game": "Let's Sing 2025",
         "size": 3145728
     },
-    "01001c101ed11005": {
+    "01001c101ed11006": {
         "Release Date": "2024-11-05",
-        "dlc_name": "Let's Sing 2025 - Spanish Hits",
+        "dlc_name": "Let's Sing 2025 - Hits from UK",
         "base_game": "Let's Sing 2025",
-        "size": 1075838976
+        "size": 1066401792
     },
     "01001c101ed11003": {
         "Release Date": "2024-11-05",
@@ -5903,11 +5903,11 @@
         "base_game": "Let's Sing 2025",
         "size": 1076887552
     },
-    "01001c101ed11006": {
+    "01001c101ed11005": {
         "Release Date": "2024-11-05",
-        "dlc_name": "Let's Sing 2025 - Hits from UK",
+        "dlc_name": "Let's Sing 2025 - Spanish Hits",
         "base_game": "Let's Sing 2025",
-        "size": 1066401792
+        "size": 1075838976
     },
     "010037c01e2a300d": {
         "Release Date": "2024-11-01",
@@ -7703,12 +7703,6 @@
         "base_game": "Airplane Flight Simulator",
         "size": 3145728
     },
-    "01005a20190a700a": {
-        "Release Date": "2024-07-25",
-        "dlc_name": "NBUNSC -  DLC Pack 4",
-        "base_game": "NARUTO X BORUTO ULTIMATE NINJA STORM CONNECTIONS",
-        "size": 3145728
-    },
     "0100bd401d18b004": {
         "Release Date": "2024-07-25",
         "dlc_name": "Character Unlock: Uzuki",
@@ -8266,6 +8260,12 @@
         "dlc_name": "[Moving] Fluffy Puppies",
         "base_game": "Jigsaw Masterpieces 2",
         "size": 56623104
+    },
+    "01005a20190a700a": {
+        "Release Date": "2024-07-24",
+        "dlc_name": "NBUNSC -  DLC Pack 4",
+        "base_game": "NARUTO X BORUTO ULTIMATE NINJA STORM CONNECTIONS",
+        "size": 3145728
     },
     "0100697019027004": {
         "Release Date": "2024-07-24",
@@ -10019,12 +10019,6 @@
         "base_game": "SpongeBob: Krusty Cook-Off",
         "size": 3145728
     },
-    "01005a20190a7009": {
-        "Release Date": "2024-05-30",
-        "dlc_name": "NBUNSC -  DLC Pack 3",
-        "base_game": "NARUTO X BORUTO ULTIMATE NINJA STORM CONNECTIONS",
-        "size": 3145728
-    },
     "010090001bd4d003": {
         "Release Date": "2024-05-30",
         "dlc_name": "\ub9c8\uc2a4\ud130 \ud2b8\ub808\uc774\ub108 \uc601\uc0c1 \ubc84\uc804: \uc5d0\uc5b4\ub85c\ube45 #03",
@@ -10078,6 +10072,12 @@
         "dlc_name": "\u30dc\u30fc\u30ca\u30b9\u30e2\u30f3\u30b9\u30bf\u30fc\u8ffd\u52a0\u30d1\u30c3\u30af",
         "base_game": "\u30ef\u30a4\u30ba\u30de\u30f3\u30ba\u30ef\u30fc\u30eb\u30c9 \u30ea\u30c8\u30e9\u30a4",
         "size": 4194304
+    },
+    "01005a20190a7009": {
+        "Release Date": "2024-05-29",
+        "dlc_name": "NBUNSC -  DLC Pack 3",
+        "base_game": "NARUTO X BORUTO ULTIMATE NINJA STORM CONNECTIONS",
+        "size": 3145728
     },
     "010000b01a453007": {
         "Release Date": "2024-05-29",
@@ -10361,12 +10361,6 @@
         "base_game": "SOUTH PARK: SNOW DAY!",
         "size": 3145728
     },
-    "0100bad0189b1001": {
-        "Release Date": "2024-05-16",
-        "dlc_name": "Kyukyoku TigerHeli - Console Ports + Get Star Pack",
-        "base_game": "Kyukyoku TigerHeli -TOAPLAN ARCADE GARAGE-",
-        "size": 3145728
-    },
     "010058201e41b002": {
         "Release Date": "2024-05-16",
         "dlc_name": "\u30ac\u30fc\u30c7\u30f3\u30e9\u30a4\u30d5\uff1a\u30ac\u30fc\u30c7\u30f3\u30d1\u30fc\u30c6\u30a3\u30fc \u30d1\u30c3\u30af",
@@ -10377,6 +10371,12 @@
         "Release Date": "2024-05-16",
         "dlc_name": "\u30ac\u30fc\u30c7\u30f3\u30e9\u30a4\u30d5\uff1a\u30a8\u30b3\u30d5\u30ec\u30f3\u30c9\u30ea\u30fc \u30c7\u30b3\u30ec\u30fc\u30b7\u30e7\u30f3\u30bb\u30c3\u30c8",
         "base_game": "\u30ac\u30fc\u30c7\u30f3\u30e9\u30a4\u30d5\uff1a\u5922\u306e\u5ead\u3092\u3064\u304f\u308d\u3046",
+        "size": 3145728
+    },
+    "0100bad0189b1001": {
+        "Release Date": "2024-05-16",
+        "dlc_name": "Kyukyoku TigerHeli - Console Ports + Get Star Pack",
+        "base_game": "Kyukyoku TigerHeli -TOAPLAN ARCADE GARAGE-",
         "size": 3145728
     },
     "01004c400cf9702b": {
@@ -14274,109 +14274,109 @@
         "size": 3145728
     },
     "010002a01998f065": {
-        "Release Date": "2023-05-16",
+        "Release Date": "2023-05-15",
         "dlc_name": "Extra Episode: Cyan",
         "base_game": "Trinity Trigger",
         "size": 3145728
     },
     "010002a01998f066": {
-        "Release Date": "2023-05-16",
+        "Release Date": "2023-05-15",
         "dlc_name": "Extra Episode: Elise",
         "base_game": "Trinity Trigger",
         "size": 3145728
     },
     "010002a01998f067": {
-        "Release Date": "2023-05-16",
+        "Release Date": "2023-05-15",
         "dlc_name": "Extra Episode: Zantis",
         "base_game": "Trinity Trigger",
         "size": 3145728
     },
     "010002a01998f068": {
-        "Release Date": "2023-05-16",
+        "Release Date": "2023-05-15",
         "dlc_name": "Extra Episode: Violet",
         "base_game": "Trinity Trigger",
         "size": 3145728
     },
     "010002a01998f0c9": {
-        "Release Date": "2023-05-16",
+        "Release Date": "2023-05-15",
         "dlc_name": "Azure Dragon Sword (Cyan)",
         "base_game": "Trinity Trigger",
         "size": 3145728
     },
     "010002a01998f0ca": {
-        "Release Date": "2023-05-16",
+        "Release Date": "2023-05-15",
         "dlc_name": "Crimson Lotus Bow (Elise)",
         "base_game": "Trinity Trigger",
         "size": 3145728
     },
     "010002a01998f0cb": {
-        "Release Date": "2023-05-16",
+        "Release Date": "2023-05-15",
         "dlc_name": "White Tiger Axe (Zantis)",
         "base_game": "Trinity Trigger",
         "size": 3145728
     },
     "010002a01998f12d": {
-        "Release Date": "2023-05-16",
+        "Release Date": "2023-05-15",
         "dlc_name": "Crystal Set",
         "base_game": "Trinity Trigger",
         "size": 3145728
     },
     "010002a01998f12e": {
-        "Release Date": "2023-05-16",
+        "Release Date": "2023-05-15",
         "dlc_name": "Pill Set",
         "base_game": "Trinity Trigger",
         "size": 3145728
     },
     "010002a01998f12f": {
-        "Release Date": "2023-05-16",
+        "Release Date": "2023-05-15",
         "dlc_name": "Novice Scavenger Set",
         "base_game": "Trinity Trigger",
         "size": 3145728
     },
     "010002a01998f130": {
-        "Release Date": "2023-05-16",
+        "Release Date": "2023-05-15",
         "dlc_name": "Expert Scavenger Set",
         "base_game": "Trinity Trigger",
         "size": 3145728
     },
     "010002a01998f131": {
-        "Release Date": "2023-05-16",
+        "Release Date": "2023-05-15",
         "dlc_name": "Novice Crafting Set",
         "base_game": "Trinity Trigger",
         "size": 3145728
     },
     "010002a01998f132": {
-        "Release Date": "2023-05-16",
+        "Release Date": "2023-05-15",
         "dlc_name": "Intermediate Crafting Set",
         "base_game": "Trinity Trigger",
         "size": 3145728
     },
     "010002a01998f133": {
-        "Release Date": "2023-05-16",
+        "Release Date": "2023-05-15",
         "dlc_name": "Advanced Crafting Set",
         "base_game": "Trinity Trigger",
         "size": 3145728
     },
     "010002a01998f134": {
-        "Release Date": "2023-05-16",
+        "Release Date": "2023-05-15",
         "dlc_name": "Purchase Permit: Mega Potion",
         "base_game": "Trinity Trigger",
         "size": 3145728
     },
     "010002a01998f135": {
-        "Release Date": "2023-05-16",
+        "Release Date": "2023-05-15",
         "dlc_name": "Booster Item Set 1",
         "base_game": "Trinity Trigger",
         "size": 3145728
     },
     "010002a01998f136": {
-        "Release Date": "2023-05-16",
+        "Release Date": "2023-05-15",
         "dlc_name": "Booster Item Set 2",
         "base_game": "Trinity Trigger",
         "size": 3145728
     },
     "010002a01998f1f6": {
-        "Release Date": "2023-05-16",
+        "Release Date": "2023-05-15",
         "dlc_name": "Dad's Keepsakes",
         "base_game": "Trinity Trigger",
         "size": 3145728
@@ -14406,67 +14406,67 @@
         "size": 3145728
     },
     "01009d100ea29001": {
-        "Release Date": "2023-05-04",
+        "Release Date": "2023-05-03",
         "dlc_name": "AeternoBlade II: Director's Rewind - Sparkling Ruby",
         "base_game": "AeternoBlade II: Director's Rewind",
         "size": 13631488
     },
     "01009d100ea29002": {
-        "Release Date": "2023-05-04",
+        "Release Date": "2023-05-03",
         "dlc_name": "AeternoBlade II: Director's Rewind - Sea Breeze",
         "base_game": "AeternoBlade II: Director's Rewind",
         "size": 42991616
     },
     "01009d100ea29003": {
-        "Release Date": "2023-05-04",
+        "Release Date": "2023-05-03",
         "dlc_name": "AeternoBlade II: Director's Rewind - Ultimate Freyja",
         "base_game": "AeternoBlade II: Director's Rewind",
         "size": 24117248
     },
     "01009d100ea29004": {
-        "Release Date": "2023-05-04",
+        "Release Date": "2023-05-03",
         "dlc_name": "AeternoBlade II: Director's Rewind - Fuzzy Grizzly",
         "base_game": "AeternoBlade II: Director's Rewind",
         "size": 5242880
     },
     "01009d100ea29005": {
-        "Release Date": "2023-05-04",
+        "Release Date": "2023-05-03",
         "dlc_name": "AeternoBlade II: Director's Rewind - Summer Blossom",
         "base_game": "AeternoBlade II: Director's Rewind",
         "size": 23068672
     },
     "01009d100ea29006": {
-        "Release Date": "2023-05-04",
+        "Release Date": "2023-05-03",
         "dlc_name": "AeternoBlade II: Director's Rewind - Pineapple Royale",
         "base_game": "AeternoBlade II: Director's Rewind",
         "size": 17825792
     },
     "01009d100ea29007": {
-        "Release Date": "2023-05-04",
+        "Release Date": "2023-05-03",
         "dlc_name": "AeternoBlade II: Director's Rewind - Lemon Mimosa",
         "base_game": "AeternoBlade II: Director's Rewind",
         "size": 44040192
     },
     "01009d100ea29008": {
-        "Release Date": "2023-05-04",
+        "Release Date": "2023-05-03",
         "dlc_name": "AeternoBlade II: Director's Rewind - Dual Gear [ Arena Mode ]",
         "base_game": "AeternoBlade II: Director's Rewind",
         "size": 68157440
     },
     "01009d100ea29009": {
-        "Release Date": "2023-05-04",
+        "Release Date": "2023-05-03",
         "dlc_name": "AeternoBlade II: Director's Rewind - Flaming Cognac",
         "base_game": "AeternoBlade II: Director's Rewind",
         "size": 5242880
     },
     "01009d100ea2900a": {
-        "Release Date": "2023-05-04",
+        "Release Date": "2023-05-03",
         "dlc_name": "AeternoBlade II: Director's Rewind - Ocean Spritzer",
         "base_game": "AeternoBlade II: Director's Rewind",
         "size": 5242880
     },
     "01009d100ea2900b": {
-        "Release Date": "2023-05-04",
+        "Release Date": "2023-05-03",
         "dlc_name": "AeternoBlade II: Director's Rewind - Blue Hawaiian",
         "base_game": "AeternoBlade II: Director's Rewind",
         "size": 5242880
@@ -16025,17 +16025,17 @@
         "base_game": "MELTY BLOOD: TYPE LUMINA",
         "size": 3145728
     },
-    "01008ad013a87001": {
-        "Release Date": "2022-07-21",
-        "dlc_name": "Lost Ruins Backers Exclusive DLC",
-        "base_game": "Lost Ruins",
-        "size": 5242880
-    },
     "01007ab012873002": {
         "Release Date": "2022-07-21",
         "dlc_name": "\u5287\u60c5\u300c\u9577\u7be0\u8a2d\u6a02\u539f\u4e4b\u6230\u300d\uff06KOU SHIBUSAWA40\u9031\u5e74\u7d00\u5ff5\u3000\u6b66\u5c07\u8cc7\u6599\u7d44\u5408",
         "base_game": "\u4fe1\u9577\u4e4b\u91ce\u671b\uff65\u65b0\u751f",
         "size": 20971520
+    },
+    "01008ad013a87001": {
+        "Release Date": "2022-07-20",
+        "dlc_name": "Lost Ruins Backers Exclusive DLC",
+        "base_game": "Lost Ruins",
+        "size": 5242880
     },
     "01003d001597b03c": {
         "Release Date": "2022-07-14",
@@ -18515,12 +18515,6 @@
         "base_game": "Let's Sing 2022 \u4e2d\u6587\u7248",
         "size": 286261248
     },
-    "01005b9002313001": {
-        "Release Date": "2021-11-18",
-        "dlc_name": "The Binding of Isaac: Repentance",
-        "base_game": "The Binding of Isaac: Afterbirth+",
-        "size": 676331520
-    },
     "01003d001597b00e": {
         "Release Date": "2021-11-18",
         "dlc_name": "HOT WHEELS\u2122 - Wonder Woman\u2122",
@@ -18556,6 +18550,12 @@
         "dlc_name": "HOT WHEELS\u2122 - TMNT Leonardo",
         "base_game": "HOT WHEELS UNLEASHED\u2122",
         "size": 3145728
+    },
+    "01005b9002313001": {
+        "Release Date": "2021-11-17",
+        "dlc_name": "The Binding of Isaac: Repentance",
+        "base_game": "The Binding of Isaac: Afterbirth+",
+        "size": 676331520
     },
     "01003d001597b00b": {
         "Release Date": "2021-11-12",
@@ -26927,6 +26927,18 @@
         "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
         "size": 2441084928
     },
+    "010076f00e9c9001": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (PL)",
+        "base_game": "Unknown Base Game",
+        "size": 2350907392
+    },
+    "010076f00e9c9002": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (RU)",
+        "base_game": "Unknown Base Game",
+        "size": 2441084928
+    },
     "0100a0800e9c5001": {
         "Release Date": "2020-02-26",
         "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (PL)",
@@ -26944,18 +26956,6 @@
         "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (DE)",
         "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
         "size": 2364538880
-    },
-    "010076f00e9c9001": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (PL)",
-        "base_game": "Unknown Base Game",
-        "size": 2350907392
-    },
-    "010076f00e9c9002": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (RU)",
-        "base_game": "Unknown Base Game",
-        "size": 2441084928
     },
     "010079500fd5d002": {
         "Release Date": "2020-02-20",
