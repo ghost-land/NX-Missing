@@ -1379,12 +1379,6 @@
         "base_game": "BEYBLADE X XONE",
         "size": 3145728
     },
-    "0100d5701e9dd001": {
-        "Release Date": "2025-04-24",
-        "dlc_name": "Bonus Content for Pre-Order",
-        "base_game": "Maliki : Poison of the Past",
-        "size": 3145728
-    },
     "010088b0215bd002": {
         "Release Date": "2025-04-24",
         "dlc_name": "\ud658\uc0c1\ud5a5 \uc548\uc2ec \ubaa8\ud5d8\ud329",
@@ -1401,6 +1395,12 @@
         "Release Date": "2025-04-24",
         "dlc_name": "ESCAPE BACKROOMS: DARKNESS HORROR NEW TRACKS-ESCAPE BACKROOMS: \ub2e4\ud06c\ub2c8\uc2a4 \ud638\ub7ec \uc2e0\uace1",
         "base_game": "ESCAPE BACKROOMS: DARKNESS HORROR",
+        "size": 3145728
+    },
+    "0100d5701e9dd001": {
+        "Release Date": "2025-04-24",
+        "dlc_name": "Bonus Content for Pre-Order",
+        "base_game": "Maliki : Poison of the Past",
         "size": 3145728
     },
     "010059d020671003": {
@@ -1691,6 +1691,24 @@
         "base_game": "Dreamless Girl",
         "size": 3145728
     },
+    "010085c02146f001": {
+        "Release Date": "2025-04-10",
+        "dlc_name": "MasterChef: Learn to Cook! - \uacfc\uc77c, \uacac\uacfc\ub958 & \ub514\uc800\ud2b8",
+        "base_game": "MasterChef: Learn to Cook!",
+        "size": 3145728
+    },
+    "010085c02146f002": {
+        "Release Date": "2025-04-10",
+        "dlc_name": "MasterChef: Learn to Cook! - \uc721\ub958, \uc720\uc81c\ud488 & \ud574\uc0b0\ubb3c",
+        "base_game": "MasterChef: Learn to Cook!",
+        "size": 3145728
+    },
+    "010085c02146f003": {
+        "Release Date": "2025-04-10",
+        "dlc_name": "MasterChef: Learn to Cook! - \ucc44\uc18c & \uace1\ubb3c",
+        "base_game": "MasterChef: Learn to Cook!",
+        "size": 3145728
+    },
     "01006ca022fdf003": {
         "Release Date": "2025-04-10",
         "dlc_name": "\u590f\u65e5\u5ead\u9662",
@@ -1785,24 +1803,6 @@
         "Release Date": "2025-04-10",
         "dlc_name": "\u590d\u6d3b\u8282\u5feb\u4e50",
         "base_game": "Unknown Base Game",
-        "size": 3145728
-    },
-    "010085c02146f001": {
-        "Release Date": "2025-04-10",
-        "dlc_name": "MasterChef: Learn to Cook! - \uacfc\uc77c, \uacac\uacfc\ub958 & \ub514\uc800\ud2b8",
-        "base_game": "MasterChef: Learn to Cook!",
-        "size": 3145728
-    },
-    "010085c02146f002": {
-        "Release Date": "2025-04-10",
-        "dlc_name": "MasterChef: Learn to Cook! - \uc721\ub958, \uc720\uc81c\ud488 & \ud574\uc0b0\ubb3c",
-        "base_game": "MasterChef: Learn to Cook!",
-        "size": 3145728
-    },
-    "010085c02146f003": {
-        "Release Date": "2025-04-10",
-        "dlc_name": "MasterChef: Learn to Cook! - \ucc44\uc18c & \uace1\ubb3c",
-        "base_game": "MasterChef: Learn to Cook!",
         "size": 3145728
     },
     "01001e20203dd001": {
@@ -3695,12 +3695,6 @@
         "base_game": "Little Paws: Kitty Cat Simulator",
         "size": 3145728
     },
-    "01009820151b7003": {
-        "Release Date": "2025-02-20",
-        "dlc_name": "\u6e21\u795e\u7eaa \u82ac\u5c3c\u65af\u5d1b\u8d77\uff1a\u8bd5\u70bc",
-        "base_game": "Unknown Base Game",
-        "size": 7683964928
-    },
     "0100d1c020dd7066": {
         "Release Date": "2025-02-20",
         "dlc_name": "\ub808\ud2b8\ub85c\ub810\ub984: \ucf08\ub9ac \ub9e5\uc2a4\uc6f0 (RetroRealms: Kelly Maxwell)",
@@ -3724,6 +3718,12 @@
         "dlc_name": "RetroRealms: Ash vs Evil Dead (\ub808\ud2b8\ub85c\ub810\ub984: \uc560\uc26c vs \uc774\ube14\ub370\ub4dc)",
         "base_game": "RetroRealms",
         "size": 699400192
+    },
+    "01009820151b7003": {
+        "Release Date": "2025-02-20",
+        "dlc_name": "\u6e21\u795e\u7eaa \u82ac\u5c3c\u65af\u5d1b\u8d77\uff1a\u8bd5\u70bc",
+        "base_game": "Unknown Base Game",
+        "size": 7683964928
     },
     "010082d01d25f208": {
         "Release Date": "2025-02-20",
@@ -4567,13 +4567,13 @@
     },
     "010081d01e247006": {
         "Release Date": "2025-01-13",
-        "dlc_name": "Ticket to Ride\u00ae - Switzerland Expansion",
+        "dlc_name": "Les Aventuriers Du Rail\u00ae: Extension de la Suisse",
         "base_game": "Ticket to Ride",
         "size": 3145728
     },
     "010081d01e247007": {
         "Release Date": "2025-01-13",
-        "dlc_name": "Ticket to Ride\u00ae - Winter Wonderland bundle",
+        "dlc_name": "Les Aventuriers du Rail\u00ae - Pack Merveille Hivernale",
         "base_game": "Ticket to Ride",
         "size": 3145728
     },
@@ -6209,6 +6209,12 @@
         "base_game": "Teenage Mutant Ninja Turtles: Mutants Unleashed",
         "size": 3145728
     },
+    "01003df01e601032": {
+        "Release Date": "2024-11-01",
+        "dlc_name": "\ud30c\ub9c8\uae30\uc544 (FARMAGIA) \ub514\uc9c0\ud138 \uc544\ud2b8 \ubd81 & \ub514\uc9c0\ud138 \uc0ac\uc6b4\ub4dc\ud2b8\ub799",
+        "base_game": "\u9b54\u8fb2\u50b3\u8a18 FARMAGIA",
+        "size": 3145728
+    },
     "01009370207ff001": {
         "Release Date": "2024-11-01",
         "dlc_name": "Experience x3 - Journey to Kreisia",
@@ -6217,13 +6223,13 @@
     },
     "01009370207ff002": {
         "Release Date": "2024-11-01",
-        "dlc_name": "Weapon Level x3 - Journey to Kreisia",
+        "dlc_name": "Weapon level x3 - Journey to Kreisia",
         "base_game": "Journey to Kreisia",
         "size": 3145728
     },
     "01009370207ff003": {
         "Release Date": "2024-11-01",
-        "dlc_name": "Experience & Weapon Level x2 - Journey to Kreisia",
+        "dlc_name": "Experience & Weapon level x2 - Journey to Kreisia",
         "base_game": "Journey to Kreisia",
         "size": 3145728
     },
@@ -6249,12 +6255,6 @@
         "Release Date": "2024-11-01",
         "dlc_name": "No Skill Cost - Journey to Kreisia",
         "base_game": "Journey to Kreisia",
-        "size": 3145728
-    },
-    "01003df01e601032": {
-        "Release Date": "2024-11-01",
-        "dlc_name": "\ud30c\ub9c8\uae30\uc544 (FARMAGIA) \ub514\uc9c0\ud138 \uc544\ud2b8 \ubd81 & \ub514\uc9c0\ud138 \uc0ac\uc6b4\ub4dc\ud2b8\ub799",
-        "base_game": "\u9b54\u8fb2\u50b3\u8a18 FARMAGIA",
         "size": 3145728
     },
     "0100cf80118c9032": {
@@ -7297,7 +7297,7 @@
     },
     "0100aae0100c5008": {
         "Release Date": "2024-08-29",
-        "dlc_name": "Expansion 6: Faithful Friends",
+        "dlc_name": "Extension 6 - Fid\u00e8les Compagnons",
         "base_game": "The Dresden Files Cooperative Card Game",
         "size": 3145728
     },
@@ -7549,7 +7549,7 @@
     },
     "01009a401bdeb001": {
         "Release Date": "2024-08-12",
-        "dlc_name": "Yamat - The Breach Traveler",
+        "dlc_name": "Yamat - l'Arpenteuse des Failles",
         "base_game": "Astral Ascent",
         "size": 3145728
     },
@@ -7591,7 +7591,7 @@
     },
     "010081d01e247002": {
         "Release Date": "2024-08-08",
-        "dlc_name": "Ticket to Ride: 1910 & 1912 Ticket Pack Bundle",
+        "dlc_name": "Les Aventuriers du Rail: Packs de billets USA 1910 et Europa 1912",
         "base_game": "Ticket to Ride",
         "size": 3145728
     },
@@ -7603,7 +7603,7 @@
     },
     "0100f6e016ee9002": {
         "Release Date": "2024-08-06",
-        "dlc_name": "Beach Episode",
+        "dlc_name": "\u00c9pisode \u00e0 la plage",
         "base_game": "Shishi : Timeless Prelude",
         "size": 3145728
     },
@@ -7693,7 +7693,7 @@
     },
     "010074600cc7b00a": {
         "Release Date": "2024-08-01",
-        "dlc_name": "2nd OBAKEIDORO! Fest Bundle",
+        "dlc_name": "Le 2e OBAKEIDORO! Fes Bundle",
         "base_game": "OBAKEIDORO!",
         "size": 3145728
     },
@@ -7903,7 +7903,7 @@
     },
     "01009c501d57f001": {
         "Release Date": "2024-07-25",
-        "dlc_name": "The car",
+        "dlc_name": "La voiture",
         "base_game": "OnlyUP!",
         "size": 3145728
     },
@@ -8467,7 +8467,7 @@
     },
     "0100bd401d18b004": {
         "Release Date": "2024-07-24",
-        "dlc_name": "Character Unlock: Uzuki",
+        "dlc_name": "D\u00e9bloquer personnage : Uzuki",
         "base_game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
         "size": 3145728
     },
@@ -9295,7 +9295,7 @@
     },
     "01003d001ef51001": {
         "Release Date": "2024-07-16",
-        "dlc_name": "100 Pairs Challange!",
+        "dlc_name": "100 Pairs Challenge!",
         "base_game": "Spy Guy Memory",
         "size": 3145728
     },
@@ -9346,12 +9346,6 @@
         "dlc_name": "\ucd94\uac00 \uc6b4\ub3d9 BGM \ud328\ud0a4\uc9c0 Vol.2",
         "base_game": "Fitness Boxing feat. HATSUNE MIKU Exercise with Miku",
         "size": 75497472
-    },
-    "01006ca01c757001": {
-        "Release Date": "2024-07-11",
-        "dlc_name": "RPG Alchemy Spell I",
-        "base_game": "RPG Alchemy",
-        "size": 3145728
     },
     "010001c01d663001": {
         "Release Date": "2024-07-11",
@@ -9431,6 +9425,12 @@
         "base_game": "ACE COMBAT\u2122 7: SKIES UNKNOWN \u8c6a\u83ef\u7248",
         "size": 3145728
     },
+    "01006ca01c757001": {
+        "Release Date": "2024-07-11",
+        "dlc_name": "RPG Alchemy Spell I",
+        "base_game": "RPG Alchemy",
+        "size": 3145728
+    },
     "0100f5501986f02b": {
         "Release Date": "2024-07-11",
         "dlc_name": "AEW: Fight Forever Switchblade Tournament Pack",
@@ -9499,19 +9499,19 @@
     },
     "01002b7015a41003": {
         "Release Date": "2024-07-09",
-        "dlc_name": "Spin Rhythm XD Chillhop DLC",
+        "dlc_name": "Spin Rhythm XD DLC Chillhop",
         "base_game": "Spin Rhythm XD",
         "size": 77594624
     },
     "01009e201f359001": {
         "Release Date": "2024-07-08",
-        "dlc_name": "Bug & Seek: Isopods Expansion",
+        "dlc_name": "Bug & Seek: Isopods",
         "base_game": "Bug & Seek",
         "size": 3145728
     },
     "01009e201f359002": {
         "Release Date": "2024-07-08",
-        "dlc_name": "Bug & Seek: Weevils Expansion",
+        "dlc_name": "Bug & Seek: Weevils",
         "base_game": "Bug & Seek",
         "size": 3145728
     },
@@ -9553,7 +9553,7 @@
     },
     "0100d5601eb0d004": {
         "Release Date": "2024-07-04",
-        "dlc_name": "New Character:Hildr",
+        "dlc_name": "New Character: Hildr",
         "base_game": "Taboo Trial",
         "size": 3145728
     },
@@ -9655,7 +9655,7 @@
     },
     "0100e7301d41d002": {
         "Release Date": "2024-06-28",
-        "dlc_name": "PAWfectly Designed - Extra Mission",
+        "dlc_name": "PAWfectly Designed - Mission Suppl\u00e9mentaire",
         "base_game": "PAWfectly Designed",
         "size": 3145728
     },
@@ -9907,7 +9907,7 @@
     },
     "010039801d79b001": {
         "Release Date": "2024-06-10",
-        "dlc_name": "Pony World - Color by Numbers Spring DLC",
+        "dlc_name": "Pony World - Coloriage par Num\u00e9ros DLC Printemps",
         "base_game": "Pony World - Color by Numbers",
         "size": 14680064
     },
@@ -10117,13 +10117,13 @@
     },
     "01004c400cf9702c": {
         "Release Date": "2024-06-03",
-        "dlc_name": "Dead by Daylight: Dungeons & Dragons",
+        "dlc_name": "Dead by Daylight\u00a0: Dungeons & Dragons",
         "base_game": "Dead by Daylight",
         "size": 3145728
     },
     "01004c400cf9702d": {
         "Release Date": "2024-06-03",
-        "dlc_name": "Dead by Daylight: Dungeons & Dragons - Cosmetic Pack",
+        "dlc_name": "Dead by Daylight: Donjons et Dragons - Pack cosm\u00e9tique",
         "base_game": "Dead by Daylight",
         "size": 3145728
     },
@@ -10249,13 +10249,13 @@
     },
     "010000b01a453007": {
         "Release Date": "2024-05-29",
-        "dlc_name": "Jujutsu Kaisen Cursed Clash - Hidden Inventory/Premature Death",
+        "dlc_name": "Jujutsu Kaisen Cursed Clash - Inventario oculto/Muerte prematura",
         "base_game": "Jujutsu Kaisen Cursed Clash",
         "size": 3145728
     },
     "010000b01a45300a": {
         "Release Date": "2024-05-29",
-        "dlc_name": "Jujutsu Kaisen Cursed Clash - Anime Ending Theme 1 Outfit Set",
+        "dlc_name": "Jujutsu Kaisen Cursed Clash - Conjunto de ropa del tema final 1 del anime",
         "base_game": "Jujutsu Kaisen Cursed Clash",
         "size": 3145728
     },
@@ -10297,7 +10297,7 @@
     },
     "0100ef801b7fb001": {
         "Release Date": "2024-05-23",
-        "dlc_name": "The Serpent King's Domain",
+        "dlc_name": "Le Domaine du Roi Serpent",
         "base_game": "Fabled Lands",
         "size": 3145728
     },
@@ -10555,7 +10555,7 @@
     },
     "01004c400cf9702b": {
         "Release Date": "2024-05-14",
-        "dlc_name": "Dead by Daylight: Endless Hunt Pack",
+        "dlc_name": "Dead by Daylight\u00a0: Pack Endless Hunt",
         "base_game": "Dead by Daylight",
         "size": 3145728
     },
@@ -10843,25 +10843,25 @@
     },
     "01005b2017d93003": {
         "Release Date": "2024-04-25",
-        "dlc_name": "DLC 3: Kaoruko Character Pack",
+        "dlc_name": "Pack de personnages DLC 3",
         "base_game": "BIRDIE WING -Golf Girls' Story-",
         "size": 3145728
     },
     "01005b2017d93004": {
         "Release Date": "2024-04-25",
-        "dlc_name": "DLC 4: Kuyo Character Pack",
+        "dlc_name": "Pack de personnages DLC 4",
         "base_game": "BIRDIE WING -Golf Girls' Story-",
         "size": 3145728
     },
     "01005b2017d93005": {
         "Release Date": "2024-04-25",
-        "dlc_name": "DLC 5: Mizuho Character Pack",
+        "dlc_name": "Pack de personnages DLC 5",
         "base_game": "BIRDIE WING -Golf Girls' Story-",
         "size": 3145728
     },
     "01005b2017d93006": {
         "Release Date": "2024-04-25",
-        "dlc_name": "DLC 6: Kaede\u00a0 Character Pack",
+        "dlc_name": "Pack de personnages DLC 6",
         "base_game": "BIRDIE WING -Golf Girls' Story-",
         "size": 3145728
     },
@@ -11197,7 +11197,7 @@
     },
     "0100ea300de6f003": {
         "Release Date": "2024-04-05",
-        "dlc_name": "R\u00e9ussir : Code de la Route - Nouvelle \u00c9dition - Bonus ASSR1 - ASSR2 - Permis AM (French Highway Code)",
+        "dlc_name": "R\u00e9ussir : Code de la Route - Nouvelle \u00c9dition - Bonus ASSR1 - ASSR2 - Permis AM",
         "base_game": "R\u00e9ussir : Code de la Route - Nouvelle \u00c9dition (French Highway Code)",
         "size": 130023424
     },
@@ -11209,7 +11209,7 @@
     },
     "01004b301bd39007": {
         "Release Date": "2024-04-04",
-        "dlc_name": "GUNVOLT RECORDS Cychronicle Song Pack 7 Lola: \u266aKindled Spirits \u266aInner Alarm \u266aWordplay Magic \u266aSparkling Elation \u266a",
+        "dlc_name": "GUNVOLT RECORDS Cychronicle - Pack de chansons 7 Lola : \u266aEsprits enflamm\u00e9s \u266aAlarme interne \u266aMagie des mots \u266a\u00c9lation p\u00e9tillante \u266a",
         "base_game": "GUNVOLT RECORDS: Cychronicle",
         "size": 274726912
     },
@@ -11275,7 +11275,7 @@
     },
     "010089701934d001": {
         "Release Date": "2024-03-25",
-        "dlc_name": "Kickstarter DLC",
+        "dlc_name": "DLC Kickstarter",
         "base_game": "Helvetii",
         "size": 3145728
     },
@@ -11329,7 +11329,7 @@
     },
     "01004c400cf9702a": {
         "Release Date": "2024-03-12",
-        "dlc_name": "Dead by Daylight: All Things Wicked Chapter",
+        "dlc_name": "Dead by Daylight\u00a0: Toutes les malfaisances",
         "base_game": "Dead by Daylight",
         "size": 3145728
     },
@@ -27089,24 +27089,6 @@
         "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
         "size": 2441084928
     },
-    "0100a0800e9c5001": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (PL)",
-        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
-        "size": 2349858816
-    },
-    "0100a0800e9c5005": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (FR)",
-        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
-        "size": 2334130176
-    },
-    "0100a0800e9c5003": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (DE)",
-        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
-        "size": 2364538880
-    },
     "010076f00e9c9001": {
         "Release Date": "2020-02-26",
         "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (PL)",
@@ -27118,6 +27100,24 @@
         "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (RU)",
         "base_game": "Unknown Base Game",
         "size": 2441084928
+    },
+    "0100a0800e9c5001": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "\u042f\u0437\u044b\u043a\u043e\u0432\u043e\u0439 \u043f\u0430\u043a\u0435\u0442 '\u0412\u0435\u0434\u044c\u043c\u0430\u043a 3: \u0414\u0438\u043a\u0430\u044f \u041e\u0445\u043e\u0442\u0430 \u2014 \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435' (PL)",
+        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
+        "size": 2349858816
+    },
+    "0100a0800e9c5005": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "\u042f\u0437\u044b\u043a\u043e\u0432\u043e\u0439 \u043f\u0430\u043a\u0435\u0442 '\u0412\u0435\u0434\u044c\u043c\u0430\u043a 3: \u0414\u0438\u043a\u0430\u044f \u041e\u0445\u043e\u0442\u0430 \u2014 \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435' (FR)",
+        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
+        "size": 2334130176
+    },
+    "0100a0800e9c5003": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "\u042f\u0437\u044b\u043a\u043e\u0432\u043e\u0439 \u043f\u0430\u043a\u0435\u0442 '\u0412\u0435\u0434\u044c\u043c\u0430\u043a 3: \u0414\u0438\u043a\u0430\u044f \u041e\u0445\u043e\u0442\u0430 \u2014 \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435' (DE)",
+        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
+        "size": 2364538880
     },
     "010079500fd5d002": {
         "Release Date": "2020-02-20",
