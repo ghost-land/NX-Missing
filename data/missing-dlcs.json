@@ -638,13 +638,13 @@
     "010090601fd67001": {
         "Release Date": "2025-07-16",
         "dlc_name": "Pre-order bonus \"Character color variation for Gon\"",
-        "base_game": "HUNTER\u00d7HUNTER NEN\u00d7IMPACT",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "010090601fd67002": {
         "Release Date": "2025-07-16",
         "dlc_name": "Season Pass 1 Limited Character Arrangement Costume\uff08Chrollo\uff09",
-        "base_game": "HUNTER\u00d7HUNTER NEN\u00d7IMPACT",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100f2b023f07001": {
@@ -1405,7 +1405,7 @@
     },
     "01003af0200b100d": {
         "Release Date": "2025-06-05",
-        "dlc_name": "Rune Factory 4 Bachelorette Outfit Bundle",
+        "dlc_name": "Rune Factory 4 Junggesellinnen-Outfit-Bundle",
         "base_game": "Rune Factory: Guardians of Azuma",
         "size": 18874368
     },
@@ -1417,7 +1417,7 @@
     },
     "01003af0200b1005": {
         "Release Date": "2025-06-05",
-        "dlc_name": "Sakuna DLC",
+        "dlc_name": "Sakuna-DLC",
         "base_game": "Rune Factory: Guardians of Azuma",
         "size": 3145728
     },
@@ -1465,7 +1465,7 @@
     },
     "0100c6d0205d7004": {
         "Release Date": "2025-05-29",
-        "dlc_name": "Fuga: Melodies of Steel 3 - In-Game Currency & Upgrade Materials",
+        "dlc_name": "Fuga: Melodies of Steel 3 - Spielw\u00e4hrung und Upgrade-Materialien-Set",
         "base_game": "Fuga: Melodies of Steel 3",
         "size": 3145728
     },
@@ -1605,6 +1605,12 @@
         "Release Date": "2025-04-24",
         "dlc_name": "ESCAPE BACKROOMS: DARKNESS HORROR NEW TRACKS-ESCAPE BACKROOMS: \ub2e4\ud06c\ub2c8\uc2a4 \ud638\ub7ec \uc2e0\uace1",
         "base_game": "ESCAPE BACKROOMS: DARKNESS HORROR",
+        "size": 3145728
+    },
+    "0100d5701e9dd001": {
+        "Release Date": "2025-04-24",
+        "dlc_name": "Bonus Content for Pre-Order",
+        "base_game": "Maliki : Poison of the Past",
         "size": 3145728
     },
     "010059d020671003": {
@@ -1775,12 +1781,6 @@
         "base_game": "\u3046\u305f\u308f\u308c\u308b\u3082\u306e \u6563\u308a\u3086\u304f\u8005\u3078\u306e\u5b50\u5b88\u5504",
         "size": 3145728
     },
-    "0100d5701e9dd001": {
-        "Release Date": "2025-04-24",
-        "dlc_name": "Bonus Content for Pre-Order",
-        "base_game": "Maliki : Poison of the Past",
-        "size": 3145728
-    },
     "010092601601300f": {
         "Release Date": "2025-04-17",
         "dlc_name": "PowerWash Simulator \u2013 Muckingham Files \u2013 Part 5",
@@ -1901,24 +1901,6 @@
         "base_game": "Dreamless Girl",
         "size": 3145728
     },
-    "010085c02146f001": {
-        "Release Date": "2025-04-10",
-        "dlc_name": "MasterChef: Learn to Cook! - \uacfc\uc77c, \uacac\uacfc\ub958 & \ub514\uc800\ud2b8",
-        "base_game": "MasterChef: Learn to Cook!",
-        "size": 3145728
-    },
-    "010085c02146f002": {
-        "Release Date": "2025-04-10",
-        "dlc_name": "MasterChef: Learn to Cook! - \uc721\ub958, \uc720\uc81c\ud488 & \ud574\uc0b0\ubb3c",
-        "base_game": "MasterChef: Learn to Cook!",
-        "size": 3145728
-    },
-    "010085c02146f003": {
-        "Release Date": "2025-04-10",
-        "dlc_name": "MasterChef: Learn to Cook! - \ucc44\uc18c & \uace1\ubb3c",
-        "base_game": "MasterChef: Learn to Cook!",
-        "size": 3145728
-    },
     "01006ca022fdf003": {
         "Release Date": "2025-04-10",
         "dlc_name": "\u590f\u65e5\u5ead\u9662",
@@ -2013,6 +1995,24 @@
         "Release Date": "2025-04-10",
         "dlc_name": "\u590d\u6d3b\u8282\u5feb\u4e50",
         "base_game": "Unknown Base Game",
+        "size": 3145728
+    },
+    "010085c02146f001": {
+        "Release Date": "2025-04-10",
+        "dlc_name": "MasterChef: Learn to Cook! - \uacfc\uc77c, \uacac\uacfc\ub958 & \ub514\uc800\ud2b8",
+        "base_game": "MasterChef: Learn to Cook!",
+        "size": 3145728
+    },
+    "010085c02146f002": {
+        "Release Date": "2025-04-10",
+        "dlc_name": "MasterChef: Learn to Cook! - \uc721\ub958, \uc720\uc81c\ud488 & \ud574\uc0b0\ubb3c",
+        "base_game": "MasterChef: Learn to Cook!",
+        "size": 3145728
+    },
+    "010085c02146f003": {
+        "Release Date": "2025-04-10",
+        "dlc_name": "MasterChef: Learn to Cook! - \ucc44\uc18c & \uace1\ubb3c",
+        "base_game": "MasterChef: Learn to Cook!",
         "size": 3145728
     },
     "01001e20203dd001": {
@@ -3044,19 +3044,19 @@
     "01009d9021c75001": {
         "Release Date": "2025-03-20",
         "dlc_name": "Anime Girls: JDM Car Passion Puzzle The Street Kings",
-        "base_game": "Anime Girls: JDM Car Passion Puzzle - \u52d5\u756b\u5973\u5b69\uff1aJDM \u6c7d\u8eca\u6fc0\u60c5\u62fc\u5716",
+        "base_game": "Unknown Base Game",
         "size": 27262976
     },
     "01009d9021c75002": {
         "Release Date": "2025-03-20",
         "dlc_name": "Anime Girls: JDM Car Passion Puzzle Gearheads and Glamour",
-        "base_game": "Anime Girls: JDM Car Passion Puzzle - \u52d5\u756b\u5973\u5b69\uff1aJDM \u6c7d\u8eca\u6fc0\u60c5\u62fc\u5716",
+        "base_game": "Unknown Base Game",
         "size": 27262976
     },
     "01009d9021c75003": {
         "Release Date": "2025-03-20",
         "dlc_name": "Anime Girls: JDM Car Passion Puzzle Driven by Style",
-        "base_game": "Anime Girls: JDM Car Passion Puzzle - \u52d5\u756b\u5973\u5b69\uff1aJDM \u6c7d\u8eca\u6fc0\u60c5\u62fc\u5716",
+        "base_game": "Unknown Base Game",
         "size": 27262976
     },
     "0100efc021e1b001": {
@@ -3182,19 +3182,19 @@
     "01005a8020b05001": {
         "Release Date": "2025-03-13",
         "dlc_name": "\u30b3\u30ed\u30b3\u30ed\u30b3\u30df\u30c3\u30af 2024\u5e74 2\u6708\u53f7",
-        "base_game": "\u5c0f\u5b66\u9928\u30de\u30f3\u30ac\u30a2\u30d7\u30ea \u30b3\u30ed\u30b3\u30ed\u30b3\u30df\u30c3\u30af 2024",
+        "base_game": "Unknown Base Game",
         "size": 223346688
     },
     "01005a8020b05002": {
         "Release Date": "2025-03-13",
         "dlc_name": "\u30b3\u30ed\u30b3\u30ed\u30b3\u30df\u30c3\u30af 2024\u5e74 3\u6708\u53f7",
-        "base_game": "\u5c0f\u5b66\u9928\u30de\u30f3\u30ac\u30a2\u30d7\u30ea \u30b3\u30ed\u30b3\u30ed\u30b3\u30df\u30c3\u30af 2024",
+        "base_game": "Unknown Base Game",
         "size": 234881024
     },
     "01005a8020b05003": {
         "Release Date": "2025-03-13",
         "dlc_name": "\u30b3\u30ed\u30b3\u30ed\u30b3\u30df\u30c3\u30af 2024\u5e74 4\u6708\u53f7",
-        "base_game": "\u5c0f\u5b66\u9928\u30de\u30f3\u30ac\u30a2\u30d7\u30ea \u30b3\u30ed\u30b3\u30ed\u30b3\u30df\u30c3\u30af 2024",
+        "base_game": "Unknown Base Game",
         "size": 218103808
     },
     "010046c021aa9001": {
@@ -3278,49 +3278,49 @@
     "01005a8020b05004": {
         "Release Date": "2025-03-13",
         "dlc_name": "\u30b3\u30ed\u30b3\u30ed\u30b3\u30df\u30c3\u30af 2024\u5e74 5\u6708\u53f7",
-        "base_game": "\u5c0f\u5b66\u9928\u30de\u30f3\u30ac\u30a2\u30d7\u30ea \u30b3\u30ed\u30b3\u30ed\u30b3\u30df\u30c3\u30af 2024",
+        "base_game": "Unknown Base Game",
         "size": 242221056
     },
     "01005a8020b05005": {
         "Release Date": "2025-03-13",
         "dlc_name": "\u30b3\u30ed\u30b3\u30ed\u30b3\u30df\u30c3\u30af 2024\u5e74 6\u6708\u53f7",
-        "base_game": "\u5c0f\u5b66\u9928\u30de\u30f3\u30ac\u30a2\u30d7\u30ea \u30b3\u30ed\u30b3\u30ed\u30b3\u30df\u30c3\u30af 2024",
+        "base_game": "Unknown Base Game",
         "size": 213909504
     },
     "01005a8020b05006": {
         "Release Date": "2025-03-13",
         "dlc_name": "\u30b3\u30ed\u30b3\u30ed\u30b3\u30df\u30c3\u30af 2024\u5e74 7\u6708\u53f7",
-        "base_game": "\u5c0f\u5b66\u9928\u30de\u30f3\u30ac\u30a2\u30d7\u30ea \u30b3\u30ed\u30b3\u30ed\u30b3\u30df\u30c3\u30af 2024",
+        "base_game": "Unknown Base Game",
         "size": 214958080
     },
     "01005a8020b05007": {
         "Release Date": "2025-03-13",
         "dlc_name": "\u30b3\u30ed\u30b3\u30ed\u30b3\u30df\u30c3\u30af 2024\u5e74 8\u6708\u53f7",
-        "base_game": "\u5c0f\u5b66\u9928\u30de\u30f3\u30ac\u30a2\u30d7\u30ea \u30b3\u30ed\u30b3\u30ed\u30b3\u30df\u30c3\u30af 2024",
+        "base_game": "Unknown Base Game",
         "size": 236978176
     },
     "01005a8020b05008": {
         "Release Date": "2025-03-13",
         "dlc_name": "\u30b3\u30ed\u30b3\u30ed\u30b3\u30df\u30c3\u30af 2024\u5e74 9\u6708\u53f7",
-        "base_game": "\u5c0f\u5b66\u9928\u30de\u30f3\u30ac\u30a2\u30d7\u30ea \u30b3\u30ed\u30b3\u30ed\u30b3\u30df\u30c3\u30af 2024",
+        "base_game": "Unknown Base Game",
         "size": 222298112
     },
     "01005a8020b05009": {
         "Release Date": "2025-03-13",
         "dlc_name": "\u30b3\u30ed\u30b3\u30ed\u30b3\u30df\u30c3\u30af 2024\u5e74 10\u6708\u53f7",
-        "base_game": "\u5c0f\u5b66\u9928\u30de\u30f3\u30ac\u30a2\u30d7\u30ea \u30b3\u30ed\u30b3\u30ed\u30b3\u30df\u30c3\u30af 2024",
+        "base_game": "Unknown Base Game",
         "size": 239075328
     },
     "01005a8020b0500a": {
         "Release Date": "2025-03-13",
         "dlc_name": "\u30b3\u30ed\u30b3\u30ed\u30b3\u30df\u30c3\u30af 2024\u5e74 11\u6708\u53f7",
-        "base_game": "\u5c0f\u5b66\u9928\u30de\u30f3\u30ac\u30a2\u30d7\u30ea \u30b3\u30ed\u30b3\u30ed\u30b3\u30df\u30c3\u30af 2024",
+        "base_game": "Unknown Base Game",
         "size": 220200960
     },
     "01005a8020b0500b": {
         "Release Date": "2025-03-13",
         "dlc_name": "\u30b3\u30ed\u30b3\u30ed\u30b3\u30df\u30c3\u30af 2024\u5e74 12\u6708\u53f7",
-        "base_game": "\u5c0f\u5b66\u9928\u30de\u30f3\u30ac\u30a2\u30d7\u30ea \u30b3\u30ed\u30b3\u30ed\u30b3\u30df\u30c3\u30af 2024",
+        "base_game": "Unknown Base Game",
         "size": 220200960
     },
     "0100d0d020b1d001": {
@@ -3518,7 +3518,7 @@
     "0100bb201d895001": {
         "Release Date": "2025-03-04",
         "dlc_name": "Carmen Sandiego Deluxe Edition DLC",
-        "base_game": "Carmen Sandiego",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "01009f301d747001": {
@@ -3584,7 +3584,7 @@
     "0100da70186d5026": {
         "Release Date": "2025-02-27",
         "dlc_name": "Pinball FX - The Machine\u2122: Bride of Pin\u00b7Bot\u2122",
-        "base_game": "Pinball FX",
+        "base_game": "Unknown Base Game",
         "size": 68157440
     },
     "0100ce101b69900c": {
@@ -3602,37 +3602,37 @@
     "0100da70186d5021": {
         "Release Date": "2025-02-27",
         "dlc_name": "Pinball FX - Indiana Jones\u2122: The Pinball Adventure",
-        "base_game": "Pinball FX",
+        "base_game": "Unknown Base Game",
         "size": 83886080
     },
     "0100da70186d5022": {
         "Release Date": "2025-02-27",
         "dlc_name": "Pinball FX - Williams Pinball Volume 4",
-        "base_game": "Pinball FX",
+        "base_game": "Unknown Base Game",
         "size": 176160768
     },
     "0100da70186d5023": {
         "Release Date": "2025-02-27",
         "dlc_name": "Pinball FX - Williams Pinball Volume 5",
-        "base_game": "Pinball FX",
+        "base_game": "Unknown Base Game",
         "size": 220200960
     },
     "0100da70186d5024": {
         "Release Date": "2025-02-27",
         "dlc_name": "Pinball FX - Williams\u2122 Pinball Volume 6",
-        "base_game": "Pinball FX",
+        "base_game": "Unknown Base Game",
         "size": 171966464
     },
     "0100da70186d5027": {
         "Release Date": "2025-02-27",
         "dlc_name": "Pinball FX - Williams Pinball: Whirlwind\u2122",
-        "base_game": "Pinball FX",
+        "base_game": "Unknown Base Game",
         "size": 56623104
     },
     "0100da70186d5025": {
         "Release Date": "2025-02-27",
         "dlc_name": "Pinball FX - Swords of Fury\u2122",
-        "base_game": "Pinball FX",
+        "base_game": "Unknown Base Game",
         "size": 45088768
     },
     "01000ae01e3171fe": {
@@ -3905,6 +3905,12 @@
         "base_game": "Little Paws: Kitty Cat Simulator",
         "size": 3145728
     },
+    "01009820151b7003": {
+        "Release Date": "2025-02-20",
+        "dlc_name": "\u6e21\u795e\u7eaa \u82ac\u5c3c\u65af\u5d1b\u8d77\uff1a\u8bd5\u70bc",
+        "base_game": "Unknown Base Game",
+        "size": 7683964928
+    },
     "0100d1c020dd7066": {
         "Release Date": "2025-02-20",
         "dlc_name": "\ub808\ud2b8\ub85c\ub810\ub984: \ucf08\ub9ac \ub9e5\uc2a4\uc6f0 (RetroRealms: Kelly Maxwell)",
@@ -3928,12 +3934,6 @@
         "dlc_name": "RetroRealms: Ash vs Evil Dead (\ub808\ud2b8\ub85c\ub810\ub984: \uc560\uc26c vs \uc774\ube14\ub370\ub4dc)",
         "base_game": "RetroRealms",
         "size": 699400192
-    },
-    "01009820151b7003": {
-        "Release Date": "2025-02-20",
-        "dlc_name": "\u6e21\u795e\u7eaa \u82ac\u5c3c\u65af\u5d1b\u8d77\uff1a\u8bd5\u70bc",
-        "base_game": "Unknown Base Game",
-        "size": 7683964928
     },
     "010082d01d25f208": {
         "Release Date": "2025-02-20",
@@ -4214,13 +4214,13 @@
     "0100aed020843001": {
         "Release Date": "2025-02-07",
         "dlc_name": "Stacky Dash: Action Pack",
-        "base_game": "Stacky Dash",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100aed020843002": {
         "Release Date": "2025-02-07",
         "dlc_name": "Stacky Dash: Anime Pack",
-        "base_game": "Stacky Dash",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "010046b020751001": {
@@ -4316,7 +4316,7 @@
     "010027901c89d001": {
         "Release Date": "2025-01-30",
         "dlc_name": "Deluxe Edition",
-        "base_game": "Hello Kitty Island Adventure",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100dc701a925002": {
@@ -4777,14 +4777,14 @@
     },
     "010081d01e247006": {
         "Release Date": "2025-01-13",
-        "dlc_name": "Ticket to Ride\u00ae - Switzerland Expansion",
-        "base_game": "Ticket to Ride",
+        "dlc_name": "Zug um Zug\u00ae - Schweiz-Erweiterung",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "010081d01e247007": {
         "Release Date": "2025-01-13",
-        "dlc_name": "Ticket to Ride\u00ae - Winter Wonderland bundle",
-        "base_game": "Ticket to Ride",
+        "dlc_name": "Zug um Zug\u00ae - Winterwunder-Paket",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100b7c01d481002": {
@@ -5150,31 +5150,31 @@
     "0100da70186d501c": {
         "Release Date": "2024-12-12",
         "dlc_name": "Pinball FX - Williams\u2122 Pinball: Volume 1",
-        "base_game": "Pinball FX",
+        "base_game": "Unknown Base Game",
         "size": 192937984
     },
     "0100da70186d501d": {
         "Release Date": "2024-12-12",
         "dlc_name": "Pinball FX - Williams\u2122 Pinball Volume 2",
-        "base_game": "Pinball FX",
+        "base_game": "Unknown Base Game",
         "size": 208666624
     },
     "0100da70186d501e": {
         "Release Date": "2024-12-12",
         "dlc_name": "Pinball FX - Williams\u2122 Pinball Volume 3",
-        "base_game": "Pinball FX",
+        "base_game": "Unknown Base Game",
         "size": 242221056
     },
     "0100da70186d501f": {
         "Release Date": "2024-12-12",
         "dlc_name": "Pinball FX - Williams\u2122 Pinball Volume 8",
-        "base_game": "Pinball FX",
+        "base_game": "Unknown Base Game",
         "size": 189792256
     },
     "0100da70186d5020": {
         "Release Date": "2024-12-12",
         "dlc_name": "Pinball FX - Williams\u2122 Pinball: Universal Monsters Pack",
-        "base_game": "Pinball FX",
+        "base_game": "Unknown Base Game",
         "size": 140509184
     },
     "0100cce01ff75001": {
@@ -5245,7 +5245,7 @@
     },
     "0100e2301fb1f003": {
         "Release Date": "2024-12-11",
-        "dlc_name": "Digital Beybooster Vol.2 de BEYBLADE X XONE",
+        "dlc_name": "BEYBLADE X XONE Digital Beybooster Vol.2",
         "base_game": "BEYBLADE X XONE",
         "size": 3145728
     },
@@ -5329,7 +5329,7 @@
     },
     "010013001bd63004": {
         "Release Date": "2024-12-06",
-        "dlc_name": "Teenage Mutant Ninja Turtles: Mutants Unleashed - Fresh Meat Mission Pack",
+        "dlc_name": "Teenage Mutant Ninja Turtles: Die Mutanten sind Los - \u201eFresh Meat\u201c-Mission-Paket",
         "base_game": "Teenage Mutant Ninja Turtles: Mutants Unleashed",
         "size": 3145728
     },
@@ -5486,7 +5486,7 @@
     "010028d020a93001": {
         "Release Date": "2024-11-29",
         "dlc_name": "Christmas Maps",
-        "base_game": "The Cheese Chase: Pizza Madness",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "010037c01e2a300c": {
@@ -5510,13 +5510,13 @@
     "0100f640212a9002": {
         "Release Date": "2024-11-28",
         "dlc_name": "BACKROOMS POOLS: SURVIVING THE ABYSS",
-        "base_game": "\u5f8c\u5ba4\u6e38\u6cf3\u6c60\u7684\u6050\u6016 - ABYSS: BACKROOMS POOLS HORROR",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100f640212a9001": {
         "Release Date": "2024-11-28",
         "dlc_name": "BACKROOMS POOLS: MONSTERS BELOW",
-        "base_game": "\u5f8c\u5ba4\u6e38\u6cf3\u6c60\u7684\u6050\u6016 - ABYSS: BACKROOMS POOLS HORROR",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "01005fe020ac1002": {
@@ -5935,7 +5935,7 @@
     },
     "010013001bd63003": {
         "Release Date": "2024-11-15",
-        "dlc_name": "Teenage Mutant Ninja Turtles: Mutants Unleashed - Metalheads Pack",
+        "dlc_name": "Teenage Mutant Ninja Turtles: Die Mutanten sind Los - Metalheads-Paket",
         "base_game": "Teenage Mutant Ninja Turtles: Mutants Unleashed",
         "size": 3145728
     },
@@ -6007,7 +6007,7 @@
     },
     "0100bb901fa13001": {
         "Release Date": "2024-11-14",
-        "dlc_name": "Little Big Adventure - Twinsen's Quest - Mage Tunic Set",
+        "dlc_name": "Little Big Adventure - Twinsen's Quest - Magiertunika-Set",
         "base_game": "Little Big Adventure \u2013 Twinsen\u2019s Quest",
         "size": 3145728
     },
@@ -6299,6 +6299,12 @@
         "base_game": "Let's Sing 2025",
         "size": 3145728
     },
+    "01001c101ed11003": {
+        "Release Date": "2024-11-05",
+        "dlc_name": "Let's Sing 2025 - German Hits",
+        "base_game": "Let's Sing 2025",
+        "size": 1076887552
+    },
     "01001c101ed11006": {
         "Release Date": "2024-11-05",
         "dlc_name": "Let's Sing 2025 - Hits from UK",
@@ -6310,12 +6316,6 @@
         "dlc_name": "Let's Sing 2025 - Spanish Hits",
         "base_game": "Let's Sing 2025",
         "size": 1075838976
-    },
-    "01001c101ed11003": {
-        "Release Date": "2024-11-05",
-        "dlc_name": "Let's Sing 2025 - German Hits",
-        "base_game": "Let's Sing 2025",
-        "size": 1076887552
     },
     "010037c01e2a300d": {
         "Release Date": "2024-11-01",
@@ -6415,7 +6415,7 @@
     },
     "010013001bd63002": {
         "Release Date": "2024-11-01",
-        "dlc_name": "Teenage Mutant Ninja Turtles: Mutants Unleashed - 1984 Comic Book Pack",
+        "dlc_name": "Teenage Mutant Ninja Turtles: Die Mutanten sind Los - 1984-Comicbuch-Paket",
         "base_game": "Teenage Mutant Ninja Turtles: Mutants Unleashed",
         "size": 3145728
     },
@@ -6423,48 +6423,6 @@
         "Release Date": "2024-11-01",
         "dlc_name": "\ud30c\ub9c8\uae30\uc544 (FARMAGIA) \ub514\uc9c0\ud138 \uc544\ud2b8 \ubd81 & \ub514\uc9c0\ud138 \uc0ac\uc6b4\ub4dc\ud2b8\ub799",
         "base_game": "\u9b54\u8fb2\u50b3\u8a18 FARMAGIA",
-        "size": 3145728
-    },
-    "01009370207ff001": {
-        "Release Date": "2024-11-01",
-        "dlc_name": "Experience x3 - Journey to Kreisia",
-        "base_game": "Journey to Kreisia",
-        "size": 3145728
-    },
-    "01009370207ff002": {
-        "Release Date": "2024-11-01",
-        "dlc_name": "Weapon level x3 - Journey to Kreisia",
-        "base_game": "Journey to Kreisia",
-        "size": 3145728
-    },
-    "01009370207ff003": {
-        "Release Date": "2024-11-01",
-        "dlc_name": "Experience & Weapon level x2 - Journey to Kreisia",
-        "base_game": "Journey to Kreisia",
-        "size": 3145728
-    },
-    "01009370207ff004": {
-        "Release Date": "2024-11-01",
-        "dlc_name": "No Encounters - Journey to Kreisia",
-        "base_game": "Journey to Kreisia",
-        "size": 3145728
-    },
-    "01009370207ff005": {
-        "Release Date": "2024-11-01",
-        "dlc_name": "Damage x2 - Journey to Kreisia",
-        "base_game": "Journey to Kreisia",
-        "size": 3145728
-    },
-    "01009370207ff006": {
-        "Release Date": "2024-11-01",
-        "dlc_name": "Full Restore - Journey to Kreisia",
-        "base_game": "Journey to Kreisia",
-        "size": 3145728
-    },
-    "01009370207ff007": {
-        "Release Date": "2024-11-01",
-        "dlc_name": "No Skill Cost - Journey to Kreisia",
-        "base_game": "Journey to Kreisia",
         "size": 3145728
     },
     "0100cf80118c9032": {
@@ -6502,6 +6460,48 @@
         "dlc_name": "[Moving] The Living Things That Heal Our Heart",
         "base_game": "Jigsaw Masterpieces 2",
         "size": 58720256
+    },
+    "01009370207ff001": {
+        "Release Date": "2024-10-31",
+        "dlc_name": "Experience x3 - Journey to Kreisia",
+        "base_game": "Journey to Kreisia",
+        "size": 3145728
+    },
+    "01009370207ff002": {
+        "Release Date": "2024-10-31",
+        "dlc_name": "Weapon Level x3 - Journey to Kreisia",
+        "base_game": "Journey to Kreisia",
+        "size": 3145728
+    },
+    "01009370207ff003": {
+        "Release Date": "2024-10-31",
+        "dlc_name": "Experience & Weapon Level x2 - Journey to Kreisia",
+        "base_game": "Journey to Kreisia",
+        "size": 3145728
+    },
+    "01009370207ff004": {
+        "Release Date": "2024-10-31",
+        "dlc_name": "No Encounters - Journey to Kreisia",
+        "base_game": "Journey to Kreisia",
+        "size": 3145728
+    },
+    "01009370207ff005": {
+        "Release Date": "2024-10-31",
+        "dlc_name": "Damage x2 - Journey to Kreisia",
+        "base_game": "Journey to Kreisia",
+        "size": 3145728
+    },
+    "01009370207ff006": {
+        "Release Date": "2024-10-31",
+        "dlc_name": "Full Restore - Journey to Kreisia",
+        "base_game": "Journey to Kreisia",
+        "size": 3145728
+    },
+    "01009370207ff007": {
+        "Release Date": "2024-10-31",
+        "dlc_name": "No Skill Cost - Journey to Kreisia",
+        "base_game": "Journey to Kreisia",
+        "size": 3145728
     },
     "010093e01ceff003": {
         "Release Date": "2024-10-31",
@@ -6674,7 +6674,7 @@
     "0100da70186d501b": {
         "Release Date": "2024-10-24",
         "dlc_name": "Pinball FX - Camp Bloodbrook",
-        "base_game": "Pinball FX",
+        "base_game": "Unknown Base Game",
         "size": 244318208
     },
     "0100926016013005": {
@@ -6793,7 +6793,7 @@
     },
     "010013001bd63001": {
         "Release Date": "2024-10-18",
-        "dlc_name": "Teenage Mutant Ninja Turtles: Mutants Unleashed - 1987 Animated Series Pack",
+        "dlc_name": "Teenage Mutant Ninja Turtles: Die Mutanten sind Los - 1987-Zeichentrickserien-Paket",
         "base_game": "Teenage Mutant Ninja Turtles: Mutants Unleashed",
         "size": 3145728
     },
@@ -6818,13 +6818,13 @@
     "0100e1801dc71001": {
         "Release Date": "2024-10-17",
         "dlc_name": "\u30a2\u30de\u30bc\uff01\u30ec\u30d9\u30eb\u30d1\u30c3\u30af1",
-        "base_game": "\u30a2\u30de\u30bc\uff01",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100e1801dc71002": {
         "Release Date": "2024-10-17",
         "dlc_name": "\u30a2\u30de\u30bc\uff01\u30ec\u30d9\u30eb\u30d1\u30c3\u30af2",
-        "base_game": "\u30a2\u30de\u30bc\uff01",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "01003280209a7001": {
@@ -7256,7 +7256,7 @@
     "010054b01be91001": {
         "Release Date": "2024-09-19",
         "dlc_name": "Death end re;Quest Code Z \u30c7\u30b8\u30bf\u30eb\u30a2\u30fc\u30c8\u30ef\u30fc\u30af/\u30c7\u30b8\u30bf\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "base_game": "Death end re;Quest Code Z",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100c3a01e527001": {
@@ -7448,19 +7448,19 @@
     "010038001dbc3001": {
         "Release Date": "2024-08-30",
         "dlc_name": "Uboat Attack: Vortice DLC",
-        "base_game": "Uboat Attack",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "010038001dbc3002": {
         "Release Date": "2024-08-30",
         "dlc_name": "Uboat Attack: Cloverfield DLC",
-        "base_game": "Uboat Attack",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "010038001dbc3003": {
         "Release Date": "2024-08-30",
         "dlc_name": "Uboat Attack: Zeppelin DLC",
-        "base_game": "Uboat Attack",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "010074301dabb001": {
@@ -7490,7 +7490,7 @@
     "0100da70186d501a": {
         "Release Date": "2024-08-29",
         "dlc_name": "Pinball FX - The Princess Bride Pinball",
-        "base_game": "Pinball FX",
+        "base_game": "Unknown Base Game",
         "size": 166723584
     },
     "0100ce101b699003": {
@@ -7502,12 +7502,12 @@
     "0100da70186d5019": {
         "Release Date": "2024-08-29",
         "dlc_name": "Pinball FX - Goat Simulator Pinball",
-        "base_game": "Pinball FX",
+        "base_game": "Unknown Base Game",
         "size": 266338304
     },
     "0100aae0100c5008": {
         "Release Date": "2024-08-29",
-        "dlc_name": "Expansion 6: Faithful Friends",
+        "dlc_name": "Erweiterung 6: Treue Freunde",
         "base_game": "The Dresden Files Cooperative Card Game",
         "size": 3145728
     },
@@ -7646,7 +7646,7 @@
     "010051201ef53001": {
         "Release Date": "2024-08-22",
         "dlc_name": "Alchemy: Origins Food I",
-        "base_game": "Alchemy: Origins",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "010092702023d001": {
@@ -7676,13 +7676,13 @@
     "0100e3c01e67b001": {
         "Release Date": "2024-08-16",
         "dlc_name": "Parking Jam: Snow Rush DLC",
-        "base_game": "Parking Jam",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100e3c01e67b002": {
         "Release Date": "2024-08-16",
         "dlc_name": "Parking Jam: Fast Food DLC",
-        "base_game": "Parking Jam",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "010077701d773003": {
@@ -7801,8 +7801,8 @@
     },
     "010081d01e247002": {
         "Release Date": "2024-08-08",
-        "dlc_name": "Ticket to Ride: 1910 & 1912 Ticket Pack Bundle",
-        "base_game": "Ticket to Ride",
+        "dlc_name": "Zug um Zug: Ticketpakete USA 1910 & Europa 1912",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100060011109030": {
@@ -7832,7 +7832,7 @@
     "0100d1c01c195005": {
         "Release Date": "2024-08-05",
         "dlc_name": "\u8cfc\u5165\u7279\u5178\uff1a5\u4e07\u30d1\u30ef\u30dd\u30a4\u30f3\u30c8",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100f7a01e849001": {
@@ -8042,37 +8042,37 @@
     "010015301db95003": {
         "Release Date": "2024-07-26",
         "dlc_name": "Unit Story Prid's",
-        "base_game": "\u30aa\u30f3\u30a8\u30a2 ! for Nintendo Switch",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "010015301db95002": {
         "Release Date": "2024-07-26",
         "dlc_name": "Unit Story Hot-Blood",
-        "base_game": "\u30aa\u30f3\u30a8\u30a2 ! for Nintendo Switch",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "010015301db95004": {
         "Release Date": "2024-07-26",
         "dlc_name": "Unit Story Re:Fly",
-        "base_game": "\u30aa\u30f3\u30a8\u30a2 ! for Nintendo Switch",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "010015301db95005": {
         "Release Date": "2024-07-26",
         "dlc_name": "Unit Story \u30a8\u30e1\u2606\u30ab\u30ec",
-        "base_game": "\u30aa\u30f3\u30a8\u30a2 ! for Nintendo Switch",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "010015301db95001": {
         "Release Date": "2024-07-26",
         "dlc_name": "Unit Story MAISY",
-        "base_game": "\u30aa\u30f3\u30a8\u30a2 ! for Nintendo Switch",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "010015301db95006": {
         "Release Date": "2024-07-26",
         "dlc_name": "Unit Story drop",
-        "base_game": "\u30aa\u30f3\u30a8\u30a2 ! for Nintendo Switch",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100d2d0190a500a": {
@@ -8123,34 +8123,28 @@
         "base_game": "Hentai Anime Girls Succubus",
         "size": 40894464
     },
-    "0100697019027004": {
-        "Release Date": "2024-07-25",
-        "dlc_name": "\ucd94\uac00 \uce90\ub9ad\ud130 \u300c\uc6b0\uc988\ud0a4\u300d",
-        "base_game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-        "size": 3145728
-    },
     "010090001bd4d007": {
         "Release Date": "2024-07-25",
         "dlc_name": "\ub9c8\uc2a4\ud130 \ud2b8\ub808\uc774\ub108 \uc601\uc0c1 \ubc84\uc804: \uc5d0\uc5b4\ub85c\ube45 #07",
-        "base_game": "\u543e\u5bb6\u5065\u8eab\u8da3 -4\u5206\u9418\u935b\u934a\u5168\u8eab-",
+        "base_game": "Unknown Base Game",
         "size": 201326592
     },
     "010090001bd4d012": {
         "Release Date": "2024-07-25",
         "dlc_name": "\ub9c8\uc2a4\ud130 \ud2b8\ub808\uc774\ub108 \uc601\uc0c1 \ubc84\uc804: \ub304\uc2a4 #07(\uc624\ud0c0\uac8c \ub304\uc2a4)",
-        "base_game": "\u543e\u5bb6\u5065\u8eab\u8da3 -4\u5206\u9418\u935b\u934a\u5168\u8eab-",
+        "base_game": "Unknown Base Game",
         "size": 189792256
     },
     "010090001bd4d008": {
         "Release Date": "2024-07-25",
         "dlc_name": "\ub9c8\uc2a4\ud130 \ud2b8\ub808\uc774\ub108 \uc601\uc0c1 \ubc84\uc804: \uc5d0\uc5b4\ub85c\ube45 #08",
-        "base_game": "\u543e\u5bb6\u5065\u8eab\u8da3 -4\u5206\u9418\u935b\u934a\u5168\u8eab-",
+        "base_game": "Unknown Base Game",
         "size": 211812352
     },
     "010090001bd4d013": {
         "Release Date": "2024-07-25",
         "dlc_name": "\ub9c8\uc2a4\ud130 \ud2b8\ub808\uc774\ub108 \uc601\uc0c1 \ubc84\uc804: \ub304\uc2a4 #08(\ud30c\ub77c\ud30c\ub77c \ub304\uc2a4)",
-        "base_game": "\u543e\u5bb6\u5065\u8eab\u8da3 -4\u5206\u9418\u935b\u934a\u5168\u8eab-",
+        "base_game": "Unknown Base Game",
         "size": 193986560
     },
     "010045d01afc901f": {
@@ -8681,6 +8675,12 @@
         "base_game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
         "size": 3145728
     },
+    "0100697019027004": {
+        "Release Date": "2024-07-24",
+        "dlc_name": "UNI2 Character Unlock: Uzuki",
+        "base_game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+        "size": 3145728
+    },
     "01009a601ae3b001": {
         "Release Date": "2024-07-22",
         "dlc_name": "Punch Club 2: Iron Fist",
@@ -8834,655 +8834,655 @@
     "0100d1c01c195187": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u65e9\u671f\u8cfc\u5165\u7279\u5178\uff1aKONAMI\u30c9\u30ea\u30fc\u30e0\u30b3\u30e9\u30dc\u30d6\u30e9\u30d0\u30f3\u30bb\u30c3\u30c8(\u5927\u962a\u6850\u852d\u30d0\u30fc\u30b8\u30e7\u30f3)",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 9437184
     },
     "0100d1c01c195189": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u65e9\u671f\u8cfc\u5165\u7279\u5178\uff1a\u30d1\u30ef\u30d7\u30ed2024\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u66f2(\u30d5\u30eb\u30d0\u30fc\u30b8\u30e7\u30f3)",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 7340032
     },
     "0100d1c01c195002": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u65e9\u671f\u8cfc\u5165\u7279\u5178\uff1a\u521d\u4ee3\u30d1\u30ef\u30d7\u30ed\u304f\u3093\u30d1\u30ef\u30bf\u30fc",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100d1c01c195188": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u30d1\u30ef\u30d5\u30eb\u30a8\u30c7\u30a3\u30b7\u30e7\u30f3\u7279\u5178\uff1a\u6b74\u4ee3\u30d1\u30ef\u30d7\u30ed\u30b7\u30ea\u30fc\u30baBGM\u30bb\u30c3\u30c8",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 414187520
     },
     "0100d1c01c19518a": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u30d1\u30ef\u30d5\u30eb\u30a8\u30c7\u30a3\u30b7\u30e7\u30f3\u7279\u5178\uff1a\u30d1\u30ef\u30d7\u30ed2024\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u66f2\u30d6\u30e9\u30d0\u30f3(\u5927\u962a\u6850\u852d\u30d0\u30fc\u30b8\u30e7\u30f3)",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100d1c01c195003": {
         "Release Date": "2024-07-18",
         "dlc_name": "DL\u7248\u4e88\u7d04\u8cfc\u5165\u7279\u5178\uff1a\u300c\u30af\u30e9\u30a6\u30f3\u30b9\u30bf\u30b8\u30a2\u30e0\u300d\u4f7f\u7528\u6a29",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100d1c01c1950b2": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u5de8\u4eba\uff09\u300c\u5742\u672c\u52c7\u4eba\u9078\u624b\u306e\u30c6\u30fc\u30de\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100d1c01c1950b3": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u5de8\u4eba\uff09\u300c\u5ca1\u672c\u548c\u771f\u9078\u624b\u306e\u30c6\u30fc\u30de\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100d1c01c1950b4": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u5de8\u4eba\uff09\u300c\u5409\u5ddd\u5c1a\u8f1d\u9078\u624b\u306e\u30c6\u30fc\u30de\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100d1c01c1950b5": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u5de8\u4eba\uff09\u300c\u5c0f\u6797\u8aa0\u53f8\u9078\u624b\u306e\u30c6\u30fc\u30de\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100d1c01c1950b6": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u5de8\u4eba\uff09\u300c\u4e38\u4f73\u6d69\u9078\u624b\u306e\u30c6\u30fc\u30de\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100d1c01c1950b7": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u5de8\u4eba\uff09\u300c\u5927\u57ce\u5353\u4e09\u9078\u624b\u306e\u30c6\u30fc\u30de\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100d1c01c1950b8": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u5de8\u4eba\uff09\u300c\u91cd\u4fe1\u614e\u4e4b\u4ecb\u9078\u624b\u306e\u30c6\u30fc\u30de\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100d1c01c1950b9": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u5de8\u4eba\uff09\u300c\u68b6\u8c37\u9686\u5e78\u9078\u624b\u306e\u30c6\u30fc\u30de\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100d1c01c1950bb": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u5de8\u4eba\uff09\u300c\u5897\u7530\u5927\u8f1d\u9078\u624b\u306e\u30c6\u30fc\u30de\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100d1c01c1950bc": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u5de8\u4eba\uff09\u300c\u5897\u7530\u9678\u9078\u624b\u306e\u30c6\u30fc\u30de\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100d1c01c1950bd": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u5de8\u4eba\uff09\u300c\u9577\u91ce\u4e45\u7fa9\u9078\u624b\u306e\u30c6\u30fc\u30de\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100d1c01c1950be": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u4e2d\u65e5\uff09\u300c\u9ad8\u6a4b\u5468\u5e73\u9078\u624b\u306e\u30c6\u30fc\u30de\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100d1c01c1950bf": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u4e2d\u65e5\uff09\u300c\u5927\u5cf6\u6d0b\u5e73\u9078\u624b\u306e\u30c6\u30fc\u30de\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100d1c01c1950c1": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u4e2d\u65e5\uff09\u300c\u30c0\u30e4\u30f3\u30fb\u30d3\u30b7\u30a8\u30c9\u9078\u624b\u306e\u30c6\u30fc\u30de(\u30c1\u30e3\u30f3\u30b9)\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100d1c01c1950c0": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u4e2d\u65e5\uff09\u300c\u30c0\u30e4\u30f3\u30fb\u30d3\u30b7\u30a8\u30c9\u9078\u624b\u306e\u30c6\u30fc\u30de\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100d1c01c1950c4": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u4e2d\u65e5\uff09\u300c\u6728\u4e0b\u62d3\u54c9\u9078\u624b\u306e\u30c6\u30fc\u30de\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100d1c01c1950c2": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u4e2d\u65e5\uff09\u300c\u6839\u5c3e\u6602\u9078\u624b\u306e\u30c6\u30fc\u30de\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100d1c01c1950c3": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u4e2d\u65e5\uff09\u300c\u6839\u5c3e\u6602\u9078\u624b\u306e\u30c6\u30fc\u30de(\u30d1\u30ef\u30d7\u30edver.)\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100d1c01c1950c5": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u4e2d\u65e5\uff09\u300c\u5ca1\u6797\u52c7\u5e0c\u9078\u624b\u306e\u30c6\u30fc\u30de\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100d1c01c1950c6": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u4e2d\u65e5\uff09\u300c\u52a0\u85e4\u7fd4\u5e73\u9078\u624b\u306e\u30c6\u30fc\u30de\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100d1c01c1950c7": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u4e2d\u65e5\uff09\u300c\u9d5c\u98fc\u822a\u4e1e\u9078\u624b\u306e\u30c6\u30fc\u30de\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100d1c01c1950c8": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u4e2d\u65e5\uff09\u300c\u52a0\u85e4\u5320\u99ac\u9078\u624b\u306e\u30c6\u30fc\u30de\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100d1c01c1950c9": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u4e2d\u65e5\uff09\u300c\u5f8c\u85e4\u99ff\u592a\u9078\u624b\u306e\u30c6\u30fc\u30de\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100d1c01c1950ca": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u4e2d\u65e5\uff09\u300c\u77f3\u5ddd\u6602\u5f25\u9078\u624b\u306e\u30c6\u30fc\u30de\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100d1c01c1950cb": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u4e2d\u65e5\uff09\u300c\u9f8d\u7a7a\u9078\u624b\u306e\u30c6\u30fc\u30de\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100d1c01c1950cc": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u30ed\u30c3\u30c6\uff09\u300c\u837b\u91ce\u8cb4\u53f8\u9078\u624b\u5fdc\u63f4\u6b4c\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 5242880
     },
     "0100d1c01c1950cd": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u30ed\u30c3\u30c6\uff09\u300c\u89d2\u4e2d\u52dd\u4e5f\u9078\u624b\u5fdc\u63f4\u6b4c\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100d1c01c1950ce": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u30bd\u30d5\u30c8\u30d0\u30f3\u30af\uff09\u300c\u67f3\u7530\u60a0\u5c90\u9078\u624b\u306e\u30c6\u30fc\u30de\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100d1c01c1950cf": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u30bd\u30d5\u30c8\u30d0\u30f3\u30af\uff09\u300c\u4eca\u5bae\u5065\u592a\u9078\u624b\u306e\u30c6\u30fc\u30de\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100d1c01c1950d0": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u30bd\u30d5\u30c8\u30d0\u30f3\u30af\uff09\u300c\u4e2d\u6751\u6643\u9078\u624b\u306e\u30c6\u30fc\u30de\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100d1c01c1950d1": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u30bd\u30d5\u30c8\u30d0\u30f3\u30af\uff09\u300c\u7267\u539f\u5927\u6210\u9078\u624b\u306e\u30c6\u30fc\u30de\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100d1c01c1950d2": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u30bd\u30d5\u30c8\u30d0\u30f3\u30af\uff09\u300c\u7532\u6590\u62d3\u4e5f\u9078\u624b\u306e\u30c6\u30fc\u30de\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100d1c01c1950d3": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u30bd\u30d5\u30c8\u30d0\u30f3\u30af\uff09\u300c\u6817\u539f\u9675\u77e2\u9078\u624b\u306e\u30c6\u30fc\u30de\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100d1c01c1950d4": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u30bd\u30d5\u30c8\u30d0\u30f3\u30af\uff09\u300c\u5ddd\u702c\u6643\u9078\u624b\u306e\u30c6\u30fc\u30de\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100d1c01c1950d5": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u30bd\u30d5\u30c8\u30d0\u30f3\u30af\uff09\u300c\u8c37\u5ddd\u539f\u5065\u592a\u9078\u624b\u306e\u30c6\u30fc\u30de\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100d1c01c1950d6": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u30bd\u30d5\u30c8\u30d0\u30f3\u30af\uff09\u300c\u4e09\u68ee\u5927\u8cb4\u9078\u624b\u306e\u30c6\u30fc\u30de\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100d1c01c1950d7": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u30bd\u30d5\u30c8\u30d0\u30f3\u30af\uff09\u300c\u8fd1\u85e4\u5065\u4ecb\u9078\u624b\u306e\u30c6\u30fc\u30de\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100d1c01c1950d8": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u30bd\u30d5\u30c8\u30d0\u30f3\u30af\uff09\u300c\u30ea\u30c1\u30e3\u30fc\u30c9\u9078\u624b\u306e\u30c6\u30fc\u30de\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100d1c01c1950d9": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u30bd\u30d5\u30c8\u30d0\u30f3\u30af\uff09\u300c\u5468\u6771\u4f51\u4eac\u9078\u624b\u306e\u30c6\u30fc\u30de\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100d1c01c1950db": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u30bd\u30d5\u30c8\u30d0\u30f3\u30af\uff09\u300c\u91ce\u6751\u52c7\u9078\u624b\u306e\u30c6\u30fc\u30de\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100d1c01c1950dc": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u30bd\u30d5\u30c8\u30d0\u30f3\u30af\uff09\u300c\u67f3\u753a\u9054\u9078\u624b\u306e\u30c6\u30fc\u30de\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100d1c01c1950dd": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u30bd\u30d5\u30c8\u30d0\u30f3\u30af\uff09\u300c\u5dba\u4e95\u535a\u5e0c\u9078\u624b\u306e\u30c6\u30fc\u30de\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100d1c01c1950de": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u697d\u5929\uff09\u300c\u5c0f\u6df1\u7530\u5927\u7fd4\u9078\u624b\u5fdc\u63f4\u6b4c\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100d1c01c1950df": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u697d\u5929\uff09\u300c\u592a\u7530\u5149\u9078\u624b\u5fdc\u63f4\u6b4c\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100d1c01c1950e0": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u697d\u5929\uff09\u300c\u6d45\u6751\u6804\u6597\u9078\u624b\u5fdc\u63f4\u6b4c\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100d1c01c1950e1": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u697d\u5929\uff09\u300c\u9234\u6728\u5927\u5730\u9078\u624b\u5fdc\u63f4\u6b4c\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100d1c01c1950e2": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u697d\u5929\uff09\u300c\u8fb0\u5df1\u6dbc\u4ecb\u9078\u624b\u5fdc\u63f4\u6b4c\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100d1c01c1950e3": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u697d\u5929\uff09\u300c\u5c71\ufa11\u525b\u9078\u624b\u5fdc\u63f4\u6b4c\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100d1c01c1950e4": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u697d\u5929\uff09\u300c\u5cf6\u5185\u5b8f\u660e\u9078\u624b\u5fdc\u63f4\u6b4c\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100d1c01c1950e5": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u697d\u5929\uff09\u300c\u6e21\u908a\u4f73\u660e\u9078\u624b\u5fdc\u63f4\u6b4c\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100d1c01c1950e6": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u697d\u5929\uff09\u300c\u7530\u4e2d\u548c\u57fa\u9078\u624b\u5fdc\u63f4\u6b4c\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100d1c01c1950e7": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u697d\u5929\uff09\u300c\u8302\u6728\u6804\u4e94\u90ce\u9078\u624b\u5fdc\u63f4\u6b4c\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100d1c01c1950e8": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u9078\u624b\u30c6\u30fc\u30de\uff1a\uff08\u697d\u5929\uff09\u300c\u963f\u90e8\u5bff\u6a39\u9078\u624b\u5fdc\u63f4\u6b4c\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100d1c01c19516b": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u30d6\u30e9\u30d0\u30f3\uff1a\u5168\u66f2\u30bb\u30c3\u30c8",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 134217728
     },
     "0100d1c01c19516a": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u30d6\u30e9\u30d0\u30f3\uff1aKONAMI\u30c9\u30ea\u30fc\u30e0\u30b3\u30e9\u30dc\u30bb\u30c3\u30c8\uff08\u5927\u962a\u6850\u852dVersion\uff09",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 9437184
     },
     "0100d1c01c195162": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u30d6\u30e9\u30d0\u30f3\uff1a\u30d1\u30ef\u30d7\u30ed\u5fdc\u63f4\u66f2\u30bb\u30c3\u30c8",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 13631488
     },
     "0100d1c01c195163": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u30d6\u30e9\u30d0\u30f3\uff1aA\u30bb\u30c3\u30c8",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 20971520
     },
     "0100d1c01c195164": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u30d6\u30e9\u30d0\u30f3\uff1aB\u30bb\u30c3\u30c8",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 22020096
     },
     "0100d1c01c195165": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u30d6\u30e9\u30d0\u30f3\uff1aC\u30bb\u30c3\u30c8",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 22020096
     },
     "0100d1c01c195166": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u30d6\u30e9\u30d0\u30f3\uff1aD\u30bb\u30c3\u30c8",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 22020096
     },
     "0100d1c01c195167": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u30d6\u30e9\u30d0\u30f3\uff1aE\u30bb\u30c3\u30c8",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 16777216
     },
     "0100d1c01c195168": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u30d6\u30e9\u30d0\u30f3\uff1aF\u30bb\u30c3\u30c8",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 15728640
     },
     "0100d1c01c195169": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u30d6\u30e9\u30d0\u30f3\uff1aG\u30bb\u30c3\u30c8",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 16777216
     },
     "0100d1c01c19516d": {
         "Release Date": "2024-07-18",
         "dlc_name": "\uff22\uff27\uff2d\uff1a\u30d1\u30ef\u30d7\u30ed\u2019\uff19\uff14\uff0b\uff12\uff0b\uff13\u30bb\u30c3\u30c8",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 7340032
     },
     "0100d1c01c1950b1": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u5fdc\u63f4\u66f2\uff1a\u5168\u7403\u56e3\u30bb\u30c3\u30c8",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 85983232
     },
     "0100d1c01c19508b": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u5fdc\u63f4\u66f2\uff1a\uff08\u962a\u795e\uff09\u300c\u962a\u795e\u30bf\u30a4\u30ac\u30fc\u30b9\u306e\u6b4c\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 6291456
     },
     "0100d1c01c195098": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u5fdc\u63f4\u66f2\uff1a\uff08\u30aa\u30ea\u30c3\u30af\u30b9\uff09\u300cSKY\u300d",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 5242880
     },
     "0100d1c01c1950a7": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u5fdc\u63f4\u66f2\uff1a\u7403\u56e3\u5225\u30bb\u30c3\u30c8\uff08\u5de8\u4eba\uff09",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 10485760
     },
     "0100d1c01c1950a8": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u5fdc\u63f4\u66f2\uff1a\u7403\u56e3\u5225\u30bb\u30c3\u30c8\uff08\u4e2d\u65e5\uff09",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 9437184
     },
     "0100d1c01c1950a9": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u5fdc\u63f4\u66f2\uff1a\u7403\u56e3\u5225\u30bb\u30c3\u30c8\uff08\u5e83\u5cf6\uff09",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 9437184
     },
     "0100d1c01c1950aa": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u5fdc\u63f4\u66f2\uff1a\u7403\u56e3\u5225\u30bb\u30c3\u30c8\uff08\u30e4\u30af\u30eb\u30c8\uff09",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 14680064
     },
     "0100d1c01c1950ab": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u5fdc\u63f4\u66f2\uff1a\u7403\u56e3\u5225\u30bb\u30c3\u30c8\uff08DeNA\uff09",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 12582912
     },
     "0100d1c01c1950ac": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u5fdc\u63f4\u66f2\uff1a\u7403\u56e3\u5225\u30bb\u30c3\u30c8\uff08\u697d\u5929\uff09",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 11534336
     },
     "0100d1c01c1950ad": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u5fdc\u63f4\u66f2\uff1a\u7403\u56e3\u5225\u30bb\u30c3\u30c8\uff08\u5317\u6d77\u9053\u65e5\u672c\u30cf\u30e0\uff09",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 11534336
     },
     "0100d1c01c1950ae": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u5fdc\u63f4\u66f2\uff1a\u7403\u56e3\u5225\u30bb\u30c3\u30c8\uff08\u897f\u6b66\uff09",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 6291456
     },
     "0100d1c01c1950af": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u5fdc\u63f4\u66f2\uff1a\u7403\u56e3\u5225\u30bb\u30c3\u30c8\uff08\u30ed\u30c3\u30c6\uff09",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 12582912
     },
     "0100d1c01c1950b0": {
         "Release Date": "2024-07-18",
         "dlc_name": "\u5fdc\u63f4\u66f2\uff1a\u7403\u56e3\u5225\u30bb\u30c3\u30c8\uff08\u30bd\u30d5\u30c8\u30d0\u30f3\u30af\uff09",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 10485760
     },
     "0100d1c01c19518b": {
         "Release Date": "2024-07-18",
         "dlc_name": "\uff22\uff27\uff2d\uff1a\u300cRELAY\u300d\uff08\u30d1\u30ef\u30d7\u30ed2024\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u66f2\u30d5\u30eb\u30d0\u30fc\u30b8\u30e7\u30f3\uff09",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 7340032
     },
     "0100d1c01c195186": {
         "Release Date": "2024-07-18",
         "dlc_name": "\uff22\uff27\uff2d\uff1a\u5168\u30d1\u30ef\u30d7\u30ed\u30b7\u30ea\u30fc\u30ba\u30bb\u30c3\u30c8",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 414187520
     },
     "0100d1c01c19516e": {
         "Release Date": "2024-07-18",
         "dlc_name": "\uff22\uff27\uff2d\uff1a\u30d1\u30ef\u30d7\u30ed\uff14\uff0b\uff15\u30bb\u30c3\u30c8",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 12582912
     },
     "0100d1c01c19516f": {
         "Release Date": "2024-07-18",
         "dlc_name": "\uff22\uff27\uff2d\uff1a\u30d1\u30ef\u30d7\u30ed\uff16\u30bb\u30c3\u30c8",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 12582912
     },
     "0100d1c01c195170": {
         "Release Date": "2024-07-18",
         "dlc_name": "\uff22\uff27\uff2d\uff1a\u30d1\u30ef\u30d7\u30ed\u2019\uff19\uff19\uff0b\uff12\uff10\uff10\uff10\u30bb\u30c3\u30c8",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 11534336
     },
     "0100d1c01c195171": {
         "Release Date": "2024-07-18",
         "dlc_name": "\uff22\uff27\uff2d\uff1a\u30d1\u30ef\u30d7\u30ed\uff17\u30bb\u30c3\u30c8",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 10485760
     },
     "0100d1c01c195172": {
         "Release Date": "2024-07-18",
         "dlc_name": "\uff22\uff27\uff2d\uff1a\u30d1\u30ef\u30d7\u30ed\uff18\uff0b\uff12\uff10\uff10\uff11\u30bb\u30c3\u30c8",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 15728640
     },
     "0100d1c01c195173": {
         "Release Date": "2024-07-18",
         "dlc_name": "\uff22\uff27\uff2d\uff1a\u30d1\u30ef\u30d7\u30ed\uff19\u30bb\u30c3\u30c8",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 10485760
     },
     "0100d1c01c195174": {
         "Release Date": "2024-07-18",
         "dlc_name": "\uff22\uff27\uff2d\uff1a\u30d1\u30ef\u30d7\u30ed\uff11\uff10\uff0b\u8d85\u6c7a\u5b9a\u7248\u30bb\u30c3\u30c8",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 29360128
     },
     "0100d1c01c195175": {
         "Release Date": "2024-07-18",
         "dlc_name": "\uff22\uff27\uff2d\uff1a\u30d1\u30ef\u30d7\u30ed\uff11\uff11\uff0b\u8d85\u6c7a\u5b9a\u7248\u30bb\u30c3\u30c8",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 17825792
     },
     "0100d1c01c195176": {
         "Release Date": "2024-07-18",
         "dlc_name": "\uff22\uff27\uff2d\uff1a\u30d1\u30ef\u30d7\u30ed\uff11\uff12\u30bb\u30c3\u30c8",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 18874368
     },
     "0100d1c01c195177": {
         "Release Date": "2024-07-18",
         "dlc_name": "\uff22\uff27\uff2d\uff1a\u30d1\u30ef\u30d7\u30ed\uff11\uff13\uff0b\u6c7a\u5b9a\u7248\u30bb\u30c3\u30c8",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 18874368
     },
     "0100d1c01c195178": {
         "Release Date": "2024-07-18",
         "dlc_name": "\uff22\uff27\uff2d\uff1a\u30d1\u30ef\u30d7\u30ed\uff11\uff14\uff0b\u6c7a\u5b9a\u7248\u30bb\u30c3\u30c8",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 15728640
     },
     "0100d1c01c195179": {
         "Release Date": "2024-07-18",
         "dlc_name": "\uff22\uff27\uff2d\uff1a\u30d1\u30ef\u30d7\u30ed\uff11\uff15\uff0b\uff12\uff10\uff10\uff19\u30bb\u30c3\u30c8",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 13631488
     },
     "0100d1c01c19517a": {
         "Release Date": "2024-07-18",
         "dlc_name": "\uff22\uff27\uff2d\uff1a\u30d1\u30ef\u30d7\u30edNEXT\u30bb\u30c3\u30c8",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 24117248
     },
     "0100d1c01c19517b": {
         "Release Date": "2024-07-18",
         "dlc_name": "\uff22\uff27\uff2d\uff1a\u30d1\u30ef\u30dd\u30bf\uff13\uff0b\uff14\u30bb\u30c3\u30c8",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 17825792
     },
     "0100d1c01c19517c": {
         "Release Date": "2024-07-18",
         "dlc_name": "\uff22\uff27\uff2d\uff1a\u30d1\u30ef\u30d7\u30ed\uff12\uff10\uff11\uff10\u30bb\u30c3\u30c8",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 13631488
     },
     "0100d1c01c19517d": {
         "Release Date": "2024-07-18",
         "dlc_name": "\uff22\uff27\uff2d\uff1a\u30d1\u30ef\u30d7\u30ed\uff12\uff10\uff11\uff11\uff0b\u6c7a\u5b9a\u7248\u30bb\u30c3\u30c8",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 22020096
     },
     "0100d1c01c19517e": {
         "Release Date": "2024-07-18",
         "dlc_name": "\uff22\uff27\uff2d\uff1a\u30d1\u30ef\u30d7\u30ed\uff12\uff10\uff11\uff12\uff0b\u6c7a\u5b9a\u7248\u30bb\u30c3\u30c8",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 17825792
     },
     "0100d1c01c19517f": {
         "Release Date": "2024-07-18",
         "dlc_name": "\uff22\uff27\uff2d\uff1a\u30d1\u30ef\u30d7\u30ed\uff12\uff10\uff11\uff13\u30bb\u30c3\u30c8",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 26214400
     },
     "0100d1c01c195180": {
         "Release Date": "2024-07-18",
         "dlc_name": "\uff22\uff27\uff2d\uff1a\u30d1\u30ef\u30d7\u30ed\uff12\uff10\uff11\uff14\u30bb\u30c3\u30c8",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 13631488
     },
     "0100d1c01c195181": {
         "Release Date": "2024-07-18",
         "dlc_name": "\uff22\uff27\uff2d\uff1a\u30d1\u30ef\u30d7\u30ed\uff12\uff10\uff11\uff16\u30bb\u30c3\u30c8",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 20971520
     },
     "0100d1c01c195182": {
         "Release Date": "2024-07-18",
         "dlc_name": "\uff22\uff27\uff2d\uff1a\u30d1\u30ef\u30d7\u30ed\u30a2\u30d7\u30ea\u30bb\u30c3\u30c8",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 71303168
     },
     "0100d1c01c195183": {
         "Release Date": "2024-07-18",
         "dlc_name": "\uff22\uff27\uff2d\uff1a\u30d1\u30ef\u30d7\u30ed\uff12\uff10\uff11\uff18\u30bb\u30c3\u30c8",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 25165824
     },
     "0100d1c01c195184": {
         "Release Date": "2024-07-18",
         "dlc_name": "\uff22\uff27\uff2d\uff1a\u30d1\u30ef\u30d7\u30ed\uff12\uff10\uff12\uff10\u30bb\u30c3\u30c8",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 19922944
     },
     "0100d1c01c195185": {
         "Release Date": "2024-07-18",
         "dlc_name": "\uff22\uff27\uff2d\uff1a\u30d1\u30ef\u30d7\u30ed\uff12\uff10\uff12\uff12\u30bb\u30c3\u30c8",
-        "base_game": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "base_game": "Unknown Base Game",
         "size": 25165824
     },
     "01001ed0075ef006": {
@@ -9715,13 +9715,13 @@
     },
     "01009e201f359001": {
         "Release Date": "2024-07-08",
-        "dlc_name": "Bug & Seek: Isopods Expansion",
+        "dlc_name": "Bug & Seek: Isopods",
         "base_game": "Bug & Seek",
         "size": 3145728
     },
     "01009e201f359002": {
         "Release Date": "2024-07-08",
-        "dlc_name": "Bug & Seek: Weevils Expansion",
+        "dlc_name": "Bug & Seek: Weevils",
         "base_game": "Bug & Seek",
         "size": 3145728
     },
@@ -9757,7 +9757,7 @@
     },
     "0100d5601eb0d004": {
         "Release Date": "2024-07-04",
-        "dlc_name": "New Character:Hildr",
+        "dlc_name": "New Character: Hildr",
         "base_game": "Taboo Trial",
         "size": 3145728
     },
@@ -9865,7 +9865,7 @@
     },
     "0100e7301d41d002": {
         "Release Date": "2024-06-28",
-        "dlc_name": "PAWfectly Designed - Extra Mission",
+        "dlc_name": "PAWfectly Designed - Extra-Mission",
         "base_game": "PAWfectly Designed",
         "size": 3145728
     },
@@ -9908,25 +9908,25 @@
     "010090001bd4d005": {
         "Release Date": "2024-06-27",
         "dlc_name": "\ub9c8\uc2a4\ud130 \ud2b8\ub808\uc774\ub108 \uc601\uc0c1 \ubc84\uc804: \uc5d0\uc5b4\ub85c\ube45 #05",
-        "base_game": "\u543e\u5bb6\u5065\u8eab\u8da3 -4\u5206\u9418\u935b\u934a\u5168\u8eab-",
+        "base_game": "Unknown Base Game",
         "size": 224395264
     },
     "010090001bd4d011": {
         "Release Date": "2024-06-27",
         "dlc_name": "\ub9c8\uc2a4\ud130 \ud2b8\ub808\uc774\ub108 \uc601\uc0c1 \ubc84\uc804: \ub304\uc2a4 #05(\uce58\uc5b4 \ub304\uc2a4)",
-        "base_game": "\u543e\u5bb6\u5065\u8eab\u8da3 -4\u5206\u9418\u935b\u934a\u5168\u8eab-",
+        "base_game": "Unknown Base Game",
         "size": 178257920
     },
     "010090001bd4d006": {
         "Release Date": "2024-06-27",
         "dlc_name": "\ub9c8\uc2a4\ud130 \ud2b8\ub808\uc774\ub108 \uc601\uc0c1 \ubc84\uc804: \uc5d0\uc5b4\ub85c\ube45 #06",
-        "base_game": "\u543e\u5bb6\u5065\u8eab\u8da3 -4\u5206\u9418\u935b\u934a\u5168\u8eab-",
+        "base_game": "Unknown Base Game",
         "size": 251658240
     },
     "010090001bd4d00c": {
         "Release Date": "2024-06-27",
         "dlc_name": "\ub9c8\uc2a4\ud130 \ud2b8\ub808\uc774\ub108 \uc601\uc0c1 \ubc84\uc804: \ub304\uc2a4 #06(\uc7ac\uc988 \ub304\uc2a4)",
-        "base_game": "\u543e\u5bb6\u5065\u8eab\u8da3 -4\u5206\u9418\u935b\u934a\u5168\u8eab-",
+        "base_game": "Unknown Base Game",
         "size": 179306496
     },
     "010045d01afc9015": {
@@ -10094,7 +10094,7 @@
     "0100bd10190c102a": {
         "Release Date": "2024-06-12",
         "dlc_name": "AEW: Fight Forever Rated Gold Superstar Pack",
-        "base_game": "AEW: Fight Forever",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100e9600dd6d005": {
@@ -10111,13 +10111,13 @@
     },
     "010027f0128eb00d": {
         "Release Date": "2024-06-11",
-        "dlc_name": "Who Wants To Be A Millionaire? - US Presidents DLC Pack",
+        "dlc_name": "Wer wird Million\u00e4r ? - US-Pr\u00e4sidenten DLC Pack",
         "base_game": "Who Wants to Be a Millionaire?",
         "size": 3145728
     },
     "010039801d79b001": {
         "Release Date": "2024-06-10",
-        "dlc_name": "Pony World - Color by Numbers Spring DLC",
+        "dlc_name": "Pony World - Color by Numbers Fr\u00fchlings-DLC",
         "base_game": "Pony World - Color by Numbers",
         "size": 14680064
     },
@@ -10255,43 +10255,43 @@
     },
     "010027f0128eb002": {
         "Release Date": "2024-06-03",
-        "dlc_name": "Who Wants To Be A Millionaire? - Geography II DLC Pack",
+        "dlc_name": "Wer wird Million\u00e4r ? - Geographie II DLC Pack",
         "base_game": "Who Wants to Be a Millionaire?",
         "size": 3145728
     },
     "010027f0128eb00c": {
         "Release Date": "2024-06-03",
-        "dlc_name": "Who Wants To Be A Millionaire? - Space Conquest DLC Pack",
+        "dlc_name": "Wer wird Million\u00e4r ? - Eroberung des Weltraums DLC Pack",
         "base_game": "Who Wants to Be a Millionaire?",
         "size": 3145728
     },
     "010027f0128eb00b": {
         "Release Date": "2024-06-03",
-        "dlc_name": "Who Wants To Be A Millionaire? - US Movies 90s DLC Pack",
+        "dlc_name": "Wer wird Million\u00e4r ? - US-Filme 90s DLC Pack",
         "base_game": "Who Wants to Be a Millionaire?",
         "size": 3145728
     },
     "010027f0128eb009": {
         "Release Date": "2024-06-03",
-        "dlc_name": "Who Wants To Be A Millionaire? - US Movies 70s DLC Pack",
+        "dlc_name": "Wer wird Million\u00e4r ? - US-Filme 70s DLC Pack",
         "base_game": "Who Wants to Be a Millionaire?",
         "size": 3145728
     },
     "010027f0128eb007": {
         "Release Date": "2024-06-03",
-        "dlc_name": "Who Wants To Be A Millionaire? - WWE DLC Pack",
+        "dlc_name": "Wer wird Million\u00e4r ? - WWE DLC Pack",
         "base_game": "Who Wants to Be a Millionaire?",
         "size": 3145728
     },
     "010027f0128eb00a": {
         "Release Date": "2024-06-03",
-        "dlc_name": "Who Wants To Be A Millionaire? - US Movies 80s DLC Pack",
+        "dlc_name": "Wer wird Million\u00e4r ? - US-Filme 80s DLC Pack",
         "base_game": "Who Wants to Be a Millionaire?",
         "size": 3145728
     },
     "010027f0128eb003": {
         "Release Date": "2024-06-03",
-        "dlc_name": "Who Wants To Be A Millionaire? - NBA/NHL/MLB/NFL DLC Pack",
+        "dlc_name": "Wer wird Million\u00e4r ? - NBA/NHL/MLB/NFL DLC Pack",
         "base_game": "Who Wants to Be a Millionaire?",
         "size": 3145728
     },
@@ -10333,7 +10333,7 @@
     },
     "01004c400cf9702d": {
         "Release Date": "2024-06-03",
-        "dlc_name": "Dead by Daylight: Dungeons & Dragons - Cosmetic Pack",
+        "dlc_name": "Dead by Daylight: Dungeons & Dragons \u2013 Kosmetikpaket",
         "base_game": "Dead by Daylight",
         "size": 3145728
     },
@@ -10393,7 +10393,7 @@
     },
     "01000d3013e8d001": {
         "Release Date": "2024-05-30",
-        "dlc_name": "World 3 - New Kelp City",
+        "dlc_name": "Welt 3 - New Kelp City!",
         "base_game": "SpongeBob: Krusty Cook-Off",
         "size": 3145728
     },
@@ -10406,37 +10406,37 @@
     "010090001bd4d003": {
         "Release Date": "2024-05-30",
         "dlc_name": "\ub9c8\uc2a4\ud130 \ud2b8\ub808\uc774\ub108 \uc601\uc0c1 \ubc84\uc804: \uc5d0\uc5b4\ub85c\ube45 #03",
-        "base_game": "\u543e\u5bb6\u5065\u8eab\u8da3 -4\u5206\u9418\u935b\u934a\u5168\u8eab-",
+        "base_game": "Unknown Base Game",
         "size": 196083712
     },
     "010090001bd4d00f": {
         "Release Date": "2024-05-30",
         "dlc_name": "\ub9c8\uc2a4\ud130 \ud2b8\ub808\uc774\ub108 \uc601\uc0c1 \ubc84\uc804: \ucef4\ubc43 #03",
-        "base_game": "\u543e\u5bb6\u5065\u8eab\u8da3 -4\u5206\u9418\u935b\u934a\u5168\u8eab-",
+        "base_game": "Unknown Base Game",
         "size": 159383552
     },
     "010090001bd4d014": {
         "Release Date": "2024-05-30",
         "dlc_name": "\ub9c8\uc2a4\ud130 \ud2b8\ub808\uc774\ub108 \uc601\uc0c1 \ubc84\uc804: \ub304\uc2a4 #03(\ub514\uc2a4\ucf54 \ub304\uc2a4)",
-        "base_game": "\u543e\u5bb6\u5065\u8eab\u8da3 -4\u5206\u9418\u935b\u934a\u5168\u8eab-",
+        "base_game": "Unknown Base Game",
         "size": 191889408
     },
     "010090001bd4d004": {
         "Release Date": "2024-05-30",
         "dlc_name": "\ub9c8\uc2a4\ud130 \ud2b8\ub808\uc774\ub108 \uc601\uc0c1 \ubc84\uc804: \uc5d0\uc5b4\ub85c\ube45 #04",
-        "base_game": "\u543e\u5bb6\u5065\u8eab\u8da3 -4\u5206\u9418\u935b\u934a\u5168\u8eab-",
+        "base_game": "Unknown Base Game",
         "size": 198180864
     },
     "010090001bd4d010": {
         "Release Date": "2024-05-30",
         "dlc_name": "\ub9c8\uc2a4\ud130 \ud2b8\ub808\uc774\ub108 \uc601\uc0c1 \ubc84\uc804: \ucef4\ubc43 #04",
-        "base_game": "\u543e\u5bb6\u5065\u8eab\u8da3 -4\u5206\u9418\u935b\u934a\u5168\u8eab-",
+        "base_game": "Unknown Base Game",
         "size": 201326592
     },
     "010090001bd4d00a": {
         "Release Date": "2024-05-30",
         "dlc_name": "\ub9c8\uc2a4\ud130 \ud2b8\ub808\uc774\ub108 \uc601\uc0c1 \ubc84\uc804: \ub304\uc2a4 #04(\ub77c\ud2f4 \ud31d)",
-        "base_game": "\u543e\u5bb6\u5065\u8eab\u8da3 -4\u5206\u9418\u935b\u934a\u5168\u8eab-",
+        "base_game": "Unknown Base Game",
         "size": 190840832
     },
     "01002fc012549007": {
@@ -10459,14 +10459,14 @@
     },
     "010000b01a453007": {
         "Release Date": "2024-05-29",
-        "dlc_name": "Jujutsu Kaisen Cursed Clash - Inventario oculto/Muerte prematura",
-        "base_game": "Jujutsu Kaisen Cursed Clash",
+        "dlc_name": "Jujutsu Kaisen Cursed Clash - Hidden Inventory/Premature Death",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "010000b01a45300a": {
         "Release Date": "2024-05-29",
-        "dlc_name": "Jujutsu Kaisen Cursed Clash - Conjunto de ropa del tema final 1 del anime",
-        "base_game": "Jujutsu Kaisen Cursed Clash",
+        "dlc_name": "Jujutsu Kaisen Cursed Clash - Anime Ending Theme 1 Outfit Set",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100a2d019dc1001": {
@@ -10700,19 +10700,19 @@
     "0100da70186d5017": {
         "Release Date": "2024-05-16",
         "dlc_name": "Pinball FX - Universal Pinball: TV Classics",
-        "base_game": "Pinball FX",
+        "base_game": "Unknown Base Game",
         "size": 418381824
     },
     "0100da70186d5016": {
         "Release Date": "2024-05-16",
         "dlc_name": "Pinball FX - Pacific Rim Pinball",
-        "base_game": "Pinball FX",
+        "base_game": "Unknown Base Game",
         "size": 206569472
     },
     "0100da70186d5018": {
         "Release Date": "2024-05-16",
         "dlc_name": "Pinball FX - Super League Football",
-        "base_game": "Pinball FX",
+        "base_game": "Unknown Base Game",
         "size": 83886080
     },
     "010066601cddf004": {
@@ -10765,7 +10765,7 @@
     },
     "01004c400cf9702b": {
         "Release Date": "2024-05-14",
-        "dlc_name": "Dead by Daylight: Endless Hunt Pack",
+        "dlc_name": "Dead by Daylight: \u201eEndlose Jagd\u201c-Paket",
         "base_game": "Dead by Daylight",
         "size": 3145728
     },
@@ -10916,7 +10916,7 @@
     "0100bd10190c1029": {
         "Release Date": "2024-05-08",
         "dlc_name": "AEW: Fight Forever World War Joe",
-        "base_game": "AEW: Fight Forever",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100d1501abaf005": {
@@ -10928,13 +10928,13 @@
     "0100f3601e1ef001": {
         "Release Date": "2024-05-03",
         "dlc_name": "Baking Time: Strong Pets",
-        "base_game": "Baking Time",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100f3601e1ef002": {
         "Release Date": "2024-05-03",
         "dlc_name": "Baking Time: Speedy Animals",
-        "base_game": "Baking Time",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100dec00f7ed004": {
@@ -11071,7 +11071,7 @@
     },
     "01003eb01c2f101c": {
         "Release Date": "2024-04-25",
-        "dlc_name": "Attire \"Arshem (Captain's Uniform)\"",
+        "dlc_name": "Kleidung \"Arshem (Kapit\u00e4nsuniform)\"",
         "base_game": "MEGATON MUSASHI W: WIRED Standard Edition",
         "size": 3145728
     },
@@ -11084,37 +11084,37 @@
     "010090001bd4d001": {
         "Release Date": "2024-04-25",
         "dlc_name": "\ub9c8\uc2a4\ud130 \ud2b8\ub808\uc774\ub108 \uc601\uc0c1 \ubc84\uc804: \uc5d0\uc5b4\ub85c\ube45 #01",
-        "base_game": "\u543e\u5bb6\u5065\u8eab\u8da3 -4\u5206\u9418\u935b\u934a\u5168\u8eab-",
+        "base_game": "Unknown Base Game",
         "size": 218103808
     },
     "010090001bd4d00d": {
         "Release Date": "2024-04-25",
         "dlc_name": "\ub9c8\uc2a4\ud130 \ud2b8\ub808\uc774\ub108 \uc601\uc0c1 \ubc84\uc804: \ucef4\ubc43 #01",
-        "base_game": "\u543e\u5bb6\u5065\u8eab\u8da3 -4\u5206\u9418\u935b\u934a\u5168\u8eab-",
+        "base_game": "Unknown Base Game",
         "size": 159383552
     },
     "010090001bd4d009": {
         "Release Date": "2024-04-25",
         "dlc_name": "\ub9c8\uc2a4\ud130 \ud2b8\ub808\uc774\ub108 \uc601\uc0c1 \ubc84\uc804: \ub304\uc2a4 #01(HIPHOP)",
-        "base_game": "\u543e\u5bb6\u5065\u8eab\u8da3 -4\u5206\u9418\u935b\u934a\u5168\u8eab-",
+        "base_game": "Unknown Base Game",
         "size": 212860928
     },
     "010090001bd4d002": {
         "Release Date": "2024-04-25",
         "dlc_name": "\ub9c8\uc2a4\ud130 \ud2b8\ub808\uc774\ub108 \uc601\uc0c1 \ubc84\uc804: \uc5d0\uc5b4\ub85c\ube45 #02",
-        "base_game": "\u543e\u5bb6\u5065\u8eab\u8da3 -4\u5206\u9418\u935b\u934a\u5168\u8eab-",
+        "base_game": "Unknown Base Game",
         "size": 188743680
     },
     "010090001bd4d00e": {
         "Release Date": "2024-04-25",
         "dlc_name": "\ub9c8\uc2a4\ud130 \ud2b8\ub808\uc774\ub108 \uc601\uc0c1 \ubc84\uc804: \ucef4\ubc43 #02",
-        "base_game": "\u543e\u5bb6\u5065\u8eab\u8da3 -4\u5206\u9418\u935b\u934a\u5168\u8eab-",
+        "base_game": "Unknown Base Game",
         "size": 195035136
     },
     "010090001bd4d00b": {
         "Release Date": "2024-04-25",
         "dlc_name": "\ub9c8\uc2a4\ud130 \ud2b8\ub808\uc774\ub108 \uc601\uc0c1 \ubc84\uc804: \ub304\uc2a4 #02(\uc0bc\ubc14)",
-        "base_game": "\u543e\u5bb6\u5065\u8eab\u8da3 -4\u5206\u9418\u935b\u934a\u5168\u8eab-",
+        "base_game": "Unknown Base Game",
         "size": 208666624
     },
     "0100a3d0199ad001": {
@@ -11198,7 +11198,7 @@
     "0100d29019be5005": {
         "Release Date": "2024-04-18",
         "dlc_name": "Sixtar Gate: STARTRAIL - yomoha's Planet Pack",
-        "base_game": "Sixtar Gate: STARTRAIL",
+        "base_game": "Unknown Base Game",
         "size": 62914560
     },
     "01008e900706509a": {
@@ -11390,7 +11390,7 @@
     "0100bd10190c1021": {
         "Release Date": "2024-04-10",
         "dlc_name": "AEW: Fight Forever Hayter's Gunna Game",
-        "base_game": "AEW: Fight Forever",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "01005a801dbbf001": {
@@ -11419,7 +11419,7 @@
     },
     "01004b301bd39007": {
         "Release Date": "2024-04-04",
-        "dlc_name": "GUNVOLT RECORDS Cychronicle Song Pack 7 Lola: \u266aKindled Spirits \u266aInner Alarm \u266aWordplay Magic \u266aSparkling Elation \u266a",
+        "dlc_name": "GUNVOLT RECORDS Cychronicle Song Pack 7 Lola:\n\u266aEntflammte Geister \u266aInnerer Alarm \u266aWortmagie\n\u266aPrickelndes Hochgef\u00fchl \u266a",
         "base_game": "GUNVOLT RECORDS: Cychronicle",
         "size": 274726912
     },
@@ -11539,7 +11539,7 @@
     },
     "01004c400cf9702a": {
         "Release Date": "2024-03-12",
-        "dlc_name": "Dead by Daylight: All Things Wicked Chapter",
+        "dlc_name": "Dead by Daylight: \u201eAll Things Wicked\u201c-Kapitel",
         "base_game": "Dead by Daylight",
         "size": 3145728
     },
@@ -12266,13 +12266,13 @@
     "01004ff0189ff004": {
         "Release Date": "2024-02-23",
         "dlc_name": "TFH - \u984d\u5916\u89d2\u8272 #3 Nidra",
-        "base_game": "\u7260\u5011\u7684\u683c\u9b25\u7267\u7fa4 (Them's Fightin' Herds)",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "01004ff0189ff005": {
         "Release Date": "2024-02-23",
         "dlc_name": "TFH - \u984d\u5916\u89d2\u8272 #4 Baihe",
-        "base_game": "\u7260\u5011\u7684\u683c\u9b25\u7267\u7fa4 (Them's Fightin' Herds)",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "01007a901c6e7004": {
@@ -12500,7 +12500,7 @@
     "01005a001489b001": {
         "Release Date": "2024-01-26",
         "dlc_name": "DoDonPachi Resurrection Chiptune Arrange Sound",
-        "base_game": "DoDonPachi Resurrection",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100697019027003": {
@@ -12919,43 +12919,43 @@
     },
     "0100cc701a0bd065": {
         "Release Date": "2023-11-03",
-        "dlc_name": "Loungewear Outfit Patterns",
+        "dlc_name": "Schnittmuster-Set \u201eLoungewear-Outfit\u201c",
         "base_game": "Fashion Dreamer",
         "size": 3145728
     },
     "0100cc701a0bd066": {
         "Release Date": "2023-11-03",
-        "dlc_name": "Model Outfit Patterns",
+        "dlc_name": "Schnittmuster-Set \u201eModel-Outfit\u201c",
         "base_game": "Fashion Dreamer",
         "size": 3145728
     },
     "0100cc701a0bd069": {
         "Release Date": "2023-11-03",
-        "dlc_name": "Pop Outfit Patterns",
+        "dlc_name": "Schnittmuster-Set \u201ePoppiges Outfit\u201c",
         "base_game": "Fashion Dreamer",
         "size": 3145728
     },
     "0100cc701a0bd068": {
         "Release Date": "2023-11-03",
-        "dlc_name": "Cute Outfit Patterns",
+        "dlc_name": "Schnittmuster-Set \u201eS\u00fc\u00dfes Outfit\u201c",
         "base_game": "Fashion Dreamer",
         "size": 3145728
     },
     "0100cc701a0bd06b": {
         "Release Date": "2023-11-03",
-        "dlc_name": "Sporty Outfit Patterns",
+        "dlc_name": "Schnittmuster-Set \u201eSportliches Outfit\u201c",
         "base_game": "Fashion Dreamer",
         "size": 3145728
     },
     "0100cc701a0bd067": {
         "Release Date": "2023-11-03",
-        "dlc_name": "Gothic Outfit Patterns",
+        "dlc_name": "Schnittmuster-Set \u201eGothic-Outfit\u201c",
         "base_game": "Fashion Dreamer",
         "size": 3145728
     },
     "0100cc701a0bd06a": {
         "Release Date": "2023-11-03",
-        "dlc_name": "Cool Outfit Patterns",
+        "dlc_name": "Schnittmuster-Set \u201eCooles Outfit\u201c",
         "base_game": "Fashion Dreamer",
         "size": 3145728
     },
@@ -13015,50 +13015,50 @@
     },
     "01004800197f1005": {
         "Release Date": "2023-10-26",
-        "dlc_name": "Master Detective Archives: RAIN CODE - Ch. Vivia: The Near-Death Detective + Ch. Yakou: Thank You, My Detective",
+        "dlc_name": "Master Detective Archives: RAIN CODE - Kap. Vivia: Der Nahtod-Detektiv + Kap. Yakou: Danke, mein Detektiv",
         "base_game": "Master Detective Archives: RAIN CODE",
         "size": 813694976
     },
     "01000e801c38d009": {
         "Release Date": "2023-10-26",
         "dlc_name": "\uc6cc\ub9ac\uc5b4 \ubb34\uae30\uc640 \ub9c8\uc11d \uc138\ud2b8",
-        "base_game": "\ud504\ub808\ub370\ub9ac\uce74",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "01000e801c38d00a": {
         "Release Date": "2023-10-26",
         "dlc_name": "\ub85c\uadf8 \ubb34\uae30\uc640 \ub9c8\uc11d \uc138\ud2b8",
-        "base_game": "\ud504\ub808\ub370\ub9ac\uce74",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "01000e801c38d00b": {
         "Release Date": "2023-10-26",
         "dlc_name": "\uc544\ucc98 \ubb34\uae30\uc640 \ub9c8\uc11d \uc138\ud2b8",
-        "base_game": "\ud504\ub808\ub370\ub9ac\uce74",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "01000e801c38d00c": {
         "Release Date": "2023-10-26",
         "dlc_name": "\ud30c\uba38 \ubb34\uae30\uc640 \ub9c8\uc11d \uc138\ud2b8",
-        "base_game": "\ud504\ub808\ub370\ub9ac\uce74",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "01000e801c38d00d": {
         "Release Date": "2023-10-26",
         "dlc_name": "\ud30c\uc774\ud130 \ubb34\uae30\uc640 \ub9c8\uc11d \uc138\ud2b8",
-        "base_game": "\ud504\ub808\ub370\ub9ac\uce74",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "01000e801c38d00e": {
         "Release Date": "2023-10-26",
         "dlc_name": "\uce90\uc2a4\ud130 \ubb34\uae30\uc640 \ub9c8\uc11d \uc138\ud2b8",
-        "base_game": "\ud504\ub808\ub370\ub9ac\uce74",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "01000e801c38d00f": {
         "Release Date": "2023-10-26",
         "dlc_name": "\uc2a4\ud0c0\ud2b8 \ub300\uc26c \uc544\uc774\ud15c \uc138\ud2b8",
-        "base_game": "\ud504\ub808\ub370\ub9ac\uce74",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "010098a0128c700a": {
@@ -13831,7 +13831,7 @@
     },
     "01004800197f1004": {
         "Release Date": "2023-09-28",
-        "dlc_name": "Master Detective Archives: RAIN CODE - Ch. Halara: Raining Cats & Dog",
+        "dlc_name": "Master Detective Archives: RAIN CODE - Kap. Halara: Es regnet in Str\u00f6men",
         "base_game": "Master Detective Archives: RAIN CODE",
         "size": 156237824
     },
@@ -14203,7 +14203,7 @@
     },
     "01004800197f1003": {
         "Release Date": "2023-08-31",
-        "dlc_name": "Master Detective Archives: RAIN CODE - Ch. Fubuki: Fubuki\u2019s Luckiest Day",
+        "dlc_name": "Master Detective Archives: RAIN CODE - Kap. Fubuki: Fubukis gl\u00fccklichster Tag",
         "base_game": "Master Detective Archives: RAIN CODE",
         "size": 500170752
     },
@@ -14341,7 +14341,7 @@
     },
     "01004800197f1002": {
         "Release Date": "2023-07-27",
-        "dlc_name": "Master Detective Archives: RAIN CODE - Ch. Desuhiko: Charisma Killed the Cat",
+        "dlc_name": "Master Detective Archives: RAIN CODE - Kap. Desuhiko: Charisma ist der Katze Tod",
         "base_game": "Master Detective Archives: RAIN CODE",
         "size": 55574528
     },
@@ -14449,7 +14449,7 @@
     },
     "0100f940192a1001": {
         "Release Date": "2023-06-27",
-        "dlc_name": "Seasonal Outfits Set",
+        "dlc_name": "Saisonale Outfits-Set",
         "base_game": "STORY OF SEASONS: A Wonderful Life",
         "size": 12582912
     },
@@ -14912,7 +14912,7 @@
     "01005b2019f87001": {
         "Release Date": "2023-04-13",
         "dlc_name": "\ud398\uc5b4\ub9ac \ud39c\uc11c F \ub9ac\ud504\ub808\uc778 \ucf54\ub4dc - \ubaa8\ud5d8 \uc544\uc774\ud15c \uc138\ud2b8",
-        "base_game": "\ud398\uc5b4\ub9ac \ud39c\uc11c F \ub9ac\ud504\ub808\uc778 \ucf54\ub4dc",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "01002840188b9003": {
@@ -14936,7 +14936,7 @@
     "01004ff0189ff003": {
         "Release Date": "2023-04-13",
         "dlc_name": "TFH - \u984d\u5916\u89d2\u8272 #2 Stronghoof",
-        "base_game": "\u7260\u5011\u7684\u683c\u9b25\u7267\u7fa4 (Them's Fightin' Herds)",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "010050f019c87001": {
@@ -15476,13 +15476,13 @@
     "01004ff0189ff002": {
         "Release Date": "2023-01-12",
         "dlc_name": "TFH - \u984d\u5916\u89d2\u8272 #1 \u5fb7\u514b\u85a9\u65af",
-        "base_game": "\u7260\u5011\u7684\u683c\u9b25\u7267\u7fa4 (Them's Fightin' Herds)",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "01004ff0189ff001": {
         "Release Date": "2023-01-12",
         "dlc_name": "\u7b2c\u4e00\u5b63\u901a\u884c\u8b49 - \u8abf\u8272\u677f\u5305\u548c\u300c\u50cf\u7d20\u5927\u5ef3\u300d\u914d\u4ef6",
-        "base_game": "\u7260\u5011\u7684\u683c\u9b25\u7267\u7fa4 (Them's Fightin' Herds)",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "01006d2012809003": {
@@ -15578,31 +15578,31 @@
     "0100b4f0196b9001": {
         "Release Date": "2022-12-15",
         "dlc_name": "WRC \uc81c\ub108\ub808\uc774\uc158 - \ud478\uc870 206 WRC 2002",
-        "base_game": "WRC \uc81c\ub108\ub808\uc774\uc158 - FIA \uc6d4\ub4dc \ub7a0\ub9ac \ucc54\ud53c\uc5b8\uc2ed",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100b4f0196b9002": {
         "Release Date": "2022-12-15",
         "dlc_name": "WRC \uc81c\ub108\ub808\uc774\uc158 - \uc2dc\ud2b8\ub85c\uc5e5 C4 WRC 2010",
-        "base_game": "WRC \uc81c\ub108\ub808\uc774\uc158 - FIA \uc6d4\ub4dc \ub7a0\ub9ac \ucc54\ud53c\uc5b8\uc2ed",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100b4f0196b9003": {
         "Release Date": "2022-12-15",
         "dlc_name": "WRC \uc81c\ub108\ub808\uc774\uc158 - \ucee4\ub9ac\uc5b4 \uc2a4\ud0c0\ud130 \ud329",
-        "base_game": "WRC \uc81c\ub108\ub808\uc774\uc158 - FIA \uc6d4\ub4dc \ub7a0\ub9ac \ucc54\ud53c\uc5b8\uc2ed",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100b4f0196b9004": {
         "Release Date": "2022-12-15",
         "dlc_name": "WRC \uc81c\ub108\ub808\uc774\uc158 - \ud3ec\ub974\uc250 911 GT3 RS RGT \ucd94\uac00 \ud328\ud134",
-        "base_game": "WRC \uc81c\ub108\ub808\uc774\uc158 - FIA \uc6d4\ub4dc \ub7a0\ub9ac \ucc54\ud53c\uc5b8\uc2ed",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100b4f0196b9005": {
         "Release Date": "2022-12-15",
         "dlc_name": "WRC \uc81c\ub108\ub808\uc774\uc158 - \ud328\ud134 \uc5d0\ub514\ud130 \ucd94\uac00 \uc544\uc774\ud15c",
-        "base_game": "WRC \uc81c\ub108\ub808\uc774\uc158 - FIA \uc6d4\ub4dc \ub7a0\ub9ac \ucc54\ud53c\uc5b8\uc2ed",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100bca00f427001": {
@@ -15614,7 +15614,7 @@
     "0100ffe015e9300a": {
         "Release Date": "2022-12-15",
         "dlc_name": "\uc2a4\ud3ec\ud2b8\ub77c\uc774\ud2b8\uac00 \ub208\ubd80\uc2e0 \uc138\ud2b8",
-        "base_game": "PUI PUI \u5929\u7afa\u9f20\u8eca\u8eca \u4e00\u8d77\u4f86\uff01\u5929\u7afa\u9f20\u8eca\u8eca\u6d3e\u5c0d\uff01",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "010060f0176bb00a": {
@@ -15986,19 +15986,19 @@
     "010093f011a27007": {
         "Release Date": "2022-10-14",
         "dlc_name": "DRAGON BALL: THE BREAKERS - Training Clothes (Blue Violet)",
-        "base_game": "DRAGON BALL: THE BREAKERS",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "010093f011a27008": {
         "Release Date": "2022-10-14",
         "dlc_name": "DRAGON BALL: THE BREAKERS - Sleeveless Hoodie (Sky Blue)",
-        "base_game": "DRAGON BALL: THE BREAKERS",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "010093f011a2700a": {
         "Release Date": "2022-10-14",
         "dlc_name": "DRAGON BALL: THE BREAKERS - Windbreaker (Yellow)",
-        "base_game": "DRAGON BALL: THE BREAKERS",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "010077c01769d001": {
@@ -16256,37 +16256,37 @@
     "0100ffe015e93009": {
         "Release Date": "2022-08-18",
         "dlc_name": "\ub9db\uc788\uc5b4 \ubcf4\uc774\ub294 \uc138\ud2b8",
-        "base_game": "PUI PUI \u5929\u7afa\u9f20\u8eca\u8eca \u4e00\u8d77\u4f86\uff01\u5929\u7afa\u9f20\u8eca\u8eca\u6d3e\u5c0d\uff01",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100ffe015e93010": {
         "Release Date": "2022-08-18",
         "dlc_name": "\uc2dc\uc98c \u300c\ucc44\uc18c\ucef5\u300d \ubaa8\ub8e8 \ud328\uc2a4",
-        "base_game": "PUI PUI \u5929\u7afa\u9f20\u8eca\u8eca \u4e00\u8d77\u4f86\uff01\u5929\u7afa\u9f20\u8eca\u8eca\u6d3e\u5c0d\uff01",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100ffe015e93011": {
         "Release Date": "2022-08-18",
         "dlc_name": "\uc2dc\uc98c \u300c\ucc44\uc18c\ucef5\u300d \ub808\ubca8 \uc5c5+5",
-        "base_game": "PUI PUI \u5929\u7afa\u9f20\u8eca\u8eca \u4e00\u8d77\u4f86\uff01\u5929\u7afa\u9f20\u8eca\u8eca\u6d3e\u5c0d\uff01",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100ffe015e93012": {
         "Release Date": "2022-08-18",
         "dlc_name": "\uc2dc\uc98c \u300c\ucc44\uc18c\ucef5\u300d \ub808\ubca8 \uc5c5+10",
-        "base_game": "PUI PUI \u5929\u7afa\u9f20\u8eca\u8eca \u4e00\u8d77\u4f86\uff01\u5929\u7afa\u9f20\u8eca\u8eca\u6d3e\u5c0d\uff01",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100ffe015e93013": {
         "Release Date": "2022-08-18",
         "dlc_name": "\uc2dc\uc98c \u300c\ucc44\uc18c\ucef5\u300d \ub808\ubca8 \uc5c5+20",
-        "base_game": "PUI PUI \u5929\u7afa\u9f20\u8eca\u8eca \u4e00\u8d77\u4f86\uff01\u5929\u7afa\u9f20\u8eca\u8eca\u6d3e\u5c0d\uff01",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100ffe015e93014": {
         "Release Date": "2022-08-18",
         "dlc_name": "\uc2dc\uc98c \u300c\ucc44\uc18c\ucef5\u300d \ub808\ubca8 \uc5c5 MAX (\ub808\ubca8 50)",
-        "base_game": "PUI PUI \u5929\u7afa\u9f20\u8eca\u8eca \u4e00\u8d77\u4f86\uff01\u5929\u7afa\u9f20\u8eca\u8eca\u6d3e\u5c0d\uff01",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "010060f0176bb009": {
@@ -16394,7 +16394,7 @@
     "01001e30126a1035": {
         "Release Date": "2022-08-01",
         "dlc_name": "\u516c\u5f0f\u5927\u4f1a - \u9650\u5b9a\u30ab\u30e9\u30fc\u30d1\u30ec\u30c3\u30c8",
-        "base_game": "MELTY BLOOD: TYPE LUMINA",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "01008ad013a87001": {
@@ -16561,7 +16561,7 @@
     },
     "01003ed016e53001": {
         "Release Date": "2022-06-24",
-        "dlc_name": "Exclusive new illustrations & music remixes",
+        "dlc_name": "Exklusive neue Illustrationen & Remixe",
         "base_game": "Capcom Fighting Collection",
         "size": 3145728
     },
@@ -16574,13 +16574,13 @@
     "0100b8f015d77010": {
         "Release Date": "2022-06-23",
         "dlc_name": "\ud310\ud0c0\uc9c0DLC",
-        "base_game": "Farm Together",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100b8f015d7700f": {
         "Release Date": "2022-06-23",
         "dlc_name": "\ud3f4\ub77cDLC",
-        "base_game": "Farm Together",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "01003d001597b036": {
@@ -16592,7 +16592,7 @@
     "01004b2016e7d002": {
         "Release Date": "2022-06-09",
         "dlc_name": "\uc870\uae30 \uac1c\ubc29 \ud0a4 \u300c\uadc0\uba78 \ud559\uc6d0\u00b7\uce74\ub9c8\ub3c4 \ub124\uc988\ucf54\u300d \u300c\uadc0\uba78 \ud559\uc6d0\u00b7\uc544\uac00\uce20\ub9c8 \uc820\uc774\uce20\u300d \u300c\uadc0\uba78 \ud559\uc6d0\u00b7\ud558\uc2dc\ube44\ub77c \uc774\ub178\uc2a4\ucf00\u300d",
-        "base_game": "\uadc0\uba78\uc758 \uce7c\ub0a0 \ud788\ub178\uce74\ubbf8 \ud608\ud48d\ub2f4",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "01003d001597b034": {
@@ -16838,37 +16838,37 @@
     "0100ffe015e93008": {
         "Release Date": "2022-04-25",
         "dlc_name": "\uac13 \uad6c\uc6b4 \uace0\uad6c\ub9c8 \uc138\ud2b8",
-        "base_game": "PUI PUI \u5929\u7afa\u9f20\u8eca\u8eca \u4e00\u8d77\u4f86\uff01\u5929\u7afa\u9f20\u8eca\u8eca\u6d3e\u5c0d\uff01",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100ffe015e9300b": {
         "Release Date": "2022-04-25",
         "dlc_name": "\uc2dc\uc98c \u300c\ubaa8\ub8e8\ucef5\u300d \ubaa8\ub8e8 \ud328\uc2a4",
-        "base_game": "PUI PUI \u5929\u7afa\u9f20\u8eca\u8eca \u4e00\u8d77\u4f86\uff01\u5929\u7afa\u9f20\u8eca\u8eca\u6d3e\u5c0d\uff01",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100ffe015e9300c": {
         "Release Date": "2022-04-25",
         "dlc_name": "\uc2dc\uc98c \u300c\ubaa8\ub8e8\ucef5\u300d \ub808\ubca8 \uc5c5+5",
-        "base_game": "PUI PUI \u5929\u7afa\u9f20\u8eca\u8eca \u4e00\u8d77\u4f86\uff01\u5929\u7afa\u9f20\u8eca\u8eca\u6d3e\u5c0d\uff01",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100ffe015e9300d": {
         "Release Date": "2022-04-25",
         "dlc_name": "\uc2dc\uc98c \u300c\ubaa8\ub8e8\ucef5\u300d \ub808\ubca8 \uc5c5+10",
-        "base_game": "PUI PUI \u5929\u7afa\u9f20\u8eca\u8eca \u4e00\u8d77\u4f86\uff01\u5929\u7afa\u9f20\u8eca\u8eca\u6d3e\u5c0d\uff01",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100ffe015e9300e": {
         "Release Date": "2022-04-25",
         "dlc_name": "\uc2dc\uc98c \u300c\ubaa8\ub8e8\ucef5\u300d \ub808\ubca8 \uc5c5+20",
-        "base_game": "PUI PUI \u5929\u7afa\u9f20\u8eca\u8eca \u4e00\u8d77\u4f86\uff01\u5929\u7afa\u9f20\u8eca\u8eca\u6d3e\u5c0d\uff01",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100ffe015e9300f": {
         "Release Date": "2022-04-25",
         "dlc_name": "\uc2dc\uc98c \u300c\ubaa8\ub8e8\ucef5\u300d \ub808\ubca8 \uc5c5 MAX (\ub808\ubca8 50)",
-        "base_game": "PUI PUI \u5929\u7afa\u9f20\u8eca\u8eca \u4e00\u8d77\u4f86\uff01\u5929\u7afa\u9f20\u8eca\u8eca\u6d3e\u5c0d\uff01",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "010060f0176bb008": {
@@ -17096,13 +17096,13 @@
     "0100b8f015d7700d": {
         "Release Date": "2022-04-14",
         "dlc_name": "\uce94\ub514 DLC",
-        "base_game": "Farm Together",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100b8f015d7700e": {
         "Release Date": "2022-04-14",
         "dlc_name": "\uc6e8\ub529 DLC",
-        "base_game": "Farm Together",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "01009120155cd005": {
@@ -17186,7 +17186,7 @@
     "0100465013579008": {
         "Release Date": "2022-04-08",
         "dlc_name": "\uace0\uc2a4\ud2b8\ub7ec\ub108: \ud504\ub85c\uc81d\ud2b8 \ud5ec",
-        "base_game": "Ghostrunner",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100aaa013599008": {
@@ -17330,7 +17330,7 @@
     "0100ffe015e93007": {
         "Release Date": "2022-03-24",
         "dlc_name": "\ub77c\uba74\uc5d0 \ube60\uc838\ub4dc\ub294 \uc138\ud2b8",
-        "base_game": "PUI PUI \u5929\u7afa\u9f20\u8eca\u8eca \u4e00\u8d77\u4f86\uff01\u5929\u7afa\u9f20\u8eca\u8eca\u6d3e\u5c0d\uff01",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "010093100da05006": {
@@ -17642,19 +17642,19 @@
     "01001730145d3011": {
         "Release Date": "2022-02-25",
         "dlc_name": "\u3010Do Not Use\u3011\u30dc\u30fc\u30ca\u30b9\u30a8\u30d4\u30bd\u30fc\u30c9\"WAVELENGTHS\uff08\u3046\u3064\u308d\u3044\uff09\"",
-        "base_game": "Life is Strange: True Colors",
+        "base_game": "Unknown Base Game",
         "size": 6291456
     },
     "01001730145d3010": {
         "Release Date": "2022-02-25",
         "dlc_name": "\u30a2\u30ec\u30c3\u30af\u30b9\u306e\u30a2\u30d1\u30ec\u30eb\u30d1\u30c3\u30af",
-        "base_game": "Life is Strange: True Colors",
+        "base_game": "Unknown Base Game",
         "size": 6291456
     },
     "01001730145d300f": {
         "Release Date": "2022-02-25",
         "dlc_name": "\u30dc\u30fc\u30ca\u30b9\u30a8\u30d4\u30bd\u30fc\u30c9\"WAVELENGTHS\uff08\u3046\u3064\u308d\u3044\uff09\"",
-        "base_game": "Life is Strange: True Colors",
+        "base_game": "Unknown Base Game",
         "size": 2236612608
     },
     "01007e201404700c": {
@@ -17804,73 +17804,73 @@
     "0100b8f015d77003": {
         "Release Date": "2022-02-03",
         "dlc_name": "\uc911\uad6d DLC",
-        "base_game": "Farm Together",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100b8f015d77002": {
         "Release Date": "2022-02-03",
         "dlc_name": "\uc77c\ubcf8 DLC",
-        "base_game": "Farm Together",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100b8f015d77001": {
         "Release Date": "2022-02-03",
         "dlc_name": "\uc11c\ud3ec\ud130 \ud329 DLC",
-        "base_game": "Farm Together",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100b8f015d77007": {
         "Release Date": "2022-02-03",
         "dlc_name": "\ub85c\ub9c8 DLC",
-        "base_game": "Farm Together",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100b8f015d77008": {
         "Release Date": "2022-02-03",
         "dlc_name": "\ud574\uc801 DLC",
-        "base_game": "Farm Together",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100b8f015d77009": {
         "Release Date": "2022-02-03",
         "dlc_name": "\uc678\uc6b0\uc8fc DLC",
-        "base_game": "Farm Together",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100b8f015d77004": {
         "Release Date": "2022-02-03",
         "dlc_name": "\uba55\uc2dc\ucf54 DLC",
-        "base_game": "Farm Together",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100b8f015d77006": {
         "Release Date": "2022-02-03",
         "dlc_name": "\uc911\uc138 DLC",
-        "base_game": "Farm Together",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100b8f015d77005": {
         "Release Date": "2022-02-03",
         "dlc_name": "\ubc14\uc774\ud0b9 DLC",
-        "base_game": "Farm Together",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100b8f015d7700b": {
         "Release Date": "2022-02-03",
         "dlc_name": "\uc11c\ucee4\uc2a4 DLC",
-        "base_game": "Farm Together",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100b8f015d7700c": {
         "Release Date": "2022-02-03",
         "dlc_name": "\uc774\ud0dc\ub9ac DLC",
-        "base_game": "Farm Together",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100b8f015d7700a": {
         "Release Date": "2022-02-03",
         "dlc_name": "\ud30c\uc5d0\uc57c DLC",
-        "base_game": "Farm Together",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "010011100dbf3032": {
@@ -18146,19 +18146,19 @@
     "0100ffe015e93005": {
         "Release Date": "2021-12-16",
         "dlc_name": "\ucd08\ud68c \ub3d9\ubd09 \ud2b9\uc804",
-        "base_game": "PUI PUI \u5929\u7afa\u9f20\u8eca\u8eca \u4e00\u8d77\u4f86\uff01\u5929\u7afa\u9f20\u8eca\u8eca\u6d3e\u5c0d\uff01",
+        "base_game": "Unknown Base Game",
         "size": 12582912
     },
     "0100ffe015e93001": {
         "Release Date": "2021-12-16",
         "dlc_name": "\uc561\uc138\uc11c\ub9ac 5\uc885 \uc138\ud2b8",
-        "base_game": "PUI PUI \u5929\u7afa\u9f20\u8eca\u8eca \u4e00\u8d77\u4f86\uff01\u5929\u7afa\u9f20\u8eca\u8eca\u6d3e\u5c0d\uff01",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100ffe015e93002": {
         "Release Date": "2021-12-16",
         "dlc_name": "\uc561\uc138\uc11c\ub9ac \u300c\ud3ec\ud14c\ud1a0\uc758 \ub4dc\ub77c\uc774\ubc84\u300d \uc120\ud589 \ud574\ubc29\uad8c\uff0f\uc544\ube44 \uc804\uc6a9 \uc561\uc138\uc11c\ub9ac \u300c\ub9c8\ubc95\ucc9c\uc0ac \uc544\ube44\u300d \uc120\ud589 \ud574\ubc29\uad8c",
-        "base_game": "PUI PUI \u5929\u7afa\u9f20\u8eca\u8eca \u4e00\u8d77\u4f86\uff01\u5929\u7afa\u9f20\u8eca\u8eca\u6d3e\u5c0d\uff01",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100b50016f59001": {
@@ -18764,31 +18764,31 @@
     "01001ad015fed00f": {
         "Release Date": "2021-11-25",
         "dlc_name": "\uc601\uc6c5\uc804\uc124 \uc12c\uc758 \uada4\uc801 III - \uc758\uc0c1 \u300e\ud1a0\ub974\uc988 \ubcf8\uad50\u30fb\uad50\ubcf5\u300f",
-        "base_game": "\uc601\uc6c5\uc804\uc124 \uc12c\uc758 \uada4\uc801 III",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "01001ad015fed002": {
         "Release Date": "2021-11-25",
         "dlc_name": "\uc601\uc6c5\uc804\uc124 \uc12c\uc758 \uada4\uc801 III - \uc758\uc0c1 \u300e\ucf54\ucf00\ud2f0\uc2dc\u30fb\ube14\ub8e8\u300f",
-        "base_game": "\uc601\uc6c5\uc804\uc124 \uc12c\uc758 \uada4\uc801 III",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "01001ad015fed003": {
         "Release Date": "2021-11-25",
         "dlc_name": "\uc601\uc6c5\uc804\uc124 \uc12c\uc758 \uada4\uc801 III - \uc758\uc0c1 \u300e\ud06c\ub85c\uc2a4\ubca8\u30fb\uce58\uc5b4!\u300f",
-        "base_game": "\uc601\uc6c5\uc804\uc124 \uc12c\uc758 \uada4\uc801 III",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "01001ad015fed008": {
         "Release Date": "2021-11-25",
         "dlc_name": "\uc601\uc6c5\uc804\uc124 \uc12c\uc758 \uada4\uc801 III - \uc758\uc0c1 \u300e\uc12c\uc758 \uada4\uc801 \u2161 \ub9b0 \uc5ec\ud589\ubcf5\u300f",
-        "base_game": "\uc601\uc6c5\uc804\uc124 \uc12c\uc758 \uada4\uc801 III",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "01001ad015fed001": {
         "Release Date": "2021-11-25",
         "dlc_name": "\uc601\uc6c5\uc804\uc124 \uc12c\uc758 \uada4\uc801 III - \uc758\uc0c1 \u300e\ud0a4\ud2f0\u30fb\ub204\uc544\ub974\u300f",
-        "base_game": "\uc601\uc6c5\uc804\uc124 \uc12c\uc758 \uada4\uc801 III",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "01003d001597b002": {
@@ -18890,7 +18890,7 @@
     "01005b9002313001": {
         "Release Date": "2021-11-18",
         "dlc_name": "The Binding of Isaac: Repentance",
-        "base_game": "The Binding of Isaac: Afterbirth+",
+        "base_game": "Unknown Base Game",
         "size": 676331520
     },
     "01003d001597b00e": {
@@ -18938,7 +18938,7 @@
     "0100465013579006": {
         "Release Date": "2021-11-11",
         "dlc_name": "\uace0\uc2a4\ud2b8\ub7ec\ub108 - \ud560\ub85c\uc708 \ud329",
-        "base_game": "Ghostrunner",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100bb90142af001": {
@@ -19022,7 +19022,7 @@
     "010092001061d007": {
         "Release Date": "2021-11-04",
         "dlc_name": "\ub808\uc77c\uc6e8\uc774 \uc5e0\ud30c\uc774\uc5b4 - \uc77c\ubcf8 DLC",
-        "base_game": "Railway Empire",
+        "base_game": "Unknown Base Game",
         "size": 3487563776
     },
     "0100b2f01111d004": {
@@ -19094,7 +19094,7 @@
     "0100f7901328f320": {
         "Release Date": "2021-10-21",
         "dlc_name": "\u982d\u98fe \u5154\u8033\u9aee\u7b8d",
-        "base_game": "BLUE REFLECTION: \u5e1d",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100aaa013599005": {
@@ -19166,31 +19166,31 @@
     "0100e7d01517d001": {
         "Release Date": "2021-10-14",
         "dlc_name": "\u30ea\u30e0\u30ba \u30ec\u30fc\u30b7\u30f3\u30b0\uff1a\u30d0\u30fc\u30ec\u30fc\u30f3\u30fb\u30a4\u30f3\u30bf\u30fc\u30ca\u30b7\u30e7\u30ca\u30eb\u30fb\u30b5\u30fc\u30ad\u30c3\u30c8",
-        "base_game": "\u30ea\u30e0\u30ba \u30ec\u30fc\u30b7\u30f3\u30b0",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100e7d01517d002": {
         "Release Date": "2021-10-14",
         "dlc_name": "\u30ea\u30e0\u30ba \u30ec\u30fc\u30b7\u30f3\u30b0\uff1aThe Bloody Beetroots\u30d0\u30a4\u30af\u5916\u89b3&\u30e9\u30a4\u30c0\u30fc\u30a2\u30a4\u30c6\u30e0",
-        "base_game": "\u30ea\u30e0\u30ba \u30ec\u30fc\u30b7\u30f3\u30b0",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100e7d01517d004": {
         "Release Date": "2021-10-14",
         "dlc_name": "\u30ea\u30e0\u30ba \u30ec\u30fc\u30b7\u30f3\u30b0\uff1aNolan X-LITE \u30d8\u30eb\u30e1\u30c3\u30c8",
-        "base_game": "\u30ea\u30e0\u30ba \u30ec\u30fc\u30b7\u30f3\u30b0",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100e7d01517d005": {
         "Release Date": "2021-10-14",
         "dlc_name": "\u30ea\u30e0\u30ba \u30ec\u30fc\u30b7\u30f3\u30b0\uff1a\u6b27\u5dde\u30e1\u30fc\u30ab\u30fc\u30d1\u30c3\u30af",
-        "base_game": "\u30ea\u30e0\u30ba \u30ec\u30fc\u30b7\u30f3\u30b0",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100e7d01517d006": {
         "Release Date": "2021-10-14",
         "dlc_name": "\u30ea\u30e0\u30ba \u30ec\u30fc\u30b7\u30f3\u30b0\uff1a\u65e5\u672c\u30e1\u30fc\u30ab\u30fc\u30d1\u30c3\u30af",
-        "base_game": "\u30ea\u30e0\u30ba \u30ec\u30fc\u30b7\u30f3\u30b0",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100ac6015997001": {
@@ -19202,7 +19202,7 @@
     "0100465013579005": {
         "Release Date": "2021-10-11",
         "dlc_name": "\uace0\uc2a4\ud2b8\ub7ec\ub108 - \ub124\uc628 \ud329",
-        "base_game": "Ghostrunner",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100997012423009": {
@@ -19573,7 +19573,7 @@
     },
     "010013e013221001": {
         "Release Date": "2021-08-26",
-        "dlc_name": "Twilight Isle Expansion Pack",
+        "dlc_name": "Erweiterungspaket: Zwielichtinsel",
         "base_game": "STORY OF SEASONS: Pioneers of Olive Town",
         "size": 57671680
     },
@@ -19730,7 +19730,7 @@
     "0100e7d01517d003": {
         "Release Date": "2021-08-19",
         "dlc_name": "\u30ea\u30e0\u30ba \u30ec\u30fc\u30b7\u30f3\u30b0 \u30ad\u30e3\u30ea\u30a2\u30b9\u30bf\u30fc\u30bf\u30fc\u30d1\u30c3\u30af",
-        "base_game": "\u30ea\u30e0\u30ba \u30ec\u30fc\u30b7\u30f3\u30b0",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "01003b90136db066": {
@@ -19820,25 +19820,25 @@
     "010092001061d004": {
         "Release Date": "2021-07-29",
         "dlc_name": "\ub808\uc77c\uc6e8\uc774 \uc5e0\ud30c\uc774\uc5b4 - \ubd81\uc720\ub7fd DLC",
-        "base_game": "Railway Empire",
+        "base_game": "Unknown Base Game",
         "size": 3304062976
     },
     "010092001061d001": {
         "Release Date": "2021-07-29",
         "dlc_name": "\ub808\uc77c\uc6e8\uc774 \uc5e0\ud30c\uc774\uc5b4 - \uc601\uad6d & \uc544\uc77c\ub79c\ub4dc DLC",
-        "base_game": "Railway Empire",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "010092001061d002": {
         "Release Date": "2021-07-29",
         "dlc_name": "\ub808\uc77c\uc6e8\uc774 \uc5e0\ud30c\uc774\uc5b4 - \ub3c5\uc77c DLC",
-        "base_game": "Railway Empire",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "010092001061d003": {
         "Release Date": "2021-07-29",
         "dlc_name": "\ub808\uc77c\uc6e8\uc774 \uc5e0\ud30c\uc774\uc5b4 - \ud504\ub791\uc2a4 DLC",
-        "base_game": "Railway Empire",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "01002620142c3002": {
@@ -19910,31 +19910,31 @@
     "0100d1701176b001": {
         "Release Date": "2021-07-13",
         "dlc_name": "\u73fe\u4ee3\u5927\u6226\u75652020-\u8ecd\u8cc7\u91d1\u30c1\u30b1\u30c3\u30c8-",
-        "base_game": "\u73fe\u4ee3\u5927\u6226\u75652020\uff5e\u63fa\u308c\u308b\u4e16\u754c\u79e9\u5e8f\uff01\u5927\u56fd\u306e\u91ce\u671b\u3068\u4e16\u754c\u5927\u6226\uff5e",
+        "base_game": "Unknown Base Game",
         "size": 8388608
     },
     "0100d1701176b002": {
         "Release Date": "2021-07-13",
         "dlc_name": "\u73fe\u4ee3\u5927\u6226\u75652020\u7279\u52b9\u533b\u7642\u30d1\u30c3\u30af",
-        "base_game": "\u73fe\u4ee3\u5927\u6226\u75652020\uff5e\u63fa\u308c\u308b\u4e16\u754c\u79e9\u5e8f\uff01\u5927\u56fd\u306e\u91ce\u671b\u3068\u4e16\u754c\u5927\u6226\uff5e",
+        "base_game": "Unknown Base Game",
         "size": 8388608
     },
     "0100d1701176b003": {
         "Release Date": "2021-07-13",
         "dlc_name": "\u73fe\u4ee3\u5927\u6226\u75652020\u7279\u5225\u58eb\u5b98\u30a2\u30e1\u30ea\u30a2",
-        "base_game": "\u73fe\u4ee3\u5927\u6226\u75652020\uff5e\u63fa\u308c\u308b\u4e16\u754c\u79e9\u5e8f\uff01\u5927\u56fd\u306e\u91ce\u671b\u3068\u4e16\u754c\u5927\u6226\uff5e",
+        "base_game": "Unknown Base Game",
         "size": 7340032
     },
     "0100d1701176b004": {
         "Release Date": "2021-07-13",
         "dlc_name": "\u73fe\u4ee3\u5927\u6226\u75652020\u7279\u5225\u58eb\u5b98\u30ec\u30f4\u30a3\u30fc\u30ec",
-        "base_game": "\u73fe\u4ee3\u5927\u6226\u75652020\uff5e\u63fa\u308c\u308b\u4e16\u754c\u79e9\u5e8f\uff01\u5927\u56fd\u306e\u91ce\u671b\u3068\u4e16\u754c\u5927\u6226\uff5e",
+        "base_game": "Unknown Base Game",
         "size": 7340032
     },
     "0100d1701176b005": {
         "Release Date": "2021-07-13",
         "dlc_name": "\u73fe\u4ee3\u5927\u6226\u75652020\u7279\u5225\u58eb\u5b98\u30cd\u30b3",
-        "base_game": "\u73fe\u4ee3\u5927\u6226\u75652020\uff5e\u63fa\u308c\u308b\u4e16\u754c\u79e9\u5e8f\uff01\u5927\u56fd\u306e\u91ce\u671b\u3068\u4e16\u754c\u5927\u6226\uff5e",
+        "base_game": "Unknown Base Game",
         "size": 7340032
     },
     "01007c100e4a9008": {
@@ -21319,7 +21319,7 @@
     },
     "010013e013221003": {
         "Release Date": "2021-06-24",
-        "dlc_name": "Terracotta Oasis Expansion Pack",
+        "dlc_name": "Erweiterungspaket: Terrakotta-Oase",
         "base_game": "STORY OF SEASONS: Pioneers of Olive Town",
         "size": 56623104
     },
@@ -21475,7 +21475,7 @@
     },
     "010013e013221002": {
         "Release Date": "2021-05-27",
-        "dlc_name": "Windswept Falls Expansion Pack",
+        "dlc_name": "Erweiterungspaket: Windsee",
         "base_game": "STORY OF SEASONS: Pioneers of Olive Town",
         "size": 56623104
     },
@@ -22106,7 +22106,7 @@
     "0100465013579004": {
         "Release Date": "2021-04-14",
         "dlc_name": "\uace0\uc2a4\ud2b8\ub7ec\ub108 - \uba54\ud0c8 \uc625\uc2a4 \ud329",
-        "base_game": "Ghostrunner",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "010073000fe19164": {
@@ -22820,7 +22820,7 @@
     "0100465013579003": {
         "Release Date": "2021-02-18",
         "dlc_name": "\uace0\uc2a4\ud2b8\ub7ec\ub108 - \uaca8\uc6b8 \ud329",
-        "base_game": "Ghostrunner",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "01009e2012f3f005": {
@@ -22892,43 +22892,43 @@
     "01002a800c065069": {
         "Release Date": "2021-02-04",
         "dlc_name": "\u30d7\u30ec\u30df\u30a2\u30e0\u30d1\u30b9 \u4f1d\u8aac\u306e\u30ab\u30fc\u30c9",
-        "base_game": "\u30b7\u30e3\u30c9\u30a6\u30d0\u30fc\u30b9 \u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u30ba\u30d0\u30c8\u30eb",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "01002a800c065068": {
         "Release Date": "2021-02-04",
         "dlc_name": "\u30d7\u30ec\u30df\u30a2\u30e0\u30d1\u30b9 \u30b7\u30fc\u30ba\u30f34",
-        "base_game": "\u30b7\u30e3\u30c9\u30a6\u30d0\u30fc\u30b9 \u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u30ba\u30d0\u30c8\u30eb",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "01002a800c065143": {
         "Release Date": "2021-02-04",
         "dlc_name": "\u30ea\u30fc\u30c0\u30fc\u30b9\u30ad\u30f3\u300c\u51a5\u754c\u306e\u4e3b\u30fb\u30a2\u30ea\u30b9\u300d",
-        "base_game": "\u30b7\u30e3\u30c9\u30a6\u30d0\u30fc\u30b9 \u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u30ba\u30d0\u30c8\u30eb",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "01002a800c065144": {
         "Release Date": "2021-02-04",
         "dlc_name": "\u30ea\u30fc\u30c0\u30fc\u30b9\u30ad\u30f3\u300c\u30de\u30ad\u30bb\u300d",
-        "base_game": "\u30b7\u30e3\u30c9\u30a6\u30d0\u30fc\u30b9 \u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u30ba\u30d0\u30c8\u30eb",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "01002a800c065145": {
         "Release Date": "2021-02-04",
         "dlc_name": "\u30ea\u30fc\u30c0\u30fc\u30b9\u30ad\u30f3\u300c\u9727\u5c71\u30b7\u30ed\u30a6\u300d",
-        "base_game": "\u30b7\u30e3\u30c9\u30a6\u30d0\u30fc\u30b9 \u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u30ba\u30d0\u30c8\u30eb",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "01002a800c065146": {
         "Release Date": "2021-02-04",
         "dlc_name": "\u30ea\u30fc\u30c0\u30fc\u30b9\u30ad\u30f3\u300c\u30de\u30eb\u30b0\u30ea\u30c3\u30c8\u30fb\u30f4\u30a1\u30ed\u30ef\u300d",
-        "base_game": "\u30b7\u30e3\u30c9\u30a6\u30d0\u30fc\u30b9 \u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u30ba\u30d0\u30c8\u30eb",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "01002a800c065147": {
         "Release Date": "2021-02-04",
         "dlc_name": "\u30ea\u30fc\u30c0\u30fc\u30b9\u30ad\u30f3\u300c\u30b7\u30e3\u30c9\u30a6\u30ca\u30a4\u30c4\u30fb\u30bc\u30c3\u30af\u30b9\u300d",
-        "base_game": "\u30b7\u30e3\u30c9\u30a6\u30d0\u30fc\u30b9 \u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u30ba\u30d0\u30c8\u30eb",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "010044d00fcdb0d5": {
@@ -23108,19 +23108,19 @@
     "01002a800c065140": {
         "Release Date": "2021-01-21",
         "dlc_name": "\u30ea\u30fc\u30c0\u30fc\u30b9\u30ad\u30f3\u300c\u30ec\u30aa\u30f3\u30fb\u30aa\u30fc\u30e9\u30f3\u30b7\u30e5\u300d",
-        "base_game": "\u30b7\u30e3\u30c9\u30a6\u30d0\u30fc\u30b9 \u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u30ba\u30d0\u30c8\u30eb",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "01002a800c065141": {
         "Release Date": "2021-01-21",
         "dlc_name": "\u30ea\u30fc\u30c0\u30fc\u30b9\u30ad\u30f3\u300c\u65e9\u4e59\u5973\u30ec\u30a4\u300d",
-        "base_game": "\u30b7\u30e3\u30c9\u30a6\u30d0\u30fc\u30b9 \u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u30ba\u30d0\u30c8\u30eb",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "01002a800c065142": {
         "Release Date": "2021-01-21",
         "dlc_name": "\u30ea\u30fc\u30c0\u30fc\u30b9\u30ad\u30f3\u300c\u30b7\u30e3\u30c9\u30d0\u306e\u738b\u30fb\u30ec\u30a4\u300d",
-        "base_game": "\u30b7\u30e3\u30c9\u30a6\u30d0\u30fc\u30b9 \u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u30ba\u30d0\u30c8\u30eb",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "01009e2012f3f001": {
@@ -23132,31 +23132,31 @@
     "01002a800c065067": {
         "Release Date": "2021-01-14",
         "dlc_name": "\u30d7\u30ec\u30df\u30a2\u30e0\u30d1\u30b9 \u30b7\u30fc\u30ba\u30f33",
-        "base_game": "\u30b7\u30e3\u30c9\u30a6\u30d0\u30fc\u30b9 \u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u30ba\u30d0\u30c8\u30eb",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "01002a800c06513c": {
         "Release Date": "2021-01-14",
         "dlc_name": "\u30ea\u30fc\u30c0\u30fc\u30b9\u30ad\u30f3\u300c\u5929\u306e\u4f7f\u8005\u30fb\u30ab\u30b0\u30e9\u300d",
-        "base_game": "\u30b7\u30e3\u30c9\u30a6\u30d0\u30fc\u30b9 \u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u30ba\u30d0\u30c8\u30eb",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "01002a800c06513d": {
         "Release Date": "2021-01-14",
         "dlc_name": "\u30ea\u30fc\u30c0\u30fc\u30b9\u30ad\u30f3\u300c\u95c7\u306e\u7687\u5e1d\u30fb\u30eb\u30b7\u30a2\u300d",
-        "base_game": "\u30b7\u30e3\u30c9\u30a6\u30d0\u30fc\u30b9 \u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u30ba\u30d0\u30c8\u30eb",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "01002a800c06513e": {
         "Release Date": "2021-01-14",
         "dlc_name": "\u30ea\u30fc\u30c0\u30fc\u30b9\u30ad\u30f3\u300c\u30b7\u30e3\u30c9\u30a6\u30ca\u30a4\u30c4\u30fb\u30a2\u30a4\u30f3\u300d",
-        "base_game": "\u30b7\u30e3\u30c9\u30a6\u30d0\u30fc\u30b9 \u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u30ba\u30d0\u30c8\u30eb",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "01002a800c06513f": {
         "Release Date": "2021-01-14",
         "dlc_name": "\u30ea\u30fc\u30c0\u30fc\u30b9\u30ad\u30f3\u300c\u30b3\u30d0\u30e4\u30b7\u300d",
-        "base_game": "\u30b7\u30e3\u30c9\u30a6\u30d0\u30fc\u30b9 \u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u30ba\u30d0\u30c8\u30eb",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100b9e012993064": {
@@ -23198,25 +23198,25 @@
     "01002a800c065138": {
         "Release Date": "2020-12-17",
         "dlc_name": "\u30ea\u30fc\u30c0\u30fc\u30b9\u30ad\u30f3\u300c\u7530\u90e8\u4e18\u30de\u30a4\u30bb\u30eb\u300d",
-        "base_game": "\u30b7\u30e3\u30c9\u30a6\u30d0\u30fc\u30b9 \u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u30ba\u30d0\u30c8\u30eb",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "01002a800c065139": {
         "Release Date": "2020-12-17",
         "dlc_name": "\u30ea\u30fc\u30c0\u30fc\u30b9\u30ad\u30f3\u300c\u8ca1\u5584\u5bfa\u30df\u30e4\u30d3\u300d",
-        "base_game": "\u30b7\u30e3\u30c9\u30a6\u30d0\u30fc\u30b9 \u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u30ba\u30d0\u30c8\u30eb",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "01002a800c06513a": {
         "Release Date": "2020-12-17",
         "dlc_name": "\u30ea\u30fc\u30c0\u30fc\u30b9\u30ad\u30f3\u300c\u86c7\u795e\u30b3\u30a6\u300d",
-        "base_game": "\u30b7\u30e3\u30c9\u30a6\u30d0\u30fc\u30b9 \u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u30ba\u30d0\u30c8\u30eb",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "01002a800c06513b": {
         "Release Date": "2020-12-17",
         "dlc_name": "\u30ea\u30fc\u30c0\u30fc\u30b9\u30ad\u30f3\u300c\u4e5d\u9b3c\u30ba\u30aa\u30a6\u300d",
-        "base_game": "\u30b7\u30e3\u30c9\u30a6\u30d0\u30fc\u30b9 \u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u30ba\u30d0\u30c8\u30eb",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100454012e33001": {
@@ -23240,7 +23240,7 @@
     "0100465013579002": {
         "Release Date": "2020-12-10",
         "dlc_name": "\uc624\ub9ac\uc9c0\ub110 \uceec\ub7ec \uce74\ud0c0\ub098 (\ub808\ub4dc/\uadf8\ub808\uc774)",
-        "base_game": "Ghostrunner",
+        "base_game": "Unknown Base Game",
         "size": 6291456
     },
     "01006c5012dcf01f": {
@@ -23354,31 +23354,31 @@
     "01002a800c065066": {
         "Release Date": "2020-12-10",
         "dlc_name": "\u30d7\u30ec\u30df\u30a2\u30e0\u30d1\u30b9 \u30b7\u30fc\u30ba\u30f32",
-        "base_game": "\u30b7\u30e3\u30c9\u30a6\u30d0\u30fc\u30b9 \u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u30ba\u30d0\u30c8\u30eb",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "01002a800c065134": {
         "Release Date": "2020-12-10",
         "dlc_name": "\u30ea\u30fc\u30c0\u30fc\u30b9\u30ad\u30f3\u300c\u52dd\u5229\u3078\u306e\u9053\u30fb\u30ab\u30ba\u30ad\u300d",
-        "base_game": "\u30b7\u30e3\u30c9\u30a6\u30d0\u30fc\u30b9 \u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u30ba\u30d0\u30c8\u30eb",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "01002a800c065135": {
         "Release Date": "2020-12-10",
         "dlc_name": "\u30ea\u30fc\u30c0\u30fc\u30b9\u30ad\u30f3\u300c\u6642\u306e\u652f\u914d\u8005\u30fb\u30ab\u30a4\u300d",
-        "base_game": "\u30b7\u30e3\u30c9\u30a6\u30d0\u30fc\u30b9 \u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u30ba\u30d0\u30c8\u30eb",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "01002a800c065136": {
         "Release Date": "2020-12-10",
         "dlc_name": "\u30ea\u30fc\u30c0\u30fc\u30b9\u30ad\u30f3\u300c\u30a2\u30a4\u300d",
-        "base_game": "\u30b7\u30e3\u30c9\u30a6\u30d0\u30fc\u30b9 \u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u30ba\u30d0\u30c8\u30eb",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "01002a800c065137": {
         "Release Date": "2020-12-10",
         "dlc_name": "\u30ea\u30fc\u30c0\u30fc\u30b9\u30ad\u30f3\u300c\u4eee\u9762\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u300d",
-        "base_game": "\u30b7\u30e3\u30c9\u30a6\u30d0\u30fc\u30b9 \u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u30ba\u30d0\u30c8\u30eb",
+        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "010048100d51b00c": {
@@ -23798,25 +23798,25 @@
     "01002a800c065130": {
         "Release Date": "2020-11-19",
         "dlc_name": "\u30ea\u30fc\u30c0\u30fc\u30b9\u30ad\u30f3\u300c\u7259\u5009\u30bb\u30a4\u30e4\u300d",
-        "base_game": "\u30b7\u30e3\u30c9\u30a6\u30d0\u30fc\u30b9 \u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u30ba\u30d0\u30c8\u30eb",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "01002a800c065131": {
         "Release Date": "2020-11-19",
         "dlc_name": "\u30ea\u30fc\u30c0\u30fc\u30b9\u30ad\u30f3\u300c\u7259\u5009\u30bf\u30af\u30de\u300d",
-        "base_game": "\u30b7\u30e3\u30c9\u30a6\u30d0\u30fc\u30b9 \u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u30ba\u30d0\u30c8\u30eb",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "01002a800c065132": {
         "Release Date": "2020-11-19",
         "dlc_name": "\u30ea\u30fc\u30c0\u30fc\u30b9\u30ad\u30f3\u300c\u30d3\u30d3\u30a2\u30f3\u30fb\u30b8\u30e5\u30b9\u30c6\u30a3\u30fc\u30cc\u300d",
-        "base_game": "\u30b7\u30e3\u30c9\u30a6\u30d0\u30fc\u30b9 \u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u30ba\u30d0\u30c8\u30eb",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "01002a800c065133": {
         "Release Date": "2020-11-19",
         "dlc_name": "\u30ea\u30fc\u30c0\u30fc\u30b9\u30ad\u30f3\u300c\u30f4\u30a1\u30cd\u30c3\u30b5\u30fb\u30b8\u30e5\u30b9\u30c6\u30a3\u30fc\u30cc\u300d",
-        "base_game": "\u30b7\u30e3\u30c9\u30a6\u30d0\u30fc\u30b9 \u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u30ba\u30d0\u30c8\u30eb",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100ed901289f001": {
@@ -23894,7 +23894,7 @@
     "01002a800c065065": {
         "Release Date": "2020-11-05",
         "dlc_name": "\u30d7\u30ec\u30df\u30a2\u30e0\u30d1\u30b9 \u30b7\u30fc\u30ba\u30f31",
-        "base_game": "\u30b7\u30e3\u30c9\u30a6\u30d0\u30fc\u30b9 \u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u30ba\u30d0\u30c8\u30eb",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "010042c01173700f": {
@@ -23906,13 +23906,13 @@
     "01002a800c06512e": {
         "Release Date": "2020-11-05",
         "dlc_name": "\u30ea\u30fc\u30c0\u30fc\u30b9\u30ad\u30f3\u300c\u30de\u30a4\u300d",
-        "base_game": "\u30b7\u30e3\u30c9\u30a6\u30d0\u30fc\u30b9 \u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u30ba\u30d0\u30c8\u30eb",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "01002a800c06512f": {
         "Release Date": "2020-11-05",
         "dlc_name": "\u30ea\u30fc\u30c0\u30fc\u30b9\u30ad\u30f3\u300c\u8b0e\u306e\u5c11\u5973\u300d",
-        "base_game": "\u30b7\u30e3\u30c9\u30a6\u30d0\u30fc\u30b9 \u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u30ba\u30d0\u30c8\u30eb",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "010095f0094dd007": {
@@ -23966,7 +23966,7 @@
     "010040000ee95004": {
         "Release Date": "2020-10-29",
         "dlc_name": "\uac00\uba74\ub77c\uc774\ub354 \uba54\ubaa8\ub9ac \uc624\ube0c \ud788\uc5b4\ub85c\uc988 \uc870\uae30 \uad6c\ub9e4 \ud2b9\uc804",
-        "base_game": "KAMEN RIDER \u82f1\u96c4\u5c0b\u61b6",
+        "base_game": "Unknown Base Game",
         "size": 20971520
     },
     "0100ca9011815004": {
@@ -24271,13 +24271,13 @@
     },
     "0100cca00dae700a": {
         "Release Date": "2020-08-28",
-        "dlc_name": "Captain Tsubasa: RoNC Virgin Megastore Uniform Set",
+        "dlc_name": "Captain Tsubasa: RoNC \"Virgin Megastore\"-Spielkleidungsset",
         "base_game": "Captain Tsubasa: Rise of New Champions",
         "size": 4194304
     },
     "0100cca00dae700b": {
         "Release Date": "2020-08-28",
-        "dlc_name": "Captain Tsubasa: RoNC GameStopZing Collaboration Uniform Set",
+        "dlc_name": "Captain Tsubasa: RoNC \"GameStopZing Collaboration\"-Spielkl.-Set",
         "base_game": "Captain Tsubasa: Rise of New Champions",
         "size": 4194304
     },
@@ -26150,19 +26150,19 @@
     "0100f1a011223008": {
         "Release Date": "2020-07-28",
         "dlc_name": "Trial Weapon Pack",
-        "base_game": "Megadimension Neptunia VII",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100f1a01122300c": {
         "Release Date": "2020-07-28",
         "dlc_name": "Swimsuit Pack",
-        "base_game": "Megadimension Neptunia VII",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100f1a011223012": {
         "Release Date": "2020-07-28",
         "dlc_name": "[God Eater] Costume Pack",
-        "base_game": "Megadimension Neptunia VII",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100823010fff001": {
@@ -27380,19 +27380,19 @@
     "01001c400e9d9010": {
         "Release Date": "2020-02-20",
         "dlc_name": "\u98df\u6750\u304a\u5f97\u30d1\u30c3\u30af",
-        "base_game": "\u30da\u30eb\u30bd\u30ca\uff15 \u30b9\u30af\u30e9\u30f3\u30d6\u30eb\u3000\u30b6 \u30d5\u30a1\u30f3\u30c8\u30e0 \u30b9\u30c8\u30e9\u30a4\u30ab\u30fc\u30ba",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "01001c400e9d9007": {
         "Release Date": "2020-02-20",
         "dlc_name": "\u5148\u884c\u6b66\u5668\u30d1\u30c3\u30af",
-        "base_game": "\u30da\u30eb\u30bd\u30ca\uff15 \u30b9\u30af\u30e9\u30f3\u30d6\u30eb\u3000\u30b6 \u30d5\u30a1\u30f3\u30c8\u30e0 \u30b9\u30c8\u30e9\u30a4\u30ab\u30fc\u30ba",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "01001c400e9d900a": {
         "Release Date": "2020-02-20",
         "dlc_name": "\u304a\u5e74\u7389\u30d1\u30c3\u30af",
-        "base_game": "\u30da\u30eb\u30bd\u30ca\uff15 \u30b9\u30af\u30e9\u30f3\u30d6\u30eb\u3000\u30b6 \u30d5\u30a1\u30f3\u30c8\u30e0 \u30b9\u30c8\u30e9\u30a4\u30ab\u30fc\u30ba",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100f3000e9e5001": {
@@ -28202,7 +28202,7 @@
     "0100ca100e253002": {
         "Release Date": "2019-09-26",
         "dlc_name": "\u9f8d\u306e\u523a\u7e4d\u5165\u308a\u30b9\u30ab\u30b8\u30e3\u30f3",
-        "base_game": "\u7d76\u4f53\u7d76\u547d\u90fd\u5e02\uff14Plus -Summer Memories- for Nintendo Switch",
+        "base_game": "Unknown Base Game",
         "size": 6291456
     },
     "01008c800e655003": {
@@ -28484,25 +28484,25 @@
     "0100cb8005b27006": {
         "Release Date": "2019-09-13",
         "dlc_name": "\u300c\u9650\u5b9a\u30e1\u30bf\u30ea\u30c3\u30af\u88c5\u5099\u30bb\u30c3\u30c8\uff1c\u30d0\u30ba\u30fc\u30ab\uff1e\u300d",
-        "base_game": "DAEMON X MACHINA\uff08\u6a5f\u7532\u6230\u9b54\uff09",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100cb8005b27007": {
         "Release Date": "2019-09-13",
         "dlc_name": "\u300c\u9650\u5b9a\u30e1\u30bf\u30ea\u30c3\u30af\u88c5\u5099\u30bb\u30c3\u30c8\uff1c\u592a\u5200\uff1e\u300d",
-        "base_game": "DAEMON X MACHINA\uff08\u6a5f\u7532\u6230\u9b54\uff09",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100cb8005b27008": {
         "Release Date": "2019-09-13",
         "dlc_name": "\u300c\u9650\u5b9a\u30e1\u30bf\u30ea\u30c3\u30af\u88c5\u5099\u30bb\u30c3\u30c8\uff1c\u30a2\u30b5\u30eb\u30c8\u30e9\u30a4\u30d5\u30eb\uff1e\u300d",
-        "base_game": "DAEMON X MACHINA\uff08\u6a5f\u7532\u6230\u9b54\uff09",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100cb8005b27009": {
         "Release Date": "2019-09-13",
         "dlc_name": "\u300c\u9650\u5b9a\u30e1\u30bf\u30ea\u30c3\u30af\u88c5\u5099\u30bb\u30c3\u30c8\uff1c\u30de\u30b7\u30f3\u30ac\u30f3\uff1e\u300d",
-        "base_game": "DAEMON X MACHINA\uff08\u6a5f\u7532\u6230\u9b54\uff09",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "01004b500ba29012": {
@@ -28946,31 +28946,31 @@
     "0100c1b00a1eb003": {
         "Release Date": "2019-08-01",
         "dlc_name": "\u58f0\u5263\u30dc\u30a4\u30f3\u30b9\u30ec\u30a4\u30d6",
-        "base_game": "\u30aa\u30e1\u30ac\u30e9\u30d3\u30ea\u30f3\u30b9 \u30e9\u30a4\u30d5",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100c1b00a1eb005": {
         "Release Date": "2019-08-01",
         "dlc_name": "\u58f0\u938c\u30d1\u30d5\u30d1\u30fc",
-        "base_game": "\u30aa\u30e1\u30ac\u30e9\u30d3\u30ea\u30f3\u30b9 \u30e9\u30a4\u30d5",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100c1b00a1eb006": {
         "Release Date": "2019-08-01",
         "dlc_name": "\u58f0\u69cd\u30df\u30b9\u30d5\u30eb\u30c6\u30a3\u30f3",
-        "base_game": "\u30aa\u30e1\u30ac\u30e9\u30d3\u30ea\u30f3\u30b9 \u30e9\u30a4\u30d5",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100c1b00a1eb007": {
         "Release Date": "2019-08-01",
         "dlc_name": "\u58f0\u5200\u3080\u306d\u30c1\u30ab",
-        "base_game": "\u30aa\u30e1\u30ac\u30e9\u30d3\u30ea\u30f3\u30b9 \u30e9\u30a4\u30d5",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100c1b00a1eb008": {
         "Release Date": "2019-08-01",
         "dlc_name": "\u58f0\u6383\u30e0\u30ec\u30a2\u30c7\u30b9",
-        "base_game": "\u30aa\u30e1\u30ac\u30e9\u30d3\u30ea\u30f3\u30b9 \u30e9\u30a4\u30d5",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "0100e5200b3ab007": {
@@ -29420,19 +29420,19 @@
     "01001a700c833025": {
         "Release Date": "2019-04-16",
         "dlc_name": "Sky Blue Dress",
-        "base_game": "Fate/EXTELLA LINK",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "01001a700c833027": {
         "Release Date": "2019-04-16",
         "dlc_name": "Wild Western",
-        "base_game": "Fate/EXTELLA LINK",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "01001a700c833020": {
         "Release Date": "2019-04-16",
         "dlc_name": "Divine Spear's Combat Outfit",
-        "base_game": "Fate/EXTELLA LINK",
+        "base_game": "Unknown Base Game",
         "size": 4194304
     },
     "010079700ca2b00d": {
