@@ -1565,6 +1565,12 @@
         "base_game": "\u3068\u304d\u3081\u304d\u30e1\u30e2\u30ea\u30a2\u30eb forever with you \u30a8\u30e2\u30fc\u30b7\u30e7\u30ca\u30eb",
         "size": 1754267648
     },
+    "01009820151b7001": {
+        "Release Date": "2025-05-02",
+        "dlc_name": "\u6e21\u795e\u7eaa \u82ac\u5c3c\u65af\u5d1b\u8d77\uff1a\u8865\u5929",
+        "base_game": "Unknown Base Game",
+        "size": 5686427648
+    },
     "0100df9022e0f001": {
         "Release Date": "2025-05-02",
         "dlc_name": "CybeRage: Green Line DLC",
@@ -1582,12 +1588,6 @@
         "dlc_name": "CybeRage: Red Line DLC",
         "base_game": "CybeRage",
         "size": 3145728
-    },
-    "01009820151b7001": {
-        "Release Date": "2025-05-02",
-        "dlc_name": "\u6e21\u795e\u7eaa \u82ac\u5c3c\u65af\u5d1b\u8d77\uff1a\u8865\u5929",
-        "base_game": "Unknown Base Game",
-        "size": 5686427648
     },
     "01004310229e1001": {
         "Release Date": "2025-05-01",
@@ -1883,66 +1883,6 @@
         "base_game": "BEYBLADE X XONE",
         "size": 3145728
     },
-    "010047e01ea25001": {
-        "Release Date": "2025-04-10",
-        "dlc_name": "Star Overdrive: Pre-order Bonus",
-        "base_game": "Star Overdrive",
-        "size": 3145728
-    },
-    "010089a0197e5006": {
-        "Release Date": "2025-04-10",
-        "dlc_name": "Vampire Survivors: Emerald Diorama",
-        "base_game": "Vampire Survivors",
-        "size": 59768832
-    },
-    "010097f018539006": {
-        "Release Date": "2025-04-10",
-        "dlc_name": "DAVE THE DIVER - Ichiban's Holiday Content Pack",
-        "base_game": "DAVE THE DIVER",
-        "size": 3145728
-    },
-    "010091c0221ef001": {
-        "Release Date": "2025-04-10",
-        "dlc_name": "Rose-Hued Uniforms",
-        "base_game": "Dreamless Girl",
-        "size": 3145728
-    },
-    "0100914021327001": {
-        "Release Date": "2025-04-10",
-        "dlc_name": "Airplane Flight Simulator : Dangerous Landings DLC - Flight Training Plane",
-        "base_game": "Airplane Flight Simulator : Dangerous Landings",
-        "size": 3145728
-    },
-    "0100914021327002": {
-        "Release Date": "2025-04-10",
-        "dlc_name": "Airplane Flight Simulator : Dangerous Landings DLC - Business Flight Plane",
-        "base_game": "Airplane Flight Simulator : Dangerous Landings",
-        "size": 3145728
-    },
-    "0100dd3021253001": {
-        "Release Date": "2025-04-10",
-        "dlc_name": "BODY CAM SHOOTER: Tactical Pistol Skin",
-        "base_game": "BODY CAM SHOOTER",
-        "size": 3145728
-    },
-    "0100c54022cc7001": {
-        "Release Date": "2025-04-10",
-        "dlc_name": "Aircraft Legends: Flight Academy Simulator CASH BUSINESS",
-        "base_game": "Aircraft Legends: Flight Academy Simulator",
-        "size": 3145728
-    },
-    "0100c54022cc7002": {
-        "Release Date": "2025-04-10",
-        "dlc_name": "Aircraft Legends: Flight Academy Simulator WINGS 2025",
-        "base_game": "Aircraft Legends: Flight Academy Simulator",
-        "size": 3145728
-    },
-    "0100c54022cc7003": {
-        "Release Date": "2025-04-10",
-        "dlc_name": "Aircraft Legends: Flight Academy Simulator NEW AIRPLANE",
-        "base_game": "Aircraft Legends: Flight Academy Simulator",
-        "size": 3145728
-    },
     "01006ca022fdf003": {
         "Release Date": "2025-04-10",
         "dlc_name": "\u590f\u65e5\u5ead\u9662",
@@ -2037,6 +1977,66 @@
         "Release Date": "2025-04-10",
         "dlc_name": "\u590d\u6d3b\u8282\u5feb\u4e50",
         "base_game": "Unknown Base Game",
+        "size": 3145728
+    },
+    "010047e01ea25001": {
+        "Release Date": "2025-04-10",
+        "dlc_name": "Star Overdrive: Pre-order Bonus",
+        "base_game": "Star Overdrive",
+        "size": 3145728
+    },
+    "010089a0197e5006": {
+        "Release Date": "2025-04-10",
+        "dlc_name": "Vampire Survivors: Emerald Diorama",
+        "base_game": "Vampire Survivors",
+        "size": 59768832
+    },
+    "010097f018539006": {
+        "Release Date": "2025-04-10",
+        "dlc_name": "DAVE THE DIVER - Ichiban's Holiday Content Pack",
+        "base_game": "DAVE THE DIVER",
+        "size": 3145728
+    },
+    "010091c0221ef001": {
+        "Release Date": "2025-04-10",
+        "dlc_name": "Rose-Hued Uniforms",
+        "base_game": "Dreamless Girl",
+        "size": 3145728
+    },
+    "0100914021327001": {
+        "Release Date": "2025-04-10",
+        "dlc_name": "Airplane Flight Simulator : Dangerous Landings DLC - Flight Training Plane",
+        "base_game": "Airplane Flight Simulator : Dangerous Landings",
+        "size": 3145728
+    },
+    "0100914021327002": {
+        "Release Date": "2025-04-10",
+        "dlc_name": "Airplane Flight Simulator : Dangerous Landings DLC - Business Flight Plane",
+        "base_game": "Airplane Flight Simulator : Dangerous Landings",
+        "size": 3145728
+    },
+    "0100dd3021253001": {
+        "Release Date": "2025-04-10",
+        "dlc_name": "BODY CAM SHOOTER: Tactical Pistol Skin",
+        "base_game": "BODY CAM SHOOTER",
+        "size": 3145728
+    },
+    "0100c54022cc7001": {
+        "Release Date": "2025-04-10",
+        "dlc_name": "Aircraft Legends: Flight Academy Simulator CASH BUSINESS",
+        "base_game": "Aircraft Legends: Flight Academy Simulator",
+        "size": 3145728
+    },
+    "0100c54022cc7002": {
+        "Release Date": "2025-04-10",
+        "dlc_name": "Aircraft Legends: Flight Academy Simulator WINGS 2025",
+        "base_game": "Aircraft Legends: Flight Academy Simulator",
+        "size": 3145728
+    },
+    "0100c54022cc7003": {
+        "Release Date": "2025-04-10",
+        "dlc_name": "Aircraft Legends: Flight Academy Simulator NEW AIRPLANE",
+        "base_game": "Aircraft Legends: Flight Academy Simulator",
         "size": 3145728
     },
     "010085c02146f001": {
@@ -3863,6 +3863,12 @@
         "base_game": "Formula Racing Pro 2025",
         "size": 3145728
     },
+    "01009820151b7003": {
+        "Release Date": "2025-02-20",
+        "dlc_name": "\u6e21\u795e\u7eaa \u82ac\u5c3c\u65af\u5d1b\u8d77\uff1a\u8bd5\u70bc",
+        "base_game": "Unknown Base Game",
+        "size": 7683964928
+    },
     "010061901ec2b001": {
         "Release Date": "2025-02-20",
         "dlc_name": "Extra Stage",
@@ -3910,12 +3916,6 @@
         "dlc_name": "Little Paws: Kitty Cat Simulator Music Pack",
         "base_game": "Little Paws: Kitty Cat Simulator",
         "size": 3145728
-    },
-    "01009820151b7003": {
-        "Release Date": "2025-02-20",
-        "dlc_name": "\u6e21\u795e\u7eaa \u82ac\u5c3c\u65af\u5d1b\u8d77\uff1a\u8bd5\u70bc",
-        "base_game": "Unknown Base Game",
-        "size": 7683964928
     },
     "01000ae01e3171f4": {
         "Release Date": "2025-02-20",
@@ -6317,17 +6317,17 @@
         "base_game": "Let's Sing 2025",
         "size": 3145728
     },
-    "01001c101ed11006": {
-        "Release Date": "2024-11-05",
-        "dlc_name": "Let's Sing 2025 - Hits from UK",
-        "base_game": "Let's Sing 2025",
-        "size": 1066401792
-    },
     "01001c101ed11003": {
         "Release Date": "2024-11-05",
         "dlc_name": "Let's Sing 2025 - German Hits",
         "base_game": "Let's Sing 2025",
         "size": 1076887552
+    },
+    "01001c101ed11006": {
+        "Release Date": "2024-11-05",
+        "dlc_name": "Let's Sing 2025 - Hits from UK",
+        "base_game": "Let's Sing 2025",
+        "size": 1066401792
     },
     "010013001bd63002": {
         "Release Date": "2024-11-01",
@@ -7283,6 +7283,12 @@
         "base_game": "Real Cake Maker",
         "size": 3145728
     },
+    "01006b0016ad712b": {
+        "Release Date": "2024-09-13",
+        "dlc_name": "Taiko no Tatsujin: Rhythm Festival - KAMEN RIDER Opening Theme Songs Pack",
+        "base_game": "Taiko no Tatsujin: Rhythm Festival",
+        "size": 3145728
+    },
     "0100cdb01e749002": {
         "Release Date": "2024-09-12",
         "dlc_name": "\u300c\ud074\ub9ac\uc5b4 \ud2b9\uc804 \uc758\uc0c1\u300d \uc870\uae30 \uac1c\ubc29 DLC",
@@ -7371,12 +7377,6 @@
         "Release Date": "2024-09-05",
         "dlc_name": "Ancestral Garb Set: Berry",
         "base_game": "WorldNeverland - Elnea Kingdom",
-        "size": 3145728
-    },
-    "01006b0016ad712b": {
-        "Release Date": "2024-09-05",
-        "dlc_name": "Taiko no Tatsujin: Rhythm Festival - Pack de temas de apertura de KAMEN RIDER",
-        "base_game": "Taiko no Tatsujin: Rhythm Festival",
         "size": 3145728
     },
     "01002460135a5126": {
@@ -10739,6 +10739,12 @@
         "base_game": "SOUTH PARK: SNOW DAY!",
         "size": 3145728
     },
+    "0100bad0189b1001": {
+        "Release Date": "2024-05-16",
+        "dlc_name": "Kyukyoku TigerHeli - Console Ports + Get Star Pack",
+        "base_game": "Kyukyoku TigerHeli -TOAPLAN ARCADE GARAGE-",
+        "size": 3145728
+    },
     "010058201e41b002": {
         "Release Date": "2024-05-16",
         "dlc_name": "\u30ac\u30fc\u30c7\u30f3\u30e9\u30a4\u30d5\uff1a\u30ac\u30fc\u30c7\u30f3\u30d1\u30fc\u30c6\u30a3\u30fc \u30d1\u30c3\u30af",
@@ -10749,12 +10755,6 @@
         "Release Date": "2024-05-16",
         "dlc_name": "\u30ac\u30fc\u30c7\u30f3\u30e9\u30a4\u30d5\uff1a\u30a8\u30b3\u30d5\u30ec\u30f3\u30c9\u30ea\u30fc \u30c7\u30b3\u30ec\u30fc\u30b7\u30e7\u30f3\u30bb\u30c3\u30c8",
         "base_game": "\u30ac\u30fc\u30c7\u30f3\u30e9\u30a4\u30d5\uff1a\u5922\u306e\u5ead\u3092\u3064\u304f\u308d\u3046",
-        "size": 3145728
-    },
-    "0100bad0189b1001": {
-        "Release Date": "2024-05-16",
-        "dlc_name": "Kyukyoku TigerHeli - Console Ports + Get Star Pack",
-        "base_game": "Kyukyoku TigerHeli -TOAPLAN ARCADE GARAGE-",
         "size": 3145728
     },
     "01004c400cf9702b": {
@@ -10955,6 +10955,12 @@
         "base_game": "Brain Memory 2",
         "size": 3145728
     },
+    "0100ba3013fb7001": {
+        "Release Date": "2024-05-03",
+        "dlc_name": "\u521d\u97f3\u672a\u6765\u8054\u52a8 DLC\u300cMiku in Museland\u300d",
+        "base_game": "Unknown Base Game",
+        "size": 3145728
+    },
     "0100f3601e1ef001": {
         "Release Date": "2024-05-03",
         "dlc_name": "Baking Time: Strong Pets",
@@ -10971,12 +10977,6 @@
         "Release Date": "2024-05-03",
         "dlc_name": "Pizza Bar Tycoon- DLC#4 - Endless Mode",
         "base_game": "Pizza Bar Tycoon",
-        "size": 3145728
-    },
-    "0100ba3013fb7001": {
-        "Release Date": "2024-05-03",
-        "dlc_name": "\u521d\u97f3\u672a\u6765\u8054\u52a8 DLC\u300cMiku in Museland\u300d",
-        "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "01001be01908d013": {
@@ -27281,30 +27281,6 @@
         "base_game": "LoveR Kiss\uff08\u30e9\u30f4\u30a2\u30fc\u30eb \u30ad\u30b9\uff09",
         "size": 96468992
     },
-    "010070a00e9cf001": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (PL)",
-        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
-        "size": 2350907392
-    },
-    "010039400e8d7003": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (DE)",
-        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
-        "size": 2365587456
-    },
-    "010039400e8d7005": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (FR)",
-        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
-        "size": 2335178752
-    },
-    "010039400e8d7002": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (RU)",
-        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
-        "size": 2441084928
-    },
     "0100a0800e9c5001": {
         "Release Date": "2020-02-26",
         "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (PL)",
@@ -27323,6 +27299,12 @@
         "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
         "size": 2364538880
     },
+    "010070a00e9cf001": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (PL)",
+        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
+        "size": 2350907392
+    },
     "010076f00e9c9001": {
         "Release Date": "2020-02-26",
         "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (PL)",
@@ -27333,6 +27315,24 @@
         "Release Date": "2020-02-26",
         "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (RU)",
         "base_game": "Unknown Base Game",
+        "size": 2441084928
+    },
+    "010039400e8d7003": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (DE)",
+        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
+        "size": 2365587456
+    },
+    "010039400e8d7005": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (FR)",
+        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
+        "size": 2335178752
+    },
+    "010039400e8d7002": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (RU)",
+        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
         "size": 2441084928
     },
     "010079500fd5d002": {
