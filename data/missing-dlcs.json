@@ -1105,13 +1105,13 @@
     },
     "010008c01e743002": {
         "Release Date": "2025-07-22",
-        "dlc_name": "Puzzle On! Pack #1",
+        "dlc_name": "Multilote puzles extra 1",
         "base_game": "Unknown Base Game",
         "size": 383778816
     },
     "010008c01e743003": {
         "Release Date": "2025-07-22",
-        "dlc_name": "Puzzle On! Pack #2",
+        "dlc_name": "Multilote puzles extra 2",
         "base_game": "Unknown Base Game",
         "size": 380633088
     },
@@ -4295,16 +4295,16 @@
         "base_game": "Unboxing: Cozy Home Simulator",
         "size": 3145728
     },
-    "01000ae01e3171fe": {
-        "Release Date": "2025-02-27",
-        "dlc_name": "Phantom Brave: The Lost Hero - Bonus Story: Heroes of the Past",
-        "base_game": "Phantom Brave: The Lost Hero",
-        "size": 3145728
-    },
     "0100ad400bbe1001": {
         "Release Date": "2025-02-27",
         "dlc_name": "BlazeRush: Star Track DLC",
         "base_game": "BlazeRush",
+        "size": 3145728
+    },
+    "01000ae01e3171fe": {
+        "Release Date": "2025-02-27",
+        "dlc_name": "Phantom Brave: The Lost Hero - Bonus Story: Heroes of the Past",
+        "base_game": "Phantom Brave: The Lost Hero",
         "size": 3145728
     },
     "0100697019027005": {
@@ -5821,7 +5821,7 @@
     },
     "0100e2301fb1f003": {
         "Release Date": "2024-12-11",
-        "dlc_name": "BEYBLADE X XONE Digital Beybooster Vol.2",
+        "dlc_name": "Digital Beybooster Vol.2 de BEYBLADE X XONE",
         "base_game": "BEYBLADE X XONE",
         "size": 3145728
     },
@@ -6869,17 +6869,17 @@
         "base_game": "Let's Sing 2025",
         "size": 3145728
     },
-    "01001c101ed11006": {
-        "Release Date": "2024-11-05",
-        "dlc_name": "Let's Sing 2025 - Hits from UK",
-        "base_game": "Let's Sing 2025",
-        "size": 1066401792
-    },
     "01001c101ed11003": {
         "Release Date": "2024-11-05",
         "dlc_name": "Let's Sing 2025 - German Hits",
         "base_game": "Let's Sing 2025",
         "size": 1076887552
+    },
+    "01001c101ed11006": {
+        "Release Date": "2024-11-05",
+        "dlc_name": "Let's Sing 2025 - Hits from UK",
+        "base_game": "Let's Sing 2025",
+        "size": 1066401792
     },
     "010013001bd63002": {
         "Release Date": "2024-11-01",
@@ -7927,7 +7927,7 @@
     },
     "01006b0016ad712b": {
         "Release Date": "2024-09-05",
-        "dlc_name": "Taiko no Tatsujin: Rhythm Festival - Pack de temas de apertura de KAMEN RIDER",
+        "dlc_name": "Taiko no Tatsujin: Rhythm Festival - KAMEN RIDER Opening Theme Songs Pack",
         "base_game": "Taiko no Tatsujin: Rhythm Festival",
         "size": 3145728
     },
@@ -11291,6 +11291,12 @@
         "base_game": "SOUTH PARK: SNOW DAY!",
         "size": 3145728
     },
+    "0100bad0189b1001": {
+        "Release Date": "2024-05-16",
+        "dlc_name": "Kyukyoku TigerHeli - Console Ports + Get Star Pack",
+        "base_game": "Kyukyoku TigerHeli -TOAPLAN ARCADE GARAGE-",
+        "size": 3145728
+    },
     "010058201e41b002": {
         "Release Date": "2024-05-16",
         "dlc_name": "\u30ac\u30fc\u30c7\u30f3\u30e9\u30a4\u30d5\uff1a\u30ac\u30fc\u30c7\u30f3\u30d1\u30fc\u30c6\u30a3\u30fc \u30d1\u30c3\u30af",
@@ -11301,12 +11307,6 @@
         "Release Date": "2024-05-16",
         "dlc_name": "\u30ac\u30fc\u30c7\u30f3\u30e9\u30a4\u30d5\uff1a\u30a8\u30b3\u30d5\u30ec\u30f3\u30c9\u30ea\u30fc \u30c7\u30b3\u30ec\u30fc\u30b7\u30e7\u30f3\u30bb\u30c3\u30c8",
         "base_game": "\u30ac\u30fc\u30c7\u30f3\u30e9\u30a4\u30d5\uff1a\u5922\u306e\u5ead\u3092\u3064\u304f\u308d\u3046",
-        "size": 3145728
-    },
-    "0100bad0189b1001": {
-        "Release Date": "2024-05-16",
-        "dlc_name": "Kyukyoku TigerHeli - Console Ports + Get Star Pack",
-        "base_game": "Kyukyoku TigerHeli -TOAPLAN ARCADE GARAGE-",
         "size": 3145728
     },
     "01004c400cf9702b": {
@@ -27833,11 +27833,35 @@
         "base_game": "LoveR Kiss\uff08\u30e9\u30f4\u30a2\u30fc\u30eb \u30ad\u30b9\uff09",
         "size": 96468992
     },
-    "010070a00e9cf001": {
+    "010076f00e9c9001": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (PL)",
+        "base_game": "Unknown Base Game",
+        "size": 2350907392
+    },
+    "010076f00e9c9002": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (RU)",
+        "base_game": "Unknown Base Game",
+        "size": 2441084928
+    },
+    "0100a0800e9c5001": {
         "Release Date": "2020-02-26",
         "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (PL)",
         "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
-        "size": 2350907392
+        "size": 2349858816
+    },
+    "0100a0800e9c5005": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (FR)",
+        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
+        "size": 2334130176
+    },
+    "0100a0800e9c5003": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (DE)",
+        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
+        "size": 2364538880
     },
     "010039400e8d7003": {
         "Release Date": "2020-02-26",
@@ -27857,35 +27881,11 @@
         "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
         "size": 2441084928
     },
-    "010076f00e9c9001": {
+    "010070a00e9cf001": {
         "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (PL)",
-        "base_game": "Unknown Base Game",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (PL)",
+        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
         "size": 2350907392
-    },
-    "010076f00e9c9002": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (RU)",
-        "base_game": "Unknown Base Game",
-        "size": 2441084928
-    },
-    "0100a0800e9c5001": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "\u042f\u0437\u044b\u043a\u043e\u0432\u043e\u0439 \u043f\u0430\u043a\u0435\u0442 '\u0412\u0435\u0434\u044c\u043c\u0430\u043a 3: \u0414\u0438\u043a\u0430\u044f \u041e\u0445\u043e\u0442\u0430 \u2014 \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435' (PL)",
-        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
-        "size": 2349858816
-    },
-    "0100a0800e9c5005": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "\u042f\u0437\u044b\u043a\u043e\u0432\u043e\u0439 \u043f\u0430\u043a\u0435\u0442 '\u0412\u0435\u0434\u044c\u043c\u0430\u043a 3: \u0414\u0438\u043a\u0430\u044f \u041e\u0445\u043e\u0442\u0430 \u2014 \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435' (FR)",
-        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
-        "size": 2334130176
-    },
-    "0100a0800e9c5003": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "\u042f\u0437\u044b\u043a\u043e\u0432\u043e\u0439 \u043f\u0430\u043a\u0435\u0442 '\u0412\u0435\u0434\u044c\u043c\u0430\u043a 3: \u0414\u0438\u043a\u0430\u044f \u041e\u0445\u043e\u0442\u0430 \u2014 \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435' (DE)",
-        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
-        "size": 2364538880
     },
     "010079500fd5d002": {
         "Release Date": "2020-02-20",
