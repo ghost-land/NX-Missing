@@ -131,13 +131,13 @@
         "base_game": "Unknown Base Game",
         "size": 15728640
     },
-    "0100dc9020b31002": {
+    "0100dc9020b31001": {
         "Release Date": "2025-11-10",
         "dlc_name": "Garfield Kart 2 - All You Can Drift - Pack Lazy-nya",
         "base_game": "Unknown Base Game",
         "size": 3145728
     },
-    "0100dc9020b31001": {
+    "0100dc9020b31002": {
         "Release Date": "2025-11-10",
         "dlc_name": "Garfield Kart 2 - All You Can Drift - Pack Lazy-nya",
         "base_game": "Unknown Base Game",
@@ -241,7 +241,7 @@
     },
     "01002b801b7d3001": {
         "Release Date": "2025-10-27",
-        "dlc_name": "Space Adventure Cobra - The Awakening - Special Jacket",
+        "dlc_name": "Space Adventure Cobra - The Awakening - Preorder Bonus",
         "base_game": "Unknown Base Game",
         "size": 3145728
     },
@@ -2585,12 +2585,6 @@
         "base_game": "Puzzles & Colors Games for Kids Toddler Coloring Book Draw Paint",
         "size": 6291456
     },
-    "010067301335b006": {
-        "Release Date": "2025-05-30",
-        "dlc_name": "GigaBash - MechaJURAS Free DLC",
-        "base_game": "GigaBash",
-        "size": 3145728
-    },
     "0100926016013010": {
         "Release Date": "2025-05-29",
         "dlc_name": "PowerWash Simulator \u2013 Muckingham Files \u2013 Part 6",
@@ -2600,25 +2594,31 @@
     "0100e5e01c099003": {
         "Release Date": "2025-05-29",
         "dlc_name": "Darkest Dungeon\u00ae II: Infernal Supporter Pack",
-        "base_game": "Unknown Base Game",
+        "base_game": "Darkest Dungeon II",
         "size": 47185920
     },
     "0100c6d0205d7001": {
         "Release Date": "2025-05-29",
-        "dlc_name": "Fuga: Melodies of Steel 3 - Deluxe Edition Upgrade Pack",
+        "dlc_name": "Fuga: Melodies of Steel 3 - Atualiza\u00e7\u00e3o para Edi\u00e7\u00e3o de Luxo",
         "base_game": "Fuga: Melodies of Steel 3",
         "size": 14680064
     },
     "0100c6d0205d7002": {
         "Release Date": "2025-05-29",
-        "dlc_name": "Fuga: Melodies of Steel 3 - Solatorobo: Red the Hunter Costume Pack",
+        "dlc_name": "Fuga: Melodies of Steel 3 - Pacote de trajes Solatorobo: Red the Hunter",
         "base_game": "Fuga: Melodies of Steel 3",
         "size": 18874368
     },
     "0100c6d0205d7004": {
         "Release Date": "2025-05-29",
-        "dlc_name": "Fuga: Melodies of Steel 3 - In-Game Currency & Upgrade Materials",
+        "dlc_name": "Fuga: Melodies of Steel 3 - Moeda do jogo e conjunto de materiais de aprimoramento",
         "base_game": "Fuga: Melodies of Steel 3",
+        "size": 3145728
+    },
+    "010067301335b006": {
+        "Release Date": "2025-05-29",
+        "dlc_name": "GigaBash - MechaJURAS Free DLC",
+        "base_game": "GigaBash",
         "size": 3145728
     },
     "01008fd01fd43001": {
@@ -3095,12 +3095,6 @@
         "base_game": "Aircraft Legends: Flight Academy Simulator",
         "size": 3145728
     },
-    "010091c0221ef001": {
-        "Release Date": "2025-04-10",
-        "dlc_name": "Rose-Hued Uniforms",
-        "base_game": "Dreamless Girl",
-        "size": 3145728
-    },
     "01006ca022fdf003": {
         "Release Date": "2025-04-10",
         "dlc_name": "\u590f\u65e5\u5ead\u9662",
@@ -3197,23 +3191,35 @@
         "base_game": "Unknown Base Game",
         "size": 3145728
     },
+    "010091c0221ef001": {
+        "Release Date": "2025-04-10",
+        "dlc_name": "Rose-Hued Uniforms",
+        "base_game": "Dreamless Girl",
+        "size": 3145728
+    },
     "010085c02146f001": {
         "Release Date": "2025-04-10",
         "dlc_name": "MasterChef: Learn to Cook! - \u6c34\u679c\uff0c\u5805\u679c&\u751c\u98df",
-        "base_game": "Unknown Base Game",
+        "base_game": "MasterChef: Learn to Cook!",
         "size": 3145728
     },
     "010085c02146f002": {
         "Release Date": "2025-04-10",
         "dlc_name": "MasterChef: Learn to Cook! - \u8089\u985e\uff0c\u4e73\u88fd\u54c1&\u6d77\u9bae",
-        "base_game": "Unknown Base Game",
+        "base_game": "MasterChef: Learn to Cook!",
         "size": 3145728
     },
     "010085c02146f003": {
         "Release Date": "2025-04-10",
         "dlc_name": "MasterChef: Learn to Cook! - \u852c\u83dc&\u7a40\u7269",
-        "base_game": "Unknown Base Game",
+        "base_game": "MasterChef: Learn to Cook!",
         "size": 3145728
+    },
+    "0100d1b00b6fb006": {
+        "Release Date": "2025-04-10",
+        "dlc_name": "Spirit Hunter: Death Mark Chapter 7 Kaerazu's Amusement Park",
+        "base_game": "Spirit Hunter: Death Mark",
+        "size": 542113792
     },
     "01001e20203dd001": {
         "Release Date": "2025-04-10",
@@ -3226,12 +3232,6 @@
         "dlc_name": "\u30b9\u30bf\u30fc\u30fb\u30aa\u30fc\u30d0\u30fc\u30c9\u30e9\u30a4\u30d6 \u30ab\u30b9\u30bf\u30de\u30a4\u30ba \u30d1\u30c3\u30af",
         "base_game": "\u30b9\u30bf\u30fc\u30fb\u30aa\u30fc\u30d0\u30fc\u30c9\u30e9\u30a4\u30d6",
         "size": 3145728
-    },
-    "0100d1b00b6fb006": {
-        "Release Date": "2025-04-10",
-        "dlc_name": "Spirit Hunter: Death Mark Chapter 7 Kaerazu's Amusement Park",
-        "base_game": "Spirit Hunter: Death Mark",
-        "size": 542113792
     },
     "01001d7021db1001": {
         "Release Date": "2025-04-09",
@@ -4913,12 +4913,6 @@
         "base_game": "AAA Clock",
         "size": 4194304
     },
-    "0100cf2017d97002": {
-        "Release Date": "2025-02-27",
-        "dlc_name": "SNOW BROS. (ARCADE VERSION)",
-        "base_game": "Snow Bros. Nick & Tom Special",
-        "size": 3145728
-    },
     "0100179015de100a": {
         "Release Date": "2025-02-27",
         "dlc_name": "Minimalistic Stars Clock",
@@ -4972,6 +4966,12 @@
         "dlc_name": "Fly High Clock",
         "base_game": "AAA Clock",
         "size": 4194304
+    },
+    "0100cf2017d97002": {
+        "Release Date": "2025-02-27",
+        "dlc_name": "SNOW BROS. (ARCADE VERSION)",
+        "base_game": "Snow Bros. Nick & Tom Special",
+        "size": 3145728
     },
     "0100697019027005": {
         "Release Date": "2025-02-27",
@@ -6725,12 +6725,6 @@
         "base_game": "Rage Swarm",
         "size": 3145728
     },
-    "010067301335b005": {
-        "Release Date": "2024-11-29",
-        "dlc_name": "GigaBash | Ultraman: Rising DLC",
-        "base_game": "GigaBash",
-        "size": 140509184
-    },
     "010028d020a93001": {
         "Release Date": "2024-11-29",
         "dlc_name": "Christmas Maps",
@@ -6766,6 +6760,12 @@
         "dlc_name": "BACKROOMS POOLS: MONSTERS BELOW",
         "base_game": "\u5f8c\u5ba4\u6e38\u6cf3\u6c60\u7684\u6050\u6016 - ABYSS: BACKROOMS POOLS HORROR",
         "size": 3145728
+    },
+    "010067301335b005": {
+        "Release Date": "2024-11-28",
+        "dlc_name": "GigaBash | Ultraman: Rising DLC",
+        "base_game": "GigaBash",
+        "size": 140509184
     },
     "01005fe020ac1002": {
         "Release Date": "2024-11-28",
@@ -11078,25 +11078,25 @@
     "0100ab601dcfb002": {
         "Release Date": "2024-07-04",
         "dlc_name": "\ucd08\ud0d0\uc815\uc0ac\uac74\ubd80 \ub808\uc778\ucf54\ub4dc \ub370\uc2a4\ud788\ucf54\ud3b8 [\uce74\ub9ac\uc2a4\ub9c8 \ud0d0\uc815vs\uad34\ub3c4 \uad6c\ubbf8\ubb18]",
-        "base_game": "\ucd08\ud0d0\uc815\uc0ac\uac74\ubd80 \ub808\uc778\ucf54\ub4dc",
+        "base_game": "Unknown Base Game",
         "size": 53477376
     },
     "0100ab601dcfb003": {
         "Release Date": "2024-07-04",
         "dlc_name": "\ucd08\ud0d0\uc815\uc0ac\uac74\ubd80 \ub808\uc778\ucf54\ub4dc \ud6c4\ubd80\ud0a4\ud3b8 [\ud6c4\ubd80\ud0a4\uc758 \ucd5c\uace0\ub85c \uc6b4 \uc88b\uc740 \ud558\ub8e8]",
-        "base_game": "\ucd08\ud0d0\uc815\uc0ac\uac74\ubd80 \ub808\uc778\ucf54\ub4dc",
+        "base_game": "Unknown Base Game",
         "size": 504365056
     },
     "0100ab601dcfb004": {
         "Release Date": "2024-07-04",
         "dlc_name": "\ucd08\ud0d0\uc815\uc0ac\uac74\ubd80 \ub808\uc778\ucf54\ub4dc \ud560\ub77c\ub77c\ud3b8 [Raining Cats & Dog]",
-        "base_game": "\ucd08\ud0d0\uc815\uc0ac\uac74\ubd80 \ub808\uc778\ucf54\ub4dc",
+        "base_game": "Unknown Base Game",
         "size": 158334976
     },
     "0100ab601dcfb005": {
         "Release Date": "2024-07-04",
         "dlc_name": "\ucd08\ud0d0\uc815\uc0ac\uac74\ubd80 \ub808\uc778\ucf54\ub4dc \ube44\ube44\uc544\ud3b8 [\uc784\uc0ac\ud0d0\uc815] / \uc57c\ucf54\ud3b8[\uace0\ub9c8\uc6cc, \ub098\uc758 \ud0d0\uc815\ub2d8]",
-        "base_game": "\ucd08\ud0d0\uc815\uc0ac\uac74\ubd80 \ub808\uc778\ucf54\ub4dc",
+        "base_game": "Unknown Base Game",
         "size": 814743552
     },
     "010041e019139001": {
@@ -11201,6 +11201,12 @@
         "base_game": "\u543e\u5bb6\u5065\u8eab\u8da3 -4\u5206\u9418\u935b\u934a\u5168\u8eab-",
         "size": 179306496
     },
+    "0100016018865006": {
+        "Release Date": "2024-06-27",
+        "dlc_name": "Pathfinder: Wrath of the Righteous - A Dance of Masks",
+        "base_game": "Pathfinder: Wrath of the Righteous - Cloud Version",
+        "size": 3145728
+    },
     "010045d01afc9015": {
         "Release Date": "2024-06-27",
         "dlc_name": "\u8ffd\u52a0\u8863\u88c5\u3000\u685c\u30df\u30af",
@@ -11218,12 +11224,6 @@
         "dlc_name": "[Moving] Okinawa: Winds of the Ryukyu Islands",
         "base_game": "Jigsaw Masterpieces 2",
         "size": 61865984
-    },
-    "0100016018865006": {
-        "Release Date": "2024-06-26",
-        "dlc_name": "Pathfinder: Wrath of the Righteous - A Dance of Masks",
-        "base_game": "Pathfinder: Wrath of the Righteous - Cloud Version",
-        "size": 3145728
     },
     "0100354017669002": {
         "Release Date": "2024-06-25",
@@ -11999,6 +11999,12 @@
         "base_game": "Pinball FX",
         "size": 83886080
     },
+    "0100bad0189b1001": {
+        "Release Date": "2024-05-16",
+        "dlc_name": "Kyukyoku TigerHeli - Console Ports + Get Star Pack",
+        "base_game": "Kyukyoku TigerHeli -TOAPLAN ARCADE GARAGE-",
+        "size": 3145728
+    },
     "010058201e41b002": {
         "Release Date": "2024-05-16",
         "dlc_name": "\u30ac\u30fc\u30c7\u30f3\u30e9\u30a4\u30d5\uff1a\u30ac\u30fc\u30c7\u30f3\u30d1\u30fc\u30c6\u30a3\u30fc \u30d1\u30c3\u30af",
@@ -12009,12 +12015,6 @@
         "Release Date": "2024-05-16",
         "dlc_name": "\u30ac\u30fc\u30c7\u30f3\u30e9\u30a4\u30d5\uff1a\u30a8\u30b3\u30d5\u30ec\u30f3\u30c9\u30ea\u30fc \u30c7\u30b3\u30ec\u30fc\u30b7\u30e7\u30f3\u30bb\u30c3\u30c8",
         "base_game": "\u30ac\u30fc\u30c7\u30f3\u30e9\u30a4\u30d5\uff1a\u5922\u306e\u5ead\u3092\u3064\u304f\u308d\u3046",
-        "size": 3145728
-    },
-    "0100bad0189b1001": {
-        "Release Date": "2024-05-16",
-        "dlc_name": "Kyukyoku TigerHeli - Console Ports + Get Star Pack",
-        "base_game": "Kyukyoku TigerHeli -TOAPLAN ARCADE GARAGE-",
         "size": 3145728
     },
     "01005e601ba8b001": {
@@ -13777,7 +13777,7 @@
     },
     "01005a001489b001": {
         "Release Date": "2024-01-26",
-        "dlc_name": "DoDonPachi Resurrection Chiptune Arrange Sound",
+        "dlc_name": "DoDonPachi Resurrectio Chiptune Disponere Novum",
         "base_game": "DoDonPachi Resurrection",
         "size": 3145728
     },
@@ -17675,12 +17675,6 @@
         "base_game": "MELTY BLOOD: TYPE LUMINA",
         "size": 3145728
     },
-    "01008ad013a87001": {
-        "Release Date": "2022-07-21",
-        "dlc_name": "Lost Ruins Backers Exclusive DLC",
-        "base_game": "Lost Ruins",
-        "size": 5242880
-    },
     "01007ab012873002": {
         "Release Date": "2022-07-21",
         "dlc_name": "\u5287\u60c5\u300c\u9577\u7be0\u8a2d\u6a02\u539f\u4e4b\u6230\u300d\uff06KOU SHIBUSAWA40\u9031\u5e74\u7d00\u5ff5\u3000\u6b66\u5c07\u8cc7\u6599\u7d44\u5408",
@@ -17800,6 +17794,12 @@
         "dlc_name": "Wreckfest Steel & Wheels Pack\uff08\u30ec\u30c3\u30af\u30d5\u30a7\u30b9\u30c8 \u30b9\u30c1\u30fc\u30eb\uff06\u30db\u30a4\u30fc\u30eb\u30d1\u30c3\u30af\uff09",
         "base_game": "Wreckfest\u3000\u30ec\u30c3\u30af\u30d5\u30a7\u30b9\u30c8",
         "size": 3145728
+    },
+    "01008ad013a87001": {
+        "Release Date": "2022-07-07",
+        "dlc_name": "Lost Ruins Backers Exclusive DLC",
+        "base_game": "Lost Ruins",
+        "size": 5242880
     },
     "0100ca4015e91008": {
         "Release Date": "2022-07-07",
@@ -22652,7 +22652,7 @@
     "010033900f309003": {
         "Release Date": "2021-06-23",
         "dlc_name": "Game of Crone",
-        "base_game": "Unknown Base Game",
+        "base_game": "Graveyard Keeper",
         "size": 3145728
     },
     "010050101435b006": {
@@ -28577,6 +28577,24 @@
         "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
         "size": 2441084928
     },
+    "0100a0800e9c5001": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "\u042f\u0437\u044b\u043a\u043e\u0432\u043e\u0439 \u043f\u0430\u043a\u0435\u0442 '\u0412\u0435\u0434\u044c\u043c\u0430\u043a 3: \u0414\u0438\u043a\u0430\u044f \u041e\u0445\u043e\u0442\u0430 \u2014 \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435' (PL)",
+        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
+        "size": 2349858816
+    },
+    "0100a0800e9c5005": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "\u042f\u0437\u044b\u043a\u043e\u0432\u043e\u0439 \u043f\u0430\u043a\u0435\u0442 '\u0412\u0435\u0434\u044c\u043c\u0430\u043a 3: \u0414\u0438\u043a\u0430\u044f \u041e\u0445\u043e\u0442\u0430 \u2014 \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435' (FR)",
+        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
+        "size": 2334130176
+    },
+    "0100a0800e9c5003": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "\u042f\u0437\u044b\u043a\u043e\u0432\u043e\u0439 \u043f\u0430\u043a\u0435\u0442 '\u0412\u0435\u0434\u044c\u043c\u0430\u043a 3: \u0414\u0438\u043a\u0430\u044f \u041e\u0445\u043e\u0442\u0430 \u2014 \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435' (DE)",
+        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
+        "size": 2364538880
+    },
     "010076f00e9c9001": {
         "Release Date": "2020-02-26",
         "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (PL)",
@@ -28588,24 +28606,6 @@
         "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (RU)",
         "base_game": "Unknown Base Game",
         "size": 2441084928
-    },
-    "0100a0800e9c5001": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (PL)",
-        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
-        "size": 2349858816
-    },
-    "0100a0800e9c5005": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (FR)",
-        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
-        "size": 2334130176
-    },
-    "0100a0800e9c5003": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (DE)",
-        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
-        "size": 2364538880
     },
     "0100d3200c52b001": {
         "Release Date": "2020-02-20",
@@ -29936,7 +29936,7 @@
     "01009d000eed7001": {
         "Release Date": "2019-08-09",
         "dlc_name": "Party Pack",
-        "base_game": "Unknown Base Game",
+        "base_game": "Our Flick Erasers",
         "size": 4194304
     },
     "01001d600e51b3e9": {
