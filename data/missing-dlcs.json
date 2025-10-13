@@ -1993,31 +1993,31 @@
     },
     "0400a940233e1009": {
         "Release Date": "2025-09-05",
-        "dlc_name": "Conjunto de armas con efectos de sonido especiales",
+        "dlc_name": "Special SFX Weapon Set",
         "base_game": "Unknown Base Game",
         "size": 0
     },
     "0400a940233e100a": {
         "Release Date": "2025-09-05",
-        "dlc_name": "Conjunto de dise\u00f1os del Arsenal",
+        "dlc_name": "Arsenal Skin Set",
         "base_game": "Unknown Base Game",
         "size": 0
     },
     "0400a940233e1001": {
         "Release Date": "2025-09-05",
-        "dlc_name": "Conjunto de equipo especial",
+        "dlc_name": "Special Equipment Set",
         "base_game": "Unknown Base Game",
         "size": 0
     },
     "0400a940233e100e": {
         "Release Date": "2025-09-05",
-        "dlc_name": "Emoticonos gratis",
+        "dlc_name": "Free Emotes",
         "base_game": "Unknown Base Game",
         "size": 0
     },
     "0400a940233e100b": {
         "Release Date": "2025-09-05",
-        "dlc_name": "Peinados gratis",
+        "dlc_name": "Free Hairstyles",
         "base_game": "Unknown Base Game",
         "size": 0
     },
@@ -4589,12 +4589,6 @@
         "base_game": "Rune Factory: Guardians of Azuma",
         "size": 3145728
     },
-    "01003af0200b100d": {
-        "Release Date": "2025-06-05",
-        "dlc_name": "Rune Factory 4 Bachelorette Outfit Bundle",
-        "base_game": "Rune Factory: Guardians of Azuma",
-        "size": 18874368
-    },
     "0100492022ded008": {
         "Release Date": "2025-06-05",
         "dlc_name": "\uc0ac\ubc14\ub098 \ub3d9\ubb3c \uc0c9\uce60 \ub180\uc774  \uc778\ud130\ub799\ud2f0\ube0c \uc720\uc544 \uadf8\ub9bc \uadf8\ub9ac\uae30 \uac8c\uc784 2\uc138 \uc774\uc0c1",
@@ -4624,6 +4618,12 @@
         "dlc_name": "\uc560\uc2a4\ud2b8\ub784 \uc5b4\uc13c\ud2b8 - \uc678\uacfd\uc9c0\uc5ed DLC (Astral Ascent - The Outer Reaches DLC)",
         "base_game": "\u661f\u754c\u6230\u58eb (Astral Ascent)",
         "size": 3145728
+    },
+    "01003af0200b100d": {
+        "Release Date": "2025-06-05",
+        "dlc_name": "Rune Factory 4 Bachelorette Outfit Bundle",
+        "base_game": "Rune Factory: Guardians of Azuma",
+        "size": 18874368
     },
     "010022a02008d008": {
         "Release Date": "2025-06-05",
@@ -10441,7 +10441,7 @@
     },
     "010000b01a453008": {
         "Release Date": "2024-11-21",
-        "dlc_name": "Jujutsu Kaisen Cursed Clash - El Incidente de Shibuya",
+        "dlc_name": "Jujutsu Kaisen Cursed Clash - Shibuya Incident",
         "base_game": "Jujutsu Kaisen Cursed Clash",
         "size": 3145728
     },
@@ -12181,7 +12181,7 @@
     },
     "010000b01a45300b": {
         "Release Date": "2024-09-26",
-        "dlc_name": "Jujutsu Kaisen Cursed Clash - Conjunto de atuendo de chicas de la Preparatoria de Hechicer\u00eda de Kioto",
+        "dlc_name": "Jujutsu Kaisen Cursed Clash - Kyoto Jujutsu High School Girls' Outfit Set",
         "base_game": "Jujutsu Kaisen Cursed Clash",
         "size": 3145728
     },
@@ -32471,18 +32471,6 @@
         "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
         "size": 2441084928
     },
-    "010076f00e9c9001": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (PL)",
-        "base_game": "Unknown Base Game",
-        "size": 2350907392
-    },
-    "010076f00e9c9002": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (RU)",
-        "base_game": "Unknown Base Game",
-        "size": 2441084928
-    },
     "0100a0800e9c5001": {
         "Release Date": "2020-02-26",
         "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (PL)",
@@ -32500,6 +32488,18 @@
         "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (DE)",
         "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
         "size": 2364538880
+    },
+    "010076f00e9c9001": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (PL)",
+        "base_game": "Unknown Base Game",
+        "size": 2350907392
+    },
+    "010076f00e9c9002": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (RU)",
+        "base_game": "Unknown Base Game",
+        "size": 2441084928
     },
     "010079500fd5d002": {
         "Release Date": "2020-02-20",
