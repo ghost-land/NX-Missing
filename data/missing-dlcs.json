@@ -295,7 +295,7 @@
     },
     "0100e16022613001": {
         "Release Date": "2025-11-04",
-        "dlc_name": "Let's Sing 2026 VIP Pass - Essai gratuit du Passe VIP",
+        "dlc_name": "Let's Sing 2026 VIP Pass - Prova gratuita del pass VIP",
         "base_game": "Let's Sing 2026 mit deutschen Hits",
         "size": 3145728
     },
@@ -1157,12 +1157,6 @@
         "base_game": "\ud558\ub298\uc758 \uada4\uc801 the 1st",
         "size": 3145728
     },
-    "010047600bf73002": {
-        "Release Date": "2025-09-25",
-        "dlc_name": "Rain World: The Watcher",
-        "base_game": "Rain World",
-        "size": 1717567488
-    },
     "010065a01cfb7002": {
         "Release Date": "2025-09-25",
         "dlc_name": "\u4f1d\u8aac\u306e\u30d1\u30c3\u30af\u30e9\u30f3\u30c9\u8863\u88c5\uff1a\u30d1\u30c3\u30af\u30de\u30f3\u30ef\u30fc\u30eb\u30c92 \u30ea\u30fb\u30d1\u30c3\u30af",
@@ -1324,6 +1318,12 @@
         "dlc_name": "\u30d2\u30c3\u30c8\u30bd\u30f3\u30b0 \u697d\u66f2\u30d1\u30c3\u30af",
         "base_game": "GROOVE COASTER FUTURE PERFORMERS",
         "size": 217055232
+    },
+    "010047600bf73002": {
+        "Release Date": "2025-09-25",
+        "dlc_name": "Rain World: The Watcher",
+        "base_game": "Rain World",
+        "size": 1717567488
     },
     "0100d32023e0d001": {
         "Release Date": "2025-09-20",
@@ -5735,6 +5735,12 @@
         "base_game": "Aircraft Legends: Flight Academy Simulator",
         "size": 3145728
     },
+    "010032800bc39006": {
+        "Release Date": "2025-04-10",
+        "dlc_name": "Spirit Hunter: Death Mark Chapter 7 Kaerazu's Amusement Park",
+        "base_game": "Spirit Hunter: Death Mark",
+        "size": 542113792
+    },
     "01006ca022fdf003": {
         "Release Date": "2025-04-10",
         "dlc_name": "\u590f\u65e5\u5ead\u9662",
@@ -5831,12 +5837,6 @@
         "base_game": "\u897f\u74dc\u6d3e\u5bf9",
         "size": 3145728
     },
-    "010032800bc39006": {
-        "Release Date": "2025-04-10",
-        "dlc_name": "Spirit Hunter: Death Mark Chapter 7 Kaerazu's Amusement Park",
-        "base_game": "Spirit Hunter: Death Mark",
-        "size": 542113792
-    },
     "010085c02146f001": {
         "Release Date": "2025-04-10",
         "dlc_name": "MasterChef: Learn to Cook! - \u6c34\u679c\uff0c\u5805\u679c&\u751c\u98df",
@@ -5855,12 +5855,6 @@
         "base_game": "MasterChef: Learn to Cook!",
         "size": 3145728
     },
-    "0100d1b00b6fb006": {
-        "Release Date": "2025-04-10",
-        "dlc_name": "Spirit Hunter: Death Mark Chapter 7 Kaerazu's Amusement Park",
-        "base_game": "Spirit Hunter: Death Mark",
-        "size": 542113792
-    },
     "01001e20203dd001": {
         "Release Date": "2025-04-10",
         "dlc_name": "\u30b9\u30bf\u30fc\u30fb\u30aa\u30fc\u30d0\u30fc\u30c9\u30e9\u30a4\u30d6 \u30b3\u30b9\u30e1\u30c6\u30a3\u30c3\u30af\u30d1\u30c3\u30af",
@@ -5878,6 +5872,12 @@
         "dlc_name": "\u30b3\u30ed\u30b3\u30ed\u30b3\u30df\u30c3\u30af 2025\u5e74 4\u6708\u53f7",
         "base_game": "\u5c0f\u5b66\u9928\u30de\u30f3\u30ac\u30a2\u30d7\u30ea \u30b3\u30ed\u30b3\u30ed\u30b3\u30df\u30c3\u30af 2025",
         "size": 253755392
+    },
+    "0100d1b00b6fb006": {
+        "Release Date": "2025-04-10",
+        "dlc_name": "Spirit Hunter: Death Mark Chapter 7 Kaerazu's Amusement Park",
+        "base_game": "Spirit Hunter: Death Mark",
+        "size": 542113792
     },
     "01001d7021db1001": {
         "Release Date": "2025-04-09",
@@ -7577,16 +7577,16 @@
         "base_game": "\ud0dc\uace0\uc758 \ub2ec\uc778 \ucff5\ub531! \uc6d0\ub354\ud480 \ud398\uc2a4\ud2f0\ubc8c",
         "size": 15728640
     },
-    "01006b0016ad7185": {
-        "Release Date": "2025-03-06",
-        "dlc_name": "Taiko no Tatsujin: Rhythm Festival - Crayon Shin-chan Theme Songs Pack",
-        "base_game": "Taiko no Tatsujin: Rhythm Festival",
-        "size": 15728640
-    },
     "0100bca0135a1155": {
         "Release Date": "2025-03-06",
         "dlc_name": "\u30af\u30ec\u30e8\u30f3\u3057\u3093\u3061\u3083\u3093\u4e3b\u984c\u6b4c\u30d1\u30c3\u30af",
         "base_game": "\u592a\u9f13\u306e\u9054\u4eba \u30c9\u30f3\u30c0\u30d5\u30eb\u30d5\u30a7\u30b9\u30c6\u30a3\u30d0\u30eb",
+        "size": 15728640
+    },
+    "01006b0016ad7185": {
+        "Release Date": "2025-03-06",
+        "dlc_name": "Taiko no Tatsujin: Rhythm Festival - Crayon Shin-chan Theme Songs Pack",
+        "base_game": "Taiko no Tatsujin: Rhythm Festival",
         "size": 15728640
     },
     "0100d3801b5b5008": {
@@ -15941,12 +15941,6 @@
         "base_game": "Pinball FX",
         "size": 83886080
     },
-    "0100bad0189b1001": {
-        "Release Date": "2024-05-16",
-        "dlc_name": "Kyukyoku TigerHeli - Console Ports + Get Star Pack",
-        "base_game": "Kyukyoku TigerHeli -TOAPLAN ARCADE GARAGE-",
-        "size": 3145728
-    },
     "010058201e41b002": {
         "Release Date": "2024-05-16",
         "dlc_name": "\u30ac\u30fc\u30c7\u30f3\u30e9\u30a4\u30d5\uff1a\u30ac\u30fc\u30c7\u30f3\u30d1\u30fc\u30c6\u30a3\u30fc \u30d1\u30c3\u30af",
@@ -15957,6 +15951,12 @@
         "Release Date": "2024-05-16",
         "dlc_name": "\u30ac\u30fc\u30c7\u30f3\u30e9\u30a4\u30d5\uff1a\u30a8\u30b3\u30d5\u30ec\u30f3\u30c9\u30ea\u30fc \u30c7\u30b3\u30ec\u30fc\u30b7\u30e7\u30f3\u30bb\u30c3\u30c8",
         "base_game": "\u30ac\u30fc\u30c7\u30f3\u30e9\u30a4\u30d5\uff1a\u5922\u306e\u5ead\u3092\u3064\u304f\u308d\u3046",
+        "size": 3145728
+    },
+    "0100bad0189b1001": {
+        "Release Date": "2024-05-16",
+        "dlc_name": "Kyukyoku TigerHeli - Console Ports + Get Star Pack",
+        "base_game": "Kyukyoku TigerHeli -TOAPLAN ARCADE GARAGE-",
         "size": 3145728
     },
     "01004c400cf9702b": {
@@ -32563,19 +32563,19 @@
     },
     "0100a0800e9c5001": {
         "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (PL)",
+        "dlc_name": "\u042f\u0437\u044b\u043a\u043e\u0432\u043e\u0439 \u043f\u0430\u043a\u0435\u0442 '\u0412\u0435\u0434\u044c\u043c\u0430\u043a 3: \u0414\u0438\u043a\u0430\u044f \u041e\u0445\u043e\u0442\u0430 \u2014 \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435' (PL)",
         "base_game": "\u0412\u0435\u0434\u044c\u043c\u0430\u043a 3: \u0414\u0438\u043a\u0430\u044f \u041e\u0445\u043e\u0442\u0430 \u2014 \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435",
         "size": 2349858816
     },
     "0100a0800e9c5005": {
         "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (FR)",
+        "dlc_name": "\u042f\u0437\u044b\u043a\u043e\u0432\u043e\u0439 \u043f\u0430\u043a\u0435\u0442 '\u0412\u0435\u0434\u044c\u043c\u0430\u043a 3: \u0414\u0438\u043a\u0430\u044f \u041e\u0445\u043e\u0442\u0430 \u2014 \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435' (FR)",
         "base_game": "\u0412\u0435\u0434\u044c\u043c\u0430\u043a 3: \u0414\u0438\u043a\u0430\u044f \u041e\u0445\u043e\u0442\u0430 \u2014 \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435",
         "size": 2334130176
     },
     "0100a0800e9c5003": {
         "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (DE)",
+        "dlc_name": "\u042f\u0437\u044b\u043a\u043e\u0432\u043e\u0439 \u043f\u0430\u043a\u0435\u0442 '\u0412\u0435\u0434\u044c\u043c\u0430\u043a 3: \u0414\u0438\u043a\u0430\u044f \u041e\u0445\u043e\u0442\u0430 \u2014 \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435' (DE)",
         "base_game": "\u0412\u0435\u0434\u044c\u043c\u0430\u043a 3: \u0414\u0438\u043a\u0430\u044f \u041e\u0445\u043e\u0442\u0430 \u2014 \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435",
         "size": 2364538880
     },
