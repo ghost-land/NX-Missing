@@ -1349,12 +1349,6 @@
         "base_game": "QQQbeats!!!",
         "size": 3145728
     },
-    "010047600bf73002": {
-        "Release Date": "2025-09-25",
-        "dlc_name": "Rain World: The Watcher",
-        "base_game": "Rain World",
-        "size": 1717567488
-    },
     "01009f201cfbd002": {
         "Release Date": "2025-09-25",
         "dlc_name": "\uc804\uc124\uc758 PAC-LAND \uc758\uc0c1: \ud329\ub9e8 \uc6d4\ub4dc 2 \ub9ac\ud329",
@@ -1672,6 +1666,12 @@
         "dlc_name": "\u30d2\u30c3\u30c8\u30bd\u30f3\u30b0 \u697d\u66f2\u30d1\u30c3\u30af",
         "base_game": "GROOVE COASTER FUTURE PERFORMERS",
         "size": 217055232
+    },
+    "010047600bf73002": {
+        "Release Date": "2025-09-25",
+        "dlc_name": "Rain World: The Watcher",
+        "base_game": "Rain World",
+        "size": 1717567488
     },
     "0100d32023e0d001": {
         "Release Date": "2025-09-20",
@@ -2281,7 +2281,7 @@
     },
     "0100d1a01d7bb001": {
         "Release Date": "2025-09-16",
-        "dlc_name": "Turbo Overkill Mejora a la Edici\u00f3n Ultimate",
+        "dlc_name": "Turbo Overkill Ultimate Edition Upgrade",
         "base_game": "Turbo Overkill",
         "size": 3145728
     },
@@ -2431,31 +2431,31 @@
     },
     "0400a940233e1009": {
         "Release Date": "2025-09-05",
-        "dlc_name": "Conjunto de armas con efectos de sonido especiales",
+        "dlc_name": "Special SFX Weapon Set",
         "base_game": "Unknown Base Game",
         "size": 0
     },
     "0400a940233e100a": {
         "Release Date": "2025-09-05",
-        "dlc_name": "Conjunto de dise\u00f1os del Arsenal",
+        "dlc_name": "Arsenal Skin Set",
         "base_game": "Unknown Base Game",
         "size": 0
     },
     "0400a940233e1001": {
         "Release Date": "2025-09-05",
-        "dlc_name": "Conjunto de equipo especial",
+        "dlc_name": "Special Equipment Set",
         "base_game": "Unknown Base Game",
         "size": 0
     },
     "0400a940233e100e": {
         "Release Date": "2025-09-05",
-        "dlc_name": "Emoticonos gratis",
+        "dlc_name": "Free Emotes",
         "base_game": "Unknown Base Game",
         "size": 0
     },
     "0400a940233e100b": {
         "Release Date": "2025-09-05",
-        "dlc_name": "Peinados gratis",
+        "dlc_name": "Free Hairstyles",
         "base_game": "Unknown Base Game",
         "size": 0
     },
@@ -3709,7 +3709,7 @@
     },
     "010090601fd67033": {
         "Release Date": "2025-07-16",
-        "dlc_name": "Paquete Deluxe Primera Edici\u00f3n Limitada Disfraces Extra",
+        "dlc_name": "Deluxe Package First Limited Edition Extra Costumes",
         "base_game": "HUNTER\u00d7HUNTER NEN\u00d7IMPACT",
         "size": 6291456
     },
@@ -6125,12 +6125,6 @@
         "base_game": "\u897f\u74dc\u6d3e\u5bf9",
         "size": 3145728
     },
-    "0100d1b00b6fb006": {
-        "Release Date": "2025-04-10",
-        "dlc_name": "Spirit Hunter: Death Mark Chapter 7 Kaerazu's Amusement Park",
-        "base_game": "Spirit Hunter: Death Mark",
-        "size": 542113792
-    },
     "010032800bc39006": {
         "Release Date": "2025-04-10",
         "dlc_name": "Spirit Hunter: Death Mark Chapter 7 Kaerazu's Amusement Park",
@@ -6154,6 +6148,12 @@
         "dlc_name": "MasterChef: Learn to Cook! - \ucc44\uc18c & \uace1\ubb3c",
         "base_game": "MasterChef: Learn to Cook!",
         "size": 3145728
+    },
+    "0100d1b00b6fb006": {
+        "Release Date": "2025-04-10",
+        "dlc_name": "Spirit Hunter: Death Mark Chapter 7 Kaerazu's Amusement Park",
+        "base_game": "Spirit Hunter: Death Mark",
+        "size": 542113792
     },
     "01001e20203dd001": {
         "Release Date": "2025-04-10",
@@ -7865,16 +7865,16 @@
         "base_game": "Snake.io",
         "size": 3145728
     },
-    "01006b0016ad7185": {
-        "Release Date": "2025-03-06",
-        "dlc_name": "Taiko no Tatsujin: Rhythm Festival - Crayon Shin-chan Theme Songs Pack",
-        "base_game": "Taiko no Tatsujin: Rhythm Festival",
-        "size": 15728640
-    },
     "01002460135a516b": {
         "Release Date": "2025-03-06",
         "dlc_name": "\ud06c\ub808\uc6a9 \uc2e0\uc9f1 \uc8fc\uc81c\uac00 Pack",
         "base_game": "\ud0dc\uace0\uc758 \ub2ec\uc778 \ucff5\ub531! \uc6d0\ub354\ud480 \ud398\uc2a4\ud2f0\ubc8c",
+        "size": 15728640
+    },
+    "01006b0016ad7185": {
+        "Release Date": "2025-03-06",
+        "dlc_name": "Taiko no Tatsujin: Rhythm Festival - Crayon Shin-chan Theme Songs Pack",
+        "base_game": "Taiko no Tatsujin: Rhythm Festival",
         "size": 15728640
     },
     "0100bca0135a1155": {
@@ -8191,7 +8191,7 @@
     },
     "0100697019027005": {
         "Release Date": "2025-02-26",
-        "dlc_name": "Desbloquear personaje: Ogre",
+        "dlc_name": "Character Unlock: Ogre",
         "base_game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
         "size": 3145728
     },
@@ -9917,16 +9917,16 @@
         "base_game": "RichMan 4 Fun",
         "size": 3145728
     },
-    "010016701a573003": {
-        "Release Date": "2024-12-19",
-        "dlc_name": "Some Some Convenience Store - Soohee After Story",
-        "base_game": "Some Some Convenience Store",
-        "size": 3145728
-    },
     "010065d01d403001": {
         "Release Date": "2024-12-19",
         "dlc_name": "ToyBox Christmas: Festive Fittings",
         "base_game": "ToyBox Christmas",
+        "size": 3145728
+    },
+    "010016701a573003": {
+        "Release Date": "2024-12-19",
+        "dlc_name": "Some Some Convenience Store - Soohee After Story",
+        "base_game": "Some Some Convenience Store",
         "size": 3145728
     },
     "01002a201fd4b004": {
@@ -10819,7 +10819,7 @@
     },
     "010000b01a453008": {
         "Release Date": "2024-11-21",
-        "dlc_name": "Jujutsu Kaisen Cursed Clash - El Incidente de Shibuya",
+        "dlc_name": "Jujutsu Kaisen Cursed Clash - Shibuya Incident",
         "base_game": "Jujutsu Kaisen Cursed Clash",
         "size": 3145728
     },
@@ -11939,17 +11939,17 @@
         "base_game": "Banners of Ruin",
         "size": 174063616
     },
-    "010016701a573002": {
-        "Release Date": "2024-10-24",
-        "dlc_name": "Some Some Convenience Store - Yena After Story",
-        "base_game": "Some Some Convenience Store",
-        "size": 3145728
-    },
     "010028f01b941007": {
         "Release Date": "2024-10-24",
         "dlc_name": "Pinball M - Camp Bloodbrook",
         "base_game": "Pinball M",
         "size": 227540992
+    },
+    "010016701a573002": {
+        "Release Date": "2024-10-24",
+        "dlc_name": "Some Some Convenience Store - Yena After Story",
+        "base_game": "Some Some Convenience Store",
+        "size": 3145728
     },
     "010093e01ceff002": {
         "Release Date": "2024-10-24",
@@ -12553,7 +12553,7 @@
     },
     "010000b01a45300b": {
         "Release Date": "2024-09-26",
-        "dlc_name": "Jujutsu Kaisen Cursed Clash - Conjunto de atuendo de chicas de la Preparatoria de Hechicer\u00eda de Kioto",
+        "dlc_name": "Jujutsu Kaisen Cursed Clash - Kyoto Jujutsu High School Girls' Outfit Set",
         "base_game": "Jujutsu Kaisen Cursed Clash",
         "size": 3145728
     },
@@ -12955,19 +12955,19 @@
     },
     "010074301dabb001": {
         "Release Date": "2024-08-30",
-        "dlc_name": "Date Z - Alicia Romance Pack",
+        "dlc_name": "Date Z - Hazardous Amour Pack",
         "base_game": "Date Z",
         "size": 3145728
     },
     "010074301dabb002": {
         "Release Date": "2024-08-30",
-        "dlc_name": "Date Z - Bao Romance Pack",
+        "dlc_name": "Date Z - Special Report Pack",
         "base_game": "Date Z",
         "size": 3145728
     },
     "010074301dabb003": {
         "Release Date": "2024-08-30",
-        "dlc_name": "Date Z - Vivica Romance Pack",
+        "dlc_name": "Date Z - TTRPG Enthusiast Pack",
         "base_game": "Date Z",
         "size": 3145728
     },
@@ -15973,13 +15973,13 @@
     },
     "010000b01a453007": {
         "Release Date": "2024-05-29",
-        "dlc_name": "Jujutsu Kaisen Cursed Clash - Inventario oculto/Muerte prematura",
+        "dlc_name": "Jujutsu Kaisen Cursed Clash - Hidden Inventory/Premature Death",
         "base_game": "Jujutsu Kaisen Cursed Clash",
         "size": 3145728
     },
     "010000b01a45300a": {
         "Release Date": "2024-05-29",
-        "dlc_name": "Jujutsu Kaisen Cursed Clash - Conjunto de ropa del tema final 1 del anime",
+        "dlc_name": "Jujutsu Kaisen Cursed Clash - Anime Ending Theme 1 Outfit Set",
         "base_game": "Jujutsu Kaisen Cursed Clash",
         "size": 3145728
     },
@@ -16229,12 +16229,6 @@
         "base_game": "Pinball FX",
         "size": 83886080
     },
-    "0100bad0189b1001": {
-        "Release Date": "2024-05-16",
-        "dlc_name": "Kyukyoku TigerHeli - Console Ports + Get Star Pack",
-        "base_game": "Kyukyoku TigerHeli -TOAPLAN ARCADE GARAGE-",
-        "size": 3145728
-    },
     "010066601cddf004": {
         "Release Date": "2024-05-16",
         "dlc_name": "SOUTH PARK: SNOW DAY! CRED Pack",
@@ -16263,6 +16257,12 @@
         "Release Date": "2024-05-16",
         "dlc_name": "\u30ac\u30fc\u30c7\u30f3\u30e9\u30a4\u30d5\uff1a\u30a8\u30b3\u30d5\u30ec\u30f3\u30c9\u30ea\u30fc \u30c7\u30b3\u30ec\u30fc\u30b7\u30e7\u30f3\u30bb\u30c3\u30c8",
         "base_game": "\u30ac\u30fc\u30c7\u30f3\u30e9\u30a4\u30d5\uff1a\u5922\u306e\u5ead\u3092\u3064\u304f\u308d\u3046",
+        "size": 3145728
+    },
+    "0100bad0189b1001": {
+        "Release Date": "2024-05-16",
+        "dlc_name": "Kyukyoku TigerHeli - Console Ports + Get Star Pack",
+        "base_game": "Kyukyoku TigerHeli -TOAPLAN ARCADE GARAGE-",
         "size": 3145728
     },
     "01004c400cf9702b": {
@@ -18013,7 +18013,7 @@
     },
     "01005a001489b001": {
         "Release Date": "2024-01-26",
-        "dlc_name": "DoDonPachi Resurrectio Chiptune Disponere Novum",
+        "dlc_name": "DoDonPachi Resurrection Chiptune Arrange Sound",
         "base_game": "DoDonPachi Resurrection",
         "size": 3145728
     },
@@ -32831,24 +32831,6 @@
         "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
         "size": 2350907392
     },
-    "0100a0800e9c5001": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (PL)",
-        "base_game": "\u0412\u0435\u0434\u044c\u043c\u0430\u043a 3: \u0414\u0438\u043a\u0430\u044f \u041e\u0445\u043e\u0442\u0430 \u2014 \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435",
-        "size": 2349858816
-    },
-    "0100a0800e9c5005": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (FR)",
-        "base_game": "\u0412\u0435\u0434\u044c\u043c\u0430\u043a 3: \u0414\u0438\u043a\u0430\u044f \u041e\u0445\u043e\u0442\u0430 \u2014 \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435",
-        "size": 2334130176
-    },
-    "0100a0800e9c5003": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (DE)",
-        "base_game": "\u0412\u0435\u0434\u044c\u043c\u0430\u043a 3: \u0414\u0438\u043a\u0430\u044f \u041e\u0445\u043e\u0442\u0430 \u2014 \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435",
-        "size": 2364538880
-    },
     "010039400e8d7003": {
         "Release Date": "2020-02-26",
         "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (DE)",
@@ -32866,6 +32848,24 @@
         "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (RU)",
         "base_game": null,
         "size": 2441084928
+    },
+    "0100a0800e9c5001": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (PL)",
+        "base_game": "\u0412\u0435\u0434\u044c\u043c\u0430\u043a 3: \u0414\u0438\u043a\u0430\u044f \u041e\u0445\u043e\u0442\u0430 \u2014 \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435",
+        "size": 2349858816
+    },
+    "0100a0800e9c5005": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (FR)",
+        "base_game": "\u0412\u0435\u0434\u044c\u043c\u0430\u043a 3: \u0414\u0438\u043a\u0430\u044f \u041e\u0445\u043e\u0442\u0430 \u2014 \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435",
+        "size": 2334130176
+    },
+    "0100a0800e9c5003": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (DE)",
+        "base_game": "\u0412\u0435\u0434\u044c\u043c\u0430\u043a 3: \u0414\u0438\u043a\u0430\u044f \u041e\u0445\u043e\u0442\u0430 \u2014 \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435",
+        "size": 2364538880
     },
     "010076f00e9c9001": {
         "Release Date": "2020-02-26",
