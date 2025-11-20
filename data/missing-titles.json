@@ -244,11 +244,6 @@
         "Title Name": "Slide Viking",
         "size": 142606336
     },
-    "0100D9F026186000": {
-        "Release Date": "2025-11-27",
-        "Title Name": "TetroMosaic, UnicorN",
-        "size": 519045120
-    },
     "010066F02441C000": {
         "Release Date": "2025-11-27",
         "Title Name": "LoveR Kiss Endless Memories",
@@ -293,6 +288,11 @@
         "Release Date": "2025-11-27",
         "Title Name": "\u6b66\u58eb\u5c07\u8ecd\u4e4b\u5fc3\uff1a\u6afb\u82b1\u4e0b\u7684\u7981\u5fcc\u6200 (Samurai Shogun's Heart: Romance Among the Cherry Blossoms)",
         "size": 1033895936
+    },
+    "0100D9F026186000": {
+        "Release Date": "2025-11-27",
+        "Title Name": "TetroMosaic, UnicorN",
+        "size": 519045120
     },
     "0100FDE023332000": {
         "Release Date": "2025-11-27",
@@ -504,21 +504,6 @@
         "Title Name": "Magical Girls",
         "size": 275775488
     },
-    "01001F1025D5E000": {
-        "Release Date": "2025-11-20",
-        "Title Name": "Mosaic Quiz",
-        "size": 236978176
-    },
-    "010048A025E9E000": {
-        "Release Date": "2025-11-20",
-        "Title Name": "Where\u2019s the Octopus!?",
-        "size": 225443840
-    },
-    "010096A02616A000": {
-        "Release Date": "2025-11-20",
-        "Title Name": "Flag Trivia Quiz: Four Choices!",
-        "size": 299892736
-    },
     "01004D6024C26000": {
         "Release Date": "2025-11-20",
         "Title Name": "ELDRADOR\u00ae CREATURES SHADOWFALL",
@@ -529,10 +514,25 @@
         "Title Name": "Stratogun",
         "size": 268435456
     },
+    "01001F1025D5E000": {
+        "Release Date": "2025-11-20",
+        "Title Name": "\u99ac\u8cfd\u514b\u554f\u7b54",
+        "size": 236978176
+    },
+    "010048A025E9E000": {
+        "Release Date": "2025-11-20",
+        "Title Name": "\u7ae0\u9b5a\u53bb\u54ea\u4e86\uff01\uff1f",
+        "size": 225443840
+    },
     "01007C80260FA000": {
         "Release Date": "2025-11-20",
         "Title Name": "\u5857\u9d09\u5fc3\u7406\u6e2c\u9a57",
         "size": 297795584
+    },
+    "010096A02616A000": {
+        "Release Date": "2025-11-20",
+        "Title Name": "\u570b\u65d7\u51b7\u77e5\u8b58\u56db\u9078\u4e00\u554f\u7b54\uff01",
+        "size": 299892736
     },
     "010041401E67C000": {
         "Release Date": "2025-11-20",
@@ -1081,7 +1081,7 @@
     },
     "01004A60219A8000": {
         "Release Date": "2025-11-06",
-        "Title Name": "Libro para colorear para adultos 2",
+        "Title Name": "Coloring Book for Adults 2",
         "size": 1932525568
     },
     "01008DB0236CA000": {
@@ -2091,7 +2091,7 @@
     },
     "01000BA01F820000": {
         "Release Date": "2025-10-10",
-        "Title Name": "Barbie\u2122 Rutas a caballo",
+        "Title Name": "Barbie\u2122 Horse Trails",
         "size": 1851785216
     },
     "010043E021180000": {
@@ -2936,7 +2936,7 @@
     },
     "0100F69020BD8000": {
         "Release Date": "2025-09-19",
-        "Title Name": "DreamWorks La casa de mu\u00f1ecas de Gabby: Listos para la fiesta",
+        "Title Name": "DreamWorks Gabby\u2019s Dollhouse: Ready to Party",
         "size": 2862612480
     },
     "010068E0245A6000": {
@@ -3211,7 +3211,7 @@
     },
     "01000D901E326000": {
         "Release Date": "2025-09-12",
-        "Title Name": "Bratz\u00ae Ritmo y Estilo",
+        "Title Name": "Bratz\u00ae Rhythm & Style",
         "size": 3395289088
     },
     "01000FB02158E000": {
@@ -4211,7 +4211,7 @@
     },
     "0100E4C0241C4000": {
         "Release Date": "2025-08-21",
-        "Title Name": "MechCrisis",
+        "Title Name": "\u667a\u68b0\u5371\u6a5f",
         "size": 500170752
     },
     "0100B2502465C000": {
@@ -5266,18 +5266,18 @@
     },
     "010023B021274000": {
         "Release Date": "2025-07-24",
-        "Title Name": "Arcana Famiglia Rinato",
+        "Title Name": "Arcana Famiglia -La storia della Arcana Famiglia- Rinato",
         "size": 2195718144
     },
     "0100DF4023B0C000": {
         "Release Date": "2025-07-24",
-        "Title Name": "Coloring Pixels: colecci\u00f3n 6",
-        "size": 325058560
+        "Title Name": "Coloring Pixels: Collection 6",
+        "size": 275775488
     },
     "0100D8E023EA6000": {
         "Release Date": "2025-07-24",
         "Title Name": "EGGCONSOLE HYDLIDE3 S.V. PC-9801",
-        "size": 93323264
+        "size": 63963136
     },
     "01003B90242EA000": {
         "Release Date": "2025-07-24",
@@ -5387,7 +5387,7 @@
     "0100E4301E0EA000": {
         "Release Date": "2025-07-18",
         "Title Name": "Shadow Labyrinth",
-        "size": 4937744384
+        "size": 4929355776
     },
     "0100B30021E16000": {
         "Release Date": "2025-07-17",
@@ -5444,15 +5444,15 @@
         "Title Name": "Knights of the Round Peg",
         "size": 653262848
     },
+    "01008D0024310000": {
+        "Release Date": "2025-07-17",
+        "Title Name": "Pixel Game Maker Series HacoPiyo",
+        "size": 75497472
+    },
     "040074A01BF12000": {
         "Release Date": "2025-07-17",
         "Title Name": "Donkey Kong Bananza",
         "size": 0
-    },
-    "01008D0024310000": {
-        "Release Date": "2025-07-17",
-        "Title Name": "Pixel Game Maker Series HacoPiyo",
-        "size": 127926272
     },
     "01006A802485E000": {
         "Release Date": "2025-07-17",
@@ -5602,7 +5602,7 @@
     "010056A01EC58000": {
         "Release Date": "2025-07-10",
         "Title Name": "EGGCONSOLE ZANAC EX MSX2",
-        "size": 74448896
+        "size": 48234496
     },
     "010049801EEAC000": {
         "Release Date": "2025-07-10",
@@ -5962,12 +5962,12 @@
     "0100D59023352000": {
         "Release Date": "2025-06-26",
         "Title Name": "Pixel Game Maker Series Princess Pomu and the 5 Moons",
-        "size": 1351614464
+        "size": 1157627904
     },
     "0100D90023D00000": {
         "Release Date": "2025-06-26",
         "Title Name": "EGGCONSOLE Mado Monogatari 1-2-3 MSX2",
-        "size": 73400320
+        "size": 47185920
     },
     "0100E980223C0000": {
         "Release Date": "2025-06-26",
@@ -6204,11 +6204,6 @@
         "Title Name": "CarsWheels",
         "size": 661651456
     },
-    "01004D1019698000": {
-        "Release Date": "2025-06-19",
-        "Title Name": "Agn\u00f3stico VS",
-        "size": 1189085184
-    },
     "0100448023740000": {
         "Release Date": "2025-06-19",
         "Title Name": "EGGCONSOLE TRITORN MSX",
@@ -6217,7 +6212,12 @@
     "0100FCF0237E8000": {
         "Release Date": "2025-06-19",
         "Title Name": "Kokoro Clover SUN - Prehistoric Invaders!",
-        "size": 465567744
+        "size": 363855872
+    },
+    "01004D1019698000": {
+        "Release Date": "2025-06-19",
+        "Title Name": "Agnostiko VS",
+        "size": 1189085184
     },
     "01002F9020D2C000": {
         "Release Date": "2025-06-19",
@@ -6644,6 +6644,11 @@
         "Title Name": "The Paper Time Travelers",
         "size": 359661568
     },
+    "01006EB022C76000": {
+        "Release Date": "2025-06-05",
+        "Title Name": "Rune Factory: Guardians of Azuma Digital Art Book and Soundtrack",
+        "size": 577765376
+    },
     "0100F7401E5FA000": {
         "Release Date": "2025-06-05",
         "Title Name": "1f y0u're a gh0st ca11 me here!",
@@ -6688,11 +6693,6 @@
         "Release Date": "2025-06-05",
         "Title Name": "AnimalDon!",
         "size": 217055232
-    },
-    "01006EB022C76000": {
-        "Release Date": "2025-06-05",
-        "Title Name": "Rune Factory: Guardians of Azuma Digital Art Book and Soundtrack",
-        "size": 649068544
     },
     "0100FD4022DA6000": {
         "Release Date": "2025-06-05",
@@ -6906,7 +6906,7 @@
     },
     "01001CF0237C2000": {
         "Release Date": "2025-05-23",
-        "Title Name": "Gatos Visitando Cuentos de Hadas",
+        "Title Name": "Cats Visiting Fairy Tales",
         "size": 192937984
     },
     "0100B3B02384A000": {
@@ -6924,25 +6924,25 @@
         "Title Name": "Super Waifu Ball",
         "size": 1579155456
     },
-    "0100A0A0220BC000": {
+    "0100D01021376000": {
         "Release Date": "2025-05-22",
-        "Title Name": "\u65c5\u4eba\u82cf\u83f2\u4e9a",
-        "size": 642777088
+        "Title Name": "The Town of Nie Iromusubi",
+        "size": 1471152128
     },
     "01002CA01B18A000": {
         "Release Date": "2025-05-22",
         "Title Name": "Cookie Clicker",
         "size": 279969792
     },
-    "0100D01021376000": {
-        "Release Date": "2025-05-22",
-        "Title Name": "The Town of Nie Iromusubi",
-        "size": 1471152128
-    },
     "0100ACA02217E000": {
         "Release Date": "2025-05-22",
         "Title Name": "Jumping Ninja Battle",
         "size": 140509184
+    },
+    "0100A0A0220BC000": {
+        "Release Date": "2025-05-22",
+        "Title Name": "\u65c5\u4eba\u82cf\u83f2\u4e9a",
+        "size": 642777088
     },
     "0100B1C01E09C000": {
         "Release Date": "2025-05-22",
@@ -6982,7 +6982,7 @@
     "010072001C5C8000": {
         "Release Date": "2025-05-16",
         "Title Name": "Capcom Fighting Collection 2",
-        "size": 3447717888
+        "size": 3208642560
     },
     "010002101CE5A000": {
         "Release Date": "2025-05-15",
@@ -7067,7 +7067,7 @@
     "0100842022240000": {
         "Release Date": "2025-05-09",
         "Title Name": "Capybara Zen",
-        "size": 222298112
+        "size": 161480704
     },
     "010009901D7B2000": {
         "Release Date": "2025-05-09",
@@ -7162,22 +7162,22 @@
     "010070C0234C4000": {
         "Release Date": "2025-05-08",
         "Title Name": "EGGCONSOLE Rune Worth PC-9801",
-        "size": 117440512
+        "size": 87031808
     },
     "0100872023616000": {
         "Release Date": "2025-05-08",
         "Title Name": "Spot the Difference Detective",
         "size": 236978176
     },
-    "0100D80022638000": {
-        "Release Date": "2025-05-08",
-        "Title Name": "MOUNT QUEST: Take the Upper Hand Among Classmates",
-        "size": 1614807040
-    },
     "01007FD022B40000": {
         "Release Date": "2025-05-08",
         "Title Name": "Moe Waifu H Push-Box",
         "size": 84934656
+    },
+    "0100D80022638000": {
+        "Release Date": "2025-05-08",
+        "Title Name": "MOUNT QUEST: Take the Upper Hand Among Classmates",
+        "size": 1614807040
     },
     "0100E9D021FD6000": {
         "Release Date": "2025-05-07",
@@ -7197,7 +7197,7 @@
     "01000C4022986000": {
         "Release Date": "2025-05-06",
         "Title Name": "Stratogun",
-        "size": 340787200
+        "size": 268435456
     },
     "01005B6016E32000": {
         "Release Date": "2025-05-05",
@@ -7282,7 +7282,7 @@
     "01003F6022228000": {
         "Release Date": "2025-05-02",
         "Title Name": "Spellcaster University",
-        "size": 3290431488
+        "size": 2584739840
     },
     "0100FDE022F6C000": {
         "Release Date": "2025-05-02",
@@ -7387,7 +7387,7 @@
     "0100E0202221C000": {
         "Release Date": "2025-05-01",
         "Title Name": "Hypotheses on the Symmetry between Vision and Hands",
-        "size": 235929600
+        "size": 140509184
     },
     "0100E79022DBA000": {
         "Release Date": "2025-05-01",
@@ -7462,7 +7462,7 @@
     "0100493020B6C000": {
         "Release Date": "2025-04-30",
         "Title Name": "Witching Stone",
-        "size": 348127232
+        "size": 297795584
     },
     "0100314023338000": {
         "Release Date": "2025-04-29",
@@ -7557,7 +7557,7 @@
     "0100BE202291E000": {
         "Release Date": "2025-04-25",
         "Title Name": "Spy Guy Jigsaw Fun",
-        "size": 694157312
+        "size": 452984832
     },
     "0100CA1022860000": {
         "Release Date": "2025-04-25",
@@ -7682,12 +7682,12 @@
     "010018E0226A6000": {
         "Release Date": "2025-04-24",
         "Title Name": "\u5922\u73fe\u3057\u308d\u3063\u3077 - Dreamy Syrup -",
-        "size": 568328192
+        "size": 476053504
     },
     "010071C022C50000": {
         "Release Date": "2025-04-24",
         "Title Name": "ANNIE:Last Hope",
-        "size": 1463812096
+        "size": 1324351488
     },
     "0100194022D16000": {
         "Release Date": "2025-04-24",
@@ -7699,15 +7699,15 @@
         "Title Name": "Nanostorm",
         "size": 51380224
     },
-    "01008FC0232B2000": {
-        "Release Date": "2025-04-24",
-        "Title Name": "School Photo Transformer \u7f8e\u5c11\u5973\u30b9\u30ca\u30c3\u30d7\uff01\u30e1\u30bf\u30e2\u30eb\u5199\u771f\u30af\u30e9\u30d6",
-        "size": 299892736
-    },
     "010098102363C000": {
         "Release Date": "2025-04-24",
         "Title Name": "R.E.P.O Horror",
         "size": 1102053376
+    },
+    "01008FC0232B2000": {
+        "Release Date": "2025-04-24",
+        "Title Name": "School Photo Transformer \u7f8e\u5c11\u5973\u30b9\u30ca\u30c3\u30d7\uff01\u30e1\u30bf\u30e2\u30eb\u5199\u771f\u30af\u30e9\u30d6",
+        "size": 299892736
     },
     "010021A020CB0000": {
         "Release Date": "2025-04-24",
@@ -7801,7 +7801,7 @@
     },
     "01003D9020D66000": {
         "Release Date": "2025-04-23",
-        "Title Name": "\u00a1ESCUCHEN! \u00a1INTENTAMOS QUE \"ESOS JUEGOS\" SEAN M\u00c1S EXTREMOS! \u00a1HAY QUE APRENDER ALGUNAS COSAS POR LAS MALAS!",
+        "Title Name": "LISTEN UP! WE TRIED TO MAKE \u201cTHOSE GAMES\u201d EVEN MORE EXTREME! SOME THINGS HAVE TO BE LEARNED THE HARD WAY!",
         "size": 593494016
     },
     "0100C3200EBF4000": {
@@ -8072,7 +8072,7 @@
     "0100973022242000": {
         "Release Date": "2025-04-11",
         "Title Name": "Pets and Friends",
-        "size": 682622976
+        "size": 459276288
     },
     "01008AD022DA8000": {
         "Release Date": "2025-04-11",
@@ -8149,11 +8149,6 @@
         "Title Name": "Luna and the Crystal of Light",
         "size": 480247808
     },
-    "01006CA022FDE000": {
-        "Release Date": "2025-04-10",
-        "Title Name": "\u897f\u74dc\u6d3e\u5bf9",
-        "size": 1321205760
-    },
     "0100C91022404000": {
         "Release Date": "2025-04-10",
         "Title Name": "Can I crash at your place? \u304a\u3057\u304b\u3051\u306d\u30fc\u3061\u3083\u3093",
@@ -8163,6 +8158,11 @@
         "Release Date": "2025-04-10",
         "Title Name": "EGGCONSOLE PYRAMID WARP MSX",
         "size": 35651584
+    },
+    "01006CA022FDE000": {
+        "Release Date": "2025-04-10",
+        "Title Name": "\u897f\u74dc\u6d3e\u5bf9",
+        "size": 1321205760
     },
     "0100A6B01FEF8000": {
         "Release Date": "2025-04-10",
@@ -8307,7 +8307,7 @@
     "01002DE021C6E000": {
         "Release Date": "2025-04-04",
         "Title Name": "Fl\u00e5klypa Grand Prix Jubileumsutgave",
-        "size": 3793747968
+        "size": 3696230400
     },
     "0100605021780000": {
         "Release Date": "2025-04-04",
@@ -9074,15 +9074,15 @@
         "Title Name": "EGGCONSOLE SUPER ZENON GAMMA 5 PC-8801mkIISR",
         "size": 40894464
     },
-    "0100A33021A9A000": {
-        "Release Date": "2025-03-13",
-        "Title Name": "Pixel Game Maker Series Rocket Frog",
-        "size": 296747008
-    },
     "0100141021604000": {
         "Release Date": "2025-03-13",
         "Title Name": "Puzzle of Love: Building My Heart",
         "size": 105906176
+    },
+    "0100A33021A9A000": {
+        "Release Date": "2025-03-13",
+        "Title Name": "Pixel Game Maker Series Rocket Frog",
+        "size": 198180864
     },
     "0100F6E016238000": {
         "Release Date": "2025-03-13",
@@ -9352,7 +9352,7 @@
     "010048B020CDA000": {
         "Release Date": "2025-03-06",
         "Title Name": "Despera Drops",
-        "size": 6025117696
+        "size": 5959057408
     },
     "0100363022286000": {
         "Release Date": "2025-03-06",
@@ -9427,7 +9427,7 @@
     "0100A6402000C000": {
         "Release Date": "2025-03-04",
         "Title Name": "Heroes of Loot: Gauntlet of Power",
-        "size": 137363456
+        "size": 135266304
     },
     "01009F0013A84000": {
         "Release Date": "2025-03-01",
@@ -10167,7 +10167,7 @@
     "010055601B3A2000": {
         "Release Date": "2025-02-06",
         "Title Name": "Pixel Game Maker Series Timothy and the Tower of Mu",
-        "size": 412090368
+        "size": 362807296
     },
     "0100FED0217CC000": {
         "Release Date": "2025-02-06",
@@ -10269,15 +10269,15 @@
         "Title Name": "Colorizing: Animals",
         "size": 159383552
     },
-    "01009840214F2000": {
-        "Release Date": "2025-01-30",
-        "Title Name": "CardMart: TCG Supermarket",
-        "size": 827326464
-    },
     "010084B01F55E000": {
         "Release Date": "2025-01-30",
         "Title Name": "Selfloss",
         "size": 3608150016
+    },
+    "01009840214F2000": {
+        "Release Date": "2025-01-30",
+        "Title Name": "CardMart: TCG Supermarket",
+        "size": 827326464
     },
     "0100D0C021C3A000": {
         "Release Date": "2025-01-30",
@@ -10342,7 +10342,7 @@
     "0100F5C01DAB2000": {
         "Release Date": "2025-01-28",
         "Title Name": "Cuisineer",
-        "size": 2452619264
+        "size": 2385510400
     },
     "01001D8020A4A000": {
         "Release Date": "2025-01-28",
@@ -10424,6 +10424,16 @@
         "Title Name": "Blaze in Space: Beat a-Maze",
         "size": 289406976
     },
+    "0100AB30211C0000": {
+        "Release Date": "2025-01-23",
+        "Title Name": "How to master social Media Marketing",
+        "size": 92274688
+    },
+    "01001EA0213FE000": {
+        "Release Date": "2025-01-23",
+        "Title Name": "Sports Nutrition: How to fuel your body for peak performance",
+        "size": 91226112
+    },
     "0100FA5021846000": {
         "Release Date": "2025-01-23",
         "Title Name": "Fables Mosaic: Rapunzel",
@@ -10438,16 +10448,6 @@
         "Release Date": "2025-01-23",
         "Title Name": "Big Adventure: Trip To Europe 7 Collector's Edition",
         "size": 533725184
-    },
-    "0100AB30211C0000": {
-        "Release Date": "2025-01-23",
-        "Title Name": "How to master social Media Marketing",
-        "size": 92274688
-    },
-    "01001EA0213FE000": {
-        "Release Date": "2025-01-23",
-        "Title Name": "Sports Nutrition: How to fuel your body for peak performance",
-        "size": 91226112
     },
     "0100BD9021392000": {
         "Release Date": "2025-01-23",
@@ -10502,7 +10502,7 @@
     "0100C6201BBB2000": {
         "Release Date": "2025-01-22",
         "Title Name": "Losen Screws Puzzles",
-        "size": 100663296
+        "size": 52428800
     },
     "01004FD0213C6000": {
         "Release Date": "2025-01-20",
@@ -10612,7 +10612,7 @@
     "01000090210F2000": {
         "Release Date": "2025-01-14",
         "Title Name": "The Mansion of The Macabre",
-        "size": 1022361600
+        "size": 550502400
     },
     "0100149021C7A000": {
         "Release Date": "2025-01-13",
@@ -10694,20 +10694,20 @@
         "Title Name": "Dog Veterinary: Training Hospital Near Me",
         "size": 222298112
     },
+    "0100617021520000": {
+        "Release Date": "2025-01-09",
+        "Title Name": "Princesses Lylop: Royal Puzzle Challenge",
+        "size": 118489088
+    },
     "010056B0214D2000": {
         "Release Date": "2025-01-09",
         "Title Name": "EGGCONSOLE Ys II MSX2",
-        "size": 103809024
+        "size": 77594624
     },
     "0100AB60217D2000": {
         "Release Date": "2025-01-09",
         "Title Name": "FURRY TWINS \u304a\u3057\u304b\u3051\u30b1\u30e2\u30df\u30df\u3064\u3044\u3093\u305a",
         "size": 297795584
-    },
-    "0100617021520000": {
-        "Release Date": "2025-01-09",
-        "Title Name": "Princesses Lylop: Royal Puzzle Challenge",
-        "size": 118489088
     },
     "010032701D7B0000": {
         "Release Date": "2025-01-09",
@@ -10737,7 +10737,7 @@
     "010015601E3A2000": {
         "Release Date": "2025-01-07",
         "Title Name": "Ys Memoire: The Oath in Felghana",
-        "size": 3343908864
+        "size": 3074424832
     },
     "0100E7202138E000": {
         "Release Date": "2025-01-01",
@@ -11249,15 +11249,15 @@
         "Title Name": "Irem Collection Volume 2",
         "size": 171966464
     },
-    "0100164020D76000": {
-        "Release Date": "2024-11-14",
-        "Title Name": "MotoX Madness 2025: Ultimate Dirt Bike Championship",
-        "size": 1096810496
-    },
     "0100D89020FDC000": {
         "Release Date": "2024-11-14",
         "Title Name": "MONPIC -The Hatchling Meets a Girl-",
         "size": 649068544
+    },
+    "0100164020D76000": {
+        "Release Date": "2024-11-14",
+        "Title Name": "MotoX Madness 2025: Ultimate Dirt Bike Championship",
+        "size": 1096810496
     },
     "010074801FD9C000": {
         "Release Date": "2024-11-14",
@@ -11372,7 +11372,7 @@
     "01009D801D636000": {
         "Release Date": "2024-11-07",
         "Title Name": "Virche Evermore -EpiC: Lycoris-",
-        "size": 10160701440
+        "size": 10128195584
     },
     "010000601E900000": {
         "Release Date": "2024-11-07",
@@ -11382,12 +11382,12 @@
     "010027501FAB0000": {
         "Release Date": "2024-11-07",
         "Title Name": "River City Saga: Three Kingdoms Next",
-        "size": 3551526912
+        "size": 3334471680
     },
     "01006DB020BAE000": {
         "Release Date": "2024-11-07",
         "Title Name": "EGGCONSOLE Xak II PC-8801mkIISR",
-        "size": 83886080
+        "size": 58720256
     },
     "01008C1020E50000": {
         "Release Date": "2024-11-07",
@@ -11549,15 +11549,20 @@
         "Title Name": "Reel Fishing\u00ae: Days of Summer",
         "size": 2317352960
     },
+    "01008FE020BDC000": {
+        "Release Date": "2024-10-31",
+        "Title Name": "Coloring Pixels: Collection 5",
+        "size": 356515840
+    },
+    "0100984020E60000": {
+        "Release Date": "2024-10-31",
+        "Title Name": "How to Organize Your Home: A Practical Guide",
+        "size": 90177536
+    },
     "01009370207FE000": {
         "Release Date": "2024-10-31",
         "Title Name": "Journey to Kreisia",
         "size": 145752064
-    },
-    "01008FE020BDC000": {
-        "Release Date": "2024-10-31",
-        "Title Name": "Coloring Pixels: colecci\u00f3n 5",
-        "size": 356515840
     },
     "01009AB020CDE000": {
         "Release Date": "2024-10-31",
@@ -11568,11 +11573,6 @@
         "Release Date": "2024-10-31",
         "Title Name": "Forbidden Love",
         "size": 170917888
-    },
-    "0100984020E60000": {
-        "Release Date": "2024-10-31",
-        "Title Name": "How to Organize Your Home: A Practical Guide",
-        "size": 90177536
     },
     "010090E01F280000": {
         "Release Date": "2024-10-31",
@@ -11671,7 +11671,7 @@
     },
     "010021301E9A4000": {
         "Release Date": "2024-10-25",
-        "Title Name": "Libro de ilustraciones digital y banda sonora original de SONIC X SHADOW GENERATIONS",
+        "Title Name": "SONIC X SHADOW GENERATIONS Digital Artbook + OST",
         "size": 507510784
     },
     "0100568020D58000": {
@@ -11749,16 +11749,6 @@
         "Title Name": "Captain Barrel",
         "size": 75497472
     },
-    "0100A0A0204A4000": {
-        "Release Date": "2024-10-24",
-        "Title Name": "Telebbit",
-        "size": 1127219200
-    },
-    "010069B0205B2000": {
-        "Release Date": "2024-10-24",
-        "Title Name": "Car Parking Legends: Drive & Park Adventure",
-        "size": 940572672
-    },
     "0100130020904000": {
         "Release Date": "2024-10-24",
         "Title Name": "Pixel Game Maker Series Chrotopia",
@@ -11768,6 +11758,16 @@
         "Release Date": "2024-10-24",
         "Title Name": "Chippy&Noppo",
         "size": 1906311168
+    },
+    "0100A0A0204A4000": {
+        "Release Date": "2024-10-24",
+        "Title Name": "Telebbit",
+        "size": 1127219200
+    },
+    "010069B0205B2000": {
+        "Release Date": "2024-10-24",
+        "Title Name": "Car Parking Legends: Drive & Park Adventure",
+        "size": 940572672
     },
     "0100E30020D40000": {
         "Release Date": "2024-10-24",
@@ -11781,12 +11781,12 @@
     },
     "0100BDE020D68000": {
         "Release Date": "2024-10-24",
-        "Title Name": "Estilo personal: descubre y define tu estilo \u00fanico",
+        "Title Name": "Personal style: Discover and define your unique look",
         "size": 66060288
     },
     "01000AE020D6A000": {
         "Release Date": "2024-10-24",
-        "Title Name": "Decoraci\u00f3n de interiores: Transforma tu espacio con estilo",
+        "Title Name": "Interior design: Transform your space with style",
         "size": 73400320
     },
     "01000DE02078E000": {
@@ -11831,13 +11831,13 @@
     },
     "0100C7D01F53C000": {
         "Release Date": "2024-10-23",
-        "Title Name": "\u00a1\u00a1Atrapa a BESHI!! Juego de pala",
+        "Title Name": "Catch BESHI!! Scooping Game",
         "size": 196083712
     },
     "0100AB701E288000": {
         "Release Date": "2024-10-22",
         "Title Name": "Potionomics: Masterwork Edition",
-        "size": 3532652544
+        "size": 3387949056
     },
     "01005A101FFA2000": {
         "Release Date": "2024-10-18",
@@ -11848,11 +11848,6 @@
         "Release Date": "2024-10-18",
         "Title Name": "Rookie Boxing",
         "size": 403701760
-    },
-    "01004C9020D48000": {
-        "Release Date": "2024-10-18",
-        "Title Name": "Touch and Reveal",
-        "size": 278921216
     },
     "010011D018832000": {
         "Release Date": "2024-10-17",
@@ -11894,11 +11889,6 @@
         "Title Name": "Pod Jam",
         "size": 127926272
     },
-    "0100C1901FBE6000": {
-        "Release Date": "2024-10-17",
-        "Title Name": "Home Safety Hotline",
-        "size": 1332740096
-    },
     "0100C1E018A02000": {
         "Release Date": "2024-10-17",
         "Title Name": "Blazing Strike",
@@ -11908,6 +11898,16 @@
         "Release Date": "2024-10-17",
         "Title Name": "Sugoi Girls: Vivacious Vampire",
         "size": 225443840
+    },
+    "0100C1901FBE6000": {
+        "Release Date": "2024-10-17",
+        "Title Name": "Super Home Safety Hotline",
+        "size": 1332740096
+    },
+    "01004C9020D48000": {
+        "Release Date": "2024-10-17",
+        "Title Name": "Touch and Reveal",
+        "size": 278921216
     },
     "010056501FED2000": {
         "Release Date": "2024-10-17",
@@ -11991,7 +11991,7 @@
     },
     "010062401F5E8000": {
         "Release Date": "2024-10-10",
-        "Title Name": "Abre 100 Puertas de Salida",
+        "Title Name": "100 Doors Escape: Let me In!",
         "size": 692060160
     },
     "0100604020564000": {
@@ -12021,23 +12021,23 @@
     },
     "010093F020C8C000": {
         "Release Date": "2024-10-10",
-        "Title Name": "\u00a1Medita! Gu\u00eda para principiantes",
+        "Title Name": "How to meditate: A beginner's guide",
         "size": 173015040
     },
     "0100F62020C8E000": {
         "Release Date": "2024-10-10",
-        "Title Name": "C\u00f3mo Leer R\u00e1pido: T\u00e9cnicas para un Aprendizaje Acelerado",
+        "Title Name": "How to speed read: Techniques for rapid learning",
         "size": 110100480
-    },
-    "0100BF5020A48000": {
-        "Release Date": "2024-10-10",
-        "Title Name": "Natsume Ryoran -Romance of Hi-Spec Yoko-",
-        "size": 292552704
     },
     "010078101FD9A000": {
         "Release Date": "2024-10-10",
         "Title Name": "Anime Girls: Busty Baseball",
         "size": 211812352
+    },
+    "0100BF5020A48000": {
+        "Release Date": "2024-10-10",
+        "Title Name": "\u68d7\u4e4b\u64a9\u4e82 -\u9ad8\u6027\u80fd\u8166\u7b4b\u5996\u72d0\u7684\u6200\u611b\u5947\u8b5a-",
+        "size": 292552704
     },
     "0100D9501FE02000": {
         "Release Date": "2024-10-10",
@@ -12072,17 +12072,17 @@
     "0100FC801CF0E000": {
         "Release Date": "2024-10-04",
         "Title Name": "Skautfold: Into The Fray",
-        "size": 355467264
+        "size": 310378496
+    },
+    "010054301FE26000": {
+        "Release Date": "2024-10-04",
+        "Title Name": "Before Exit: Supermarket",
+        "size": 1722810368
     },
     "01006F201E530000": {
         "Release Date": "2024-10-04",
         "Title Name": "Lakeview Cabin Collection",
         "size": 1035993088
-    },
-    "010054301FE26000": {
-        "Release Date": "2024-10-04",
-        "Title Name": "Before Exit: Supermarket",
-        "size": 1810890752
     },
     "01009F001FC56000": {
         "Release Date": "2024-10-04",
@@ -12209,6 +12209,11 @@
         "Title Name": "The Dawning Clocks of Time Remake",
         "size": 3287285760
     },
+    "010049401FC5E000": {
+        "Release Date": "2024-09-28",
+        "Title Name": "Behold Battle",
+        "size": 472907776
+    },
     "0100B2D01E100000": {
         "Release Date": "2024-09-27",
         "Title Name": "Ahro",
@@ -12223,11 +12228,6 @@
         "Release Date": "2024-09-27",
         "Title Name": "Lets castle",
         "size": 476053504
-    },
-    "010049401FC5E000": {
-        "Release Date": "2024-09-27",
-        "Title Name": "Behold Battle",
-        "size": 472907776
     },
     "0100BFD020C60000": {
         "Release Date": "2024-09-27",
@@ -12244,16 +12244,6 @@
         "Title Name": "Rope Hope",
         "size": 162529280
     },
-    "010070300F50C000": {
-        "Release Date": "2024-09-26",
-        "Title Name": "\u5b9d\u53ef\u68a6 \u8d70\u5427\uff01\u76ae\u5361\u4e18",
-        "size": 4471128064
-    },
-    "01006FB00F50E000": {
-        "Release Date": "2024-09-26",
-        "Title Name": "\u5b9d\u53ef\u68a6 \u8d70\u5427\uff01\u4f0a\u5e03",
-        "size": 4473225216
-    },
     "010007501C53C000": {
         "Release Date": "2024-09-26",
         "Title Name": "DESTRUCTURE: Among Debris",
@@ -12262,7 +12252,12 @@
     "0100DE101E488000": {
         "Release Date": "2024-09-26",
         "Title Name": "Games Advent Calendar 2024",
-        "size": 2925527040
+        "size": 2184183808
+    },
+    "010048001DF2E000": {
+        "Release Date": "2024-09-26",
+        "Title Name": "revive of the moon",
+        "size": 4673503232
     },
     "0100DF201F992000": {
         "Release Date": "2024-09-26",
@@ -12279,10 +12274,15 @@
         "Title Name": "Anime Puzzle Quest: The Magical Girls Adventure",
         "size": 583008256
     },
-    "010048001DF2E000": {
+    "010070300F50C000": {
         "Release Date": "2024-09-26",
-        "Title Name": "revive of the moon",
-        "size": 4673503232
+        "Title Name": "\u5b9d\u53ef\u68a6 \u8d70\u5427\uff01\u76ae\u5361\u4e18",
+        "size": 4471128064
+    },
+    "01006FB00F50E000": {
+        "Release Date": "2024-09-26",
+        "Title Name": "\u5b9d\u53ef\u68a6 \u8d70\u5427\uff01\u4f0a\u5e03",
+        "size": 4473225216
     },
     "010031E01C154000": {
         "Release Date": "2024-09-26",
@@ -12317,7 +12317,7 @@
     "01004D901AFDA000": {
         "Release Date": "2024-09-24",
         "Title Name": "Disney Epic Mickey: Rebrushed",
-        "size": 12556697600
+        "size": 11518607360
     },
     "01001B30207C8000": {
         "Release Date": "2024-09-24",
@@ -12367,7 +12367,7 @@
     "0100EDE01E740000": {
         "Release Date": "2024-09-19",
         "Title Name": "I Got Isekai\u2019d into a Shmup",
-        "size": 343932928
+        "size": 260046848
     },
     "0100BDB01ECA2000": {
         "Release Date": "2024-09-19",
@@ -12381,7 +12381,7 @@
     },
     "010010001DCA4000": {
         "Release Date": "2024-09-19",
-        "Title Name": "Coloring Pixels: colecci\u00f3n 4",
+        "Title Name": "Coloring Pixels: Collection 4",
         "size": 356515840
     },
     "010065B0207FC000": {
@@ -12534,15 +12534,10 @@
         "Title Name": "SUPERMARKET SIMULATOR PRO",
         "size": 439353344
     },
-    "01009820151B6000": {
-        "Release Date": "2024-09-12",
-        "Title Name": "\u6e21\u795e\u7eaa\u82ac\u5c3c\u65af\u5d1b\u8d77",
-        "size": 14564720640
-    },
     "01008F401E224000": {
         "Release Date": "2024-09-12",
         "Title Name": "MARVEL vs. CAPCOM Fighting Collection: Arcade Classics",
-        "size": 3494903808
+        "size": 3362783232
     },
     "010061501EF3C000": {
         "Release Date": "2024-09-12",
@@ -12553,6 +12548,11 @@
         "Release Date": "2024-09-12",
         "Title Name": "Hashihime of the Old Book Town append\u3000fullscreen",
         "size": 1408237568
+    },
+    "01009820151B6000": {
+        "Release Date": "2024-09-12",
+        "Title Name": "\u6e21\u795e\u7eaa\u82ac\u5c3c\u65af\u5d1b\u8d77",
+        "size": 14564720640
     },
     "01000D601FC6C000": {
         "Release Date": "2024-09-12",
@@ -12699,11 +12699,6 @@
         "Title Name": "V-HUNTER PUZZLER DX",
         "size": 82837504
     },
-    "01005CD0119C8000": {
-        "Release Date": "2024-09-05",
-        "Title Name": "\u6218\u9b54\u673a\u7532",
-        "size": 6458179584
-    },
     "0100D4A01ECE8000": {
         "Release Date": "2024-09-05",
         "Title Name": "Tsetseg's Adventure",
@@ -12723,6 +12718,11 @@
         "Release Date": "2024-09-05",
         "Title Name": "Hentai Girls: Lovely Lieutenant",
         "size": 276824064
+    },
+    "01005CD0119C8000": {
+        "Release Date": "2024-09-05",
+        "Title Name": "\u6218\u9b54\u673a\u7532",
+        "size": 6458179584
     },
     "010004301EE10000": {
         "Release Date": "2024-09-05",
@@ -12789,20 +12789,25 @@
         "Title Name": "NINJA GIRLS:KUNOICHI PUZZLE",
         "size": 250609664
     },
+    "0100F2C01E6CA000": {
+        "Release Date": "2024-08-29",
+        "Title Name": "Wer wei\u00df denn sowas? - Das 3. Spiel",
+        "size": 4548722688
+    },
     "01002DE020684000": {
         "Release Date": "2024-08-29",
         "Title Name": "Hentai Paradise Vol. 4",
         "size": 181403648
     },
-    "010064801E536000": {
-        "Release Date": "2024-08-29",
-        "Title Name": "Super Rewind or Die",
-        "size": 301989888
-    },
     "0100CAF01DB36000": {
         "Release Date": "2024-08-29",
         "Title Name": "KAGE\uff5eShadow of The Ninja \u7d55\u5f71\u6230\u58eb",
         "size": 2313158656
+    },
+    "010064801E536000": {
+        "Release Date": "2024-08-29",
+        "Title Name": "Super Rewind or Die",
+        "size": 301989888
     },
     "0100D4601FB5C000": {
         "Release Date": "2024-08-29",
@@ -12823,11 +12828,6 @@
         "Release Date": "2024-08-29",
         "Title Name": "KAGE\uff5eShadow of The Ninja \u7d55\u5f71\u6230\u58eb\u3000Digital Soundtrack",
         "size": 344981504
-    },
-    "0100F2C01E6CA000": {
-        "Release Date": "2024-08-29",
-        "Title Name": "Wer wei\u00df denn sowas? - Das 3. Spiel",
-        "size": 4548722688
     },
     "0100ED101F3E8000": {
         "Release Date": "2024-08-29",
@@ -12894,11 +12894,6 @@
         "Title Name": "Argol - Kronoss' Castle",
         "size": 362807296
     },
-    "01005F1010E02000": {
-        "Release Date": "2024-08-22",
-        "Title Name": "\u592a\u9f13\u4e4b\u8fbe\u4eba",
-        "size": 3377463296
-    },
     "0100F4701E8EC000": {
         "Release Date": "2024-08-22",
         "Title Name": "Tales from Toyotoki: Arrival of the Witch",
@@ -12908,6 +12903,11 @@
         "Release Date": "2024-08-22",
         "Title Name": "EGGCONSOLE STAR TRADER PC-8801mkIISR",
         "size": 57671680
+    },
+    "01005F1010E02000": {
+        "Release Date": "2024-08-22",
+        "Title Name": "\u592a\u9f13\u4e4b\u8fbe\u4eba",
+        "size": 3377463296
     },
     "010087601F220000": {
         "Release Date": "2024-08-22",
@@ -13342,7 +13342,7 @@
     "01004C6017CA4000": {
         "Release Date": "2024-08-01",
         "Title Name": "TENSEI",
-        "size": 360710144
+        "size": 268435456
     },
     "0100A6001D03C000": {
         "Release Date": "2024-08-01",
@@ -13547,12 +13547,12 @@
     "0100EFA01E74E000": {
         "Release Date": "2024-07-25",
         "Title Name": "Tokyo Xanadu eX+",
-        "size": 7278166016
+        "size": 7216300032
     },
     "010087501F580000": {
         "Release Date": "2024-07-25",
-        "Title Name": "100 Puertas: Escape del Trabajo",
-        "size": 827326464
+        "Title Name": "100 Doors - Escape from Work",
+        "size": 439353344
     },
     "010031201F93C000": {
         "Release Date": "2024-07-25",
@@ -13572,7 +13572,7 @@
     "0100C3501FE4E000": {
         "Release Date": "2024-07-25",
         "Title Name": "Sketch Personality Test",
-        "size": 379584512
+        "size": 317718528
     },
     "010070C01FE80000": {
         "Release Date": "2024-07-25",
@@ -13586,7 +13586,7 @@
     },
     "0100B9201FFC0000": {
         "Release Date": "2024-07-25",
-        "Title Name": "Colecci\u00f3n del libro de colorear Museo de dinosaurios",
+        "Title Name": "Coloring book series Dinosaur Museum",
         "size": 217055232
     },
     "0100F4601FA9E000": {
@@ -13742,7 +13742,7 @@
     "010004C01A37C000": {
         "Release Date": "2024-07-18",
         "Title Name": "Over Horizon X Steel Empire",
-        "size": 88080384
+        "size": 59768832
     },
     "010066301E9E2000": {
         "Release Date": "2024-07-18",
@@ -13889,20 +13889,20 @@
         "Title Name": "Sugoi Girls: Kinky Knight",
         "size": 299892736
     },
-    "010018301EA48000": {
-        "Release Date": "2024-07-11",
-        "Title Name": "Disaster Band",
-        "size": 1259339776
-    },
     "0100E2E01D382000": {
         "Release Date": "2024-07-11",
         "Title Name": "City Legends: Trapped In Mirror Collector's Edition",
-        "size": 810549248
+        "size": 745537536
     },
     "01001FC01D384000": {
         "Release Date": "2024-07-11",
         "Title Name": "Myth or Reality: Fairy Lands Collector's Edition",
         "size": 1146093568
+    },
+    "010018301EA48000": {
+        "Release Date": "2024-07-11",
+        "Title Name": "Disaster Band",
+        "size": 1259339776
     },
     "010026201FC68000": {
         "Release Date": "2024-07-11",
@@ -14234,25 +14234,10 @@
         "Title Name": "Good Guys",
         "size": 437256192
     },
-    "01005DE016F82000": {
-        "Release Date": "2024-06-27",
-        "Title Name": "Gun Rounds",
-        "size": 59768832
-    },
-    "0100A2301BDE8000": {
-        "Release Date": "2024-06-27",
-        "Title Name": "Luxor Evolved",
-        "size": 78643200
-    },
     "010077101D63A000": {
         "Release Date": "2024-06-27",
         "Title Name": "Radiant Tale -Fanfare!-",
         "size": 5855248384
-    },
-    "0100DEC01ED54000": {
-        "Release Date": "2024-06-27",
-        "Title Name": "Hole Theory",
-        "size": 68157440
     },
     "01003C901F0AC000": {
         "Release Date": "2024-06-27",
@@ -14263,6 +14248,21 @@
         "Release Date": "2024-06-27",
         "Title Name": "The Alpha Wolf",
         "size": 460324864
+    },
+    "01005DE016F82000": {
+        "Release Date": "2024-06-27",
+        "Title Name": "Gun Rounds",
+        "size": 59768832
+    },
+    "0100A2301BDE8000": {
+        "Release Date": "2024-06-27",
+        "Title Name": "Luxor Evolved",
+        "size": 78643200
+    },
+    "0100DEC01ED54000": {
+        "Release Date": "2024-06-27",
+        "Title Name": "Hole Theory",
+        "size": 68157440
     },
     "010063D01F8D4000": {
         "Release Date": "2024-06-27",
@@ -14531,8 +14531,8 @@
     },
     "0100F3A01E512000": {
         "Release Date": "2024-06-14",
-        "Title Name": "Agnostico OR\u00cdGENES",
-        "size": 691011584
+        "Title Name": "Agnostiko ORIGINS",
+        "size": 428867584
     },
     "0100D7A01F88A000": {
         "Release Date": "2024-06-14",
@@ -14589,15 +14589,10 @@
         "Title Name": "A Fragile Mind",
         "size": 445644800
     },
-    "01002A601BD24000": {
-        "Release Date": "2024-06-13",
-        "Title Name": "\u5fc3\u6e0a\u68a6\u5883",
-        "size": 2041577472
-    },
     "01000CD01F3A6000": {
         "Release Date": "2024-06-13",
         "Title Name": "EGGCONSOLE SORCERIAN PC-8801mkIISR",
-        "size": 84934656
+        "size": 61865984
     },
     "0100F0F01F464000": {
         "Release Date": "2024-06-13",
@@ -14608,6 +14603,11 @@
         "Release Date": "2024-06-13",
         "Title Name": "Forest Fantasy",
         "size": 372244480
+    },
+    "01002A601BD24000": {
+        "Release Date": "2024-06-13",
+        "Title Name": "\u5fc3\u6e0a\u68a6\u5883",
+        "size": 2041577472
     },
     "0100E5301696E000": {
         "Release Date": "2024-06-13",
@@ -14817,7 +14817,7 @@
     "010074501F092000": {
         "Release Date": "2024-05-30",
         "Title Name": "Boing Boing",
-        "size": 127926272
+        "size": 63963136
     },
     "010057101B7B6000": {
         "Release Date": "2024-05-30",
@@ -14882,7 +14882,7 @@
     "01006D801F5BC000": {
         "Release Date": "2024-05-27",
         "Title Name": "Cat Warrior",
-        "size": 267386880
+        "size": 205520896
     },
     "010080701CE7A000": {
         "Release Date": "2024-05-24",
@@ -14924,11 +14924,6 @@
         "Title Name": "Love, Death & Mummies: Zombie Romance Visual Novel",
         "size": 442499072
     },
-    "0100C9D01EF0A000": {
-        "Release Date": "2024-05-24",
-        "Title Name": "Super The Glass Staircase",
-        "size": 1636827136
-    },
     "01009D901EC66000": {
         "Release Date": "2024-05-23",
         "Title Name": "Hentai Girls: Idol Romance",
@@ -14954,11 +14949,6 @@
         "Title Name": "Early Learning Games for Kids, Toddlers & Babies",
         "size": 92274688
     },
-    "0100D92010664000": {
-        "Release Date": "2024-05-23",
-        "Title Name": "\u661f\u4e4b\u5361\u6bd4 \u65b0\u661f\u540c\u76df",
-        "size": 4070572032
-    },
     "010039401EFBE000": {
         "Release Date": "2024-05-23",
         "Title Name": "Pixel Game Maker Series Moon Viewing Jump Rabbit",
@@ -14974,6 +14964,11 @@
         "Title Name": "EGGCONSOLE SHIN MAOU GOLVELLIUS MSX2",
         "size": 54525952
     },
+    "0100D92010664000": {
+        "Release Date": "2024-05-23",
+        "Title Name": "\u661f\u4e4b\u5361\u6bd4 \u65b0\u661f\u540c\u76df",
+        "size": 4070572032
+    },
     "01003E201BF6A000": {
         "Release Date": "2024-05-23",
         "Title Name": "Hammerwatch",
@@ -14988,6 +14983,11 @@
         "Release Date": "2024-05-23",
         "Title Name": "\u4e94\u7b49\u5206\u7684\u65b0\u5a18 \uff5e\u8207\u4f60\u4e00\u8d77\u5ea6\u904e\u7684\u4e94\u500b\u56de\u61b6\uff5e",
         "size": 8390705152
+    },
+    "0100C9D01EF0A000": {
+        "Release Date": "2024-05-23",
+        "Title Name": "Super The Glass Staircase",
+        "size": 1636827136
     },
     "01004C501AD08000": {
         "Release Date": "2024-05-23",
@@ -15257,7 +15257,7 @@
     "0100FE301EA0C000": {
         "Release Date": "2024-05-09",
         "Title Name": "EGGCONSOLE WANDERERS FROM Ys PC-8801mkIISR",
-        "size": 144703488
+        "size": 103809024
     },
     "0100CB001F07E000": {
         "Release Date": "2024-05-09",
@@ -15291,7 +15291,7 @@
     },
     "01004AB01ECD8000": {
         "Release Date": "2024-05-08",
-        "Title Name": "Rompecabezas de animales",
+        "Title Name": "Animal Puzzle for Kids and Toddlers",
         "size": 89128960
     },
     "01009E001EF1A000": {
@@ -15304,15 +15304,15 @@
         "Title Name": "Puzzlerio",
         "size": 57671680
     },
-    "010051701F4A6000": {
-        "Release Date": "2024-05-06",
-        "Title Name": "Zombie Survival: The Walking Pandemic",
-        "size": 571473920
-    },
     "010074F01F18C000": {
         "Release Date": "2024-05-06",
         "Title Name": "Coconut Farm 3D",
         "size": 115343360
+    },
+    "010051701F4A6000": {
+        "Release Date": "2024-05-06",
+        "Title Name": "Zombie Survival: The Walking Pandemic",
+        "size": 571473920
     },
     "0100F3601E1EE000": {
         "Release Date": "2024-05-03",
@@ -15439,15 +15439,15 @@
         "Title Name": "\u5263\u3068\u9b54\u6cd5\u3068\u5b66\u5712\u30e2\u30ce\u30022G Remaster Edition",
         "size": 4361027584
     },
-    "01006AE01EB00000": {
-        "Release Date": "2024-04-25",
-        "Title Name": "\u9762\u6761\u4eba",
-        "size": 1039138816
-    },
     "010019201EDE6000": {
         "Release Date": "2024-04-25",
         "Title Name": "The Purge Club \uff5e\u6551\u6e08\uff01\u7c9b\u6e05\u30b5\u30fc\u30af\u30eb\uff5e",
         "size": 245366784
+    },
+    "01006AE01EB00000": {
+        "Release Date": "2024-04-25",
+        "Title Name": "\u9762\u6761\u4eba",
+        "size": 1039138816
     },
     "0100BFB018D92000": {
         "Release Date": "2024-04-25",
@@ -15539,15 +15539,15 @@
         "Title Name": "Trackline Express",
         "size": 229638144
     },
+    "0100EF301ECB4000": {
+        "Release Date": "2024-04-18",
+        "Title Name": "Spirit Swap - \u30b3\u30b3\u30ed\u30b7\u30e3\u30c3\u30d5\u30eb -",
+        "size": 244318208
+    },
     "0100804011430000": {
         "Release Date": "2024-04-18",
         "Title Name": "\u5ddd\u5c9b\u535a\u58eb\u7684\u8111\u90e8\u953b\u70bc",
         "size": 288358400
-    },
-    "0100EF301ECB4000": {
-        "Release Date": "2024-04-18",
-        "Title Name": "Spirit Swap - \u30b3\u30b3\u30ed\u30b7\u30e3\u30c3\u30d5\u30eb -",
-        "size": 276824064
     },
     "010077C01E05A000": {
         "Release Date": "2024-04-18",
@@ -15700,7 +15700,7 @@
         "size": 1807745024
     },
     "0100D4401D548000": {
-        "Release Date": "2024-02-09",
+        "Release Date": "2024-02-08",
         "Title Name": "Super Cannibal Abduction",
         "size": 372244480
     },
@@ -15927,7 +15927,7 @@
     "0100CC701A0BC000": {
         "Release Date": "2023-11-03",
         "Title Name": "Fashion Dreamer",
-        "size": 7450132480
+        "size": 6650068992
     },
     "01000B301BF48000": {
         "Release Date": "2023-11-03",
@@ -16054,11 +16054,6 @@
         "Title Name": "\ub1cc\ub97c \ub2e8\ub828\ud558\uc790! \uacbd\uce58\uc0ac\uc9c4\uc5d0\uc11c \ud2c0\ub9b0\ubd80\ubd84 \ucc3e\uae30",
         "size": 209715200
     },
-    "010067701B91C000": {
-        "Release Date": "2023-09-09",
-        "Title Name": "SUPER NIGHT AT THE GATES OF HELL",
-        "size": 920649728
-    },
     "0100F9801AB0A000": {
         "Release Date": "2023-09-08",
         "Title Name": "\u60ca\u5947\u5251\u58eb",
@@ -16068,6 +16063,11 @@
         "Release Date": "2023-09-07",
         "Title Name": "Remnant: From the Ashes",
         "size": 7424966656
+    },
+    "010067701B91C000": {
+        "Release Date": "2023-09-07",
+        "Title Name": "SUPER NIGHT AT THE GATES OF HELL",
+        "size": 920649728
     },
     "010081901CBF4000": {
         "Release Date": "2023-09-07",
@@ -16269,15 +16269,15 @@
         "Title Name": "\u82f1\u96c4\u5b78\u9662\u7269\u8a9e2 (Valthirian Arc: Hero School Story 2)",
         "size": 2320498688
     },
-    "010054D01ADB6000": {
-        "Release Date": "2023-06-16",
-        "Title Name": "Super Stay Out of the House",
-        "size": 1115684864
-    },
     "01008BC0194E2000": {
         "Release Date": "2023-06-15",
         "Title Name": "Jack Jeanne",
         "size": 6551502848
+    },
+    "010054D01ADB6000": {
+        "Release Date": "2023-06-15",
+        "Title Name": "SUPER STAY OUT OF THE HOUSE",
+        "size": 1115684864
     },
     "010030801B2A6000": {
         "Release Date": "2023-06-15",
@@ -17262,7 +17262,7 @@
     "01003ED016E52000": {
         "Release Date": "2022-06-24",
         "Title Name": "Capcom Fighting Collection",
-        "size": 3472883712
+        "size": 3470786560
     },
     "010076B016ADA000": {
         "Release Date": "2022-06-24",
@@ -17722,7 +17722,7 @@
     "01000C00165A8000": {
         "Release Date": "2021-12-23",
         "Title Name": "Arcade Archives XEXEX",
-        "size": 294649856
+        "size": 260046848
     },
     "010070601561A000": {
         "Release Date": "2021-12-23",
@@ -19422,7 +19422,7 @@
     "0100645012C20000": {
         "Release Date": "2020-11-24",
         "Title Name": "Cobra Kai: The Karate Kid Saga Continues",
-        "size": 5269094400
+        "size": 5270142976
     },
     "0100B1500EF32000": {
         "Release Date": "2020-11-20",
@@ -20369,11 +20369,6 @@
         "Title Name": "\u30c7\u30a3\u30ac\u30fc\u30de\u30f3",
         "size": 308281344
     },
-    "01004A700DBD6000": {
-        "Release Date": "2020-04-23",
-        "Title Name": "The Otterman Empire",
-        "size": 3155165184
-    },
     "0100F7B00E860000": {
         "Release Date": "2020-04-23",
         "Title Name": "Metro: Last Light Redux",
@@ -20622,7 +20617,7 @@
     "010066501069C000": {
         "Release Date": "2020-02-25",
         "Title Name": "SAMURAI SHODOWN",
-        "size": 16183721984
+        "size": 16184770560
     },
     "0100B2900DF06000": {
         "Release Date": "2020-02-21",
@@ -21186,7 +21181,7 @@
     },
     "01004BF007884000": {
         "Release Date": "2019-06-27",
-        "Title Name": "Soldam: Lanza, conecta, elimina",
+        "Title Name": "Soldam: Drop, Connect, Erase",
         "size": 520093696
     },
     "010012800C3F4000": {
@@ -21609,15 +21604,20 @@
         "Title Name": "FUSER\u2122",
         "size": 5456789504
     },
-    "0100F6B011028000": {
+    "01004A700DBD6000": {
         "Release Date": null,
-        "Title Name": "\u5065\u8eab\u73af\u5927\u5192\u9669",
-        "size": 2974810112
+        "Title Name": "The Otterman Empire",
+        "size": 3155165184
     },
     "0100FA900FCD6000": {
         "Release Date": null,
         "Title Name": "Valfaris (Retail Only)",
         "size": 1074790400
+    },
+    "0100F6B011028000": {
+        "Release Date": null,
+        "Title Name": "\u5065\u8eab\u73af\u5927\u5192\u9669",
+        "size": 2974810112
     },
     "0100F85014ED0000": {
         "Release Date": null,
