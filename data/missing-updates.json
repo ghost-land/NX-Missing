@@ -1,11 +1,741 @@
 {
+    "010001f01bab4800": {
+        "Game Name": "BOKURA",
+        "Version": "589824",
+        "Release Date": "2025-11-24"
+    },
+    "010003301e4dc800": {
+        "Game Name": "Morsels",
+        "Version": "131072",
+        "Release Date": "2025-11-24"
+    },
+    "0100062021c2e800": {
+        "Game Name": "BURAI \u4e0a\u5dfb MSX2\u7248",
+        "Version": "65536",
+        "Release Date": "2025-11-24"
+    },
+    "0100071022110800": {
+        "Game Name": "\u8a18\u61b6\u306e\u9375\u76e4",
+        "Version": "65536",
+        "Release Date": "2025-11-24"
+    },
+    "0100075025240800": {
+        "Game Name": "UNKNOWN GAME",
+        "Version": "65536",
+        "Release Date": "2025-11-24"
+    },
+    "010008301a8c0800": {
+        "Game Name": "DRAGON BALL GEKISHIN SQUADRA",
+        "Version": "196608",
+        "Release Date": "2025-11-24"
+    },
+    "01000d3019e24800": {
+        "Game Name": "\u30d6\u30ec\u30fc\u30c9\u3068\u30c6\u30fc\u30eb (Of Blades & Tails)",
+        "Version": "65536",
+        "Release Date": "2025-11-24"
+    },
+    "010010e020a82800": {
+        "Game Name": "SUGOROKU CASINO PARTY",
+        "Version": "327680",
+        "Release Date": "2025-11-24"
+    },
+    "01001430243ac800": {
+        "Game Name": "UNKNOWN GAME",
+        "Version": "65536",
+        "Release Date": "2025-11-24"
+    },
+    "01001600210ae800": {
+        "Game Name": "\uc0ac\uac00 \ud504\ub860\ud2f0\uc5b4 2 \ub9ac\ub9c8\uc2a4\ud130 (SaGa Frontier 2 Remastered)",
+        "Version": "262144",
+        "Release Date": "2025-11-24"
+    },
+    "010017d0256dc800": {
+        "Game Name": "Kiosk",
+        "Version": "65536",
+        "Release Date": "2025-11-24"
+    },
+    "01001d9024838800": {
+        "Game Name": "UNKNOWN GAME",
+        "Version": "65536",
+        "Release Date": "2025-11-24"
+    },
+    "010024502374a800": {
+        "Game Name": "UNKNOWN GAME",
+        "Version": "262144",
+        "Release Date": "2025-11-24"
+    },
+    "01002460135a4800": {
+        "Game Name": "\ud0dc\uace0\uc758 \ub2ec\uc778 \ucff5\ub531! \uc6d0\ub354\ud480 \ud398\uc2a4\ud2f0\ubc8c",
+        "Version": "1769472",
+        "Release Date": "2025-11-24"
+    },
+    "010025400aece800": {
+        "Game Name": "Fortnite",
+        "Version": "20054016",
+        "Release Date": "2025-11-24"
+    },
+    "01002650214ac800": {
+        "Game Name": "\u30b9\u30c8\u30ec\u30a4\u30c1\u30eb\u30c9\u30ec\u30f3",
+        "Version": "524288",
+        "Release Date": "2025-11-24"
+    },
+    "010026f0153c2800": {
+        "Game Name": "Easy Red 2",
+        "Version": "1507328",
+        "Release Date": "2025-11-24"
+    },
+    "010027801b60e800": {
+        "Game Name": "G-MODE\u30a2\u30fc\u30ab\u30a4\u30d6\u30b9+ \u9b54\u738b\u304c\u589c\u3061\u308b\u65e5II",
+        "Version": "65536",
+        "Release Date": "2025-11-24"
+    },
+    "01002a201fd4a800": {
+        "Game Name": "\u5e7b\u60f3\uff5e\u3086\u3081\u3054\u3053\u3061\uff5e",
+        "Version": "327680",
+        "Release Date": "2025-11-24"
+    },
+    "01002a7025bbc800": {
+        "Game Name": "UNKNOWN GAME",
+        "Version": "65536",
+        "Release Date": "2025-11-24"
+    },
+    "01002c101c1aa800": {
+        "Game Name": "Expeditions: A MudRunner Game",
+        "Version": "1245184",
+        "Release Date": "2025-11-24"
+    },
+    "01002ef01a316800": {
+        "Game Name": "Brotato",
+        "Version": "458752",
+        "Release Date": "2025-11-24"
+    },
+    "01002f6025fcc800": {
+        "Game Name": "UNKNOWN GAME",
+        "Version": "65536",
+        "Release Date": "2025-11-24"
+    },
+    "01002fd02494c800": {
+        "Game Name": "UNKNOWN GAME",
+        "Version": "65536",
+        "Release Date": "2025-11-24"
+    },
+    "010032401a9b0800": {
+        "Game Name": "NINJA KIDZ: TIME MASTERS",
+        "Version": "65536",
+        "Release Date": "2025-11-24"
+    },
+    "010038e024afa800": {
+        "Game Name": "UNKNOWN GAME",
+        "Version": "65536",
+        "Release Date": "2025-11-24"
+    },
+    "010041401e67c800": {
+        "Game Name": "R-Type Delta: HD Boosted",
+        "Version": "131072",
+        "Release Date": "2025-11-24"
+    },
+    "0100420025702800": {
+        "Game Name": "Sushi For Robots",
+        "Version": "65536",
+        "Release Date": "2025-11-24"
+    },
+    "010042101980c800": {
+        "Game Name": "Napoleon Maiden Episode.1 A maiden without the word impossible",
+        "Version": "393216",
+        "Release Date": "2025-11-24"
+    },
+    "010044901f00e800": {
+        "Game Name": "Rec Room",
+        "Version": "589824",
+        "Release Date": "2025-11-24"
+    },
+    "0100492022dec800": {
+        "Game Name": "Puzzles & Colors Games for Kids Toddler Coloring Book Draw Paint",
+        "Version": "196608",
+        "Release Date": "2025-11-24"
+    },
+    "010049802435e800": {
+        "Game Name": "Garten of Banban 8: Anti Devil",
+        "Version": "65536",
+        "Release Date": "2025-11-24"
+    },
+    "01004be025fd2800": {
+        "Game Name": "UNKNOWN GAME",
+        "Version": "65536",
+        "Release Date": "2025-11-24"
+    },
+    "01004cc0204cc800": {
+        "Game Name": "Forestrike",
+        "Version": "131072",
+        "Release Date": "2025-11-24"
+    },
+    "010051a020c6e800": {
+        "Game Name": "\u7d05\u306e\u932c\u91d1\u8853\u58eb\u3068\u767d\u306e\u5b88\u8b77\u8005 \uff5e\u30ec\u30b9\u30ec\u30ea\u30a2\u30fc\u30ca\u306e\u30a2\u30c8\u30ea\u30a8\uff5e",
+        "Version": "393216",
+        "Release Date": "2025-11-24"
+    },
+    "0100523021e2c800": {
+        "Game Name": "UNKNOWN GAME",
+        "Version": "65536",
+        "Release Date": "2025-11-24"
+    },
+    "0100531014988800": {
+        "Game Name": "Suzerain",
+        "Version": "262144",
+        "Release Date": "2025-11-24"
+    },
+    "010058301e0ec800": {
+        "Game Name": "Shadow Labyrinth (\uc250\ub3c4\uc6b0 \ub77c\ube44\ub9b0\uc2a4)",
+        "Version": "327680",
+        "Release Date": "2025-11-24"
+    },
+    "010059b017f9e800": {
+        "Game Name": "30XX",
+        "Version": "851968",
+        "Release Date": "2025-11-24"
+    },
+    "010059d020c26800": {
+        "Game Name": "MARVEL Cosmic Invasion",
+        "Version": "65536",
+        "Release Date": "2025-11-24"
+    },
+    "01005a100d16e800": {
+        "Game Name": "\u8352\u91ce\u884c\u52d5",
+        "Version": "10354688",
+        "Release Date": "2025-11-24"
+    },
+    "01005b000d786800": {
+        "Game Name": "DC Universe\u2122 Online",
+        "Version": "4915200",
+        "Release Date": "2025-11-24"
+    },
+    "01005c0024824800": {
+        "Game Name": "Cladun X3",
+        "Version": "196608",
+        "Release Date": "2025-11-24"
+    },
+    "01005e501f610800": {
+        "Game Name": "UNKNOWN GAME",
+        "Version": "65536",
+        "Release Date": "2025-11-24"
+    },
+    "01005e902232a800": {
+        "Game Name": "Mortal Kombat: Legacy Kollection",
+        "Version": "196608",
+        "Release Date": "2025-11-24"
+    },
+    "01005ee0036ec800": {
+        "Game Name": "Rocket League\u00ae",
+        "Version": "7667712",
+        "Release Date": "2025-11-24"
+    },
+    "010060602605a800": {
+        "Game Name": "UNKNOWN GAME",
+        "Version": "65536",
+        "Release Date": "2025-11-24"
+    },
+    "01006230222ec800": {
+        "Game Name": "Model Debut4 #nicola\uff0f\u30e2\u30c7\u30eb\u30c7\u30d3\u30e5\u30fc4 \u30cb\u30b3\u30e9",
+        "Version": "65536",
+        "Release Date": "2025-11-24"
+    },
+    "010062e01c9c2800": {
+        "Game Name": "\u30e2\u30f3\u30ab\u30eb\u30d5\u30a1\u30f3\u30bf \uff5e\u52c7\u8005\u3068\u6c34\u6676\u306e\u5c11\u5973\uff5e",
+        "Version": "262144",
+        "Release Date": "2025-11-24"
+    },
+    "010062f01e0e8800": {
+        "Game Name": "Shadow Labyrinth",
+        "Version": "327680",
+        "Release Date": "2025-11-24"
+    },
+    "010066c024aa8800": {
+        "Game Name": "Becastled",
+        "Version": "262144",
+        "Release Date": "2025-11-24"
+    },
+    "010066f02441c800": {
+        "Game Name": "LoveR Kiss Endless Memories",
+        "Version": "65536",
+        "Release Date": "2025-11-24"
+    },
+    "010067301335a800": {
+        "Game Name": "GigaBash",
+        "Version": "2031616",
+        "Release Date": "2025-11-24"
+    },
+    "01006790238b8800": {
+        "Game Name": "Pixel Cross Stitch Color by Number",
+        "Version": "262144",
+        "Release Date": "2025-11-24"
+    },
+    "01006a701a9a8800": {
+        "Game Name": "EL COCO",
+        "Version": "65536",
+        "Release Date": "2025-11-24"
+    },
+    "01006b0016ad6800": {
+        "Game Name": "Taiko no Tatsujin: Rhythm Festival",
+        "Version": "1835008",
+        "Release Date": "2025-11-24"
+    },
+    "01007100188fe800": {
+        "Game Name": "Puzzle Galaxy",
+        "Version": "131072",
+        "Release Date": "2025-11-24"
+    },
+    "0100749009844800": {
+        "Game Name": "20XX",
+        "Version": "327680",
+        "Release Date": "2025-11-24"
+    },
+    "010075a017af4800": {
+        "Game Name": "Car Parking Multiplayer",
+        "Version": "262144",
+        "Release Date": "2025-11-24"
+    },
+    "0100789024aa2800": {
+        "Game Name": "Battle Suit Aces",
+        "Version": "458752",
+        "Release Date": "2025-11-24"
+    },
+    "0100792024302800": {
+        "Game Name": "EVA",
+        "Version": "131072",
+        "Release Date": "2025-11-24"
+    },
+    "01007970245b0800": {
+        "Game Name": "Rise of Rana",
+        "Version": "196608",
+        "Release Date": "2025-11-24"
+    },
+    "01007cc0171e0800": {
+        "Game Name": "Aluna Rift",
+        "Version": "65536",
+        "Release Date": "2025-11-24"
+    },
+    "01007e30210de800": {
+        "Game Name": "Vagrus - The Riven Realms",
+        "Version": "589824",
+        "Release Date": "2025-11-24"
+    },
+    "01007fe0221d8800": {
+        "Game Name": "\u304b\u304a\u30de\u30ea\u30aa",
+        "Version": "131072",
+        "Release Date": "2025-11-24"
+    },
+    "010081f02464e800": {
+        "Game Name": "\u9244\u9053\u306b\u3063\u307d\u3093\uff01 RealPro \u9577\u8ddd\u96e2\u904b\u8ee2\uff01\u7279\u6025\u3072\u306e\u3068\u308a \u8fd1\u757f\u65e5\u672c\u9244\u9053 \u7de8",
+        "Version": "65536",
+        "Release Date": "2025-11-24"
+    },
+    "010082801c096800": {
+        "Game Name": "Fitness Adventure PRO",
+        "Version": "327680",
+        "Release Date": "2025-11-24"
+    },
+    "010082b02570a800": {
+        "Game Name": "UNKNOWN GAME",
+        "Version": "131072",
+        "Release Date": "2025-11-24"
+    },
+    "0100846023aee800": {
+        "Game Name": "UNKNOWN GAME",
+        "Version": "393216",
+        "Release Date": "2025-11-24"
+    },
+    "0100853015e86800": {
+        "Game Name": "No Man's Sky",
+        "Version": "4390912",
+        "Release Date": "2025-11-24"
+    },
+    "010086a0220cc800": {
+        "Game Name": "\u30e9\u30c3\u30ad\u30fc\u30cf\u30f3\u30bf\u30fc Lucky Hunter",
+        "Version": "131072",
+        "Release Date": "2025-11-24"
+    },
+    "010089302307c800": {
+        "Game Name": "UNKNOWN GAME",
+        "Version": "262144",
+        "Release Date": "2025-11-24"
+    },
+    "010089c00da6a800": {
+        "Game Name": "ONE PIECE \u6d77\u8cca\u7121\u53cc4",
+        "Version": "983040",
+        "Release Date": "2025-11-24"
+    },
+    "01008c50239be800": {
+        "Game Name": "Plants vs. Zombies\u2122: Replanted",
+        "Version": "196608",
+        "Release Date": "2025-11-24"
+    },
+    "01008ed024492800": {
+        "Game Name": "UNKNOWN GAME",
+        "Version": "65536",
+        "Release Date": "2025-11-24"
+    },
+    "01008f0022cd2800": {
+        "Game Name": "UNKNOWN GAME",
+        "Version": "65536",
+        "Release Date": "2025-11-24"
+    },
+    "01008ff023154800": {
+        "Game Name": "Pixel Game Maker Series GIRI Jump Extreme",
+        "Version": "131072",
+        "Release Date": "2025-11-24"
+    },
+    "010090100e334800": {
+        "Game Name": "Don't Starve Together",
+        "Version": "1638400",
+        "Release Date": "2025-11-24"
+    },
+    "010095f01fb30800": {
+        "Game Name": "\u3059\u307f\u3063\u30b3\u3050\u3089\u3057\u3000\u3064\u304f\u308d\u3046\uff01\u30b9\u30c6\u30ad\u306a\u3059\u307f\u3063\u30b3\u5cf6",
+        "Version": "65536",
+        "Release Date": "2025-11-24"
+    },
+    "0100973022242800": {
+        "Game Name": "Pets and Friends",
+        "Version": "524288",
+        "Release Date": "2025-11-24"
+    },
+    "01009ac022a6a800": {
+        "Game Name": "\u30a2\u30f3\u30c0\u30b9\u30c6\u30c3\u30c9\uff1a\u904e\u53bb\u304b\u3089\u306e\u624b\u7d19",
+        "Version": "196608",
+        "Release Date": "2025-11-24"
+    },
+    "01009af0200b4800": {
+        "Game Name": "\u30bf\u30f4\u30a1\u30f3\u30c8\u30fc\u30af",
+        "Version": "196608",
+        "Release Date": "2025-11-24"
+    },
+    "01009d9022952800": {
+        "Game Name": "Q with VTubers",
+        "Version": "262144",
+        "Release Date": "2025-11-24"
+    },
+    "0100aa3015c36800": {
+        "Game Name": "The Battle of Polytopia",
+        "Version": "851968",
+        "Release Date": "2025-11-24"
+    },
+    "0100aa50151f6800": {
+        "Game Name": "Guardian Tales",
+        "Version": "1245184",
+        "Release Date": "2025-11-24"
+    },
+    "0100b0c013912800": {
+        "Game Name": "Among Us",
+        "Version": "3538944",
+        "Release Date": "2025-11-24"
+    },
+    "0100b0e0239ac800": {
+        "Game Name": "Old School Rally",
+        "Version": "196608",
+        "Release Date": "2025-11-24"
+    },
+    "0100b2e021dc0800": {
+        "Game Name": "GIGASWORD",
+        "Version": "131072",
+        "Release Date": "2025-11-24"
+    },
+    "0100b36008f90800": {
+        "Game Name": "INAZUMA ELEVEN: Victory Road",
+        "Version": "327680",
+        "Release Date": "2025-11-24"
+    },
+    "0100b4001e0e6800": {
+        "Game Name": "Shadow Labyrinth (\u30b7\u30e3\u30c9\u30a6\u30e9\u30d3\u30ea\u30f3\u30b9)",
+        "Version": "327680",
+        "Release Date": "2025-11-24"
+    },
+    "0100b4001f81c800": {
+        "Game Name": "Citizen Sleeper 2: Starward Vector",
+        "Version": "589824",
+        "Release Date": "2025-11-24"
+    },
+    "0100b4e020ce2800": {
+        "Game Name": "\uc9c4\ud64d\uc758 \uc5f0\uae08\uc220\uc0ac\uc640 \uc21c\ubc31\uc758 \uc218\ud638\uc790 ~\ub808\uc2ac\ub808\ub9ac\uc544\ub098\uc758 \uc544\ud2c0\ub9ac\uc5d0~",
+        "Version": "393216",
+        "Release Date": "2025-11-24"
+    },
+    "0100b9901f1f2800": {
+        "Game Name": "NetherWorld",
+        "Version": "262144",
+        "Release Date": "2025-11-24"
+    },
+    "0100ba400e2f4800": {
+        "Game Name": "ONE PIECE: PIRATE WARRIORS 4",
+        "Version": "983040",
+        "Release Date": "2025-11-24"
+    },
+    "0100ba6013f0e800": {
+        "Game Name": "MY HERO ULTRA RUMBLE",
+        "Version": "1966080",
+        "Release Date": "2025-11-24"
+    },
+    "0100bb4023570800": {
+        "Game Name": "Hymer 2000",
+        "Version": "262144",
+        "Release Date": "2025-11-24"
+    },
+    "0100bb700ef82800": {
+        "Game Name": "RetroMania Wrestling",
+        "Version": "458752",
+        "Release Date": "2025-11-24"
+    },
+    "0100bc702133c800": {
+        "Game Name": "Snooker Blitz",
+        "Version": "327680",
+        "Release Date": "2025-11-24"
+    },
+    "0100bca0135a0800": {
+        "Game Name": "\u592a\u9f13\u306e\u9054\u4eba \u30c9\u30f3\u30c0\u30d5\u30eb\u30d5\u30a7\u30b9\u30c6\u30a3\u30d0\u30eb",
+        "Version": "1769472",
+        "Release Date": "2025-11-24"
+    },
+    "0100bd102513e800": {
+        "Game Name": "UNKNOWN GAME",
+        "Version": "65536",
+        "Release Date": "2025-11-24"
+    },
+    "0100bea0244fc800": {
+        "Game Name": "Majogami",
+        "Version": "262144",
+        "Release Date": "2025-11-24"
+    },
+    "0100beb014d94800": {
+        "Game Name": "Banners of Ruin",
+        "Version": "393216",
+        "Release Date": "2025-11-24"
+    },
+    "0100c47025f3a800": {
+        "Game Name": "UNKNOWN GAME",
+        "Version": "65536",
+        "Release Date": "2025-11-24"
+    },
+    "0100c4f020332800": {
+        "Game Name": "MR. ELEVATOR",
+        "Version": "262144",
+        "Release Date": "2025-11-24"
+    },
+    "0100c6b010fd6800": {
+        "Game Name": "Lake",
+        "Version": "131072",
+        "Release Date": "2025-11-24"
+    },
+    "0100c7301f6fa800": {
+        "Game Name": "Hard Time III",
+        "Version": "786432",
+        "Release Date": "2025-11-24"
+    },
+    "0100c8e0113f0800": {
+        "Game Name": "Hulu\uff08\u30d5\u30fc\u30eb\u30fc\uff09",
+        "Version": "1835008",
+        "Release Date": "2025-11-24"
+    },
+    "0100c94025442800": {
+        "Game Name": "UNKNOWN GAME",
+        "Version": "131072",
+        "Release Date": "2025-11-24"
+    },
+    "0100ca30235e6800": {
+        "Game Name": "Battle Train",
+        "Version": "327680",
+        "Release Date": "2025-11-24"
+    },
+    "0100cb8023e5a800": {
+        "Game Name": "UNKNOWN GAME",
+        "Version": "262144",
+        "Release Date": "2025-11-24"
+    },
+    "0100cbf022e18800": {
+        "Game Name": "NBA 2K26",
+        "Version": "262144",
+        "Release Date": "2025-11-24"
+    },
+    "0100cd601ab4c800": {
+        "Game Name": "Demonschool",
+        "Version": "262144",
+        "Release Date": "2025-11-24"
+    },
+    "0100d060251aa800": {
+        "Game Name": "UNKNOWN GAME",
+        "Version": "65536",
+        "Release Date": "2025-11-24"
+    },
+    "0100d1c01c194800": {
+        "Game Name": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
+        "Version": "1048576",
+        "Release Date": "2025-11-24"
+    },
+    "0100d1e00e972800": {
+        "Game Name": "Warface: Clutch",
+        "Version": "7274496",
+        "Release Date": "2025-11-24"
+    },
+    "0100d55025aec800": {
+        "Game Name": "UNKNOWN GAME",
+        "Version": "65536",
+        "Release Date": "2025-11-24"
+    },
+    "0100d66023292800": {
+        "Game Name": "UNKNOWN GAME",
+        "Version": "65536",
+        "Release Date": "2025-11-24"
+    },
+    "0100d71004694800": {
+        "Game Name": "Minecraft",
+        "Version": "9043968",
+        "Release Date": "2025-11-24"
+    },
+    "0100de2016376800": {
+        "Game Name": "Wildfrost",
+        "Version": "786432",
+        "Release Date": "2025-11-24"
+    },
+    "0100e2301fb1e800": {
+        "Game Name": "BEYBLADE X XONE",
+        "Version": "720896",
+        "Release Date": "2025-11-24"
+    },
+    "0100e4301e0ea800": {
+        "Game Name": "Shadow Labyrinth",
+        "Version": "327680",
+        "Release Date": "2025-11-24"
+    },
+    "0100e5b022310800": {
+        "Game Name": "The Jackbox Party Pack 11",
+        "Version": "131072",
+        "Release Date": "2025-11-24"
+    },
+    "0100ec4024410800": {
+        "Game Name": "BOKURA: planet",
+        "Version": "196608",
+        "Release Date": "2025-11-24"
+    },
+    "0100efa025abe800": {
+        "Game Name": "\u30e9\u30d3\u30c3\u30c8\u30b5\u30e0\u30e9\u30a4",
+        "Version": "65536",
+        "Release Date": "2025-11-24"
+    },
+    "0100f0c01d138800": {
+        "Game Name": "Tattoo Tycoon",
+        "Version": "65536",
+        "Release Date": "2025-11-24"
+    },
+    "0100f1500cc64800": {
+        "Game Name": "Venture Towns",
+        "Version": "262144",
+        "Release Date": "2025-11-24"
+    },
+    "0100f4c01aa98800": {
+        "Game Name": "BroodStar",
+        "Version": "393216",
+        "Release Date": "2025-11-24"
+    },
+    "0100f5201b452800": {
+        "Game Name": "OFF",
+        "Version": "196608",
+        "Release Date": "2025-11-24"
+    },
+    "0100f7501a2fe800": {
+        "Game Name": "XENOTILT: HOSTILE PINBALL ACTION",
+        "Version": "327680",
+        "Release Date": "2025-11-24"
+    },
+    "0100fa301cfa2800": {
+        "Game Name": "Farm Together 2",
+        "Version": "786432",
+        "Release Date": "2025-11-24"
+    },
+    "0100fa401961e800": {
+        "Game Name": "Disney Illusion Island",
+        "Version": "524288",
+        "Release Date": "2025-11-24"
+    },
+    "0100039023968800": {
+        "Game Name": "There's no Dragons",
+        "Version": "65536",
+        "Release Date": "2025-11-13"
+    },
     "0100155025002800": {
         "Game Name": "\"GUDETAMARUN\" - Running GUDETAMA ! But GUDETAMA wants to be Gudegude ~",
         "Version": "196608",
         "Release Date": "2025-11-13"
     },
+    "01001e4012484800": {
+        "Game Name": "Path of Titans",
+        "Version": "1245184",
+        "Release Date": "2025-11-13"
+    },
+    "010020500bd86800": {
+        "Game Name": "Colors Live",
+        "Version": "1310720",
+        "Release Date": "2025-11-13"
+    },
     "01002610207bc800": {
         "Game Name": "Party Party Time 3",
+        "Version": "393216",
+        "Release Date": "2025-11-13"
+    },
+    "010029001c71a800": {
+        "Game Name": "Toziuha Night: Order of the Alchemists",
+        "Version": "131072",
+        "Release Date": "2025-11-13"
+    },
+    "010039501ef32800": {
+        "Game Name": "\u30dc\u30a6\u3068\u6708\u591c\u306e\u78a7\u3044\u82b1",
+        "Version": "327680",
+        "Release Date": "2025-11-13"
+    },
+    "01004ab02487a800": {
+        "Game Name": "UNKNOWN GAME",
+        "Version": "131072",
+        "Release Date": "2025-11-13"
+    },
+    "0100523021fea800": {
+        "Game Name": "Saborus",
+        "Version": "131072",
+        "Release Date": "2025-11-13"
+    },
+    "010056901ed1a800": {
+        "Game Name": "STORY OF SEASONS: Grand Bazaar",
+        "Version": "458752",
+        "Release Date": "2025-11-13"
+    },
+    "010083602099a800": {
+        "Game Name": "\uc6cc\ube14\ub9ac \ub77c\uc774\ud504 (Wobbly Life)",
+        "Version": "262144",
+        "Release Date": "2025-11-13"
+    },
+    "0100896024976800": {
+        "Game Name": "Brass",
+        "Version": "65536",
+        "Release Date": "2025-11-13"
+    },
+    "0100aa201c7b8800": {
+        "Game Name": "\ub358\uc804\uc2a4 4 (Dungeons 4)",
+        "Version": "327680",
+        "Release Date": "2025-11-13"
+    },
+    "0100aa6025436800": {
+        "Game Name": "BROK: The Brawl Bar \u540d\u63a2\u5075\u30d6\u30ed\u30af\u3068\u6fc0\u95d8\u306e\u9152\u5834",
+        "Version": "65536",
+        "Release Date": "2025-11-13"
+    },
+    "0100afb020524800": {
+        "Game Name": "Raiden NOVA",
+        "Version": "196608",
+        "Release Date": "2025-11-13"
+    },
+    "0100ba301b186800": {
+        "Game Name": "Fast Striker EX",
+        "Version": "65536",
+        "Release Date": "2025-11-13"
+    },
+    "0100dd901ed24800": {
+        "Game Name": "Story of Seasons: Grand Bazaar",
         "Version": "393216",
         "Release Date": "2025-11-13"
     },
@@ -27,11 +757,6 @@
     "01001f402517a800": {
         "Game Name": "\u30c4\u30af\u30fc\u30eb\u30b7\u30ea\u30fc\u30ba\u3000\u3057\u304d\u5f0f\uff01\u307b\uff5e\u3093\u3066\u3063\u3069\u3060\u3093\u3058\u3087\u3093",
         "Version": "65536",
-        "Release Date": "2025-11-12"
-    },
-    "010025400aece800": {
-        "Game Name": "Fortnite",
-        "Version": "19988480",
         "Release Date": "2025-11-12"
     },
     "01002b5024e36800": {
@@ -119,11 +844,6 @@
         "Version": "65536",
         "Release Date": "2025-11-12"
     },
-    "0100b2e021dc0800": {
-        "Game Name": "GIGASWORD",
-        "Version": "65536",
-        "Release Date": "2025-11-12"
-    },
     "0100b380199bc800": {
         "Game Name": "Jigsaw Puzzle: Belgium through the Lens",
         "Version": "65536",
@@ -136,11 +856,6 @@
     },
     "0100c3d0212a4800": {
         "Game Name": "UNKNOWN GAME",
-        "Version": "196608",
-        "Release Date": "2025-11-12"
-    },
-    "0100cd601ab4c800": {
-        "Game Name": "Demonschool",
         "Version": "196608",
         "Release Date": "2025-11-12"
     },
@@ -189,11 +904,6 @@
         "Version": "262144",
         "Release Date": "2025-11-12"
     },
-    "0100f7501a2fe800": {
-        "Game Name": "XENOTILT: HOSTILE PINBALL ACTION",
-        "Version": "262144",
-        "Release Date": "2025-11-12"
-    },
     "0100f8600e21e800": {
         "Game Name": "Overwatch\u00ae 2",
         "Version": "8781824",
@@ -227,11 +937,6 @@
     "0100a9e01ae9a800": {
         "Game Name": "Stumble Guys",
         "Version": "655360",
-        "Release Date": "2025-11-10"
-    },
-    "0100bb4023570800": {
-        "Game Name": "Hymer 2000",
-        "Version": "196608",
         "Release Date": "2025-11-10"
     },
     "0100ed501dffc800": {
@@ -274,11 +979,6 @@
         "Version": "65536",
         "Release Date": "2025-11-07"
     },
-    "01008c50239be800": {
-        "Game Name": "Plants vs. Zombies\u2122: Replanted",
-        "Version": "131072",
-        "Release Date": "2025-11-07"
-    },
     "0100900023dbe800": {
         "Game Name": "Samurai Academy: Paws of Fury",
         "Version": "65536",
@@ -319,16 +1019,6 @@
         "Version": "65536",
         "Release Date": "2025-11-06"
     },
-    "0100523021fea800": {
-        "Game Name": "Saborus",
-        "Version": "65536",
-        "Release Date": "2025-11-06"
-    },
-    "0100792024302800": {
-        "Game Name": "EVA",
-        "Version": "65536",
-        "Release Date": "2025-11-06"
-    },
     "0100b2d023548800": {
         "Game Name": "Sea Fantasy",
         "Version": "196608",
@@ -347,11 +1037,6 @@
     "0100bc50122b6800": {
         "Game Name": "Farm Builder",
         "Version": "131072",
-        "Release Date": "2025-11-06"
-    },
-    "0100c94025442800": {
-        "Game Name": "UNKNOWN GAME",
-        "Version": "65536",
         "Release Date": "2025-11-06"
     },
     "0100cfb01cdce800": {
@@ -379,16 +1064,6 @@
         "Version": "262144",
         "Release Date": "2025-11-05"
     },
-    "010029001c71a800": {
-        "Game Name": "Toziuha Night: Order of the Alchemists",
-        "Version": "65536",
-        "Release Date": "2025-11-05"
-    },
-    "01002ef01a316800": {
-        "Game Name": "Brotato",
-        "Version": "393216",
-        "Release Date": "2025-11-05"
-    },
     "010034800b75e800": {
         "Game Name": "Astrology and Horoscopes Premium",
         "Version": "524288",
@@ -407,11 +1082,6 @@
     "010053901f524800": {
         "Game Name": "WAKUSEI",
         "Version": "196608",
-        "Release Date": "2025-11-05"
-    },
-    "01005a100d16e800": {
-        "Game Name": "\u8352\u91ce\u884c\u52d5",
-        "Version": "10289152",
         "Release Date": "2025-11-05"
     },
     "01005ed025a1a800": {
@@ -489,11 +1159,6 @@
         "Version": "10616832",
         "Release Date": "2025-11-04"
     },
-    "010066c024aa8800": {
-        "Game Name": "Becastled",
-        "Version": "196608",
-        "Release Date": "2025-11-04"
-    },
     "0100720023f52800": {
         "Game Name": "Infinite Lives",
         "Version": "131072",
@@ -567,11 +1232,6 @@
     "010072e0258bc800": {
         "Game Name": "UNKNOWN GAME",
         "Version": "65536",
-        "Release Date": "2025-11-03"
-    },
-    "0100789024aa2800": {
-        "Game Name": "Battle Suit Aces",
-        "Version": "327680",
         "Release Date": "2025-11-03"
     },
     "0100821020bbc800": {
@@ -649,11 +1309,6 @@
         "Version": "393216",
         "Release Date": "2025-10-31"
     },
-    "01002650214ac800": {
-        "Game Name": "\u30b9\u30c8\u30ec\u30a4\u30c1\u30eb\u30c9\u30ec\u30f3",
-        "Version": "458752",
-        "Release Date": "2025-10-30"
-    },
     "010035401b0d8800": {
         "Game Name": "\u30d7\u30ec\u30fc\u30c8\u30a2\u30c3\u30d7\uff01",
         "Version": "131072",
@@ -704,19 +1359,9 @@
         "Version": "65536",
         "Release Date": "2025-10-30"
     },
-    "0100c4f020332800": {
-        "Game Name": "MR. ELEVATOR",
-        "Version": "196608",
-        "Release Date": "2025-10-30"
-    },
     "0100ccf020de2800": {
         "Game Name": "The Rocky Horror Show Video Game",
         "Version": "65536",
-        "Release Date": "2025-10-30"
-    },
-    "0100d1e00e972800": {
-        "Game Name": "Warface: Clutch",
-        "Version": "7208960",
         "Release Date": "2025-10-30"
     },
     "0100e5001fb58800": {
@@ -774,19 +1419,9 @@
         "Version": "196608",
         "Release Date": "2025-10-29"
     },
-    "010051a020c6e800": {
-        "Game Name": "\u7d05\u306e\u932c\u91d1\u8853\u58eb\u3068\u767d\u306e\u5b88\u8b77\u8005 \uff5e\u30ec\u30b9\u30ec\u30ea\u30a2\u30fc\u30ca\u306e\u30a2\u30c8\u30ea\u30a8\uff5e",
-        "Version": "327680",
-        "Release Date": "2025-10-29"
-    },
     "010059301b7f0800": {
         "Game Name": "\u9b3c\u6ec5\u306e\u5203 \u30d2\u30ce\u30ab\u30df\u8840\u98a8\u8b5a2",
         "Version": "458752",
-        "Release Date": "2025-10-29"
-    },
-    "010062e01c9c2800": {
-        "Game Name": "\u30e2\u30f3\u30ab\u30eb\u30d5\u30a1\u30f3\u30bf \uff5e\u52c7\u8005\u3068\u6c34\u6676\u306e\u5c11\u5973\uff5e",
-        "Version": "196608",
         "Release Date": "2025-10-29"
     },
     "01006b901f3fa800": {
@@ -829,16 +1464,6 @@
         "Version": "131072",
         "Release Date": "2025-10-29"
     },
-    "0100b4e020ce2800": {
-        "Game Name": "\uc9c4\ud64d\uc758 \uc5f0\uae08\uc220\uc0ac\uc640 \uc21c\ubc31\uc758 \uc218\ud638\uc790 ~\ub808\uc2ac\ub808\ub9ac\uc544\ub098\uc758 \uc544\ud2c0\ub9ac\uc5d0~",
-        "Version": "327680",
-        "Release Date": "2025-10-29"
-    },
-    "0100bb700ef82800": {
-        "Game Name": "RetroMania Wrestling",
-        "Version": "393216",
-        "Release Date": "2025-10-29"
-    },
     "0100bd800986e800": {
         "Game Name": "Gems of War",
         "Version": "3080192",
@@ -868,11 +1493,6 @@
         "Game Name": "\u30d1\u30e9\u30c0\u30a4\u30b9\u30ad\u30e9\u30fc",
         "Version": "262144",
         "Release Date": "2025-10-29"
-    },
-    "01001e4012484800": {
-        "Game Name": "Path of Titans",
-        "Version": "1179648",
-        "Release Date": "2025-10-28"
     },
     "0100b0c023ddc800": {
         "Game Name": "Seer's Gambit",
@@ -907,11 +1527,6 @@
     "01001cd02327c800": {
         "Game Name": "Chicken Run: Eggstraction",
         "Version": "131072",
-        "Release Date": "2025-10-27"
-    },
-    "010086a0220cc800": {
-        "Game Name": "\u30e9\u30c3\u30ad\u30fc\u30cf\u30f3\u30bf\u30fc Lucky Hunter",
-        "Version": "65536",
         "Release Date": "2025-10-27"
     },
     "0100a0b018a72800": {
@@ -964,16 +1579,6 @@
         "Version": "65536",
         "Release Date": "2025-10-24"
     },
-    "01005c0024824800": {
-        "Game Name": "Cladun X3",
-        "Version": "131072",
-        "Release Date": "2025-10-24"
-    },
-    "01005ee0036ec800": {
-        "Game Name": "Rocket League\u00ae",
-        "Version": "7602176",
-        "Release Date": "2025-10-24"
-    },
     "01005fd018eb0800": {
         "Game Name": "\u9244\u9053\u306b\u3063\u307d\u3093\uff01Real Pro \u7279\u6025\u8d70\u884c\uff01\u540d\u53e4\u5c4b\u9244\u9053\u7de8",
         "Version": "458752",
@@ -987,11 +1592,6 @@
     "0100b3202490a800": {
         "Game Name": "WINDSWEPT",
         "Version": "65536",
-        "Release Date": "2025-10-24"
-    },
-    "0100cb8023e5a800": {
-        "Game Name": "UNKNOWN GAME",
-        "Version": "196608",
         "Release Date": "2025-10-24"
     },
     "01000c001f82a800": {
@@ -1037,11 +1637,6 @@
     "0100837023778800": {
         "Game Name": "NINJA GAIDEN: Ragebound",
         "Version": "327680",
-        "Release Date": "2025-10-23"
-    },
-    "010089302307c800": {
-        "Game Name": "UNKNOWN GAME",
-        "Version": "196608",
         "Release Date": "2025-10-23"
     },
     "0100939011ed4800": {
@@ -1109,19 +1704,9 @@
         "Version": "196608",
         "Release Date": "2025-10-22"
     },
-    "01009ac022a6a800": {
-        "Game Name": "\u30a2\u30f3\u30c0\u30b9\u30c6\u30c3\u30c9\uff1a\u904e\u53bb\u304b\u3089\u306e\u624b\u7d19",
-        "Version": "131072",
-        "Release Date": "2025-10-22"
-    },
     "0100b4101459a800": {
         "Game Name": "Hatsune Miku Logic Paint S",
         "Version": "458752",
-        "Release Date": "2025-10-22"
-    },
-    "0100ba6013f0e800": {
-        "Game Name": "MY HERO ULTRA RUMBLE",
-        "Version": "1900544",
         "Release Date": "2025-10-22"
     },
     "0100c4101d176800": {
@@ -1147,11 +1732,6 @@
     "0100260021fe8800": {
         "Game Name": "Shroomtopia",
         "Version": "65536",
-        "Release Date": "2025-10-21"
-    },
-    "01005b000d786800": {
-        "Game Name": "DC Universe\u2122 Online",
-        "Version": "4849664",
         "Release Date": "2025-10-21"
     },
     "010069b01b18e800": {
@@ -1239,11 +1819,6 @@
         "Version": "65536",
         "Release Date": "2025-10-17"
     },
-    "0100b0e0239ac800": {
-        "Game Name": "Old School Rally",
-        "Version": "131072",
-        "Release Date": "2025-10-17"
-    },
     "0100e0901e11a800": {
         "Game Name": "Racine",
         "Version": "65536",
@@ -1271,11 +1846,6 @@
     },
     "01006aa020476800": {
         "Game Name": "Jelly Troops",
-        "Version": "131072",
-        "Release Date": "2025-10-16"
-    },
-    "01007970245b0800": {
-        "Game Name": "Rise of Rana",
         "Version": "131072",
         "Release Date": "2025-10-16"
     },
@@ -1327,11 +1897,6 @@
     "010023b021274800": {
         "Game Name": "Arcana Famiglia Rinato",
         "Version": "65536",
-        "Release Date": "2025-10-15"
-    },
-    "01002a201fd4a800": {
-        "Game Name": "\u5e7b\u60f3\uff5e\u3086\u3081\u3054\u3053\u3061\uff5e",
-        "Version": "262144",
         "Release Date": "2025-10-15"
     },
     "01003ed0257f4800": {
@@ -1394,11 +1959,6 @@
         "Version": "65536",
         "Release Date": "2025-10-15"
     },
-    "0100fa301cfa2800": {
-        "Game Name": "Farm Together 2",
-        "Version": "589824",
-        "Release Date": "2025-10-15"
-    },
     "0100fee00a64e800": {
         "Game Name": "Warframe",
         "Version": "4587520",
@@ -1434,19 +1994,9 @@
         "Version": "131072",
         "Release Date": "2025-10-14"
     },
-    "0100b0c013912800": {
-        "Game Name": "Among Us",
-        "Version": "3473408",
-        "Release Date": "2025-10-14"
-    },
     "0100c3c015738800": {
         "Game Name": "Fall Guys",
         "Version": "3276800",
-        "Release Date": "2025-10-14"
-    },
-    "0100cbf022e18800": {
-        "Game Name": "NBA 2K26",
-        "Version": "196608",
         "Release Date": "2025-10-14"
     },
     "010034801fcbe800": {
@@ -1457,11 +2007,6 @@
     "010077001cce8800": {
         "Game Name": "Star of Providence",
         "Version": "262144",
-        "Release Date": "2025-10-13"
-    },
-    "01009d9022952800": {
-        "Game Name": "Q with VTubers",
-        "Version": "196608",
         "Release Date": "2025-10-13"
     },
     "0100a78021ade800": {
@@ -1479,11 +2024,6 @@
         "Version": "327680",
         "Release Date": "2025-10-10"
     },
-    "010075a017af4800": {
-        "Game Name": "Car Parking Multiplayer",
-        "Version": "196608",
-        "Release Date": "2025-10-10"
-    },
     "01009ad021d08800": {
         "Game Name": "Piggly Pagly Boom",
         "Version": "65536",
@@ -1498,11 +2038,6 @@
         "Game Name": "UNKNOWN GAME",
         "Version": "196608",
         "Release Date": "2025-10-10"
-    },
-    "010008301a8c0800": {
-        "Game Name": "DRAGON BALL GEKISHIN SQUADRA",
-        "Version": "131072",
-        "Release Date": "2025-10-09"
     },
     "010020e01eb72800": {
         "Game Name": "dotAGE",
@@ -1542,16 +2077,6 @@
     "0100c7d01f53c800": {
         "Game Name": "Catch BESHI!! Scooping Game",
         "Version": "262144",
-        "Release Date": "2025-10-09"
-    },
-    "0100ca30235e6800": {
-        "Game Name": "Battle Train",
-        "Version": "262144",
-        "Release Date": "2025-10-09"
-    },
-    "0100d39012c1a800": {
-        "Game Name": "Disney Dreamlight Valley",
-        "Version": "3211264",
         "Release Date": "2025-10-09"
     },
     "0100e5801db6e800": {
@@ -1594,11 +2119,6 @@
         "Version": "131072",
         "Release Date": "2025-10-08"
     },
-    "010056901ed1a800": {
-        "Game Name": "STORY OF SEASONS: Grand Bazaar",
-        "Version": "393216",
-        "Release Date": "2025-10-08"
-    },
     "010064701f37a800": {
         "Game Name": "\u30b8\u30e5\u30a8\u30ea\u30fc\u30fb\u30cf\u30fc\u30c4\u30fb\u30a2\u30ab\u30c7\u30df\u30a2 -We will wing wonder world-",
         "Version": "65536",
@@ -1632,11 +2152,6 @@
     "0100dae0168fa800": {
         "Game Name": null,
         "Version": "65536",
-        "Release Date": "2025-10-08"
-    },
-    "0100dd901ed24800": {
-        "Game Name": "Story of Seasons: Grand Bazaar",
-        "Version": "327680",
         "Release Date": "2025-10-08"
     },
     "0100f5f024c2c800": {
@@ -1692,11 +2207,6 @@
     "0100b2301940e800": {
         "Game Name": "UNKNOWN GAME",
         "Version": "1114112",
-        "Release Date": "2025-10-07"
-    },
-    "0100d1c01c194800": {
-        "Game Name": "\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u74032024-2025",
-        "Version": "983040",
         "Release Date": "2025-10-07"
     },
     "0100db3011e8c800": {
@@ -1807,11 +2317,6 @@
     "01008280230d0800": {
         "Game Name": "Ramen! Road to Mastery",
         "Version": "196608",
-        "Release Date": "2025-10-02"
-    },
-    "0100973022242800": {
-        "Game Name": "Pets and Friends",
-        "Version": "393216",
         "Release Date": "2025-10-02"
     },
     "0100bfd02225c800": {
@@ -1974,11 +2479,6 @@
         "Version": "131072",
         "Release Date": "2025-09-30"
     },
-    "010082801c096800": {
-        "Game Name": "Fitness Adventure PRO",
-        "Version": "262144",
-        "Release Date": "2025-09-30"
-    },
     "010082c01fa66800": {
         "Game Name": "\u4e16\u754c\u5f81\u670d\u5f7c\u5973",
         "Version": "131072",
@@ -2014,19 +2514,9 @@
         "Version": "65536",
         "Release Date": "2025-09-30"
     },
-    "01004ab02487a800": {
-        "Game Name": "UNKNOWN GAME",
-        "Version": "65536",
-        "Release Date": "2025-09-29"
-    },
     "0100713021c94800": {
         "Game Name": "Notice Me Leena-senpai!",
         "Version": "65536",
-        "Release Date": "2025-09-29"
-    },
-    "0100aa50151f6800": {
-        "Game Name": "Guardian Tales",
-        "Version": "1179648",
         "Release Date": "2025-09-29"
     },
     "0100cc9021c58800": {
@@ -2061,11 +2551,6 @@
     },
     "010046701b488800": {
         "Game Name": "SHINOBI: Art of Vengeance",
-        "Version": "131072",
-        "Release Date": "2025-09-26"
-    },
-    "0100492022dec800": {
-        "Game Name": "Puzzles & Colors Games for Kids Toddler Coloring Book Draw Paint",
         "Version": "131072",
         "Release Date": "2025-09-26"
     },
@@ -2134,11 +2619,6 @@
         "Version": "196608",
         "Release Date": "2025-09-24"
     },
-    "0100c8e0113f0800": {
-        "Game Name": "Hulu\uff08\u30d5\u30fc\u30eb\u30fc\uff09",
-        "Version": "1769472",
-        "Release Date": "2025-09-24"
-    },
     "0100d3801e6ce800": {
         "Game Name": "Poppy Playtime: Chapter 2",
         "Version": "262144",
@@ -2186,11 +2666,6 @@
     },
     "010035e025044800": {
         "Game Name": "RANDOMAX",
-        "Version": "65536",
-        "Release Date": "2025-09-20"
-    },
-    "010041401e67c800": {
-        "Game Name": "R-Type Delta: HD Boosted",
         "Version": "65536",
         "Release Date": "2025-09-20"
     },
@@ -2284,11 +2759,6 @@
         "Version": "196608",
         "Release Date": "2025-09-17"
     },
-    "010083602099a800": {
-        "Game Name": "\uc6cc\ube14\ub9ac \ub77c\uc774\ud504 (Wobbly Life)",
-        "Version": "196608",
-        "Release Date": "2025-09-17"
-    },
     "010083602477c800": {
         "Game Name": "UNKNOWN GAME",
         "Version": "131072",
@@ -2302,11 +2772,6 @@
     "010096001c25c800": {
         "Game Name": "Crossy Road Castle",
         "Version": "393216",
-        "Release Date": "2025-09-17"
-    },
-    "0100afb020524800": {
-        "Game Name": "Raiden NOVA",
-        "Version": "131072",
         "Release Date": "2025-09-17"
     },
     "0100e640118c4800": {
@@ -2489,11 +2954,6 @@
         "Version": "458752",
         "Release Date": "2025-09-14"
     },
-    "010024502374a800": {
-        "Game Name": "UNKNOWN GAME",
-        "Version": "196608",
-        "Release Date": "2025-09-14"
-    },
     "010025602377c800": {
         "Game Name": "Escape Game:The Odd Crime Scene",
         "Version": "65536",
@@ -2594,11 +3054,6 @@
         "Version": "1572864",
         "Release Date": "2025-09-14"
     },
-    "010044901f00e800": {
-        "Game Name": "Rec Room",
-        "Version": "524288",
-        "Release Date": "2025-09-14"
-    },
     "0100464021934800": {
         "Game Name": "Baki Hanma: Blood Arena",
         "Version": "131072",
@@ -2654,11 +3109,6 @@
         "Version": "1703936",
         "Release Date": "2025-09-14"
     },
-    "010058301e0ec800": {
-        "Game Name": "Shadow Labyrinth (\uc250\ub3c4\uc6b0 \ub77c\ube44\ub9b0\uc2a4)",
-        "Version": "262144",
-        "Release Date": "2025-09-14"
-    },
     "0100593022f3e800": {
         "Game Name": "The Wizard of Bug",
         "Version": "196608",
@@ -2674,11 +3124,6 @@
         "Version": "65536",
         "Release Date": "2025-09-14"
     },
-    "010062f01e0e8800": {
-        "Game Name": "Shadow Labyrinth",
-        "Version": "262144",
-        "Release Date": "2025-09-14"
-    },
     "01006660233c6800": {
         "Game Name": "The Red Bell's Lament",
         "Version": "327680",
@@ -2689,19 +3134,9 @@
         "Version": "524288",
         "Release Date": "2025-09-14"
     },
-    "010067301335a800": {
-        "Game Name": "GigaBash",
-        "Version": "1900544",
-        "Release Date": "2025-09-14"
-    },
     "0100678021af6800": {
         "Game Name": "Treflix: Mini Games",
         "Version": "327680",
-        "Release Date": "2025-09-14"
-    },
-    "01006790238b8800": {
-        "Game Name": "Pixel Cross Stitch Color by Number",
-        "Version": "131072",
         "Release Date": "2025-09-14"
     },
     "01006ab020e40800": {
@@ -2772,11 +3207,6 @@
     "010083d00f780800": {
         "Game Name": "60 Parsecs!",
         "Version": "327680",
-        "Release Date": "2025-09-14"
-    },
-    "0100846023aee800": {
-        "Game Name": "UNKNOWN GAME",
-        "Version": "196608",
         "Release Date": "2025-09-14"
     },
     "01008c201619c800": {
@@ -2874,11 +3304,6 @@
         "Version": "65536",
         "Release Date": "2025-09-14"
     },
-    "0100aa3015c36800": {
-        "Game Name": "The Battle of Polytopia",
-        "Version": "786432",
-        "Release Date": "2025-09-14"
-    },
     "0100aaa024a72800": {
         "Game Name": "Kawaii Girls: Venice Crush",
         "Version": "65536",
@@ -2969,11 +3394,6 @@
         "Version": "262144",
         "Release Date": "2025-09-14"
     },
-    "0100bc702133c800": {
-        "Game Name": "Snooker Blitz",
-        "Version": "262144",
-        "Release Date": "2025-09-14"
-    },
     "0100bc9023f70800": {
         "Game Name": "Voxelgram 2",
         "Version": "131072",
@@ -3002,11 +3422,6 @@
     "0100be702494e800": {
         "Game Name": "Pattern Thinking Puzzle Build It Before 10",
         "Version": "65536",
-        "Release Date": "2025-09-14"
-    },
-    "0100beb014d94800": {
-        "Game Name": "Banners of Ruin",
-        "Version": "327680",
         "Release Date": "2025-09-14"
     },
     "0100bf701c27c800": {
@@ -3119,11 +3534,6 @@
         "Version": "131072",
         "Release Date": "2025-09-14"
     },
-    "0100e4301e0ea800": {
-        "Game Name": "Shadow Labyrinth",
-        "Version": "262144",
-        "Release Date": "2025-09-14"
-    },
     "0100e5e023ce4800": {
         "Game Name": "Robot girl's dream -RobotBattleChampionship-",
         "Version": "131072",
@@ -3149,11 +3559,6 @@
         "Version": "327680",
         "Release Date": "2025-09-14"
     },
-    "0100ec4024410800": {
-        "Game Name": "BOKURA: planet",
-        "Version": "65536",
-        "Release Date": "2025-09-14"
-    },
     "0100ef801b7fa800": {
         "Game Name": "Fabled Lands",
         "Version": "458752",
@@ -3167,11 +3572,6 @@
     "0100f47016f26800": {
         "Game Name": "\u591c\u5efb\u4e09",
         "Version": "196608",
-        "Release Date": "2025-09-14"
-    },
-    "0100f4c01aa98800": {
-        "Game Name": "BroodStar",
-        "Version": "327680",
         "Release Date": "2025-09-14"
     },
     "0100f5802483a800": {
@@ -3239,11 +3639,6 @@
         "Version": "196608",
         "Release Date": "2025-08-06"
     },
-    "010089c00da6a800": {
-        "Game Name": "ONE PIECE \u6d77\u8cca\u7121\u53cc4",
-        "Version": "786432",
-        "Release Date": "2025-08-06"
-    },
     "01008bf022014800": {
         "Game Name": "\u304f\u308b\u304f\u308b\u56de\u305d\u3046\uff01\u65b9\u5411\u5e55\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 for Nintendo Switch\u2122 -\u962a\u795e\u96fb\u6c17\u9244\u9053\u7de8- \u9244\u9053\u65b9\u5411\u5e55\u30b7\u30df\u30e5\u30ec\u30fc\u30bf\u30fc",
         "Version": "131072",
@@ -3262,11 +3657,6 @@
     "0100a50022154800": {
         "Game Name": "Ambidextro",
         "Version": "196608",
-        "Release Date": "2025-08-06"
-    },
-    "0100ba400e2f4800": {
-        "Game Name": "ONE PIECE: PIRATE WARRIORS 4",
-        "Version": "786432",
         "Release Date": "2025-08-06"
     },
     "0100d8e023ea6800": {
@@ -3367,11 +3757,6 @@
     "0100082014d86800": {
         "Game Name": "VasterClaws 3:Dragon slayer of the God world",
         "Version": "917504",
-        "Release Date": "2025-07-31"
-    },
-    "01002460135a4800": {
-        "Game Name": "\ud0dc\uace0\uc758 \ub2ec\uc778 \ucff5\ub531! \uc6d0\ub354\ud480 \ud398\uc2a4\ud2f0\ubc8c",
-        "Version": "1638400",
         "Release Date": "2025-07-31"
     },
     "01002af021c28800": {
@@ -3744,11 +4129,6 @@
         "Version": "327680",
         "Release Date": "2025-07-16"
     },
-    "0100c7301f6fa800": {
-        "Game Name": "Hard Time III",
-        "Version": "720896",
-        "Release Date": "2025-07-16"
-    },
     "0100fd70134fa800": {
         "Game Name": "\ub4dc\ub798\uace4\ubcfc Z \uce74\uce74\ub85c\ud2b8 + \uc0c8\ub85c\uc6b4 \uac01\uc131 \ud3b8",
         "Version": "983040",
@@ -3787,11 +4167,6 @@
     "0100a78017bd6800": {
         "Game Name": "\u9b54\u754c\u6226\u8a18\u30c7\u30a3\u30b9\u30ac\u30a4\u30a2\uff17",
         "Version": "851968",
-        "Release Date": "2025-07-14"
-    },
-    "0100aa201c7b8800": {
-        "Game Name": "\ub358\uc804\uc2a4 4 (Dungeons 4)",
-        "Version": "262144",
         "Release Date": "2025-07-14"
     },
     "0100adc014da0800": {
@@ -3927,11 +4302,6 @@
     "0100e03021182800": {
         "Game Name": "GRIFFIN (\u30b0\u30ea\u30d5\u30a9\u30f3)",
         "Version": "65536",
-        "Release Date": "2025-07-13"
-    },
-    "0100e2301fb1e800": {
-        "Game Name": "BEYBLADE X XONE",
-        "Version": "589824",
         "Release Date": "2025-07-13"
     },
     "0100e560232dc800": {
@@ -4627,11 +4997,6 @@
     "0100403017202800": {
         "Game Name": "Arcade Archives EMPIRE CITY: 1931",
         "Version": "131072",
-        "Release Date": "2025-06-10"
-    },
-    "010042101980c800": {
-        "Game Name": "Napoleon Maiden Episode.1 A maiden without the word impossible",
-        "Version": "327680",
         "Release Date": "2025-06-10"
     },
     "010044102352c800": {
@@ -5342,11 +5707,6 @@
     "010087501f580800": {
         "Game Name": "100 Doors - Escape from Work",
         "Version": "131072",
-        "Release Date": "2025-04-30"
-    },
-    "01008ff023154800": {
-        "Game Name": "Pixel Game Maker Series GIRI Jump Extreme",
-        "Version": "65536",
         "Release Date": "2025-04-30"
     },
     "0100933020e48800": {
@@ -6298,11 +6658,6 @@
         "Game Name": "UNKNOWN GAME",
         "Version": "65536",
         "Release Date": "2025-01-07"
-    },
-    "01009af0200b4800": {
-        "Game Name": "\u30bf\u30f4\u30a1\u30f3\u30c8\u30fc\u30af",
-        "Version": "131072",
-        "Release Date": "2024-12-25"
     },
     "0100e53020aa8800": {
         "Game Name": "BURGER RACE",
