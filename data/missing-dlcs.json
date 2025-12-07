@@ -353,17 +353,17 @@
         "base_game": "\uc61b\ub0a0 \uc61b\uc801\uc5d0 \uad34\ud63c",
         "size": 42991616
     },
-    "01002b7015a41004": {
-        "Release Date": "2025-11-26",
-        "dlc_name": "Spin Rhythm XD Indie Pack",
-        "base_game": "Spin Rhythm XD",
-        "size": 60817408
-    },
     "0100bdf0197c9003": {
         "Release Date": "2025-11-26",
         "dlc_name": "\u30ef\u30f3\u30b9\u30fb\u30a2\u30dd\u30f3\u30fb\u30a2\u30fb\u584a\u9b42 \u584a\u9b42\u30c0\u30f3\u30b9\u30c0\u30f3\u30b9\u30ea\u30df\u30c3\u30af\u30b9\u30d1\u30c3\u30af",
         "base_game": "\u30ef\u30f3\u30b9\u30fb\u30a2\u30dd\u30f3\u30fb\u30a2\u30fb\u584a\u9b42",
         "size": 42991616
+    },
+    "01002b7015a41004": {
+        "Release Date": "2025-11-26",
+        "dlc_name": "Spin Rhythm XD Indie Pack",
+        "base_game": "Spin Rhythm XD",
+        "size": 60817408
     },
     "0100cb3024945001": {
         "Release Date": "2025-11-22",
@@ -745,7 +745,7 @@
     },
     "0100e16022613001": {
         "Release Date": "2025-11-04",
-        "dlc_name": "Let's Sing 2026 VIP Pass - Prova gratuita del pass VIP",
+        "dlc_name": "Let's Sing 2026 VIP Pass - Kostenlose Testphase f\u00fcr den VIP-Pass",
         "base_game": "Let's Sing 2026 mit deutschen Hits",
         "size": 3145728
     },
@@ -1673,6 +1673,12 @@
         "base_game": "The Legend of Dark Witch Episode 4",
         "size": 3145728
     },
+    "010047600bf73002": {
+        "Release Date": "2025-09-25",
+        "dlc_name": "Rain World: The Watcher",
+        "base_game": "Rain World",
+        "size": 1717567488
+    },
     "01009f201cfbd002": {
         "Release Date": "2025-09-25",
         "dlc_name": "\u5403\u8c46\u4eba \u5403\u904d\u4e16\u754c2 \u50b3\u8aaa\u4e2d\u7684PAC-LAND\u670d\u88dd",
@@ -1828,12 +1834,6 @@
         "dlc_name": "\u514d\u8cbb\u8a66\u7528\u5957\u7d44Vol.2",
         "base_game": "\ud558\ub298\uc758 \uada4\uc801 the 1st",
         "size": 3145728
-    },
-    "010047600bf73002": {
-        "Release Date": "2025-09-25",
-        "dlc_name": "Rain World: The Watcher",
-        "base_game": "Rain World",
-        "size": 1717567488
     },
     "010065a01cfb7002": {
         "Release Date": "2025-09-25",
@@ -2735,6 +2735,12 @@
         "base_game": "Battle Train",
         "size": 58720256
     },
+    "0100821020bbd079": {
+        "Release Date": "2025-09-05",
+        "dlc_name": "EVERYBODY'S GOLF HOT SHOTS - Pre-order Bonus",
+        "base_game": "EVERYBODY'S GOLF HOT SHOTS",
+        "size": 3145728
+    },
     "0400a940233e1009": {
         "Release Date": "2025-09-05",
         "dlc_name": "Special SFX Weapon Set",
@@ -2752,12 +2758,6 @@
         "dlc_name": "Special Equipment Set",
         "base_game": "Unknown Base Game",
         "size": 0
-    },
-    "0100821020bbd079": {
-        "Release Date": "2025-09-05",
-        "dlc_name": "EVERYBODY'S GOLF HOT SHOTS - Pre-order Bonus",
-        "base_game": "EVERYBODY'S GOLF HOT SHOTS",
-        "size": 3145728
     },
     "0400a940233e100e": {
         "Release Date": "2025-09-05",
@@ -3899,23 +3899,23 @@
         "base_game": "\u30e6\u30df\u30a2\u306e\u30a2\u30c8\u30ea\u30a8 \uff5e\u8ffd\u61b6\u306e\u932c\u91d1\u8853\u58eb\u3068\u5e7b\u5275\u306e\u5730\uff5e",
         "size": 27262976
     },
-    "010008c01e743002": {
-        "Release Date": "2025-07-22",
-        "dlc_name": "Puzzle On! Pack #1",
-        "base_game": "Pok\u00e9mon\u2122 Friends",
-        "size": 559939584
-    },
-    "010008c01e743003": {
-        "Release Date": "2025-07-22",
-        "dlc_name": "Puzzle On! Pack #2",
-        "base_game": "Pok\u00e9mon\u2122 Friends",
-        "size": 571473920
-    },
     "0100937020a79002": {
         "Release Date": "2025-07-22",
         "dlc_name": "Border Police: Contraband Simulator 2025 - Red Camo Ops",
         "base_game": "Border Police: Contraband Simulator 2024",
         "size": 3145728
+    },
+    "010008c01e743002": {
+        "Release Date": "2025-07-22",
+        "dlc_name": "Multilote puzles extra 1",
+        "base_game": "Pok\u00e9mon\u2122 Friends",
+        "size": 383778816
+    },
+    "010008c01e743003": {
+        "Release Date": "2025-07-22",
+        "dlc_name": "Multilote puzles extra 2",
+        "base_game": "Pok\u00e9mon\u2122 Friends",
+        "size": 380633088
     },
     "0100e0901e2ab00d": {
         "Release Date": "2025-07-20",
@@ -3981,7 +3981,7 @@
         "Release Date": "2025-07-18",
         "dlc_name": "Shadow Labyrinth - Digital Artbook & Soundtrack",
         "base_game": "Shadow Labyrinth",
-        "size": 121634816
+        "size": 61865984
     },
     "010062f01e0e9001": {
         "Release Date": "2025-07-18",
@@ -5279,7 +5279,7 @@
         "base_game": "Rune Factory: Guardians of Azuma",
         "size": 3145728
     },
-    "010022a02008d008": {
+    "010022a02008d00d": {
         "Release Date": "2025-06-05",
         "dlc_name": "Rune Factory 4 Bachelorette Outfit Bundle",
         "base_game": "Rune Factory: Guardians of Azuma",
@@ -5297,13 +5297,13 @@
         "base_game": "Rune Factory: Guardians of Azuma",
         "size": 3145728
     },
-    "010022a02008d00d": {
+    "01003af0200b100d": {
         "Release Date": "2025-06-05",
         "dlc_name": "Rune Factory 4 Bachelorette Outfit Bundle",
         "base_game": "Rune Factory: Guardians of Azuma",
         "size": 18874368
     },
-    "01003af0200b100d": {
+    "010022a02008d008": {
         "Release Date": "2025-06-05",
         "dlc_name": "Rune Factory 4 Bachelorette Outfit Bundle",
         "base_game": "Rune Factory: Guardians of Azuma",
@@ -6461,6 +6461,12 @@
         "base_game": "Spirit Hunter: Death Mark",
         "size": 542113792
     },
+    "0100d1b00b6fb006": {
+        "Release Date": "2025-04-10",
+        "dlc_name": "Spirit Hunter: Death Mark Chapter 7 Kaerazu's Amusement Park",
+        "base_game": "Spirit Hunter: Death Mark",
+        "size": 542113792
+    },
     "010085c02146f001": {
         "Release Date": "2025-04-10",
         "dlc_name": "MasterChef: Learn to Cook! - \u6c34\u679c\uff0c\u5805\u679c&\u751c\u98df",
@@ -6478,12 +6484,6 @@
         "dlc_name": "MasterChef: Learn to Cook! - \u852c\u83dc&\u7a40\u7269",
         "base_game": "MasterChef: Learn to Cook!",
         "size": 3145728
-    },
-    "0100d1b00b6fb006": {
-        "Release Date": "2025-04-10",
-        "dlc_name": "Spirit Hunter: Death Mark Chapter 7 Kaerazu's Amusement Park",
-        "base_game": "Spirit Hunter: Death Mark",
-        "size": 542113792
     },
     "01001e20203dd001": {
         "Release Date": "2025-04-10",
@@ -8153,16 +8153,16 @@
         "base_game": "Anime Waifu Simulator: Sakura Garden",
         "size": 3145728
     },
-    "01002460135a516b": {
-        "Release Date": "2025-03-06",
-        "dlc_name": "\u881f\u7b46\u5c0f\u65b0\u4e3b\u984c\u66f2Pack",
-        "base_game": "\ud0dc\uace0\uc758 \ub2ec\uc778 \ucff5\ub531! \uc6d0\ub354\ud480 \ud398\uc2a4\ud2f0\ubc8c",
-        "size": 15728640
-    },
     "01006b0016ad7185": {
         "Release Date": "2025-03-06",
         "dlc_name": "Taiko no Tatsujin: Rhythm Festival - Crayon Shin-chan Theme Songs Pack",
         "base_game": "Taiko no Tatsujin: Rhythm Festival",
+        "size": 15728640
+    },
+    "01002460135a516b": {
+        "Release Date": "2025-03-06",
+        "dlc_name": "\u881f\u7b46\u5c0f\u65b0\u4e3b\u984c\u66f2Pack",
+        "base_game": "\ud0dc\uace0\uc758 \ub2ec\uc778 \ucff5\ub531! \uc6d0\ub354\ud480 \ud398\uc2a4\ud2f0\ubc8c",
         "size": 15728640
     },
     "0100bca0135a1155": {
@@ -11105,16 +11105,16 @@
         "base_game": "Taiko no Tatsujin: Rhythm Festival",
         "size": 3145728
     },
-    "010000b01a453008": {
-        "Release Date": "2024-11-21",
-        "dlc_name": "Jujutsu Kaisen Cursed Clash - Shibuya Incident",
-        "base_game": "Jujutsu Kaisen Cursed Clash",
-        "size": 3145728
-    },
     "010037c01e2a300b": {
         "Release Date": "2024-11-21",
         "dlc_name": "Kissie Skin: Honey Flan",
         "base_game": "Farmagia",
+        "size": 3145728
+    },
+    "010000b01a453008": {
+        "Release Date": "2024-11-21",
+        "dlc_name": "Jujutsu Kaisen Cursed Clash - Shibuya Incident",
+        "base_game": "Jujutsu Kaisen Cursed Clash",
         "size": 3145728
     },
     "01002fc012549008": {
@@ -33119,12 +33119,6 @@
         "base_game": "LoveR Kiss\uff08\u30e9\u30f4\u30a2\u30fc\u30eb \u30ad\u30b9\uff09",
         "size": 96468992
     },
-    "010070a00e9cf001": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (PL)",
-        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
-        "size": 2350907392
-    },
     "010039400e8d7003": {
         "Release Date": "2020-02-26",
         "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (DE)",
@@ -33143,23 +33137,11 @@
         "base_game": null,
         "size": 2441084928
     },
-    "0100a0800e9c5001": {
+    "010070a00e9cf001": {
         "Release Date": "2020-02-26",
-        "dlc_name": "\u042f\u0437\u044b\u043a\u043e\u0432\u043e\u0439 \u043f\u0430\u043a\u0435\u0442 '\u0412\u0435\u0434\u044c\u043c\u0430\u043a 3: \u0414\u0438\u043a\u0430\u044f \u041e\u0445\u043e\u0442\u0430 \u2014 \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435' (PL)",
-        "base_game": "\u0412\u0435\u0434\u044c\u043c\u0430\u043a 3: \u0414\u0438\u043a\u0430\u044f \u041e\u0445\u043e\u0442\u0430 \u2014 \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435",
-        "size": 2349858816
-    },
-    "0100a0800e9c5005": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "\u042f\u0437\u044b\u043a\u043e\u0432\u043e\u0439 \u043f\u0430\u043a\u0435\u0442 '\u0412\u0435\u0434\u044c\u043c\u0430\u043a 3: \u0414\u0438\u043a\u0430\u044f \u041e\u0445\u043e\u0442\u0430 \u2014 \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435' (FR)",
-        "base_game": "\u0412\u0435\u0434\u044c\u043c\u0430\u043a 3: \u0414\u0438\u043a\u0430\u044f \u041e\u0445\u043e\u0442\u0430 \u2014 \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435",
-        "size": 2334130176
-    },
-    "0100a0800e9c5003": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "\u042f\u0437\u044b\u043a\u043e\u0432\u043e\u0439 \u043f\u0430\u043a\u0435\u0442 '\u0412\u0435\u0434\u044c\u043c\u0430\u043a 3: \u0414\u0438\u043a\u0430\u044f \u041e\u0445\u043e\u0442\u0430 \u2014 \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435' (DE)",
-        "base_game": "\u0412\u0435\u0434\u044c\u043c\u0430\u043a 3: \u0414\u0438\u043a\u0430\u044f \u041e\u0445\u043e\u0442\u0430 \u2014 \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435",
-        "size": 2364538880
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (PL)",
+        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
+        "size": 2350907392
     },
     "010076f00e9c9001": {
         "Release Date": "2020-02-26",
@@ -33172,6 +33154,24 @@
         "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (RU)",
         "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
         "size": 2441084928
+    },
+    "0100a0800e9c5001": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (PL)",
+        "base_game": "\u0412\u0435\u0434\u044c\u043c\u0430\u043a 3: \u0414\u0438\u043a\u0430\u044f \u041e\u0445\u043e\u0442\u0430 \u2014 \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435",
+        "size": 2349858816
+    },
+    "0100a0800e9c5005": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (FR)",
+        "base_game": "\u0412\u0435\u0434\u044c\u043c\u0430\u043a 3: \u0414\u0438\u043a\u0430\u044f \u041e\u0445\u043e\u0442\u0430 \u2014 \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435",
+        "size": 2334130176
+    },
+    "0100a0800e9c5003": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (DE)",
+        "base_game": "\u0412\u0435\u0434\u044c\u043c\u0430\u043a 3: \u0414\u0438\u043a\u0430\u044f \u041e\u0445\u043e\u0442\u0430 \u2014 \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435",
+        "size": 2364538880
     },
     "0100d3200c52b001": {
         "Release Date": "2020-02-20",
