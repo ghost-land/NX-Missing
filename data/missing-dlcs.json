@@ -707,12 +707,6 @@
         "base_game": "\ub4dc\ub798\uace4\ubcfc Z \uce74\uce74\ub85c\ud2b8 + \uc0c8\ub85c\uc6b4 \uac01\uc131 \ud3b8",
         "size": 3145728
     },
-    "0100ec6020a8b001": {
-        "Release Date": "2026-01-13",
-        "dlc_name": "Premium-DLC \u201eSNOW MIKU Sky Town\u201c",
-        "base_game": "Hatsune Miku Logic Paint S+",
-        "size": 8388608
-    },
     "01000af01518b006": {
         "Release Date": "2026-01-12",
         "dlc_name": "Hirelings & Landmarks",
@@ -766,6 +760,12 @@
         "dlc_name": "Portraits Pack 1",
         "base_game": "Hentai Vision",
         "size": 3145728
+    },
+    "0100ec6020a8b001": {
+        "Release Date": "2026-01-12",
+        "dlc_name": "Premium DLC \"SNOW MIKU Sky Town\"",
+        "base_game": "Hatsune Miku Logic Paint S+",
+        "size": 8388608
     },
     "01006e001823d003": {
         "Release Date": "2026-01-08",
@@ -2777,12 +2777,6 @@
         "base_game": "Hunter Simulator : Wild Hunting",
         "size": 3145728
     },
-    "0100e4c01ce9f001": {
-        "Release Date": "2025-10-14",
-        "dlc_name": "Wall World Deep Threat",
-        "base_game": "Wall World",
-        "size": 3145728
-    },
     "0100dca024ee9001": {
         "Release Date": "2025-10-13",
         "dlc_name": "Cipheur: Trivia Biology 2",
@@ -2811,6 +2805,12 @@
         "Release Date": "2025-10-10",
         "dlc_name": "Float Survival Simulator \u2013 Ocean Survivor: Shark Upgrade",
         "base_game": "Float Survival Simulator - Ocean Survivor",
+        "size": 3145728
+    },
+    "0100e4c01ce9f001": {
+        "Release Date": "2025-10-10",
+        "dlc_name": "Wall World Deep Threat",
+        "base_game": "Wall World",
         "size": 3145728
     },
     "0100a2d024e5d001": {
@@ -6827,6 +6827,12 @@
         "base_game": "Covenant of Solitude",
         "size": 3145728
     },
+    "01003af0200b100d": {
+        "Release Date": "2025-06-05",
+        "dlc_name": "Rune Factory 4 Bachelorette Outfit Bundle",
+        "base_game": "Rune Factory: Guardians of Azuma",
+        "size": 18874368
+    },
     "010022a02008d003": {
         "Release Date": "2025-06-05",
         "dlc_name": "Seasons of Love Bundle",
@@ -6862,12 +6868,6 @@
         "dlc_name": "Rune Factory: Guardians of Azuma \u2013 Sakuna DLC",
         "base_game": "Rune Factory: Guardians of Azuma",
         "size": 3145728
-    },
-    "01003af0200b100d": {
-        "Release Date": "2025-06-05",
-        "dlc_name": "Rune Factory 4 Bachelorette Outfit Bundle",
-        "base_game": "Rune Factory: Guardians of Azuma",
-        "size": 18874368
     },
     "0100492022ded008": {
         "Release Date": "2025-06-05",
@@ -26357,6 +26357,12 @@
         "base_game": "\ub808\uc77c\uc6e8\uc774 \uc5e0\ud30c\uc774\uc5b4",
         "size": 3487563776
     },
+    "0100f0700decd2bf": {
+        "Release Date": "2021-11-04",
+        "dlc_name": "Horizon Chase Turbo - Senna Forever (PHYSICAL VERSION)",
+        "base_game": "Horizon Chase Turbo\n(Version de la carte de jeu)",
+        "size": 3145728
+    },
     "0100b2f01111d004": {
         "Release Date": "2021-10-29",
         "dlc_name": "\u30bc\u30eb\u30c0\u7121\u53cc \u5384\u707d\u306e\u9ed9\u793a\u9332 \u8ffd\u52a0\u30b3\u30f3\u30c6\u30f3\u30c4 \u7b2c\uff12\u5f3e\u300c\u8ffd\u61b6\u306e\u5b88\u8b77\u8005\u300d",
@@ -26440,12 +26446,6 @@
         "dlc_name": "\uc2a4\ud398\uc15c \uce90\ub9ad\ud130 \uc2a4\uc5d0\uc870 from \ubaac\uc2a4\ud130 \ud31c",
         "base_game": "\u305f\u3079\u3054\u308d\uff01\u30b9\u30fc\u30d1\u30fc\u30e2\u30f3\u30ad\u30fc\u30dc\u30fc\u30eb 1\uff062\u30ea\u30e1\u30a4\u30af",
         "size": 8388608
-    },
-    "0100f0700decd2bf": {
-        "Release Date": "2021-10-20",
-        "dlc_name": "Horizon Chase Turbo - Senna Forever\n(Game Card Version)",
-        "base_game": "Horizon Chase Turbo\n(Version de la carte de jeu)",
-        "size": 3145728
     },
     "010050101435b00a": {
         "Release Date": "2021-10-19",
@@ -34661,30 +34661,6 @@
         "base_game": "LoveR Kiss\uff08\u30e9\u30f4\u30a2\u30fc\u30eb \u30ad\u30b9\uff09",
         "size": 96468992
     },
-    "0100a0800e9c5001": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "\u042f\u0437\u044b\u043a\u043e\u0432\u043e\u0439 \u043f\u0430\u043a\u0435\u0442 '\u0412\u0435\u0434\u044c\u043c\u0430\u043a 3: \u0414\u0438\u043a\u0430\u044f \u041e\u0445\u043e\u0442\u0430 \u2014 \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435' (PL)",
-        "base_game": "\u0412\u0435\u0434\u044c\u043c\u0430\u043a 3: \u0414\u0438\u043a\u0430\u044f \u041e\u0445\u043e\u0442\u0430 \u2014 \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435",
-        "size": 2349858816
-    },
-    "0100a0800e9c5005": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "\u042f\u0437\u044b\u043a\u043e\u0432\u043e\u0439 \u043f\u0430\u043a\u0435\u0442 '\u0412\u0435\u0434\u044c\u043c\u0430\u043a 3: \u0414\u0438\u043a\u0430\u044f \u041e\u0445\u043e\u0442\u0430 \u2014 \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435' (FR)",
-        "base_game": "\u0412\u0435\u0434\u044c\u043c\u0430\u043a 3: \u0414\u0438\u043a\u0430\u044f \u041e\u0445\u043e\u0442\u0430 \u2014 \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435",
-        "size": 2334130176
-    },
-    "0100a0800e9c5003": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "\u042f\u0437\u044b\u043a\u043e\u0432\u043e\u0439 \u043f\u0430\u043a\u0435\u0442 '\u0412\u0435\u0434\u044c\u043c\u0430\u043a 3: \u0414\u0438\u043a\u0430\u044f \u041e\u0445\u043e\u0442\u0430 \u2014 \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435' (DE)",
-        "base_game": "\u0412\u0435\u0434\u044c\u043c\u0430\u043a 3: \u0414\u0438\u043a\u0430\u044f \u041e\u0445\u043e\u0442\u0430 \u2014 \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435",
-        "size": 2364538880
-    },
-    "010070a00e9cf001": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (PL)",
-        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
-        "size": 2350907392
-    },
     "010039400e8d7003": {
         "Release Date": "2020-02-26",
         "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (DE)",
@@ -34703,6 +34679,12 @@
         "base_game": null,
         "size": 2441084928
     },
+    "010070a00e9cf001": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (PL)",
+        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
+        "size": 2350907392
+    },
     "010076f00e9c9001": {
         "Release Date": "2020-02-26",
         "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (PL)",
@@ -34714,6 +34696,24 @@
         "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (RU)",
         "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
         "size": 2441084928
+    },
+    "0100a0800e9c5001": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (PL)",
+        "base_game": "\u0412\u0435\u0434\u044c\u043c\u0430\u043a 3: \u0414\u0438\u043a\u0430\u044f \u041e\u0445\u043e\u0442\u0430 \u2014 \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435",
+        "size": 2349858816
+    },
+    "0100a0800e9c5005": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (FR)",
+        "base_game": "\u0412\u0435\u0434\u044c\u043c\u0430\u043a 3: \u0414\u0438\u043a\u0430\u044f \u041e\u0445\u043e\u0442\u0430 \u2014 \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435",
+        "size": 2334130176
+    },
+    "0100a0800e9c5003": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (DE)",
+        "base_game": "\u0412\u0435\u0434\u044c\u043c\u0430\u043a 3: \u0414\u0438\u043a\u0430\u044f \u041e\u0445\u043e\u0442\u0430 \u2014 \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435",
+        "size": 2364538880
     },
     "010079500fd5d002": {
         "Release Date": "2020-02-20",
@@ -35869,7 +35869,7 @@
     },
     "0100f0700decd2bd": {
         "Release Date": "2019-09-17",
-        "dlc_name": "Horizon Chase Turbo - Summer Vibes\n(Softwarekartenversion)",
+        "dlc_name": "Horizon Chase Turbo - Summer Vibes (PHYSICAL VERSION)",
         "base_game": "Horizon Chase Turbo\n(Version de la carte de jeu)",
         "size": 3145728
     },
