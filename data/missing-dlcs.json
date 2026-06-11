@@ -2413,7 +2413,7 @@
     },
     "0100ec6020a8b001": {
         "Release Date": "2026-01-13",
-        "dlc_name": "Premium-DLC \u201eSNOW MIKU Sky Town\u201c",
+        "dlc_name": "DLC premium SNOW MIKU Sky Town",
         "base_game": "Hatsune Miku Logic Paint S+",
         "size": 8388608
     },
@@ -2927,16 +2927,16 @@
         "base_game": "Real Boxing 2: Remastered",
         "size": 10485760
     },
-    "01001080208ab009": {
-        "Release Date": "2025-12-19",
-        "dlc_name": "'\uc544\uce74\uc790(\ubb34\ud55c\uc131\ud3b8)' \uce90\ub9ad\ud130 \ud329",
-        "base_game": "\uadc0\uba78\uc758 \uce7c\ub0a0 \ud788\ub178\uce74\ubbf8 \ud608\ud48d\ub2f42",
-        "size": 3145728
-    },
     "0100bfd02225d001": {
         "Release Date": "2025-12-19",
         "dlc_name": "Run Chicken Run Christmas",
         "base_game": "Run Chicken, run!",
+        "size": 3145728
+    },
+    "01001080208ab009": {
+        "Release Date": "2025-12-19",
+        "dlc_name": "'\uc544\uce74\uc790(\ubb34\ud55c\uc131\ud3b8)' \uce90\ub9ad\ud130 \ud329",
+        "base_game": "\uadc0\uba78\uc758 \uce7c\ub0a0 \ud788\ub178\uce74\ubbf8 \ud608\ud48d\ub2f42",
         "size": 3145728
     },
     "01007b000c835017": {
@@ -3437,12 +3437,6 @@
         "base_game": "Ozymandias",
         "size": 6291456
     },
-    "01009af0200b5002": {
-        "Release Date": "2025-11-20",
-        "dlc_name": "\ud0dc\ubc88 \ud1a0\ud06c - \ud574\uc801 \ub300\ucd95\uc81c(\ucf54\uc2a4\ud2ac \ud329)",
-        "base_game": "\u30bf\u30f4\u30a1\u30f3\u30c8\u30fc\u30af",
-        "size": 9437184
-    },
     "01008e90070650b9": {
         "Release Date": "2025-11-20",
         "dlc_name": "Woolen Winter Wear: Chocolate",
@@ -3454,6 +3448,12 @@
         "dlc_name": "Tamagotchi Collab Pack",
         "base_game": "Taiko no Tatsujin: Rhythm Festival",
         "size": 3145728
+    },
+    "01009af0200b5002": {
+        "Release Date": "2025-11-20",
+        "dlc_name": "\ud0dc\ubc88 \ud1a0\ud06c - \ud574\uc801 \ub300\ucd95\uc81c(\ucf54\uc2a4\ud2ac \ud329)",
+        "base_game": "\u30bf\u30f4\u30a1\u30f3\u30c8\u30fc\u30af",
+        "size": 9437184
     },
     "01006230222ed001": {
         "Release Date": "2025-11-20",
@@ -4321,7 +4321,7 @@
     },
     "010027f0128eb00e": {
         "Release Date": "2025-10-23",
-        "dlc_name": "Wer wird Million\u00e4r? - Ist das Ihr letztes Wort? DLC",
+        "dlc_name": "Qui Veut Gagner des Millions ? \u2013 C\u2019est votre dernier mot ? DLC",
         "base_game": "Who Wants to Be a Millionaire?",
         "size": 3145728
     },
@@ -7001,17 +7001,17 @@
         "base_game": "Fitness Boxing feat. HATSUNE MIKU Exercise with Miku",
         "size": 74448896
     },
-    "01008e90070650ac": {
-        "Release Date": "2025-07-24",
-        "dlc_name": "Fox Set",
-        "base_game": "WorldNeverland - Elnea Kingdom",
-        "size": 3145728
-    },
     "0100727018a11009": {
         "Release Date": "2025-07-24",
         "dlc_name": "SWORD ART ONLINE Fractured Daydream - Symphony of a Dazzling Dawn",
         "base_game": "SWORD ART ONLINE Fractured Daydream",
         "size": 57671680
+    },
+    "01008e90070650ac": {
+        "Release Date": "2025-07-24",
+        "dlc_name": "Fox Set",
+        "base_game": "WorldNeverland - Elnea Kingdom",
+        "size": 3145728
     },
     "010009d018a07009": {
         "Release Date": "2025-07-24",
@@ -7269,7 +7269,7 @@
         "Release Date": "2025-07-18",
         "dlc_name": "Shadow Labyrinth - Digital Artbook & Soundtrack",
         "base_game": "Shadow Labyrinth",
-        "size": 61865984
+        "size": 121634816
     },
     "01003d001ef51008": {
         "Release Date": "2025-07-18",
@@ -8633,7 +8633,7 @@
         "base_game": "Rune Factory: Guardians of Azuma",
         "size": 3145728
     },
-    "01003af0200b100d": {
+    "01003af0200b1008": {
         "Release Date": "2025-06-05",
         "dlc_name": "Rune Factory 4 Bachelorette Outfit Bundle",
         "base_game": "Rune Factory: Guardians of Azuma",
@@ -8657,17 +8657,17 @@
         "base_game": "Rune Factory: Guardians of Azuma",
         "size": 3145728
     },
-    "01003af0200b1008": {
-        "Release Date": "2025-06-05",
-        "dlc_name": "Rune Factory 4 Bachelorette Outfit Bundle",
-        "base_game": "Rune Factory: Guardians of Azuma",
-        "size": 18874368
-    },
     "01006b0016ad7191": {
         "Release Date": "2025-06-05",
         "dlc_name": "Taiko no Tatsujin: Rhythm Festival - Touhou Project Arrangements Pack Vol. 2",
         "base_game": "Taiko no Tatsujin: Rhythm Festival",
         "size": 3145728
+    },
+    "01003af0200b100d": {
+        "Release Date": "2025-06-05",
+        "dlc_name": "Rune Factory 4 Bachelorette Outfit Bundle",
+        "base_game": "Rune Factory: Guardians of Azuma",
+        "size": 18874368
     },
     "0100492022ded008": {
         "Release Date": "2025-06-05",
@@ -9251,17 +9251,17 @@
         "base_game": "\uc18c\ub4dc \uc544\ud2b8 \uc628\ub77c\uc778 \ud504\ub799\ucc98\ub4dc \ub370\uc774\ub4dc\ub9bc",
         "size": 77594624
     },
-    "01008e90070650a9": {
-        "Release Date": "2025-04-24",
-        "dlc_name": "Floral Spring Outfit: Sky",
-        "base_game": "WorldNeverland - Elnea Kingdom",
-        "size": 3145728
-    },
     "0100727018a11008": {
         "Release Date": "2025-04-24",
         "dlc_name": "SWORD ART ONLINE Fractured Daydream - Moonlit Night Fragment",
         "base_game": "SWORD ART ONLINE Fractured Daydream",
         "size": 77594624
+    },
+    "01008e90070650a9": {
+        "Release Date": "2025-04-24",
+        "dlc_name": "Floral Spring Outfit: Sky",
+        "base_game": "WorldNeverland - Elnea Kingdom",
+        "size": 3145728
     },
     "0100f59014e8d019": {
         "Release Date": "2025-04-24",
@@ -10055,12 +10055,6 @@
         "base_game": "WorldNeverland - Elnea Kingdom",
         "size": 3145728
     },
-    "01009400210dd002": {
-        "Release Date": "2025-04-03",
-        "dlc_name": "Cats Defense Robots: Meow Legends LEGENDARY KITTY",
-        "base_game": "Cats Defense Robots: Meow Legends",
-        "size": 3145728
-    },
     "0100678021af7002": {
         "Release Date": "2025-04-03",
         "dlc_name": "Treflix: Comic Book Calm",
@@ -10071,6 +10065,12 @@
         "Release Date": "2025-04-03",
         "dlc_name": "Taiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 5",
         "base_game": "Taiko no Tatsujin: Rhythm Festival",
+        "size": 3145728
+    },
+    "01009400210dd002": {
+        "Release Date": "2025-04-03",
+        "dlc_name": "Cats Defense Robots: Meow Legends LEGENDARY KITTY",
+        "base_game": "Cats Defense Robots: Meow Legends",
         "size": 3145728
     },
     "0100ed1021329002": {
@@ -11759,16 +11759,16 @@
         "base_game": "Phantom Brave: The Lost Hero",
         "size": 3145728
     },
-    "0100cf2017d97002": {
-        "Release Date": "2025-02-27",
-        "dlc_name": "SNOW BROS. (ARCADE VERSION)",
-        "base_game": "Snow Bros. Nick & Tom Special",
-        "size": 3145728
-    },
     "0100bd401d18b005": {
         "Release Date": "2025-02-27",
         "dlc_name": "Character Unlock: Ogre",
         "base_game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+        "size": 3145728
+    },
+    "0100cf2017d97002": {
+        "Release Date": "2025-02-27",
+        "dlc_name": "SNOW BROS. (ARCADE VERSION)",
+        "base_game": "Snow Bros. Nick & Tom Special",
         "size": 3145728
     },
     "01003d001ef51005": {
@@ -12317,7 +12317,7 @@
         "base_game": "\ud0dc\uace0\uc758 \ub2ec\uc778 \ucff5\ub531! \uc6d0\ub354\ud480 \ud398\uc2a4\ud2f0\ubc8c",
         "size": 15728640
     },
-    "01006b0016ad717d": {
+    "01006b0016ad7180": {
         "Release Date": "2025-02-06",
         "dlc_name": "Taiko no Tatsujin: Rhythm Festival - Touhou Project Arrangements Pack Vol. 1",
         "base_game": "Taiko no Tatsujin: Rhythm Festival",
@@ -12329,7 +12329,7 @@
         "base_game": "WorldNeverland - Elnea Kingdom",
         "size": 3145728
     },
-    "01006b0016ad7180": {
+    "01006b0016ad717d": {
         "Release Date": "2025-02-06",
         "dlc_name": "Taiko no Tatsujin: Rhythm Festival - Touhou Project Arrangements Pack Vol. 1",
         "base_game": "Taiko no Tatsujin: Rhythm Festival",
@@ -12419,6 +12419,12 @@
         "base_game": "\ub9c8\uacc4\uc804\uae30 \ub514\uc2a4\uac00\uc774\uc5447",
         "size": 3145728
     },
+    "01005bf00e4df001": {
+        "Release Date": "2025-01-30",
+        "dlc_name": "Rabi-Ribi Platinum Edition DLC Pack",
+        "base_game": "Rabi-Ribi",
+        "size": 389021696
+    },
     "01000ae01e317002": {
         "Release Date": "2025-01-30",
         "dlc_name": "Phantom Brave: The Lost Hero - Exclusive Putty Outfit: Minty",
@@ -12442,12 +12448,6 @@
         "dlc_name": "Phantom Brave: The Lost Hero - Digital Deluxe Edition Bonus",
         "base_game": "Phantom Brave: The Lost Hero",
         "size": 3145728
-    },
-    "01005bf00e4df001": {
-        "Release Date": "2025-01-30",
-        "dlc_name": "Rabi-Ribi Platinum Edition DLC Pack",
-        "base_game": "Rabi-Ribi",
-        "size": 389021696
     },
     "01002ef00bcb1001": {
         "Release Date": "2025-01-30",
@@ -13139,13 +13139,13 @@
         "base_game": "Star Trek: Legends",
         "size": 3145728
     },
-    "01006b0016ad7179": {
+    "01006b0016ad7188": {
         "Release Date": "2025-01-09",
         "dlc_name": "Taiko no Tatsujin: Rhythm Festival - Kids' Pack Vol. 3",
         "base_game": "Taiko no Tatsujin: Rhythm Festival",
         "size": 15728640
     },
-    "01006b0016ad7188": {
+    "01006b0016ad7179": {
         "Release Date": "2025-01-09",
         "dlc_name": "Taiko no Tatsujin: Rhythm Festival - Kids' Pack Vol. 3",
         "base_game": "Taiko no Tatsujin: Rhythm Festival",
@@ -13889,7 +13889,7 @@
         "base_game": "Unknown Base Game",
         "size": 3145728
     },
-    "01006b0016ad7175": {
+    "01006b0016ad7177": {
         "Release Date": "2024-12-05",
         "dlc_name": "Taiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 4",
         "base_game": "Taiko no Tatsujin: Rhythm Festival",
@@ -13901,7 +13901,7 @@
         "base_game": "WorldNeverland - Elnea Kingdom",
         "size": 3145728
     },
-    "01006b0016ad7177": {
+    "01006b0016ad7175": {
         "Release Date": "2024-12-05",
         "dlc_name": "Taiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 4",
         "base_game": "Taiko no Tatsujin: Rhythm Festival",
@@ -14153,13 +14153,13 @@
         "base_game": "\ud0dc\uace0\uc758 \ub2ec\uc778 \ucff5\ub531! \uc6d0\ub354\ud480 \ud398\uc2a4\ud2f0\ubc8c",
         "size": 9437184
     },
-    "01006b0016ad7171": {
+    "01006b0016ad7172": {
         "Release Date": "2024-11-27",
         "dlc_name": "Taiko no Tatsujin: Rhythm Festival - \u3010OSHI NO KO\u3011Collab. Pack",
         "base_game": "Taiko no Tatsujin: Rhythm Festival",
         "size": 9437184
     },
-    "01006b0016ad7172": {
+    "01006b0016ad7171": {
         "Release Date": "2024-11-27",
         "dlc_name": "Taiko no Tatsujin: Rhythm Festival - \u3010OSHI NO KO\u3011Collab. Pack",
         "base_game": "Taiko no Tatsujin: Rhythm Festival",
@@ -14291,6 +14291,12 @@
         "base_game": "Spirit Mancer",
         "size": 18874368
     },
+    "010085401a455008": {
+        "Release Date": "2024-11-21",
+        "dlc_name": "Jujutsu Kaisen Cursed Clash - Shibuya Incident",
+        "base_game": "Jujutsu Kaisen Cursed Clash",
+        "size": 3145728
+    },
     "01006b0016ad70b9": {
         "Release Date": "2024-11-21",
         "dlc_name": "Taiko no Tatsujin: Rhythm Festival - Venom (feat. flower)",
@@ -14373,12 +14379,6 @@
         "Release Date": "2024-11-21",
         "dlc_name": "Taiko no Tatsujin: Rhythm Festival - Lagtrain",
         "base_game": "Taiko no Tatsujin: Rhythm Festival",
-        "size": 3145728
-    },
-    "010085401a455008": {
-        "Release Date": "2024-11-21",
-        "dlc_name": "Jujutsu Kaisen Cursed Clash - Shibuya Incident",
-        "base_game": "Jujutsu Kaisen Cursed Clash",
         "size": 3145728
     },
     "01002fc012549008": {
@@ -14787,6 +14787,12 @@
         "Release Date": "2024-11-07",
         "dlc_name": "\u6200\u611b\u6642\u5149",
         "base_game": "\ub9c8\uc774 \ud0c0\uc784 \uc573 \uc0cc\ub4dc\ub85d (My Time at Sandrock)",
+        "size": 3145728
+    },
+    "0100727018a11002": {
+        "Release Date": "2024-11-07",
+        "dlc_name": "SWORD ART ONLINE Fractured Daydream - Demon King Costume Set",
+        "base_game": "SWORD ART ONLINE Fractured Daydream",
         "size": 3145728
     },
     "01008e900706508e": {
@@ -15617,17 +15623,17 @@
         "base_game": "\uc18c\ub4dc \uc544\ud2b8 \uc628\ub77c\uc778 \ud504\ub799\ucc98\ub4dc \ub370\uc774\ub4dc\ub9bc",
         "size": 47185920
     },
-    "01008e9007065090": {
-        "Release Date": "2024-10-17",
-        "dlc_name": "Fluffy Brown-Rabbit Suit",
-        "base_game": "WorldNeverland - Elnea Kingdom",
-        "size": 3145728
-    },
     "0100727018a11006": {
         "Release Date": "2024-10-17",
         "dlc_name": "SWORD ART ONLINE Fractured Daydream - A moment in Infinity",
         "base_game": "SWORD ART ONLINE Fractured Daydream",
         "size": 47185920
+    },
+    "01008e9007065090": {
+        "Release Date": "2024-10-17",
+        "dlc_name": "Fluffy Brown-Rabbit Suit",
+        "base_game": "WorldNeverland - Elnea Kingdom",
+        "size": 3145728
     },
     "010009d018a07006": {
         "Release Date": "2024-10-17",
@@ -15857,7 +15863,7 @@
         "base_game": "\ud0dc\uace0\uc758 \ub2ec\uc778 \ucff5\ub531! \uc6d0\ub354\ud480 \ud398\uc2a4\ud2f0\ubc8c",
         "size": 9437184
     },
-    "01006b0016ad7141": {
+    "01006b0016ad7143": {
         "Release Date": "2024-10-03",
         "dlc_name": "Taiko no Tatsujin: Rhythm Festival - SPY\u00d7FAMILY Pack",
         "base_game": "Taiko no Tatsujin: Rhythm Festival",
@@ -15869,7 +15875,7 @@
         "base_game": "WorldNeverland - Elnea Kingdom",
         "size": 3145728
     },
-    "01006b0016ad7143": {
+    "01006b0016ad7141": {
         "Release Date": "2024-10-03",
         "dlc_name": "Taiko no Tatsujin: Rhythm Festival - SPY\u00d7FAMILY Pack",
         "base_game": "Taiko no Tatsujin: Rhythm Festival",
@@ -15897,12 +15903,6 @@
         "Release Date": "2024-10-01",
         "dlc_name": "Just Dance Pop Party",
         "base_game": "Just Dance\u00a9",
-        "size": 3145728
-    },
-    "0100727018a11002": {
-        "Release Date": "2024-10-01",
-        "dlc_name": "SWORD ART ONLINE Fractured Daydream - Demon King Costume Set",
-        "base_game": "SWORD ART ONLINE Fractured Daydream",
         "size": 3145728
     },
     "0100727018a11003": {
@@ -16955,7 +16955,7 @@
         "base_game": "WorldNeverland - Elnea Kingdom",
         "size": 3145728
     },
-    "01006b0016ad7129": {
+    "01006b0016ad712a": {
         "Release Date": "2024-08-01",
         "dlc_name": "Taiko no Tatsujin: Rhythm Festival - HATSUNE MIKU Pack Vol. 5",
         "base_game": "Taiko no Tatsujin: Rhythm Festival",
@@ -16967,7 +16967,7 @@
         "base_game": "Taiko no Tatsujin: Rhythm Festival",
         "size": 3145728
     },
-    "01006b0016ad712a": {
+    "01006b0016ad7129": {
         "Release Date": "2024-08-01",
         "dlc_name": "Taiko no Tatsujin: Rhythm Festival - HATSUNE MIKU Pack Vol. 5",
         "base_game": "Taiko no Tatsujin: Rhythm Festival",
@@ -21881,13 +21881,13 @@
         "base_game": "\ud0dc\uace0\uc758 \ub2ec\uc778 \ucff5\ub531! \uc6d0\ub354\ud480 \ud398\uc2a4\ud2f0\ubc8c",
         "size": 3145728
     },
-    "01006b0016ad70d4": {
+    "01006b0016ad70dd": {
         "Release Date": "2023-12-07",
         "dlc_name": "Taiko no Tatsujin: Rhythm Festival - 2000s Pops Pack",
         "base_game": "Taiko no Tatsujin: Rhythm Festival",
         "size": 15728640
     },
-    "01006b0016ad70c5": {
+    "01006b0016ad70ce": {
         "Release Date": "2023-12-07",
         "dlc_name": "Taiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 3",
         "base_game": "Taiko no Tatsujin: Rhythm Festival",
@@ -21899,13 +21899,13 @@
         "base_game": "Taiko no Tatsujin: Rhythm Festival",
         "size": 9437184
     },
-    "01006b0016ad70dd": {
+    "01006b0016ad70d4": {
         "Release Date": "2023-12-07",
         "dlc_name": "Taiko no Tatsujin: Rhythm Festival - 2000s Pops Pack",
         "base_game": "Taiko no Tatsujin: Rhythm Festival",
         "size": 15728640
     },
-    "01006b0016ad70ce": {
+    "01006b0016ad70c5": {
         "Release Date": "2023-12-07",
         "dlc_name": "Taiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 3",
         "base_game": "Taiko no Tatsujin: Rhythm Festival",
@@ -36407,6 +36407,12 @@
         "base_game": "\u0412\u0435\u0434\u044c\u043c\u0430\u043a 3: \u0414\u0438\u043a\u0430\u044f \u041e\u0445\u043e\u0442\u0430 \u2014 \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435",
         "size": 2364538880
     },
+    "010070a00e9cf001": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (PL)",
+        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
+        "size": 2350907392
+    },
     "010039400e8d7003": {
         "Release Date": "2020-02-26",
         "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (DE)",
@@ -36436,12 +36442,6 @@
         "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (RU)",
         "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
         "size": 2441084928
-    },
-    "010070a00e9cf001": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (PL)",
-        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
-        "size": 2350907392
     },
     "0100d3200c52b001": {
         "Release Date": "2020-02-20",
@@ -37597,7 +37597,7 @@
     },
     "0100f0700decd2bd": {
         "Release Date": "2019-09-17",
-        "dlc_name": "Horizon Chase Turbo - Summer Vibes\n(Softwarekartenversion)",
+        "dlc_name": "Horizon Chase Turbo - Summer Vibes\n(Version de la carte de jeu)",
         "base_game": "Horizon Chase Turbo\n(Version de la carte de jeu)",
         "size": 3145728
     },
