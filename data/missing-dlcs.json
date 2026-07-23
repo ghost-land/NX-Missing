@@ -1583,12 +1583,6 @@
         "base_game": "Unknown Base Game",
         "size": 3145728
     },
-    "0100b0d025739002": {
-        "Release Date": "2026-03-26",
-        "dlc_name": "Cat Girl Survivor \u2013 Additional Character \"Leah\"",
-        "base_game": "Unknown Base Game",
-        "size": 3145728
-    },
     "01004ce02574f001": {
         "Release Date": "2026-03-26",
         "dlc_name": "Ocean Bookmark DLC",
@@ -1598,6 +1592,12 @@
     "01004ce02574f3e8": {
         "Release Date": "2026-03-26",
         "dlc_name": "Digital Soundtrack/Artbook",
+        "base_game": "Unknown Base Game",
+        "size": 3145728
+    },
+    "0100b0d025739002": {
+        "Release Date": "2026-03-26",
+        "dlc_name": "\u8c93\u5a18\u5016\u5b58\u8005 (Cat Girl Survivor) \u2013 Leah",
         "base_game": "Unknown Base Game",
         "size": 3145728
     },
@@ -1699,7 +1699,7 @@
     },
     "0100b0d025739001": {
         "Release Date": "2026-03-12",
-        "dlc_name": "Cat Girl Survivor \u2013 Extra Episode DLC",
+        "dlc_name": "\u8c93\u5a18\u5016\u5b58\u8005 (Cat Girl Survivor) \u2013 Extra Episode DLC",
         "base_game": "Unknown Base Game",
         "size": 3145728
     },
@@ -2171,12 +2171,6 @@
         "base_game": "Unknown Base Game",
         "size": 3145728
     },
-    "0100b8d025c69001": {
-        "Release Date": "2026-02-03",
-        "dlc_name": "Portraits Pack 1",
-        "base_game": "Unknown Base Game",
-        "size": 3145728
-    },
     "0100a9d01c44700b": {
         "Release Date": "2026-02-03",
         "dlc_name": "\u30a2\u30a4\u30c6\u30e0\u30bb\u30c3\u30c8\uff1a\u30e9\u30c3\u30ad\u30fc\u30da\u30f3\u30c0\u30f3\u30c8\u3001\u547d\u306e\u304d\u306e\u307f",
@@ -2210,6 +2204,12 @@
     "0100a9d01c44700f": {
         "Release Date": "2026-02-03",
         "dlc_name": "\u30d0\u30c3\u30c1\u30ea\u307c\u3046\u3051\u3093\u30a2\u30a4\u30c6\u30e0\u30bb\u30c3\u30c8",
+        "base_game": "Unknown Base Game",
+        "size": 3145728
+    },
+    "0100b8d025c69001": {
+        "Release Date": "2026-02-03",
+        "dlc_name": "Portraits Pack 1",
         "base_game": "Unknown Base Game",
         "size": 3145728
     },
@@ -2519,12 +2519,6 @@
         "base_game": "Unknown Base Game",
         "size": 3145728
     },
-    "010020101f80500b": {
-        "Release Date": "2026-01-08",
-        "dlc_name": "Phantom Thieves Pack",
-        "base_game": "Unknown Base Game",
-        "size": 286261248
-    },
     "010020101f80500c": {
         "Release Date": "2026-01-08",
         "dlc_name": "Fitness Boxing 3: Phantom Thieves Pack",
@@ -2554,6 +2548,12 @@
         "dlc_name": "Farm Together 2 - Gothic Pack",
         "base_game": "Unknown Base Game",
         "size": 3145728
+    },
+    "010020101f80500b": {
+        "Release Date": "2026-01-08",
+        "dlc_name": "Phantom Thieves Pack",
+        "base_game": "Unknown Base Game",
+        "size": 286261248
     },
     "01002460135a51aa": {
         "Release Date": "2026-01-08",
@@ -3575,17 +3575,17 @@
         "base_game": "Unknown Base Game",
         "size": 3145728
     },
-    "0400a940233e1053": {
-        "Release Date": "2025-11-13",
-        "dlc_name": "Daemon X Machina: Titanic Scion - Hacia el abismo",
-        "base_game": "Unknown Base Game",
-        "size": 0
-    },
     "010022a02008d00f": {
         "Release Date": "2025-11-13",
         "dlc_name": "Rune Factory: Guardians of Azuma - STORY OF SEASONS Bundle",
         "base_game": "Unknown Base Game",
         "size": 3145728
+    },
+    "0400a940233e1053": {
+        "Release Date": "2025-11-13",
+        "dlc_name": "Daemon X Machina: Titanic Scion - Into the Abyss",
+        "base_game": "Unknown Base Game",
+        "size": 0
     },
     "01002ef0180e1002": {
         "Release Date": "2025-11-13",
@@ -4159,7 +4159,7 @@
     },
     "0400a940233e103f": {
         "Release Date": "2025-10-29",
-        "dlc_name": "Conjunto de atuendos de Sovereign Axiom",
+        "dlc_name": "Sovereign Axiom Outfit Set",
         "base_game": "Unknown Base Game",
         "size": 0
     },
@@ -5269,37 +5269,37 @@
     },
     "0400a940233e103e": {
         "Release Date": "2025-09-24",
-        "dlc_name": "Conjunto de atuendos de Los Reclaimers",
+        "dlc_name": "Reclaimers Outfit Set",
         "base_game": "Unknown Base Game",
         "size": 0
     },
     "0400a940233e1040": {
         "Release Date": "2025-09-24",
-        "dlc_name": "Conjunto de peinado 1",
+        "dlc_name": "Hairstyle Set 1",
         "base_game": "Unknown Base Game",
         "size": 0
     },
     "0400a940233e1041": {
         "Release Date": "2025-09-24",
-        "dlc_name": "Conjunto de peinado 2",
+        "dlc_name": "Hairstyle Set 2",
         "base_game": "Unknown Base Game",
         "size": 0
     },
     "0400a940233e1042": {
         "Release Date": "2025-09-24",
-        "dlc_name": "Conjunto de peinado 3",
+        "dlc_name": "Hairstyle Set 3",
         "base_game": "Unknown Base Game",
         "size": 0
     },
     "0400a940233e1043": {
         "Release Date": "2025-09-24",
-        "dlc_name": "Conjunto de peinado 4",
+        "dlc_name": "Hairstyle Set 4",
         "base_game": "Unknown Base Game",
         "size": 0
     },
     "0400a940233e1044": {
         "Release Date": "2025-09-24",
-        "dlc_name": "Conjunto de peinado 5",
+        "dlc_name": "Hairstyle Set 5",
         "base_game": "Unknown Base Game",
         "size": 0
     },
@@ -6761,21 +6761,21 @@
         "base_game": "Unknown Base Game",
         "size": 3145728
     },
-    "010020101f805007": {
+    "010020101f805009": {
         "Release Date": "2025-07-31",
-        "dlc_name": "Anime Tune Pack Vol. 1",
+        "dlc_name": "Fitness Boxing 3: Anime Tune Pack Vol. 1",
         "base_game": "Unknown Base Game",
         "size": 59768832
     },
     "010020101f80500a": {
         "Release Date": "2025-07-31",
-        "dlc_name": "Purrfect Punch Pack",
+        "dlc_name": "Fitness Boxing 3: Purrfect Punch Pack",
         "base_game": "Unknown Base Game",
         "size": 7340032
     },
-    "010020101f805009": {
+    "010020101f805007": {
         "Release Date": "2025-07-31",
-        "dlc_name": "Fitness Boxing 3: Anime Tune Pack Vol. 1",
+        "dlc_name": "Anime Tune Pack Vol. 1",
         "base_game": "Unknown Base Game",
         "size": 59768832
     },
@@ -7127,23 +7127,23 @@
         "base_game": "Unknown Base Game",
         "size": 27262976
     },
-    "010008c01e743002": {
-        "Release Date": "2025-07-22",
-        "dlc_name": "Puzzle On! Pack #1",
-        "base_game": "Unknown Base Game",
-        "size": 559939584
-    },
-    "010008c01e743003": {
-        "Release Date": "2025-07-22",
-        "dlc_name": "Puzzle On! Pack #2",
-        "base_game": "Unknown Base Game",
-        "size": 571473920
-    },
     "0100937020a79002": {
         "Release Date": "2025-07-22",
         "dlc_name": "Border Police: Contraband Simulator 2025 - Red Camo Ops",
         "base_game": "Unknown Base Game",
         "size": 3145728
+    },
+    "010008c01e743002": {
+        "Release Date": "2025-07-22",
+        "dlc_name": "Puzzle On! Pack #1",
+        "base_game": "Unknown Base Game",
+        "size": 383778816
+    },
+    "010008c01e743003": {
+        "Release Date": "2025-07-22",
+        "dlc_name": "Puzzle On! Pack #2",
+        "base_game": "Unknown Base Game",
+        "size": 380633088
     },
     "0100e0901e2ab00d": {
         "Release Date": "2025-07-20",
@@ -7703,12 +7703,6 @@
         "base_game": "Unknown Base Game",
         "size": 3145728
     },
-    "010020101f805004": {
-        "Release Date": "2025-06-19",
-        "dlc_name": "Fitness Boxing 3: J-pop Pack Vol. 1",
-        "base_game": "Unknown Base Game",
-        "size": 59768832
-    },
     "01002d601adbb001": {
         "Release Date": "2025-06-19",
         "dlc_name": "Kuzunoha Village Trainings",
@@ -7802,6 +7796,12 @@
     "010020101f805006": {
         "Release Date": "2025-06-19",
         "dlc_name": "Fitness Boxing 3: J-POP Pack Vol. 1",
+        "base_game": "Unknown Base Game",
+        "size": 59768832
+    },
+    "010020101f805004": {
+        "Release Date": "2025-06-19",
+        "dlc_name": "Fitness Boxing 3: J-pop Pack Vol. 1",
         "base_game": "Unknown Base Game",
         "size": 59768832
     },
@@ -8465,12 +8465,6 @@
         "base_game": "Unknown Base Game",
         "size": 3145728
     },
-    "01003af0200b100d": {
-        "Release Date": "2025-06-05",
-        "dlc_name": "Rune Factory 4 Bachelorette Outfit Bundle",
-        "base_game": "Unknown Base Game",
-        "size": 18874368
-    },
     "0100cfb01cdcf008": {
         "Release Date": "2025-06-05",
         "dlc_name": "\u9e97\u65e5\u670d\u88dd\u300c\u8cfd\u723e\u83f2\u4e9e\u98a8\u683c\u3010\u746a\u683c\u9e97\u7279\u3011\u300d",
@@ -8592,6 +8586,12 @@
         "size": 6291456
     },
     "010022a02008d00d": {
+        "Release Date": "2025-06-05",
+        "dlc_name": "Rune Factory 4 Bachelorette Outfit Bundle",
+        "base_game": "Unknown Base Game",
+        "size": 18874368
+    },
+    "01003af0200b100d": {
         "Release Date": "2025-06-05",
         "dlc_name": "Rune Factory 4 Bachelorette Outfit Bundle",
         "base_game": "Unknown Base Game",
@@ -9719,12 +9719,6 @@
         "base_game": "Unknown Base Game",
         "size": 253755392
     },
-    "010031f019295020": {
-        "Release Date": "2025-04-09",
-        "dlc_name": "Red",
-        "base_game": "Unknown Base Game",
-        "size": 3145728
-    },
     "01001d7021db1001": {
         "Release Date": "2025-04-09",
         "dlc_name": "All in Abyss: Judge the Fake - Gambling Go-Getter DLC pack",
@@ -9740,6 +9734,12 @@
     "0100bee017fc1069": {
         "Release Date": "2025-04-08",
         "dlc_name": "Fiesta Latina Music Pack",
+        "base_game": "Unknown Base Game",
+        "size": 3145728
+    },
+    "010031f019295020": {
+        "Release Date": "2025-04-08",
+        "dlc_name": "Red",
         "base_game": "Unknown Base Game",
         "size": 3145728
     },
@@ -10517,12 +10517,6 @@
         "base_game": "Unknown Base Game",
         "size": 56623104
     },
-    "010031f01929501f": {
-        "Release Date": "2025-03-26",
-        "dlc_name": "Pac-Man",
-        "base_game": "Unknown Base Game",
-        "size": 3145728
-    },
     "0100cbd021c71001": {
         "Release Date": "2025-03-26",
         "dlc_name": "Gal Guardians: Servants of the Dark - Demon Maid's Trusty Tools Set",
@@ -10570,6 +10564,12 @@
         "dlc_name": "Yokoyama Mitsuteru's \"Three Kingdoms\" Collaboration: Fierce Leaders CG Portrait Set",
         "base_game": "Unknown Base Game",
         "size": 11534336
+    },
+    "010031f01929501f": {
+        "Release Date": "2025-03-25",
+        "dlc_name": "Pac-Man",
+        "base_game": "Unknown Base Game",
+        "size": 3145728
     },
     "0100c2a01a731067": {
         "Release Date": "2025-03-25",
@@ -10865,15 +10865,15 @@
         "base_game": "Unknown Base Game",
         "size": 3145728
     },
-    "0100453019aa9001": {
-        "Release Date": "2025-03-20",
-        "dlc_name": "Exploration Support Pack",
-        "base_game": "Unknown Base Game",
-        "size": 3145728
-    },
     "01000cb0124f5001": {
         "Release Date": "2025-03-20",
         "dlc_name": "Shotgun Farmers - Supporter Pack",
+        "base_game": "Unknown Base Game",
+        "size": 3145728
+    },
+    "0100453019aa9001": {
+        "Release Date": "2025-03-20",
+        "dlc_name": "Exploration Support Package",
         "base_game": "Unknown Base Game",
         "size": 3145728
     },
@@ -10925,17 +10925,17 @@
         "base_game": "Unknown Base Game",
         "size": 200278016
     },
-    "010020101f805003": {
-        "Release Date": "2025-03-18",
-        "dlc_name": "Fitness Boxing 3: Encore Tunes EX",
-        "base_game": "Unknown Base Game",
-        "size": 200278016
-    },
     "01000c001f82b001": {
         "Release Date": "2025-03-18",
         "dlc_name": "Digital Deluxe Edition Bonus Content",
         "base_game": "Unknown Base Game",
         "size": 3145728
+    },
+    "010020101f805003": {
+        "Release Date": "2025-03-18",
+        "dlc_name": "Fitness Boxing 3: Encore Tunes EX",
+        "base_game": "Unknown Base Game",
+        "size": 200278016
     },
     "01006560184e701d": {
         "Release Date": "2025-03-18",
@@ -12221,15 +12221,15 @@
         "base_game": "Unknown Base Game",
         "size": 3145728
     },
-    "01006b0016ad717d": {
-        "Release Date": "2025-02-06",
-        "dlc_name": "Taiko no Tatsujin: Rhythm Festival - Touhou Project Arrangements Pack Vol. 1",
-        "base_game": "Unknown Base Game",
-        "size": 15728640
-    },
     "01002460135a516a": {
         "Release Date": "2025-02-06",
         "dlc_name": "\u6771\u65b9Project Arrange Pack Vol. 1",
+        "base_game": "Unknown Base Game",
+        "size": 15728640
+    },
+    "01006b0016ad717d": {
+        "Release Date": "2025-02-06",
+        "dlc_name": "Taiko no Tatsujin: Rhythm Festival - Touhou Project Arrangements Pack Vol. 1",
         "base_game": "Unknown Base Game",
         "size": 15728640
     },
@@ -12389,12 +12389,6 @@
         "base_game": "Unknown Base Game",
         "size": 662700032
     },
-    "010031f019295021": {
-        "Release Date": "2025-01-29",
-        "dlc_name": "Crewmate",
-        "base_game": "Unknown Base Game",
-        "size": 3145728
-    },
     "01002a701db9f001": {
         "Release Date": "2025-01-28",
         "dlc_name": "Tails of Iron 2: Whiskers of Winter - Augur of the Draugr Armour Pack",
@@ -12428,6 +12422,12 @@
     "0100bee017fc1068": {
         "Release Date": "2025-01-28",
         "dlc_name": "Just Dance Fitness",
+        "base_game": "Unknown Base Game",
+        "size": 3145728
+    },
+    "010031f019295021": {
+        "Release Date": "2025-01-28",
+        "dlc_name": "Crewmate",
         "base_game": "Unknown Base Game",
         "size": 3145728
     },
@@ -12971,12 +12971,6 @@
         "base_game": "Unknown Base Game",
         "size": 3145728
     },
-    "01006b0016ad7179": {
-        "Release Date": "2025-01-09",
-        "dlc_name": "Taiko no Tatsujin: Rhythm Festival - Kids' Pack Vol. 3",
-        "base_game": "Unknown Base Game",
-        "size": 15728640
-    },
     "01004ba01f877041": {
         "Release Date": "2025-01-09",
         "dlc_name": "\u8ffd\u52a0\u5287\u60c5\u300c\u5996\u7cbe\u5c3e\u5df4\u6eab\u6cc9\u300d",
@@ -13060,6 +13054,12 @@
         "dlc_name": "Star Trek: Legends - \u66b4\u5f92 DLC",
         "base_game": "Unknown Base Game",
         "size": 3145728
+    },
+    "01006b0016ad7179": {
+        "Release Date": "2025-01-09",
+        "dlc_name": "Taiko no Tatsujin: Rhythm Festival - Kids' Pack Vol. 3",
+        "base_game": "Unknown Base Game",
+        "size": 15728640
     },
     "0100cc501f86d041": {
         "Release Date": "2025-01-09",
@@ -13439,6 +13439,18 @@
         "base_game": "Unknown Base Game",
         "size": 585105408
     },
+    "01000ab01f9c1002": {
+        "Release Date": "2024-12-13",
+        "dlc_name": "Chernobylite - Seasoned Scavenger Weapon Skin Pack",
+        "base_game": "Unknown Base Game",
+        "size": 585105408
+    },
+    "01000ab01f9c1006": {
+        "Release Date": "2024-12-13",
+        "dlc_name": "Chernobylite - Irradiated Hideout Skin Pack",
+        "base_game": "Unknown Base Game",
+        "size": 585105408
+    },
     "0100da70186d501c": {
         "Release Date": "2024-12-12",
         "dlc_name": "Pinball FX - Williams\u2122 Pinball: Volume 1",
@@ -13468,18 +13480,6 @@
         "dlc_name": "Pinball FX - Williams\u2122 Pinball: Universal Monsters Pack",
         "base_game": "Unknown Base Game",
         "size": 140509184
-    },
-    "01000ab01f9c1002": {
-        "Release Date": "2024-12-12",
-        "dlc_name": "Chernobylite - Seasoned Scavenger Weapon Skin Pack",
-        "base_game": "Unknown Base Game",
-        "size": 0
-    },
-    "01000ab01f9c1006": {
-        "Release Date": "2024-12-12",
-        "dlc_name": "Chernobylite - Irradiated Hideout Skin Pack",
-        "base_game": "Unknown Base Game",
-        "size": 0
     },
     "01004ba01f877001": {
         "Release Date": "2024-12-12",
@@ -13775,12 +13775,6 @@
         "base_game": "Unknown Base Game",
         "size": 97517568
     },
-    "01006b0016ad7175": {
-        "Release Date": "2024-12-05",
-        "dlc_name": "Taiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 4",
-        "base_game": "Unknown Base Game",
-        "size": 15728640
-    },
     "01002460135a5161": {
         "Release Date": "2024-12-05",
         "dlc_name": "\u5361\u901a\u52d5\u756b\u97f3\u6a02Pack Vol. 4",
@@ -13810,6 +13804,18 @@
         "dlc_name": "UFO ROBOT GRENDIZER \u2013 The Feast of the Wolves Deluxe Edition - Upgrade",
         "base_game": "Unknown Base Game",
         "size": 3145728
+    },
+    "01006b0016ad7175": {
+        "Release Date": "2024-12-05",
+        "dlc_name": "Taiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 4",
+        "base_game": "Unknown Base Game",
+        "size": 15728640
+    },
+    "01006b0016ad7171": {
+        "Release Date": "2024-12-05",
+        "dlc_name": "Taiko no Tatsujin: Rhythm Festival - \u3010OSHI NO KO\u3011Collab. Pack",
+        "base_game": "Unknown Base Game",
+        "size": 9437184
     },
     "0100da40190fd002": {
         "Release Date": "2024-12-05",
@@ -14039,30 +14045,6 @@
         "base_game": "Unknown Base Game",
         "size": 3145728
     },
-    "010031f01929501d": {
-        "Release Date": "2024-11-27",
-        "dlc_name": "Hatsune Miku",
-        "base_game": "Unknown Base Game",
-        "size": 3145728
-    },
-    "010031f01929501e": {
-        "Release Date": "2024-11-27",
-        "dlc_name": "Godzilla",
-        "base_game": "Unknown Base Game",
-        "size": 3145728
-    },
-    "010031f019295025": {
-        "Release Date": "2024-11-27",
-        "dlc_name": "NIJISANJI UKIUKI CUP Outfit Set",
-        "base_game": "Unknown Base Game",
-        "size": 3145728
-    },
-    "01006b0016ad7171": {
-        "Release Date": "2024-11-27",
-        "dlc_name": "Taiko no Tatsujin: Rhythm Festival - \u3010OSHI NO KO\u3011Collab. Pack",
-        "base_game": "Unknown Base Game",
-        "size": 9437184
-    },
     "0100594020c2b001": {
         "Release Date": "2024-11-27",
         "dlc_name": "\u512a\u96c5\u8c93\u54aa\u6676\u5b50",
@@ -14096,6 +14078,24 @@
     "01006560184e7018": {
         "Release Date": "2024-11-26",
         "dlc_name": "MK1: Ghostface",
+        "base_game": "Unknown Base Game",
+        "size": 3145728
+    },
+    "010031f01929501e": {
+        "Release Date": "2024-11-26",
+        "dlc_name": "Godzilla",
+        "base_game": "Unknown Base Game",
+        "size": 3145728
+    },
+    "010031f01929501d": {
+        "Release Date": "2024-11-26",
+        "dlc_name": "Hatsune Miku",
+        "base_game": "Unknown Base Game",
+        "size": 3145728
+    },
+    "010031f019295025": {
+        "Release Date": "2024-11-26",
+        "dlc_name": "NIJISANJI UKIUKI CUP Outfit Set",
         "base_game": "Unknown Base Game",
         "size": 3145728
     },
@@ -15749,12 +15749,6 @@
         "base_game": "Unknown Base Game",
         "size": 9437184
     },
-    "01006b0016ad7141": {
-        "Release Date": "2024-10-03",
-        "dlc_name": "Taiko no Tatsujin: Rhythm Festival - SPY\u00d7FAMILY Pack",
-        "base_game": "Unknown Base Game",
-        "size": 9437184
-    },
     "0100f85018a15005": {
         "Release Date": "2024-10-03",
         "dlc_name": "\u5200\u528d\u795e\u57df \u788e\u5922\u908a\u5883 \u734e\u52f5\u8cbc\u5716\u7d44",
@@ -15770,6 +15764,12 @@
     "01002460135a513b": {
         "Release Date": "2024-10-03",
         "dlc_name": "SPY\u00d7FAMILY Pack",
+        "base_game": "Unknown Base Game",
+        "size": 9437184
+    },
+    "01006b0016ad7141": {
+        "Release Date": "2024-10-03",
+        "dlc_name": "Taiko no Tatsujin: Rhythm Festival - SPY\u00d7FAMILY Pack",
         "base_game": "Unknown Base Game",
         "size": 9437184
     },
@@ -16841,12 +16841,6 @@
         "base_game": "Unknown Base Game",
         "size": 9437184
     },
-    "01006b0016ad7129": {
-        "Release Date": "2024-08-01",
-        "dlc_name": "Taiko no Tatsujin: Rhythm Festival - HATSUNE MIKU Pack Vol. 5",
-        "base_game": "Unknown Base Game",
-        "size": 9437184
-    },
     "01002460135a5122": {
         "Release Date": "2024-08-01",
         "dlc_name": "\u822a\u6d77\u738b\u52d5\u756b25\u9031\u5e74\u7d00\u5ff5\u5408\u4f5cPack",
@@ -16870,6 +16864,12 @@
         "dlc_name": "\u901a\u7528\u6821\u670d\u8457\u7d44",
         "base_game": "Unknown Base Game",
         "size": 3145728
+    },
+    "01006b0016ad7129": {
+        "Release Date": "2024-08-01",
+        "dlc_name": "Taiko no Tatsujin: Rhythm Festival - HATSUNE MIKU Pack Vol. 5",
+        "base_game": "Unknown Base Game",
+        "size": 9437184
     },
     "0100bca0135a111d": {
         "Release Date": "2024-08-01",
@@ -21779,18 +21779,6 @@
         "base_game": "Unknown Base Game",
         "size": 15728640
     },
-    "01006b0016ad70d4": {
-        "Release Date": "2023-12-07",
-        "dlc_name": "Taiko no Tatsujin: Rhythm Festival - 2000s Pops Pack",
-        "base_game": "Unknown Base Game",
-        "size": 15728640
-    },
-    "01006b0016ad70c5": {
-        "Release Date": "2023-12-07",
-        "dlc_name": "Taiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 3",
-        "base_game": "Unknown Base Game",
-        "size": 12582912
-    },
     "0100d5a01a09f009": {
         "Release Date": "2023-12-07",
         "dlc_name": "Party Power Pack",
@@ -21802,6 +21790,18 @@
         "dlc_name": "\u592a\u9f13\u4e4b\u9054\u4eba \u5065\u8eab\u9f13\u68d2 for Nintendo Switch \u8cfc\u8cb7\u9650\u5b9a\u7279\u5178",
         "base_game": "Unknown Base Game",
         "size": 3145728
+    },
+    "01006b0016ad70c5": {
+        "Release Date": "2023-12-07",
+        "dlc_name": "Taiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 3",
+        "base_game": "Unknown Base Game",
+        "size": 12582912
+    },
+    "01006b0016ad70d4": {
+        "Release Date": "2023-12-07",
+        "dlc_name": "Taiko no Tatsujin: Rhythm Festival - 2000s Pops Pack",
+        "base_game": "Unknown Base Game",
+        "size": 15728640
     },
     "0100bca0135a10c0": {
         "Release Date": "2023-12-07",
@@ -21895,43 +21895,43 @@
     },
     "0100cc701a0bd065": {
         "Release Date": "2023-11-03",
-        "dlc_name": "Loungewear Outfit Patterns",
+        "dlc_name": "Mod\u00e8les \"tenue de d\u00e9tente\"",
         "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100cc701a0bd066": {
         "Release Date": "2023-11-03",
-        "dlc_name": "Model Outfit Patterns",
+        "dlc_name": "Mod\u00e8les \"tenue de mannequin\"",
         "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100cc701a0bd069": {
         "Release Date": "2023-11-03",
-        "dlc_name": "Pop Outfit Patterns",
+        "dlc_name": "Mod\u00e8les \"tenue pop\"",
         "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100cc701a0bd068": {
         "Release Date": "2023-11-03",
-        "dlc_name": "Cute Outfit Patterns",
+        "dlc_name": "Mod\u00e8les \"tenue kawaii\"",
         "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100cc701a0bd06b": {
         "Release Date": "2023-11-03",
-        "dlc_name": "Sporty Outfit Patterns",
+        "dlc_name": "Mod\u00e8les \"tenue sportive\"",
         "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100cc701a0bd067": {
         "Release Date": "2023-11-03",
-        "dlc_name": "Gothic Outfit Patterns",
+        "dlc_name": "Mod\u00e8les \"tenue gothique\"",
         "base_game": "Unknown Base Game",
         "size": 3145728
     },
     "0100cc701a0bd06a": {
         "Release Date": "2023-11-03",
-        "dlc_name": "Cool Outfit Patterns",
+        "dlc_name": "Mod\u00e8les \"tenue cool\"",
         "base_game": "Unknown Base Game",
         "size": 3145728
     },
