@@ -8585,13 +8585,13 @@
         "base_game": "Unknown Base Game",
         "size": 6291456
     },
-    "010022a02008d00d": {
+    "01003af0200b100d": {
         "Release Date": "2025-06-05",
         "dlc_name": "Rune Factory 4 Bachelorette Outfit Bundle",
         "base_game": "Unknown Base Game",
         "size": 18874368
     },
-    "01003af0200b100d": {
+    "010022a02008d00d": {
         "Release Date": "2025-06-05",
         "dlc_name": "Rune Factory 4 Bachelorette Outfit Bundle",
         "base_game": "Unknown Base Game",
@@ -13443,13 +13443,13 @@
         "Release Date": "2024-12-13",
         "dlc_name": "Chernobylite - Seasoned Scavenger Weapon Skin Pack",
         "base_game": "Unknown Base Game",
-        "size": 585105408
+        "size": 0
     },
     "01000ab01f9c1006": {
         "Release Date": "2024-12-13",
         "dlc_name": "Chernobylite - Irradiated Hideout Skin Pack",
         "base_game": "Unknown Base Game",
-        "size": 585105408
+        "size": 0
     },
     "0100da70186d501c": {
         "Release Date": "2024-12-12",
@@ -13811,12 +13811,6 @@
         "base_game": "Unknown Base Game",
         "size": 15728640
     },
-    "01006b0016ad7171": {
-        "Release Date": "2024-12-05",
-        "dlc_name": "Taiko no Tatsujin: Rhythm Festival - \u3010OSHI NO KO\u3011Collab. Pack",
-        "base_game": "Unknown Base Game",
-        "size": 9437184
-    },
     "0100da40190fd002": {
         "Release Date": "2024-12-05",
         "dlc_name": "\u30c1\u30d0\u30ea\u30e82\u958b\u653e\u5238",
@@ -14084,6 +14078,12 @@
     "01002460135a515c": {
         "Release Date": "2024-11-27",
         "dlc_name": "\u3010\u6211\u63a8\u7684\u5b69\u5b50\u3011\u5408\u4f5cPack",
+        "base_game": "Unknown Base Game",
+        "size": 9437184
+    },
+    "01006b0016ad7171": {
+        "Release Date": "2024-11-27",
+        "dlc_name": "Taiko no Tatsujin: Rhythm Festival - \u3010OSHI NO KO\u3011Collab. Pack",
         "base_game": "Unknown Base Game",
         "size": 9437184
     },
@@ -21791,17 +21791,17 @@
         "base_game": "Unknown Base Game",
         "size": 3145728
     },
-    "01006b0016ad70c5": {
-        "Release Date": "2023-12-07",
-        "dlc_name": "Taiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 3",
-        "base_game": "Unknown Base Game",
-        "size": 12582912
-    },
     "01006b0016ad70d4": {
         "Release Date": "2023-12-07",
         "dlc_name": "Taiko no Tatsujin: Rhythm Festival - 2000s Pops Pack",
         "base_game": "Unknown Base Game",
         "size": 15728640
+    },
+    "01006b0016ad70c5": {
+        "Release Date": "2023-12-07",
+        "dlc_name": "Taiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 3",
+        "base_game": "Unknown Base Game",
+        "size": 12582912
     },
     "0100bca0135a10c0": {
         "Release Date": "2023-12-07",
@@ -36305,6 +36305,18 @@
         "base_game": "Unknown Base Game",
         "size": 2350907392
     },
+    "010076f00e9c9001": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (PL)",
+        "base_game": "Unknown Base Game",
+        "size": 2350907392
+    },
+    "010076f00e9c9002": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (RU)",
+        "base_game": "Unknown Base Game",
+        "size": 2441084928
+    },
     "010039400e8d7003": {
         "Release Date": "2020-02-26",
         "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (DE)",
@@ -36320,18 +36332,6 @@
     "010039400e8d7002": {
         "Release Date": "2020-02-26",
         "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (RU)",
-        "base_game": "Unknown Base Game",
-        "size": 2441084928
-    },
-    "010076f00e9c9001": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (PL)",
-        "base_game": "Unknown Base Game",
-        "size": 2350907392
-    },
-    "010076f00e9c9002": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (RU)",
         "base_game": "Unknown Base Game",
         "size": 2441084928
     },
