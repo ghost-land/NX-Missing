@@ -1589,12 +1589,6 @@
         "base_game": "Legendary Spell",
         "size": 3145728
     },
-    "0100b0d025739002": {
-        "Release Date": "2026-03-26",
-        "dlc_name": "Cat Girl Survivor \u2013 Additional Character \"Leah\"",
-        "base_game": "Cat Girl Survivor",
-        "size": 3145728
-    },
     "01004ce02574f001": {
         "Release Date": "2026-03-26",
         "dlc_name": "Ocean Bookmark DLC",
@@ -1605,6 +1599,12 @@
         "Release Date": "2026-03-26",
         "dlc_name": "Digital Soundtrack/Artbook",
         "base_game": "\ub9c8\ubc95\uc0ac\uc11c \uc544\ub9ac\uc544\ub098 \uce60\uc601\uac78\uc758 \uc11c",
+        "size": 3145728
+    },
+    "0100b0d025739002": {
+        "Release Date": "2026-03-26",
+        "dlc_name": "\u8c93\u5a18\u5016\u5b58\u8005 (Cat Girl Survivor) \u2013 Leah",
+        "base_game": "Cat Girl Survivor",
         "size": 3145728
     },
     "01004ce02574f005": {
@@ -1699,7 +1699,7 @@
     },
     "0100b0d025739001": {
         "Release Date": "2026-03-12",
-        "dlc_name": "Cat Girl Survivor \u2013 Extra Episode DLC",
+        "dlc_name": "\u8c93\u5a18\u5016\u5b58\u8005 (Cat Girl Survivor) \u2013 Extra Episode DLC",
         "base_game": "Cat Girl Survivor",
         "size": 3145728
     },
@@ -1931,6 +1931,12 @@
         "base_game": "\ud14c\uc77c\uc988 \uc624\ube0c \ubca0\ub974\uc138\ub9ac\uc544 \ub9ac\ub9c8\uc2a4\ud130\uff08Tales of Berseria Remastered\uff09",
         "size": 3145728
     },
+    "01009f002286f011": {
+        "Release Date": "2026-02-26",
+        "dlc_name": "BEYBLADE X EVOBATTLE DIGITAL BEYBOOSTER VOL.4",
+        "base_game": "BEYBLADE X EVOBATTLE",
+        "size": 3145728
+    },
     "010043a0254730aa": {
         "Release Date": "2026-02-26",
         "dlc_name": "\u5927\u6226\u7565SSB2 \u2013 \u5175\u5668\u56f3\u94512\uff06\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u30d1\u30c3\u30af",
@@ -1966,12 +1972,6 @@
         "dlc_name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30d9\u30eb\u30bb\u30ea\u30a2 \u30ea\u30de\u30b9\u30bf\u30fc \u30d0\u30c8\u30ebBGM\u30d1\u30c3\u30af",
         "base_game": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30d9\u30eb\u30bb\u30ea\u30a2 \u30ea\u30de\u30b9\u30bf\u30fc",
         "size": 104857600
-    },
-    "01009f002286f011": {
-        "Release Date": "2026-02-26",
-        "dlc_name": "BEYBLADE X EVOBATTLE DIGITAL BEYBOOSTER VOL.4",
-        "base_game": "BEYBLADE X EVOBATTLE",
-        "size": 3145728
     },
     "01005cf01e785005": {
         "Release Date": "2026-02-25",
@@ -2177,6 +2177,12 @@
         "base_game": "\ub4dc\ub798\uace4 \ud018\uc2a4\ud2b8 VII Reimagined",
         "size": 3145728
     },
+    "0100b8d025c69001": {
+        "Release Date": "2026-02-03",
+        "dlc_name": "Portraits Pack 1",
+        "base_game": "Hentai Frames",
+        "size": 3145728
+    },
     "0100a9d01c44700b": {
         "Release Date": "2026-02-03",
         "dlc_name": "\u30a2\u30a4\u30c6\u30e0\u30bb\u30c3\u30c8\uff1a\u30e9\u30c3\u30ad\u30fc\u30da\u30f3\u30c0\u30f3\u30c8\u3001\u547d\u306e\u304d\u306e\u307f",
@@ -2211,12 +2217,6 @@
         "Release Date": "2026-02-03",
         "dlc_name": "\u30d0\u30c3\u30c1\u30ea\u307c\u3046\u3051\u3093\u30a2\u30a4\u30c6\u30e0\u30bb\u30c3\u30c8",
         "base_game": "DRAGON QUEST VII Reimagined",
-        "size": 3145728
-    },
-    "0100b8d025c69001": {
-        "Release Date": "2026-02-03",
-        "dlc_name": "Portraits Pack 1",
-        "base_game": "Hentai Frames",
         "size": 3145728
     },
     "01009da022589001": {
@@ -3581,6 +3581,18 @@
         "base_game": "\u9f8d\u306e\u56fd \u30eb\u30fc\u30f3\u30d5\u30a1\u30af\u30c8\u30ea\u30fc",
         "size": 3145728
     },
+    "0400a940233e1053": {
+        "Release Date": "2025-11-13",
+        "dlc_name": "Daemon X Machina: Titanic Scion - Into the Abyss",
+        "base_game": "Unknown Base Game",
+        "size": 0
+    },
+    "010022a02008d00f": {
+        "Release Date": "2025-11-13",
+        "dlc_name": "Rune Factory: Guardians of Azuma - STORY OF SEASONS Bundle",
+        "base_game": "Rune Factory: Guardians of Azuma",
+        "size": 3145728
+    },
     "01002ef0180e1002": {
         "Release Date": "2025-11-13",
         "dlc_name": "\u6771\u65e5\u672c\u30de\u30c3\u30d7",
@@ -3603,18 +3615,6 @@
         "Release Date": "2025-11-13",
         "dlc_name": "\u897f\u65e5\u672c\u30b0\u30eb\u30e1\u53f7",
         "base_game": "\u6843\u592a\u90ce\u96fb\u9244\uff12 \uff5e\u3042\u306a\u305f\u306e\u753a\u3082 \u304d\u3063\u3068\u3042\u308b\uff5e",
-        "size": 3145728
-    },
-    "0400a940233e1053": {
-        "Release Date": "2025-11-13",
-        "dlc_name": "Daemon X Machina: Titanic Scion - Into the Abyss",
-        "base_game": "Unknown Base Game",
-        "size": 0
-    },
-    "010022a02008d00f": {
-        "Release Date": "2025-11-13",
-        "dlc_name": "Rune Factory: Guardians of Azuma - STORY OF SEASONS Bundle",
-        "base_game": "Rune Factory: Guardians of Azuma",
         "size": 3145728
     },
     "010095a01f173002": {
@@ -36311,18 +36311,6 @@
         "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
         "size": 2350907392
     },
-    "010076f00e9c9001": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (PL)",
-        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
-        "size": 2350907392
-    },
-    "010076f00e9c9002": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (RU)",
-        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
-        "size": 2441084928
-    },
     "010039400e8d7003": {
         "Release Date": "2020-02-26",
         "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (DE)",
@@ -36339,6 +36327,18 @@
         "Release Date": "2020-02-26",
         "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (RU)",
         "base_game": null,
+        "size": 2441084928
+    },
+    "010076f00e9c9001": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (PL)",
+        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
+        "size": 2350907392
+    },
+    "010076f00e9c9002": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (RU)",
+        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
         "size": 2441084928
     },
     "0100d3200c52b001": {
