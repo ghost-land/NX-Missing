@@ -2351,16 +2351,16 @@
         "base_game": "Dustland Delivery",
         "size": 3145728
     },
-    "0100ba400e2f502c": {
-        "Release Date": "2026-01-22",
-        "dlc_name": "ONE PIECE PIRATE WARRIORS 4 Character Pack 8 Special Selection Pack",
-        "base_game": "ONE PIECE: PIRATE WARRIORS 4",
-        "size": 3145728
-    },
     "010089c00da6b02c": {
         "Release Date": "2026-01-22",
         "dlc_name": "ONE PIECE \u6d77\u8cca\u7121\u96d94 \u89d2\u8272\u5305\u7b2c8\u5f48 \u7279\u5225\u7cbe\u9078\u5305",
         "base_game": "ONE PIECE \u6d77\u8cca\u7121\u53cc4",
+        "size": 3145728
+    },
+    "0100ba400e2f502c": {
+        "Release Date": "2026-01-22",
+        "dlc_name": "ONE PIECE PIRATE WARRIORS 4 Character Pack 8 Special Selection Pack",
+        "base_game": "ONE PIECE: PIRATE WARRIORS 4",
         "size": 3145728
     },
     "010034a020a5d002": {
@@ -2515,7 +2515,7 @@
     },
     "0100b4a024efb003": {
         "Release Date": "2026-01-12",
-        "dlc_name": "Christmas",
+        "dlc_name": "\u8056\u8a95\u7bc0",
         "base_game": "Pocket Nook",
         "size": 3145728
     },
@@ -2983,19 +2983,19 @@
     },
     "0100ab401f137002": {
         "Release Date": "2025-12-18",
-        "dlc_name": "Personnage additionnel GGST : Venom",
+        "dlc_name": "GGST Additional Character Venom",
         "base_game": "Guilty Gear -Strive- Nintendo Switch Edition",
         "size": 3145728
     },
     "0100ab401f137003": {
         "Release Date": "2025-12-18",
-        "dlc_name": "Personnage additionnel GGST : Unika",
+        "dlc_name": "GGST Additional Character Unika",
         "base_game": "Guilty Gear -Strive- Nintendo Switch Edition",
         "size": 3145728
     },
     "0100ab401f137004": {
         "Release Date": "2025-12-18",
-        "dlc_name": "Personnage additionnel GGST : Lucy",
+        "dlc_name": "GGST Additional Character Lucy",
         "base_game": "Guilty Gear -Strive- Nintendo Switch Edition",
         "size": 3145728
     },
@@ -3557,12 +3557,6 @@
         "base_game": "GROOVE COASTER FUTURE PERFORMERS",
         "size": 285212672
     },
-    "010022a02008d00f": {
-        "Release Date": "2025-11-13",
-        "dlc_name": "Rune Factory: Guardians of Azuma - STORY OF SEASONS Bundle",
-        "base_game": "Rune Factory: Guardians of Azuma",
-        "size": 3145728
-    },
     "01003b7023a132bc": {
         "Release Date": "2025-11-13",
         "dlc_name": "[\u840a\u838e\u7684\u934a\u91d1\u5de5\u623f \uff5e\u5e38\u95c7\u5973\u738b\u8207\u79d8\u5bc6\u85cf\u8eab\u8655\uff5e DX] DX\u7248\u9810\u8cfc\u7279\u5178",
@@ -3589,9 +3583,15 @@
     },
     "0400a940233e1053": {
         "Release Date": "2025-11-13",
-        "dlc_name": "Daemon X Machina: Titanic Scion - Into the Abyss",
+        "dlc_name": "Daemon X Machina: Titanic Scion - Hacia el abismo",
         "base_game": "Unknown Base Game",
         "size": 0
+    },
+    "010022a02008d00f": {
+        "Release Date": "2025-11-13",
+        "dlc_name": "Rune Factory: Guardians of Azuma - STORY OF SEASONS Bundle",
+        "base_game": "Rune Factory: Guardians of Azuma",
+        "size": 3145728
     },
     "01002ef0180e1002": {
         "Release Date": "2025-11-13",
@@ -4165,7 +4165,7 @@
     },
     "0400a940233e103f": {
         "Release Date": "2025-10-29",
-        "dlc_name": "Sovereign Axiom Outfit Set",
+        "dlc_name": "Conjunto de atuendos de Sovereign Axiom",
         "base_game": "Unknown Base Game",
         "size": 0
     },
@@ -5275,37 +5275,37 @@
     },
     "0400a940233e103e": {
         "Release Date": "2025-09-24",
-        "dlc_name": "Reclaimers Outfit Set",
+        "dlc_name": "Conjunto de atuendos de Los Reclaimers",
         "base_game": "Unknown Base Game",
         "size": 0
     },
     "0400a940233e1040": {
         "Release Date": "2025-09-24",
-        "dlc_name": "Hairstyle Set 1",
+        "dlc_name": "Conjunto de peinado 1",
         "base_game": "Unknown Base Game",
         "size": 0
     },
     "0400a940233e1041": {
         "Release Date": "2025-09-24",
-        "dlc_name": "Hairstyle Set 2",
+        "dlc_name": "Conjunto de peinado 2",
         "base_game": "Unknown Base Game",
         "size": 0
     },
     "0400a940233e1042": {
         "Release Date": "2025-09-24",
-        "dlc_name": "Hairstyle Set 3",
+        "dlc_name": "Conjunto de peinado 3",
         "base_game": "Unknown Base Game",
         "size": 0
     },
     "0400a940233e1043": {
         "Release Date": "2025-09-24",
-        "dlc_name": "Hairstyle Set 4",
+        "dlc_name": "Conjunto de peinado 4",
         "base_game": "Unknown Base Game",
         "size": 0
     },
     "0400a940233e1044": {
         "Release Date": "2025-09-24",
-        "dlc_name": "Hairstyle Set 5",
+        "dlc_name": "Conjunto de peinado 5",
         "base_game": "Unknown Base Game",
         "size": 0
     },
@@ -6035,12 +6035,6 @@
         "base_game": "Battle Train",
         "size": 58720256
     },
-    "0100821020bbd079": {
-        "Release Date": "2025-09-05",
-        "dlc_name": "EVERYBODY'S GOLF HOT SHOTS - Pre-order Bonus",
-        "base_game": "EVERYBODY'S GOLF HOT SHOTS",
-        "size": 3145728
-    },
     "0400a940233e1009": {
         "Release Date": "2025-09-05",
         "dlc_name": "Special SFX Weapon Set",
@@ -6058,6 +6052,12 @@
         "dlc_name": "Special Equipment Set",
         "base_game": "Unknown Base Game",
         "size": 0
+    },
+    "0100821020bbd079": {
+        "Release Date": "2025-09-05",
+        "dlc_name": "EVERYBODY'S GOLF HOT SHOTS - Pre-order Bonus",
+        "base_game": "EVERYBODY'S GOLF HOT SHOTS",
+        "size": 3145728
     },
     "0400a940233e100e": {
         "Release Date": "2025-09-05",
@@ -7251,7 +7251,7 @@
         "Release Date": "2025-07-18",
         "dlc_name": "Shadow Labyrinth - Digital Artbook & Soundtrack",
         "base_game": "Shadow Labyrinth",
-        "size": 61865984
+        "size": 121634816
     },
     "010062f01e0e9001": {
         "Release Date": "2025-07-18",
@@ -8495,7 +8495,7 @@
         "base_game": "Rune Factory: Guardians of Azuma",
         "size": 3145728
     },
-    "010022a02008d00d": {
+    "010022a02008d008": {
         "Release Date": "2025-06-05",
         "dlc_name": "Rune Factory 4 Bachelorette Outfit Bundle",
         "base_game": "Rune Factory: Guardians of Azuma",
@@ -8513,13 +8513,7 @@
         "base_game": "Rune Factory: Guardians of Azuma",
         "size": 3145728
     },
-    "01003af0200b100d": {
-        "Release Date": "2025-06-05",
-        "dlc_name": "Rune Factory 4 Bachelorette Outfit Bundle",
-        "base_game": "Rune Factory: Guardians of Azuma",
-        "size": 18874368
-    },
-    "010022a02008d008": {
+    "010022a02008d00d": {
         "Release Date": "2025-06-05",
         "dlc_name": "Rune Factory 4 Bachelorette Outfit Bundle",
         "base_game": "Rune Factory: Guardians of Azuma",
@@ -8638,6 +8632,12 @@
         "dlc_name": "\u661f\u754c\u6230\u58eb-\u7344\u5916\u4e16\u754c",
         "base_game": "\u30a2\u30b9\u30c8\u30e9\u30eb\u30a2\u30bb\u30f3\u30c8 (Astral Ascent)",
         "size": 3145728
+    },
+    "01003af0200b100d": {
+        "Release Date": "2025-06-05",
+        "dlc_name": "Rune Factory 4 Bachelorette Outfit Bundle",
+        "base_game": "Rune Factory: Guardians of Azuma",
+        "size": 18874368
     },
     "0100492022ded008": {
         "Release Date": "2025-06-05",
@@ -14285,16 +14285,16 @@
         "base_game": "Taiko no Tatsujin: Rhythm Festival",
         "size": 3145728
     },
-    "010037c01e2a300b": {
-        "Release Date": "2024-11-21",
-        "dlc_name": "Kissie Skin: Honey Flan",
-        "base_game": "Farmagia",
-        "size": 3145728
-    },
     "010000b01a453008": {
         "Release Date": "2024-11-21",
         "dlc_name": "Jujutsu Kaisen Cursed Clash - Shibuya Incident",
         "base_game": "Jujutsu Kaisen Cursed Clash",
+        "size": 3145728
+    },
+    "010037c01e2a300b": {
+        "Release Date": "2024-11-21",
+        "dlc_name": "Kissie Skin: Honey Flan",
+        "base_game": "Farmagia",
         "size": 3145728
     },
     "01002fc012549008": {
@@ -36287,23 +36287,11 @@
         "base_game": "LoveR Kiss\uff08\u30e9\u30f4\u30a2\u30fc\u30eb \u30ad\u30b9\uff09",
         "size": 96468992
     },
-    "010039400e8d7003": {
+    "010070a00e9cf001": {
         "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (DE)",
-        "base_game": null,
-        "size": 2365587456
-    },
-    "010039400e8d7005": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (FR)",
-        "base_game": null,
-        "size": 2335178752
-    },
-    "010039400e8d7002": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (RU)",
-        "base_game": null,
-        "size": 2441084928
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (PL)",
+        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
+        "size": 2350907392
     },
     "0100a0800e9c5001": {
         "Release Date": "2020-02-26",
@@ -36323,6 +36311,24 @@
         "base_game": "\u0412\u0435\u0434\u044c\u043c\u0430\u043a 3: \u0414\u0438\u043a\u0430\u044f \u041e\u0445\u043e\u0442\u0430 \u2014 \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435",
         "size": 2364538880
     },
+    "010039400e8d7003": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (DE)",
+        "base_game": null,
+        "size": 2365587456
+    },
+    "010039400e8d7005": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (FR)",
+        "base_game": null,
+        "size": 2335178752
+    },
+    "010039400e8d7002": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (RU)",
+        "base_game": null,
+        "size": 2441084928
+    },
     "010076f00e9c9001": {
         "Release Date": "2020-02-26",
         "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (PL)",
@@ -36334,12 +36340,6 @@
         "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (RU)",
         "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
         "size": 2441084928
-    },
-    "010070a00e9cf001": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (PL)",
-        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
-        "size": 2350907392
     },
     "0100d3200c52b001": {
         "Release Date": "2020-02-20",
