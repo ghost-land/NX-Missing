@@ -2773,7 +2773,7 @@
     },
     "0100b0d025739002": {
         "Release Date": "2026-03-26",
-        "dlc_name": "\u8c93\u5a18\u5016\u5b58\u8005 (Cat Girl Survivor) \u2013 Leah",
+        "dlc_name": "Cat Girl Survivor \u2013 Additional Character \"Leah\"",
         "base_game": "Cat Girl Survivor",
         "size": 3145728
     },
@@ -2869,7 +2869,7 @@
     },
     "0100b0d025739001": {
         "Release Date": "2026-03-12",
-        "dlc_name": "\u8c93\u5a18\u5016\u5b58\u8005 (Cat Girl Survivor) \u2013 Extra Episode DLC",
+        "dlc_name": "Cat Girl Survivor \u2013 Extra Episode DLC",
         "base_game": "Cat Girl Survivor",
         "size": 3145728
     },
@@ -9695,6 +9695,12 @@
         "base_game": "\u30a2\u30b9\u30c8\u30e9\u30eb\u30a2\u30bb\u30f3\u30c8 (Astral Ascent)",
         "size": 3145728
     },
+    "010022a02008d00d": {
+        "Release Date": "2025-06-05",
+        "dlc_name": "Rune Factory 4 Bachelorette Outfit Bundle",
+        "base_game": "Rune Factory: Guardians of Azuma",
+        "size": 18874368
+    },
     "0100cfb01cdcf008": {
         "Release Date": "2025-06-05",
         "dlc_name": "\u9e97\u65e5\u670d\u88dd\u300c\u8cfd\u723e\u83f2\u4e9e\u98a8\u683c\u3010\u746a\u683c\u9e97\u7279\u3011\u300d",
@@ -9784,12 +9790,6 @@
         "dlc_name": "\u9ec3\u660f\u8a18\u61b6\uff1a\u6fa4\u6069",
         "base_game": null,
         "size": 58720256
-    },
-    "010022a02008d00d": {
-        "Release Date": "2025-06-05",
-        "dlc_name": "Rune Factory 4 Bachelorette Outfit Bundle",
-        "base_game": "Rune Factory: Guardians of Azuma",
-        "size": 18874368
     },
     "01003af0200b100d": {
         "Release Date": "2025-06-05",
@@ -14867,18 +14867,6 @@
         "base_game": "\u71b1\u8840\u786c\u6d3e\u304f\u306b\u304a\u304f\u3093\u5916\u4f1d \u30ea\u30d0\u30fc\u30b7\u30c6\u30a3\u30ac\u30fc\u30eb\u30ba2",
         "size": 3145728
     },
-    "0100af701fb2f002": {
-        "Release Date": "2024-12-05",
-        "dlc_name": "UFO ROBOT GRENDIZER \u2013 The Feast of the Wolves - Princely Outfit",
-        "base_game": "Unknown Base Game",
-        "size": 3145728
-    },
-    "0100af701fb2f001": {
-        "Release Date": "2024-12-05",
-        "dlc_name": "UFO ROBOT GRENDIZER \u2013 The Feast of the Wolves Deluxe Edition - Upgrade",
-        "base_game": "Unknown Base Game",
-        "size": 3145728
-    },
     "01006b0016ad7175": {
         "Release Date": "2024-12-05",
         "dlc_name": "Taiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 4",
@@ -14890,6 +14878,18 @@
         "dlc_name": "Taiko no Tatsujin: Rhythm Festival - \u3010OSHI NO KO\u3011Collab. Pack",
         "base_game": "Taiko no Tatsujin: Rhythm Festival",
         "size": 9437184
+    },
+    "0100af701fb2f002": {
+        "Release Date": "2024-12-05",
+        "dlc_name": "UFO ROBOT GRENDIZER \u2013 The Feast of the Wolves - Princely Outfit",
+        "base_game": "Unknown Base Game",
+        "size": 3145728
+    },
+    "0100af701fb2f001": {
+        "Release Date": "2024-12-05",
+        "dlc_name": "UFO ROBOT GRENDIZER \u2013 The Feast of the Wolves Deluxe Edition - Upgrade",
+        "base_game": "Unknown Base Game",
+        "size": 3145728
     },
     "0100da40190fd002": {
         "Release Date": "2024-12-05",
@@ -37451,6 +37451,18 @@
         "base_game": "LoveR Kiss\uff08\u30e9\u30f4\u30a2\u30fc\u30eb \u30ad\u30b9\uff09",
         "size": 96468992
     },
+    "010076f00e9c9001": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (PL)",
+        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
+        "size": 2350907392
+    },
+    "010076f00e9c9002": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (RU)",
+        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
+        "size": 2441084928
+    },
     "0100a0800e9c5001": {
         "Release Date": "2020-02-26",
         "dlc_name": "\u042f\u0437\u044b\u043a\u043e\u0432\u043e\u0439 \u043f\u0430\u043a\u0435\u0442 '\u0412\u0435\u0434\u044c\u043c\u0430\u043a 3: \u0414\u0438\u043a\u0430\u044f \u041e\u0445\u043e\u0442\u0430 \u2014 \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435' (PL)",
@@ -37469,6 +37481,12 @@
         "base_game": "\u0412\u0435\u0434\u044c\u043c\u0430\u043a 3: \u0414\u0438\u043a\u0430\u044f \u041e\u0445\u043e\u0442\u0430 \u2014 \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435",
         "size": 2364538880
     },
+    "010070a00e9cf001": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (PL)",
+        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
+        "size": 2350907392
+    },
     "010039400e8d7003": {
         "Release Date": "2020-02-26",
         "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (DE)",
@@ -37485,24 +37503,6 @@
         "Release Date": "2020-02-26",
         "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (RU)",
         "base_game": null,
-        "size": 2441084928
-    },
-    "010070a00e9cf001": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (PL)",
-        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
-        "size": 2350907392
-    },
-    "010076f00e9c9001": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (PL)",
-        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
-        "size": 2350907392
-    },
-    "010076f00e9c9002": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (RU)",
-        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
         "size": 2441084928
     },
     "010079500fd5d002": {
