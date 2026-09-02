@@ -3221,6 +3221,12 @@
         "base_game": "\ud14c\uc77c\uc988 \uc624\ube0c \ubca0\ub974\uc138\ub9ac\uc544 \ub9ac\ub9c8\uc2a4\ud130\uff08Tales of Berseria Remastered\uff09",
         "size": 3145728
     },
+    "01009f002286f011": {
+        "Release Date": "2026-02-26",
+        "dlc_name": "BEYBLADE X EVOBATTLE DIGITAL BEYBOOSTER VOL.4",
+        "base_game": "BEYBLADE X EVOBATTLE",
+        "size": 3145728
+    },
     "010043a0254730aa": {
         "Release Date": "2026-02-26",
         "dlc_name": "\u5927\u6226\u7565SSB2 \u2013 \u5175\u5668\u56f3\u94512\uff06\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u30d1\u30c3\u30af",
@@ -3256,12 +3262,6 @@
         "dlc_name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30d9\u30eb\u30bb\u30ea\u30a2 \u30ea\u30de\u30b9\u30bf\u30fc \u30d0\u30c8\u30ebBGM\u30d1\u30c3\u30af",
         "base_game": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30d9\u30eb\u30bb\u30ea\u30a2 \u30ea\u30de\u30b9\u30bf\u30fc",
         "size": 104857600
-    },
-    "01009f002286f011": {
-        "Release Date": "2026-02-26",
-        "dlc_name": "BEYBLADE X EVOBATTLE DIGITAL BEYBOOSTER VOL.4",
-        "base_game": "BEYBLADE X EVOBATTLE",
-        "size": 3145728
     },
     "01005cf01e785005": {
         "Release Date": "2026-02-25",
@@ -4873,7 +4873,7 @@
     },
     "0400a940233e1053": {
         "Release Date": "2025-11-13",
-        "dlc_name": "Daemon X Machina: Titanic Scion - Into the Abyss",
+        "dlc_name": "Daemon X Machina: Titanic Scion - Hacia el abismo",
         "base_game": "Unknown Base Game",
         "size": 0
     },
@@ -5455,7 +5455,7 @@
     },
     "0400a940233e103f": {
         "Release Date": "2025-10-29",
-        "dlc_name": "Sovereign Axiom Outfit Set",
+        "dlc_name": "Conjunto de atuendos de Sovereign Axiom",
         "base_game": "Unknown Base Game",
         "size": 0
     },
@@ -6565,37 +6565,37 @@
     },
     "0400a940233e103e": {
         "Release Date": "2025-09-24",
-        "dlc_name": "Reclaimers Outfit Set",
+        "dlc_name": "Conjunto de atuendos de Los Reclaimers",
         "base_game": "Unknown Base Game",
         "size": 0
     },
     "0400a940233e1040": {
         "Release Date": "2025-09-24",
-        "dlc_name": "Hairstyle Set 1",
+        "dlc_name": "Conjunto de peinado 1",
         "base_game": "Unknown Base Game",
         "size": 0
     },
     "0400a940233e1041": {
         "Release Date": "2025-09-24",
-        "dlc_name": "Hairstyle Set 2",
+        "dlc_name": "Conjunto de peinado 2",
         "base_game": "Unknown Base Game",
         "size": 0
     },
     "0400a940233e1042": {
         "Release Date": "2025-09-24",
-        "dlc_name": "Hairstyle Set 3",
+        "dlc_name": "Conjunto de peinado 3",
         "base_game": "Unknown Base Game",
         "size": 0
     },
     "0400a940233e1043": {
         "Release Date": "2025-09-24",
-        "dlc_name": "Hairstyle Set 4",
+        "dlc_name": "Conjunto de peinado 4",
         "base_game": "Unknown Base Game",
         "size": 0
     },
     "0400a940233e1044": {
         "Release Date": "2025-09-24",
-        "dlc_name": "Hairstyle Set 5",
+        "dlc_name": "Conjunto de peinado 5",
         "base_game": "Unknown Base Game",
         "size": 0
     },
@@ -37601,6 +37601,24 @@
         "base_game": "\u0412\u0435\u0434\u044c\u043c\u0430\u043a 3: \u0414\u0438\u043a\u0430\u044f \u041e\u0445\u043e\u0442\u0430 \u2014 \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435",
         "size": 2364538880
     },
+    "010076f00e9c9001": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (PL)",
+        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
+        "size": 2350907392
+    },
+    "010076f00e9c9002": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (RU)",
+        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
+        "size": 2441084928
+    },
+    "010070a00e9cf001": {
+        "Release Date": "2020-02-26",
+        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (PL)",
+        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
+        "size": 2350907392
+    },
     "010039400e8d7003": {
         "Release Date": "2020-02-26",
         "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (DE)",
@@ -37617,24 +37635,6 @@
         "Release Date": "2020-02-26",
         "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (RU)",
         "base_game": null,
-        "size": 2441084928
-    },
-    "010070a00e9cf001": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (PL)",
-        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
-        "size": 2350907392
-    },
-    "010076f00e9c9001": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (PL)",
-        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
-        "size": 2350907392
-    },
-    "010076f00e9c9002": {
-        "Release Date": "2020-02-26",
-        "dlc_name": "The Witcher 3: Wild Hunt - Complete Edition Sprachpaket (RU)",
-        "base_game": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
         "size": 2441084928
     },
     "010079500fd5d002": {
