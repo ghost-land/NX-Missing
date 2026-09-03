@@ -3923,12 +3923,6 @@
         "base_game": "Hentai Vision",
         "size": 3145728
     },
-    "010020101f80500b": {
-        "Release Date": "2026-01-08",
-        "dlc_name": "Phantom Thieves Pack",
-        "base_game": "Fitness Boxing 3: Your Personal Trainer",
-        "size": 286261248
-    },
     "01004b901f971004": {
         "Release Date": "2026-01-08",
         "dlc_name": "VTuber Song Pack Vol.1",
@@ -3956,6 +3950,12 @@
     "010020101f80500c": {
         "Release Date": "2026-01-08",
         "dlc_name": "Pack Voleurs fant\u00f4mes",
+        "base_game": "Fitness Boxing 3: Your Personal Trainer",
+        "size": 286261248
+    },
+    "010020101f80500b": {
+        "Release Date": "2026-01-08",
+        "dlc_name": "Phantom Thieves Pack",
         "base_game": "Fitness Boxing 3: Your Personal Trainer",
         "size": 286261248
     },
@@ -8207,18 +8207,6 @@
         "base_game": "\u9b3c\u6ec5\u306e\u5203 \u30d2\u30ce\u30ab\u30df\u8840\u98a8\u8b5a2",
         "size": 3145728
     },
-    "010020101f805007": {
-        "Release Date": "2025-07-31",
-        "dlc_name": "Anime Tune Pack Vol. 1",
-        "base_game": "Fitness Boxing 3: Your Personal Trainer",
-        "size": 59768832
-    },
-    "010020101f80500a": {
-        "Release Date": "2025-07-31",
-        "dlc_name": "Purrfect Punch Pack",
-        "base_game": "Fitness Boxing 3: Your Personal Trainer",
-        "size": 7340032
-    },
     "0100c6d0205d7005": {
         "Release Date": "2025-07-31",
         "dlc_name": "Fuga: Melodies of Steel 3 - Cyberpunk Costume Pack",
@@ -8228,6 +8216,18 @@
     "010020101f805009": {
         "Release Date": "2025-07-31",
         "dlc_name": "Pack chansons d'anime Vol. 1",
+        "base_game": "Fitness Boxing 3: Your Personal Trainer",
+        "size": 59768832
+    },
+    "010020101f80500a": {
+        "Release Date": "2025-07-31",
+        "dlc_name": "Pack chaton",
+        "base_game": "Fitness Boxing 3: Your Personal Trainer",
+        "size": 7340032
+    },
+    "010020101f805007": {
+        "Release Date": "2025-07-31",
+        "dlc_name": "Anime Tune Pack Vol. 1",
         "base_game": "Fitness Boxing 3: Your Personal Trainer",
         "size": 59768832
     },
@@ -8567,23 +8567,23 @@
         "base_game": "\u30e6\u30df\u30a2\u306e\u30a2\u30c8\u30ea\u30a8 \uff5e\u8ffd\u61b6\u306e\u932c\u91d1\u8853\u58eb\u3068\u5e7b\u5275\u306e\u5730\uff5e",
         "size": 27262976
     },
-    "010008c01e743002": {
-        "Release Date": "2025-07-22",
-        "dlc_name": "Puzzle On! Pack #1",
-        "base_game": "Pok\u00e9mon\u2122 Friends",
-        "size": 559939584
-    },
-    "010008c01e743003": {
-        "Release Date": "2025-07-22",
-        "dlc_name": "Puzzle On! Pack #2",
-        "base_game": "Pok\u00e9mon\u2122 Friends",
-        "size": 571473920
-    },
     "0100937020a79002": {
         "Release Date": "2025-07-22",
         "dlc_name": "Border Police: Contraband Simulator 2025 - Red Camo Ops",
         "base_game": "Border Police: Contraband Simulator 2024",
         "size": 3145728
+    },
+    "010008c01e743002": {
+        "Release Date": "2025-07-22",
+        "dlc_name": "Ensemble de d\u00e9m\u00ealage (lot 1)",
+        "base_game": "Pok\u00e9mon\u2122 Friends",
+        "size": 559939584
+    },
+    "010008c01e743003": {
+        "Release Date": "2025-07-22",
+        "dlc_name": "Ensemble de d\u00e9m\u00ealage (lot 2)",
+        "base_game": "Pok\u00e9mon\u2122 Friends",
+        "size": 571473920
     },
     "0100e0901e2ab00d": {
         "Release Date": "2025-07-20",
@@ -9137,12 +9137,6 @@
         "base_game": "Om Nom: Run 2",
         "size": 3145728
     },
-    "010020101f805004": {
-        "Release Date": "2025-06-19",
-        "dlc_name": "Fitness Boxing 3: J-pop Pack Vol. 1",
-        "base_game": "Fitness Boxing 3: Your Personal Trainer",
-        "size": 59768832
-    },
     "01002d601adbb001": {
         "Release Date": "2025-06-19",
         "dlc_name": "Entra\u00eenements au village des Kuzunoha",
@@ -9242,6 +9236,12 @@
     "010020101f805006": {
         "Release Date": "2025-06-19",
         "dlc_name": "Fitness Boxing 3 : Pack J-POP Vol. 1",
+        "base_game": "Fitness Boxing 3: Your Personal Trainer",
+        "size": 59768832
+    },
+    "010020101f805004": {
+        "Release Date": "2025-06-19",
+        "dlc_name": "Fitness Boxing 3: J-pop Pack Vol. 1",
         "base_game": "Fitness Boxing 3: Your Personal Trainer",
         "size": 59768832
     },
@@ -10025,17 +10025,17 @@
         "base_game": "\u30a2\u30b9\u30c8\u30e9\u30eb\u30a2\u30bb\u30f3\u30c8 (Astral Ascent)",
         "size": 3145728
     },
-    "0100492022ded008": {
-        "Release Date": "2025-06-05",
-        "dlc_name": "\uc0ac\ubc14\ub098 \ub3d9\ubb3c \uc0c9\uce60 \ub180\uc774  \uc778\ud130\ub799\ud2f0\ube0c \uc720\uc544 \uadf8\ub9bc \uadf8\ub9ac\uae30 \uac8c\uc784 2\uc138 \uc774\uc0c1",
-        "base_game": "Puzzles & Colors Games for Kids Toddler Coloring Book Draw Paint",
-        "size": 6291456
-    },
     "010022a02008d00d": {
         "Release Date": "2025-06-05",
         "dlc_name": "Rune Factory 4 Bachelorette Outfit Bundle",
         "base_game": "Rune Factory: Guardians of Azuma",
         "size": 18874368
+    },
+    "0100492022ded008": {
+        "Release Date": "2025-06-05",
+        "dlc_name": "\uc0ac\ubc14\ub098 \ub3d9\ubb3c \uc0c9\uce60 \ub180\uc774  \uc778\ud130\ub799\ud2f0\ube0c \uc720\uc544 \uadf8\ub9bc \uadf8\ub9ac\uae30 \uac8c\uc784 2\uc138 \uc774\uc0c1",
+        "base_game": "Puzzles & Colors Games for Kids Toddler Coloring Book Draw Paint",
+        "size": 6291456
     },
     "01003af0200b100d": {
         "Release Date": "2025-06-05",
@@ -11963,12 +11963,6 @@
         "base_game": "Fit Boxing feat. \u521d\u97f3\u30df\u30af -\u30df\u30af\u3068\u3044\u3063\u3057\u3087\u306b\u30a8\u30af\u30b5\u30b5\u30a4\u30ba-",
         "size": 56623104
     },
-    "010031f01929501f": {
-        "Release Date": "2025-03-26",
-        "dlc_name": "Pac-Man",
-        "base_game": "Super Monkey Ball Banana Rumble",
-        "size": 3145728
-    },
     "01005410202e3001": {
         "Release Date": "2025-03-26",
         "dlc_name": "Supermarket Owner Simulator Business: Cash Bonus",
@@ -11980,6 +11974,12 @@
         "dlc_name": "Centrair LongScenario Pack",
         "base_game": "I am an Air Traffic Controller AIRPORT HERO Centrair 20TH ANNIVERSARY",
         "size": 4194304
+    },
+    "010031f01929501f": {
+        "Release Date": "2025-03-26",
+        "dlc_name": "Pac-Man",
+        "base_game": "Super Monkey Ball Banana Rumble",
+        "size": 3145728
     },
     "01006560184e7019": {
         "Release Date": "2025-03-25",
@@ -12377,12 +12377,6 @@
         "base_game": "Fit Boxing 3 -Your \u30d1\u30fc\u30bd\u30ca\u30eb\u30c8\u30ec\u30fc\u30ca\u30fc-",
         "size": 200278016
     },
-    "010020101f805003": {
-        "Release Date": "2025-03-18",
-        "dlc_name": "Fitness Boxing 3: Encore Tunes EX",
-        "base_game": "Fitness Boxing 3: Your Personal Trainer",
-        "size": 200278016
-    },
     "01000c001f82b001": {
         "Release Date": "2025-03-18",
         "dlc_name": "Contenu bonus Digital Deluxe Edition",
@@ -12394,6 +12388,12 @@
         "dlc_name": "MK1\u00a0: Madame Bo",
         "base_game": "Mortal Kombat\u2122 1",
         "size": 3145728
+    },
+    "010020101f805003": {
+        "Release Date": "2025-03-18",
+        "dlc_name": "Fitness Boxing 3 : Extra hits",
+        "base_game": "Fitness Boxing 3: Your Personal Trainer",
+        "size": 200278016
     },
     "0100081021e15001": {
         "Release Date": "2025-03-14",
@@ -15365,6 +15365,12 @@
         "base_game": "\u7bb1\u5ead\u958b\u62d3\u3000\u30cf\u30e0\u30b9\u30bf\u30fc\u3068\u592a\u967d\u306e\u91cc",
         "size": 3145728
     },
+    "01006b0016ad7172": {
+        "Release Date": "2024-11-27",
+        "dlc_name": "Taiko no Tatsujin: Rhythm Festival - \u3010OSHI NO KO\u3011Collab. Pack",
+        "base_game": "Taiko no Tatsujin: Rhythm Festival",
+        "size": 9437184
+    },
     "010031f01929501d": {
         "Release Date": "2024-11-27",
         "dlc_name": "Hatsune Miku",
@@ -15379,15 +15385,9 @@
     },
     "010031f019295025": {
         "Release Date": "2024-11-27",
-        "dlc_name": "NIJISANJI UKIUKI CUP Outfit Set",
+        "dlc_name": "Tenue de COUPE NIJISANJI UKIUKI",
         "base_game": "Super Monkey Ball Banana Rumble",
         "size": 3145728
-    },
-    "01006b0016ad7172": {
-        "Release Date": "2024-11-27",
-        "dlc_name": "Taiko no Tatsujin: Rhythm Festival - \u3010OSHI NO KO\u3011Collab. Pack",
-        "base_game": "Taiko no Tatsujin: Rhythm Festival",
-        "size": 9437184
     },
     "0100594020c2b001": {
         "Release Date": "2024-11-27",
@@ -23299,43 +23299,43 @@
     },
     "0100cc701a0bd065": {
         "Release Date": "2023-11-03",
-        "dlc_name": "Loungewear Outfit Patterns",
+        "dlc_name": "Mod\u00e8les \"tenue de d\u00e9tente\"",
         "base_game": "Fashion Dreamer",
         "size": 3145728
     },
     "0100cc701a0bd066": {
         "Release Date": "2023-11-03",
-        "dlc_name": "Model Outfit Patterns",
+        "dlc_name": "Mod\u00e8les \"tenue de mannequin\"",
         "base_game": "Fashion Dreamer",
         "size": 3145728
     },
     "0100cc701a0bd069": {
         "Release Date": "2023-11-03",
-        "dlc_name": "Pop Outfit Patterns",
+        "dlc_name": "Mod\u00e8les \"tenue pop\"",
         "base_game": "Fashion Dreamer",
         "size": 3145728
     },
     "0100cc701a0bd068": {
         "Release Date": "2023-11-03",
-        "dlc_name": "Cute Outfit Patterns",
+        "dlc_name": "Mod\u00e8les \"tenue kawaii\"",
         "base_game": "Fashion Dreamer",
         "size": 3145728
     },
     "0100cc701a0bd06b": {
         "Release Date": "2023-11-03",
-        "dlc_name": "Sporty Outfit Patterns",
+        "dlc_name": "Mod\u00e8les \"tenue sportive\"",
         "base_game": "Fashion Dreamer",
         "size": 3145728
     },
     "0100cc701a0bd067": {
         "Release Date": "2023-11-03",
-        "dlc_name": "Gothic Outfit Patterns",
+        "dlc_name": "Mod\u00e8les \"tenue gothique\"",
         "base_game": "Fashion Dreamer",
         "size": 3145728
     },
     "0100cc701a0bd06a": {
         "Release Date": "2023-11-03",
-        "dlc_name": "Cool Outfit Patterns",
+        "dlc_name": "Mod\u00e8les \"tenue cool\"",
         "base_game": "Fashion Dreamer",
         "size": 3145728
     },
