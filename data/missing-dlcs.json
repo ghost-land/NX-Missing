@@ -3647,6 +3647,12 @@
         "base_game": "\ub4dc\ub798\uace4 \ud018\uc2a4\ud2b8 VII Reimagined",
         "size": 3145728
     },
+    "0100b8d025c69001": {
+        "Release Date": "2026-02-03",
+        "dlc_name": "Portraits Pack 1",
+        "base_game": "Hentai Frames",
+        "size": 3145728
+    },
     "0100a9d01c44700b": {
         "Release Date": "2026-02-03",
         "dlc_name": "\u30a2\u30a4\u30c6\u30e0\u30bb\u30c3\u30c8\uff1a\u30e9\u30c3\u30ad\u30fc\u30da\u30f3\u30c0\u30f3\u30c8\u3001\u547d\u306e\u304d\u306e\u307f",
@@ -3681,12 +3687,6 @@
         "Release Date": "2026-02-03",
         "dlc_name": "\u30d0\u30c3\u30c1\u30ea\u307c\u3046\u3051\u3093\u30a2\u30a4\u30c6\u30e0\u30bb\u30c3\u30c8",
         "base_game": "DRAGON QUEST VII Reimagined",
-        "size": 3145728
-    },
-    "0100b8d025c69001": {
-        "Release Date": "2026-02-03",
-        "dlc_name": "Portraits Pack 1",
-        "base_game": "Hentai Frames",
         "size": 3145728
     },
     "01002d702601b001": {
@@ -4463,24 +4463,6 @@
         "base_game": "WorldNeverland - Elnea Kingdom",
         "size": 3145728
     },
-    "0100d13021d59001": {
-        "Release Date": "2025-12-18",
-        "dlc_name": "\u60a0\u4e45\u5e7b\u60f3\u66f2\u30a2\u30f3\u30b5\u30f3\u30d6\u30ebRe:R",
-        "base_game": "\u60a0\u4e45\u5e7b\u60f3\u66f2\u30ea\u30d0\u30a4\u30d0\u30eb",
-        "size": 722468864
-    },
-    "0100d13021d59004": {
-        "Release Date": "2025-12-18",
-        "dlc_name": "\u60a0\u4e45\u5e7b\u60f3\u66f2 \u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30b7\u30ea\u30fc\u30ba Vol.1 \u30b7\u30fc\u30e9\u30fb\u30b7\u30a7\u30d5\u30a3\u30fc\u30eb\u30c9 \u3044\u3064\u306e\u65e5\u3082\uff5esong of flower\uff5e",
-        "base_game": "\u60a0\u4e45\u5e7b\u60f3\u66f2\u30ea\u30d0\u30a4\u30d0\u30eb",
-        "size": 31457280
-    },
-    "0100d13021d59014": {
-        "Release Date": "2025-12-18",
-        "dlc_name": "\u8ffd\u52a0\u30b3\u30f3\u30c6\u30f3\u30c4\u300c\u30a8\u30f3\u30d5\u30a3\u30fc\u30eb\u30c9\u8089\u796d\u308a\uff01\u300d",
-        "base_game": "\u60a0\u4e45\u5e7b\u60f3\u66f2\u30ea\u30d0\u30a4\u30d0\u30eb",
-        "size": 58720256
-    },
     "0100ab401f137002": {
         "Release Date": "2025-12-18",
         "dlc_name": "GGST Additional Character Venom",
@@ -4498,6 +4480,24 @@
         "dlc_name": "GGST Additional Character Lucy",
         "base_game": "Guilty Gear -Strive- Nintendo Switch Edition",
         "size": 3145728
+    },
+    "0100d13021d59001": {
+        "Release Date": "2025-12-18",
+        "dlc_name": "\u60a0\u4e45\u5e7b\u60f3\u66f2\u30a2\u30f3\u30b5\u30f3\u30d6\u30ebRe:R",
+        "base_game": "\u60a0\u4e45\u5e7b\u60f3\u66f2\u30ea\u30d0\u30a4\u30d0\u30eb",
+        "size": 722468864
+    },
+    "0100d13021d59004": {
+        "Release Date": "2025-12-18",
+        "dlc_name": "\u60a0\u4e45\u5e7b\u60f3\u66f2 \u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30b7\u30ea\u30fc\u30ba Vol.1 \u30b7\u30fc\u30e9\u30fb\u30b7\u30a7\u30d5\u30a3\u30fc\u30eb\u30c9 \u3044\u3064\u306e\u65e5\u3082\uff5esong of flower\uff5e",
+        "base_game": "\u60a0\u4e45\u5e7b\u60f3\u66f2\u30ea\u30d0\u30a4\u30d0\u30eb",
+        "size": 31457280
+    },
+    "0100d13021d59014": {
+        "Release Date": "2025-12-18",
+        "dlc_name": "\u8ffd\u52a0\u30b3\u30f3\u30c6\u30f3\u30c4\u300c\u30a8\u30f3\u30d5\u30a3\u30fc\u30eb\u30c9\u8089\u796d\u308a\uff01\u300d",
+        "base_game": "\u60a0\u4e45\u5e7b\u60f3\u66f2\u30ea\u30d0\u30a4\u30d0\u30eb",
+        "size": 58720256
     },
     "0100ea801eca1002": {
         "Release Date": "2025-12-15",
@@ -5099,6 +5099,18 @@
         "base_game": "GROOVE COASTER FUTURE PERFORMERS",
         "size": 285212672
     },
+    "0400a940233e1053": {
+        "Release Date": "2025-11-13",
+        "dlc_name": "Daemon X Machina: Titanic Scion - Hacia el abismo",
+        "base_game": "Unknown Base Game",
+        "size": 0
+    },
+    "010022a02008d00f": {
+        "Release Date": "2025-11-13",
+        "dlc_name": "Rune Factory: Guardians of Azuma - STORY OF SEASONS Bundle",
+        "base_game": "Rune Factory: Guardians of Azuma",
+        "size": 3145728
+    },
     "01002ef0180e1002": {
         "Release Date": "2025-11-13",
         "dlc_name": "\u6771\u65e5\u672c\u30de\u30c3\u30d7",
@@ -5121,18 +5133,6 @@
         "Release Date": "2025-11-13",
         "dlc_name": "\u897f\u65e5\u672c\u30b0\u30eb\u30e1\u53f7",
         "base_game": "\u6843\u592a\u90ce\u96fb\u9244\uff12 \uff5e\u3042\u306a\u305f\u306e\u753a\u3082 \u304d\u3063\u3068\u3042\u308b\uff5e",
-        "size": 3145728
-    },
-    "0400a940233e1053": {
-        "Release Date": "2025-11-13",
-        "dlc_name": "Daemon X Machina: Titanic Scion - Into the Abyss",
-        "base_game": "Unknown Base Game",
-        "size": 0
-    },
-    "010022a02008d00f": {
-        "Release Date": "2025-11-13",
-        "dlc_name": "Rune Factory: Guardians of Azuma - STORY OF SEASONS Bundle",
-        "base_game": "Rune Factory: Guardians of Azuma",
         "size": 3145728
     },
     "01009f201cfbd001": {
@@ -5677,7 +5677,7 @@
     },
     "0400a940233e103f": {
         "Release Date": "2025-10-29",
-        "dlc_name": "Sovereign Axiom Outfit Set",
+        "dlc_name": "Conjunto de atuendos de Sovereign Axiom",
         "base_game": "Unknown Base Game",
         "size": 0
     },
@@ -6757,37 +6757,37 @@
     },
     "0400a940233e103e": {
         "Release Date": "2025-09-24",
-        "dlc_name": "Reclaimers Outfit Set",
+        "dlc_name": "Conjunto de atuendos de Los Reclaimers",
         "base_game": "Unknown Base Game",
         "size": 0
     },
     "0400a940233e1040": {
         "Release Date": "2025-09-24",
-        "dlc_name": "Hairstyle Set 1",
+        "dlc_name": "Conjunto de peinado 1",
         "base_game": "Unknown Base Game",
         "size": 0
     },
     "0400a940233e1041": {
         "Release Date": "2025-09-24",
-        "dlc_name": "Hairstyle Set 2",
+        "dlc_name": "Conjunto de peinado 2",
         "base_game": "Unknown Base Game",
         "size": 0
     },
     "0400a940233e1042": {
         "Release Date": "2025-09-24",
-        "dlc_name": "Hairstyle Set 3",
+        "dlc_name": "Conjunto de peinado 3",
         "base_game": "Unknown Base Game",
         "size": 0
     },
     "0400a940233e1043": {
         "Release Date": "2025-09-24",
-        "dlc_name": "Hairstyle Set 4",
+        "dlc_name": "Conjunto de peinado 4",
         "base_game": "Unknown Base Game",
         "size": 0
     },
     "0400a940233e1044": {
         "Release Date": "2025-09-24",
-        "dlc_name": "Hairstyle Set 5",
+        "dlc_name": "Conjunto de peinado 5",
         "base_game": "Unknown Base Game",
         "size": 0
     },
@@ -7531,31 +7531,31 @@
     },
     "0400a940233e1009": {
         "Release Date": "2025-09-05",
-        "dlc_name": "Special SFX Weapon Set",
+        "dlc_name": "Conjunto de armas con efectos de sonido especiales",
         "base_game": "Unknown Base Game",
         "size": 0
     },
     "0400a940233e100a": {
         "Release Date": "2025-09-05",
-        "dlc_name": "Arsenal Skin Set",
+        "dlc_name": "Conjunto de dise\u00f1os del Arsenal",
         "base_game": "Unknown Base Game",
         "size": 0
     },
     "0400a940233e1001": {
         "Release Date": "2025-09-05",
-        "dlc_name": "Special Equipment Set",
+        "dlc_name": "Conjunto de equipo especial",
         "base_game": "Unknown Base Game",
         "size": 0
     },
     "0400a940233e100e": {
         "Release Date": "2025-09-05",
-        "dlc_name": "Free Emotes",
+        "dlc_name": "Emoticonos gratis",
         "base_game": "Unknown Base Game",
         "size": 0
     },
     "0400a940233e100b": {
         "Release Date": "2025-09-05",
-        "dlc_name": "Free Hairstyles",
+        "dlc_name": "Peinados gratis",
         "base_game": "Unknown Base Game",
         "size": 0
     },
@@ -10055,6 +10055,12 @@
         "base_game": "Rune Factory: Guardians of Azuma",
         "size": 3145728
     },
+    "010022a02008d008": {
+        "Release Date": "2025-06-05",
+        "dlc_name": "Rune Factory 4 Bachelorette Outfit Bundle",
+        "base_game": "Rune Factory: Guardians of Azuma",
+        "size": 18874368
+    },
     "0100bca0135a118b": {
         "Release Date": "2025-06-05",
         "dlc_name": "\u6771\u65b9Project\u30a2\u30ec\u30f3\u30b8\u30d1\u30c3\u30afVol. 2",
@@ -10062,12 +10068,6 @@
         "size": 3145728
     },
     "01003af0200b100d": {
-        "Release Date": "2025-06-05",
-        "dlc_name": "Rune Factory 4 Bachelorette Outfit Bundle",
-        "base_game": "Rune Factory: Guardians of Azuma",
-        "size": 18874368
-    },
-    "010022a02008d008": {
         "Release Date": "2025-06-05",
         "dlc_name": "Rune Factory 4 Bachelorette Outfit Bundle",
         "base_game": "Rune Factory: Guardians of Azuma",
@@ -14377,13 +14377,13 @@
     },
     "010081d01e247006": {
         "Release Date": "2025-01-13",
-        "dlc_name": "Les Aventuriers Du Rail\u00ae: Extension de la Suisse",
+        "dlc_name": "Aventureros al Tren\u00ae - Expansi\u00f3n de Suiza",
         "base_game": "Ticket to Ride\u00ae",
         "size": 3145728
     },
     "010081d01e247007": {
         "Release Date": "2025-01-13",
-        "dlc_name": "Les Aventuriers du Rail\u00ae - Pack Pays des Merveilles Hivernales",
+        "dlc_name": "Aventureros al Tren\u00ae - Lote Maravilla Invernal",
         "base_game": "Ticket to Ride\u00ae",
         "size": 3145728
     },
@@ -14765,6 +14765,12 @@
         "base_game": "SOUTH PARK: SNOW DAY!",
         "size": 3145728
     },
+    "010054a01f8c3001": {
+        "Release Date": "2024-12-23",
+        "dlc_name": "siMarket Supermarket Simulator - Clean & Decoration",
+        "base_game": "siMarket Supermarket Simulator",
+        "size": 36700160
+    },
     "0100cc501f86d03b": {
         "Release Date": "2024-12-23",
         "dlc_name": "\u30b9\u30da\u30b7\u30e3\u30eb \u30d5\u30a9\u30c8\u30d5\u30ec\u30fc\u30e0\uff12\u70b9\u30bb\u30c3\u30c8",
@@ -14794,12 +14800,6 @@
         "dlc_name": "\u30a8\u30eb\u30b6\u8863\u88c5\u300c\u30df\u30b9\u30fb\u30d5\u30a7\u30a2\u30ea\u30fc\u30c6\u30a4\u30eb\u30b3\u30f3\u30c6\u30b9\u30c8\u300d",
         "base_game": "FAIRY TAIL\uff12",
         "size": 3145728
-    },
-    "010054a01f8c3001": {
-        "Release Date": "2024-12-23",
-        "dlc_name": "siMarket Supermarket Simulator - Clean & Decoration",
-        "base_game": "siMarket Supermarket Simulator",
-        "size": 36700160
     },
     "0100ffe01dbff004": {
         "Release Date": "2024-12-21",
@@ -14885,16 +14885,16 @@
         "base_game": "Sky Diving: Parachute Flight Simulator",
         "size": 3145728
     },
+    "010065d01d403001": {
+        "Release Date": "2024-12-19",
+        "dlc_name": "ToyBox Christmas: Festive Fittings",
+        "base_game": "ToyBox Christmas",
+        "size": 3145728
+    },
     "0100b5d01703b003": {
         "Release Date": "2024-12-19",
         "dlc_name": "\u6c96\u30c9\u30ad\uff01BLACK\u958b\u653e\u5238",
         "base_game": "\u30d1\u30c1\u30b9\u30ed \u30e6\u30cb\u30d0\u738b\u56fd\uff1c\u6c96\u30c9\u30ad\uff01\u30b3\u30ec\u30af\u30b7\u30e7\u30f3\uff1e",
-        "size": 3145728
-    },
-    "010065d01d403001": {
-        "Release Date": "2024-12-19",
-        "dlc_name": "\u304a\u3082\u3061\u3083\u7bb1\u30d1\u30ba\u30eb\u30af\u30ea\u30b9\u30de\u30b9: \u30d5\u30a7\u30b9\u30c6\u30a3\u30d6\u30d5\u30a3\u30c3\u30c6\u30a3\u30f3\u30b0\u30b9",
-        "base_game": "ToyBox Christmas",
         "size": 3145728
     },
     "010068b0185e9013": {
@@ -15797,16 +15797,16 @@
         "base_game": "even if TEMPEST",
         "size": 37748736
     },
+    "010000b01a453008": {
+        "Release Date": "2024-11-21",
+        "dlc_name": "Jujutsu Kaisen Cursed Clash - El Incidente de Shibuya",
+        "base_game": "Jujutsu Kaisen Cursed Clash",
+        "size": 3145728
+    },
     "01002fc012549008": {
         "Release Date": "2024-11-21",
         "dlc_name": "\u546a\u8853\u5efb\u6226 \u6226\u83ef\u53cc\u4e71 DLC \u300c\u6e0b\u8c37\u4e8b\u5909\u300d",
         "base_game": "\u546a\u8853\u5efb\u6226 \u6226\u83ef\u53cc\u4e71",
-        "size": 3145728
-    },
-    "010000b01a453008": {
-        "Release Date": "2024-11-21",
-        "dlc_name": "Jujutsu Kaisen Cursed Clash - Shibuya Incident",
-        "base_game": "Jujutsu Kaisen Cursed Clash",
         "size": 3145728
     },
     "010066f01a0e1003": {
@@ -17525,6 +17525,12 @@
         "base_game": "EARTH DEFENSE FORCE: WORLD BROTHERS 2",
         "size": 3145728
     },
+    "010000b01a45300b": {
+        "Release Date": "2024-09-26",
+        "dlc_name": "Jujutsu Kaisen Cursed Clash - Conjunto de atuendo de chicas de la Preparatoria de Hechicer\u00eda de Kioto",
+        "base_game": "Jujutsu Kaisen Cursed Clash",
+        "size": 3145728
+    },
     "01004c501ad090cb": {
         "Release Date": "2024-09-26",
         "dlc_name": "\u76f4\u6483\u30c0\u30e1\u30fc\u30b8\u5927\u306a\u30ed\u30b1\u30e9\u30f3\u300c\u30ea\u30af\u30eb\u30fc\u30c8\u30b9\u30c6\u30a3\u30f3\u30b0\u30ec\u30a4\u300d(\u7206\u767a)",
@@ -17553,12 +17559,6 @@
         "Release Date": "2024-09-26",
         "dlc_name": "\u546a\u8853\u5efb\u6226 \u6226\u83ef\u53cc\u4e71 \u4eac\u90fd\u6821\u5973\u5b50\u8863\u88c5\u30bb\u30c3\u30c8",
         "base_game": "\u546a\u8853\u5efb\u6226 \u6226\u83ef\u53cc\u4e71",
-        "size": 3145728
-    },
-    "010000b01a45300b": {
-        "Release Date": "2024-09-26",
-        "dlc_name": "Jujutsu Kaisen Cursed Clash - Kyoto Jujutsu High School Girls' Outfit Set",
-        "base_game": "Jujutsu Kaisen Cursed Clash",
         "size": 3145728
     },
     "0100bb8017f25002": {
@@ -17881,19 +17881,19 @@
     },
     "010074301dabb001": {
         "Release Date": "2024-08-30",
-        "dlc_name": "Date Z - Alicia Romance Pack",
+        "dlc_name": "Date Z - Hazardous Amour Pack",
         "base_game": "Date Z",
         "size": 3145728
     },
     "010074301dabb002": {
         "Release Date": "2024-08-30",
-        "dlc_name": "Date Z - Bao Romance Pack",
+        "dlc_name": "Date Z - Special Report Pack",
         "base_game": "Date Z",
         "size": 3145728
     },
     "010074301dabb003": {
         "Release Date": "2024-08-30",
-        "dlc_name": "Date Z - Vivica Romance Pack",
+        "dlc_name": "Date Z - TTRPG Enthusiast Pack",
         "base_game": "Date Z",
         "size": 3145728
     },
@@ -17995,13 +17995,13 @@
     },
     "010000a017f97004": {
         "Release Date": "2024-08-29",
-        "dlc_name": "Gori: Cuddly Carnage  - Chinese Dragon Skin Pack",
+        "dlc_name": "Gori : Cuddly Carnage - Chinese Dragon premium Skin Pack",
         "base_game": "Gori: Cuddly Carnage",
         "size": 3145728
     },
     "010000a017f97003": {
         "Release Date": "2024-08-29",
-        "dlc_name": "Gori: Cuddly Carnage - Neon Neko Triple Skin Pack",
+        "dlc_name": "Gori Cuddly Carnage : Neon Neko Triple Skin Pack",
         "base_game": "Gori: Cuddly Carnage",
         "size": 3145728
     },
@@ -18155,6 +18155,12 @@
         "base_game": "Parking Masters",
         "size": 0
     },
+    "01009a401bdeb001": {
+        "Release Date": "2024-08-14",
+        "dlc_name": "Yamat - The Breach Traveler",
+        "base_game": "Astral Ascent",
+        "size": 3145728
+    },
     "01007250089f9087": {
         "Release Date": "2024-08-14",
         "dlc_name": "\u3010LoveR Kiss \u80cc\u666f \uff06 \u30b3\u30b9\u30c1\u30e5\u30fc\u30e0DLC\u3011\u590f\u796d\u308a\uff01\u5149\u30f6\u5d0e\u795e\u793e\u3068\u6d74\u8863\u30b3\u30fc\u30c7",
@@ -18179,12 +18185,6 @@
         "base_game": "Cynthia: Hidden in the Moonshadow",
         "size": 3145728
     },
-    "01009a401bdeb001": {
-        "Release Date": "2024-08-12",
-        "dlc_name": "Yamat - l'Arpenteuse des Failles",
-        "base_game": "Astral Ascent",
-        "size": 3145728
-    },
     "0100a78017bd71d7": {
         "Release Date": "2024-08-11",
         "dlc_name": "\u304a\u3082\u3057\u308d\u6b66\u5668\u30bb\u30c3\u30c8",
@@ -18205,7 +18205,7 @@
     },
     "010081d01e247002": {
         "Release Date": "2024-08-08",
-        "dlc_name": "Les Aventuriers du Rail\u00ae: Packs de billets USA 1910 et Europa 1912",
+        "dlc_name": "Aventureros al Tren: Paquetes de boletos de Europa 1912 y USA 1910",
         "base_game": "Ticket to Ride\u00ae",
         "size": 3145728
     },
@@ -18331,7 +18331,7 @@
     },
     "01001e001c773005": {
         "Release Date": "2024-08-01",
-        "dlc_name": "Ariadne Level pack",
+        "dlc_name": "Ariadne Level Pack",
         "base_game": "Beauties Unveiled",
         "size": 3145728
     },
@@ -20905,13 +20905,13 @@
     },
     "010000b01a453007": {
         "Release Date": "2024-05-29",
-        "dlc_name": "Jujutsu Kaisen Cursed Clash - Hidden Inventory/Premature Death",
+        "dlc_name": "Jujutsu Kaisen Cursed Clash - Inventario oculto/Muerte prematura",
         "base_game": "Jujutsu Kaisen Cursed Clash",
         "size": 3145728
     },
     "010000b01a45300a": {
         "Release Date": "2024-05-29",
-        "dlc_name": "Jujutsu Kaisen Cursed Clash - Anime Ending Theme 1 Outfit Set",
+        "dlc_name": "Jujutsu Kaisen Cursed Clash - Conjunto de ropa del tema final 1 del anime",
         "base_game": "Jujutsu Kaisen Cursed Clash",
         "size": 3145728
     },
@@ -21401,15 +21401,15 @@
         "base_game": "Pizza Bar Tycoon",
         "size": 3145728
     },
-    "0100f3601e1ef001": {
-        "Release Date": "2024-05-03",
-        "dlc_name": "Baking Time: Strong Pets",
-        "base_game": "Baking Time",
-        "size": 3145728
-    },
     "0100f3601e1ef002": {
         "Release Date": "2024-05-03",
         "dlc_name": "Baking Time: Speedy Animals",
+        "base_game": "Baking Time",
+        "size": 3145728
+    },
+    "0100f3601e1ef001": {
+        "Release Date": "2024-05-03",
+        "dlc_name": "Baking Time: Strong Pets",
         "base_game": "Baking Time",
         "size": 3145728
     },
@@ -21851,17 +21851,17 @@
         "base_game": "Heisting",
         "size": 3145728
     },
-    "0100ea300de6f003": {
-        "Release Date": "2024-04-05",
-        "dlc_name": "R\u00e9ussir : Code de la Route - Nouvelle \u00c9dition - Bonus ASSR1 - ASSR2 - Permis AM",
-        "base_game": "R\u00e9ussir : Code de la Route - Nouvelle \u00c9dition (French Highway Code)",
-        "size": 130023424
-    },
     "01005a801dbbf002": {
         "Release Date": "2024-04-05",
         "dlc_name": "Heisting: Wicked No. 1",
         "base_game": "Heisting",
         "size": 3145728
+    },
+    "0100ea300de6f003": {
+        "Release Date": "2024-04-05",
+        "dlc_name": "R\u00e9ussir : Code de la Route - Nouvelle \u00c9dition - Bonus ASSR1 - ASSR2 - Permis AM",
+        "base_game": "R\u00e9ussir : Code de la Route - Nouvelle \u00c9dition (French Highway Code)",
+        "size": 130023424
     },
     "01004b301bd39007": {
         "Release Date": "2024-04-04",
