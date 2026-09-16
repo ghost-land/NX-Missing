@@ -14864,6 +14864,26 @@
         "Title Name": "Tales of Berseria Remastered - Lv. Up+10 (2)",
         "size": 3145728
     },
+    "01007F8023416000": {
+        "Release Date": "2026-02-27",
+        "Title Name": "(Deutsch) Pok\u00e9mon Feuerrote Edition",
+        "size": 61865984
+    },
+    "0100FD6023430000": {
+        "Release Date": "2026-02-27",
+        "Title Name": "(Deutsch) Pok\u00e9mon Blattgr\u00fcne Edition",
+        "size": 61865984
+    },
+    "010092302342A000": {
+        "Release Date": "2026-02-27",
+        "Title Name": "(Italiano) Pok\u00e9mon Versione Rosso Fuoco",
+        "size": 61865984
+    },
+    "01005C7023432000": {
+        "Release Date": "2026-02-27",
+        "Title Name": "(Italiano) Pok\u00e9mon Versione Verde Foglia",
+        "size": 61865984
+    },
     "0100A8601F11A000": {
         "Release Date": "2026-02-27",
         "Title Name": "Tales of Berseria Remastered - Digital Artbook & Soundtrack",
@@ -14873,26 +14893,6 @@
         "Release Date": "2026-02-27",
         "Title Name": "Tales of Berseria Remastered",
         "size": 9619636224
-    },
-    "01007F8023416000": {
-        "Release Date": "2026-02-27",
-        "Title Name": "(Deutsch) Pok\u00e9mon Feuerrote Edition",
-        "size": 39845888
-    },
-    "0100FD6023430000": {
-        "Release Date": "2026-02-27",
-        "Title Name": "(Deutsch) Pok\u00e9mon Blattgr\u00fcne Edition",
-        "size": 39845888
-    },
-    "010092302342A000": {
-        "Release Date": "2026-02-27",
-        "Title Name": "(Italiano) Pok\u00e9mon Versione Rosso Fuoco",
-        "size": 39845888
-    },
-    "01005C7023432000": {
-        "Release Date": "2026-02-27",
-        "Title Name": "(Italiano) Pok\u00e9mon Versione Verde Foglia",
-        "size": 39845888
     },
     "0100C2801F22D008": {
         "Release Date": "2026-02-27",
@@ -18499,6 +18499,11 @@
         "Title Name": "Fitness Boxing 3: Phantom Thieves Pack",
         "size": 286261248
     },
+    "010020101F80500B": {
+        "Release Date": "2026-01-08",
+        "Title Name": "Phantom Thieves Pack",
+        "size": 286261248
+    },
     "01004B901F971004": {
         "Release Date": "2026-01-08",
         "Title Name": "VTuber Song Pack Vol.1",
@@ -18523,11 +18528,6 @@
         "Release Date": "2026-01-08",
         "Title Name": "Dragons Legacy : Monsters Lair \u2013 Survival Boost",
         "size": 3145728
-    },
-    "010020101F80500B": {
-        "Release Date": "2026-01-08",
-        "Title Name": "Phantom Thieves Pack",
-        "size": 286261248
     },
     "0100C0E025638000": {
         "Release Date": "2026-01-08",
@@ -85206,42 +85206,42 @@
     },
     "0100CC701A0BD065": {
         "Release Date": "2023-11-03",
-        "Title Name": "Mod\u00e8les \"tenue de d\u00e9tente\"",
+        "Title Name": "Loungewear Outfit Patterns",
         "size": 3145728
     },
     "0100CC701A0BD066": {
         "Release Date": "2023-11-03",
-        "Title Name": "Mod\u00e8les \"tenue de mannequin\"",
+        "Title Name": "Model Outfit Patterns",
         "size": 3145728
     },
     "0100CC701A0BD069": {
         "Release Date": "2023-11-03",
-        "Title Name": "Mod\u00e8les \"tenue pop\"",
+        "Title Name": "Pop Outfit Patterns",
         "size": 3145728
     },
     "0100CC701A0BD068": {
         "Release Date": "2023-11-03",
-        "Title Name": "Mod\u00e8les \"tenue kawaii\"",
+        "Title Name": "Cute Outfit Patterns",
         "size": 3145728
     },
     "0100CC701A0BD06B": {
         "Release Date": "2023-11-03",
-        "Title Name": "Mod\u00e8les \"tenue sportive\"",
+        "Title Name": "Sporty Outfit Patterns",
         "size": 3145728
     },
     "0100CC701A0BD067": {
         "Release Date": "2023-11-03",
-        "Title Name": "Mod\u00e8les \"tenue gothique\"",
+        "Title Name": "Gothic Outfit Patterns",
         "size": 3145728
     },
     "0100CC701A0BD06A": {
         "Release Date": "2023-11-03",
-        "Title Name": "Mod\u00e8les \"tenue cool\"",
+        "Title Name": "Cool Outfit Patterns",
         "size": 3145728
     },
     "0100CC701A0BD0C9": {
         "Release Date": "2023-11-03",
-        "Title Name": "Mod\u00e8les \"tenue chic\"",
+        "Title Name": "Chic Outfit Patterns",
         "size": 3145728
     },
     "01000B301BF48000": {
@@ -178789,11 +178789,6 @@
         "Title Name": "\u521d\u97f3\u672a\u4f86 Project DIVA MEGA39's \u5178\u85cfT-shirt K",
         "size": 3145728
     },
-    "01005E5011696000": {
-        "Release Date": "2020-07-16",
-        "Title Name": "Waifu Uncovered",
-        "size": 272629760
-    },
     "0100E990104DC000": {
         "Release Date": "2020-07-16",
         "Title Name": "\ud14c\ub77c\ub9ac\uc544 (Terraria)",
@@ -178813,6 +178808,11 @@
         "Release Date": "2020-07-16",
         "Title Name": "\ucd94\uac00\uace1 \ud329 7th",
         "size": 395313152
+    },
+    "01005E5011696000": {
+        "Release Date": "2020-07-16",
+        "Title Name": "Waifu Uncovered",
+        "size": 272629760
     },
     "010068300DD20000": {
         "Release Date": "2020-07-16",
@@ -181304,15 +181304,15 @@
         "Title Name": "\u98a8\u4f86\u4eba\u5957\u7d44",
         "size": 3145728
     },
-    "0100E7E01222A000": {
-        "Release Date": "2020-06-04",
-        "Title Name": "Aqua Lungers",
-        "size": 396361728
-    },
     "01001810112D8000": {
         "Release Date": "2020-06-04",
         "Title Name": "\ud2b8\ub77c\uc778 4: \uc545\ubabd\uc758 \uc655\uc790",
         "size": 3213885440
+    },
+    "0100E7E01222A000": {
+        "Release Date": "2020-06-04",
+        "Title Name": "Aqua Lungers",
+        "size": 396361728
     },
     "0100C1B00DD12000": {
         "Release Date": "2020-06-04",
@@ -189901,7 +189901,7 @@
     },
     "0100ED000D390000": {
         "Release Date": "2020-01-03",
-        "Title Name": "Programme d\u2019entra\u00eenement c\u00e9r\u00e9bral du Dr Kawashima pour Nintendo Switch",
+        "Title Name": "Dr Kawashima's Brain Training for Nintendo Switch",
         "size": 385875968
     },
     "0100B0A00C8D8000": {
@@ -191384,15 +191384,15 @@
         "Title Name": "Town Furs Set ( Orange )",
         "size": 4194304
     },
-    "0100F2800D46F001": {
-        "Release Date": "2019-12-05",
-        "Title Name": "Anneau enchanteur",
-        "size": 3145728
-    },
     "0100B6400CA57016": {
         "Release Date": "2019-12-05",
         "Title Name": "Witcher DLC2",
         "size": 25165824
+    },
+    "0100F2800D46F001": {
+        "Release Date": "2019-12-05",
+        "Title Name": "Anneau enchanteur",
+        "size": 3145728
     },
     "010009400DD38000": {
         "Release Date": "2019-12-05",
@@ -192986,7 +192986,7 @@
     },
     "0100CE500D226000": {
         "Release Date": "2019-11-08",
-        "Title Name": "L'aventure Layton\u2122 : Katrielle et la conspiration des millionnaires - \u00c9dition Deluxe",
+        "Title Name": "Layton's Mystery Journey\u2122: Katrielle and the Millionaires' Conspiracy Deluxe Edition",
         "size": 3523215360
     },
     "010086000E148000": {
@@ -194514,15 +194514,15 @@
         "Title Name": "\u671f\u9593\u9650\u5b9aTsum\u300cPAC-MAN\u300d",
         "size": 4194304
     },
-    "0100A0800E9C4000": {
-        "Release Date": "2019-10-15",
-        "Title Name": "\u0412\u0435\u0434\u044c\u043c\u0430\u043a 3: \u0414\u0438\u043a\u0430\u044f \u041e\u0445\u043e\u0442\u0430 \u2014 \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435",
-        "size": 39731593216
-    },
     "010085500E9D0000": {
         "Release Date": "2019-10-15",
         "Title Name": "The Witcher 3: Wild Hunt \u2014 Complete Edition",
         "size": 37067161600
+    },
+    "0100A0800E9C4000": {
+        "Release Date": "2019-10-15",
+        "Title Name": "\u0412\u0435\u0434\u044c\u043c\u0430\u043a 3: \u0414\u0438\u043a\u0430\u044f \u041e\u0445\u043e\u0442\u0430 \u2014 \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435",
+        "size": 39731593216
     },
     "010070A00E9CE000": {
         "Release Date": "2019-10-15",
@@ -198519,6 +198519,56 @@
         "Title Name": "Truck Racing - Indianapolis Motor Speedway",
         "size": 4194304
     },
+    "0100F8F0000A3065": {
+        "Release Date": "2019-08-20",
+        "Title Name": "Splatoon 2: Octo Expansion",
+        "size": 2157969408
+    },
+    "0100F8F0000A3064": {
+        "Release Date": "2019-08-20",
+        "Title Name": "Octo-themed in-game gear",
+        "size": 3145728
+    },
+    "010042000A98700C": {
+        "Release Date": "2019-08-20",
+        "Title Name": "Ornamental Chimaera Wing Recipe",
+        "size": 3145728
+    },
+    "010042000A987003": {
+        "Release Date": "2019-08-20",
+        "Title Name": "Lo-Res Luminary Recipes",
+        "size": 3145728
+    },
+    "010042000A98700A": {
+        "Release Date": "2019-08-20",
+        "Title Name": "Legendary Line Art Recipe",
+        "size": 3145728
+    },
+    "010042000A98700B": {
+        "Release Date": "2019-08-20",
+        "Title Name": "Dragon Quest Logo Recipe",
+        "size": 3145728
+    },
+    "010042000A987008": {
+        "Release Date": "2019-08-20",
+        "Title Name": "Water Sigil Block Recipe",
+        "size": 3145728
+    },
+    "010042000A987007": {
+        "Release Date": "2019-08-20",
+        "Title Name": "Moon Sigil Block Recipe",
+        "size": 3145728
+    },
+    "010042000A987006": {
+        "Release Date": "2019-08-20",
+        "Title Name": "Star Sigil Block Recipe",
+        "size": 3145728
+    },
+    "010042000A987005": {
+        "Release Date": "2019-08-20",
+        "Title Name": "Sun Sigil Block Recipe",
+        "size": 3145728
+    },
     "0100D0E00E51E000": {
         "Release Date": "2019-08-19",
         "Title Name": "Hotline Miami Collection",
@@ -201008,46 +201058,6 @@
         "Release Date": "2019-07-12",
         "Title Name": "stackable slime",
         "size": 4194304
-    },
-    "010042000A98700C": {
-        "Release Date": "2019-07-12",
-        "Title Name": "Recette d'aile de chim\u00e8re d\u00e9corative",
-        "size": 3145728
-    },
-    "010042000A987003": {
-        "Release Date": "2019-07-12",
-        "Title Name": "Recettes de sommit\u00e9s d'antan",
-        "size": 3145728
-    },
-    "010042000A98700A": {
-        "Release Date": "2019-07-12",
-        "Title Name": "Recette de portrait l\u00e9gendaire",
-        "size": 3145728
-    },
-    "010042000A98700B": {
-        "Release Date": "2019-07-12",
-        "Title Name": "Recette de logo de Dragon Quest",
-        "size": 3145728
-    },
-    "010042000A987008": {
-        "Release Date": "2019-07-12",
-        "Title Name": "Recette de sceau de l'Eau",
-        "size": 3145728
-    },
-    "010042000A987007": {
-        "Release Date": "2019-07-12",
-        "Title Name": "Recette de sceau de la Lune",
-        "size": 3145728
-    },
-    "010042000A987006": {
-        "Release Date": "2019-07-12",
-        "Title Name": "Recette de sceau de l'\u00c9toile",
-        "size": 3145728
-    },
-    "010042000A987005": {
-        "Release Date": "2019-07-12",
-        "Title Name": "Recette de sceau du Soleil",
-        "size": 3145728
     },
     "01001CE00D7B700D": {
         "Release Date": "2019-07-12",
@@ -211034,11 +211044,6 @@
         "Title Name": "Fairy Fencer F Advent Dark Force",
         "size": 9464446976
     },
-    "01002C000B553021": {
-        "Release Date": "2019-01-17",
-        "Title Name": "Taiko no Tatsujin: Drum'n'Fun! - Hikakin Pack",
-        "size": 12582912
-    },
     "01009AE00CFC8000": {
         "Release Date": "2019-01-17",
         "Title Name": "\u30af\u30e9\u30a6\u30c9\uff06\u30b7\u30fc\u30d7\uff12\uff08Clouds & Sheep 2\uff09",
@@ -211068,6 +211073,11 @@
         "Release Date": "2019-01-17",
         "Title Name": "\u30a2\u30eb\u30c6\u30e9\u30ea\u30a2",
         "size": 4194304
+    },
+    "01002C000B553021": {
+        "Release Date": "2019-01-17",
+        "Title Name": "Taiko no Tatsujin: Drum'n'Fun! - Hikakin Pack",
+        "size": 12582912
     },
     "01001B100C3D4000": {
         "Release Date": "2019-01-16",
@@ -217574,11 +217584,6 @@
         "Title Name": "Super Inefficient Golf",
         "size": 535822336
     },
-    "010007C00B508000": {
-        "Release Date": "2018-09-07",
-        "Title Name": "SNK Heroines Tag Team Frenzy",
-        "size": 16095641600
-    },
     "01005B6008132000": {
         "Release Date": "2018-09-06",
         "Title Name": "Lifeless Planet: Premiere Edition",
@@ -221174,11 +221179,6 @@
         "Title Name": "Summer Wedding Attire Set (Seaside, Sunset beach, Night Sea)",
         "size": 4194304
     },
-    "0100F8F0000A3065": {
-        "Release Date": "2018-06-14",
-        "Title Name": "Splatoon 2: Octo Expansion",
-        "size": 2157969408
-    },
     "010076C009F02000": {
         "Release Date": "2018-06-14",
         "Title Name": "GOD WARS \u65e5\u672c\u795e\u8a71\u5927\u6226",
@@ -224648,11 +224648,6 @@
         "Release Date": "2018-03-09",
         "Title Name": "Kona",
         "size": 2961178624
-    },
-    "0100F8F0000A3064": {
-        "Release Date": "2018-03-09",
-        "Title Name": "\u00c9quipement sur le th\u00e8me des Octarien",
-        "size": 3145728
     },
     "010015E00A1F8000": {
         "Release Date": "2018-03-09",
@@ -229049,11 +229044,6 @@
         "Title Name": "Splatoon\u2122 2",
         "size": 6568280064
     },
-    "0100F8F0000A2000": {
-        "Release Date": "2017-07-21",
-        "Title Name": "Splatoon\u2122 2",
-        "size": 6570377216
-    },
     "01003C700009D001": {
         "Release Date": "2017-07-21",
         "Title Name": "\u30ae\u30a2(\u30d5\u30af)2\u7a2e\u30bb\u30c3\u30c8\u300c\u30a4\u30ab\u30ec\u30c3\u30c9V \u30b3\u30e9\u30dc\u300d\u300c\u30a4\u30ab\u30b0\u30ea\u30fc\u30f3V \u30b3\u30e9\u30dc\u300d",
@@ -230628,6 +230618,16 @@
         "Release Date": null,
         "Title Name": "Just Dance\u00ae 2024 Edition",
         "size": 3145728
+    },
+    "0100F8F0000A2000": {
+        "Release Date": null,
+        "Title Name": "Splatoon\u2122 2",
+        "size": 6570377216
+    },
+    "010007C00B508000": {
+        "Release Date": null,
+        "Title Name": "SNK Heroines Tag Team Frenzy",
+        "size": 16095641600
     },
     "010078000CB8E000": {
         "Release Date": null,
