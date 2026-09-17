@@ -3647,12 +3647,6 @@
         "base_game": "\ub4dc\ub798\uace4 \ud018\uc2a4\ud2b8 VII Reimagined",
         "size": 3145728
     },
-    "0100b8d025c69001": {
-        "Release Date": "2026-02-03",
-        "dlc_name": "Portraits Pack 1",
-        "base_game": "Hentai Frames",
-        "size": 3145728
-    },
     "0100a9d01c44700b": {
         "Release Date": "2026-02-03",
         "dlc_name": "\u30a2\u30a4\u30c6\u30e0\u30bb\u30c3\u30c8\uff1a\u30e9\u30c3\u30ad\u30fc\u30da\u30f3\u30c0\u30f3\u30c8\u3001\u547d\u306e\u304d\u306e\u307f",
@@ -3687,6 +3681,12 @@
         "Release Date": "2026-02-03",
         "dlc_name": "\u30d0\u30c3\u30c1\u30ea\u307c\u3046\u3051\u3093\u30a2\u30a4\u30c6\u30e0\u30bb\u30c3\u30c8",
         "base_game": "DRAGON QUEST VII Reimagined",
+        "size": 3145728
+    },
+    "0100b8d025c69001": {
+        "Release Date": "2026-02-03",
+        "dlc_name": "Portraits Pack 1",
+        "base_game": "Hentai Frames",
         "size": 3145728
     },
     "01009da022589001": {
@@ -5051,18 +5051,6 @@
         "base_game": "\u9f8d\u306e\u56fd \u30eb\u30fc\u30f3\u30d5\u30a1\u30af\u30c8\u30ea\u30fc",
         "size": 3145728
     },
-    "010022a02008d00f": {
-        "Release Date": "2025-11-13",
-        "dlc_name": "Rune Factory: Guardians of Azuma - STORY OF SEASONS Bundle",
-        "base_game": "Rune Factory: Guardians of Azuma",
-        "size": 3145728
-    },
-    "0400a940233e1053": {
-        "Release Date": "2025-11-13",
-        "dlc_name": "Daemon X Machina: Titanic Scion - Hacia el abismo",
-        "base_game": "Unknown Base Game",
-        "size": 0
-    },
     "01002ef0180e1002": {
         "Release Date": "2025-11-13",
         "dlc_name": "\u6771\u65e5\u672c\u30de\u30c3\u30d7",
@@ -5085,6 +5073,18 @@
         "Release Date": "2025-11-13",
         "dlc_name": "\u897f\u65e5\u672c\u30b0\u30eb\u30e1\u53f7",
         "base_game": "\u6843\u592a\u90ce\u96fb\u9244\uff12 \uff5e\u3042\u306a\u305f\u306e\u753a\u3082 \u304d\u3063\u3068\u3042\u308b\uff5e",
+        "size": 3145728
+    },
+    "0400a940233e1053": {
+        "Release Date": "2025-11-13",
+        "dlc_name": "Daemon X Machina: Titanic Scion - Hacia el abismo",
+        "base_game": "Unknown Base Game",
+        "size": 0
+    },
+    "010022a02008d00f": {
+        "Release Date": "2025-11-13",
+        "dlc_name": "Rune Factory: Guardians of Azuma - STORY OF SEASONS Bundle",
+        "base_game": "Rune Factory: Guardians of Azuma",
         "size": 3145728
     },
     "010095a01f173002": {
@@ -10103,13 +10103,13 @@
         "base_game": "Puzzles & Colors Games for Kids Toddler Coloring Book Draw Paint",
         "size": 6291456
     },
-    "010022a02008d00d": {
+    "01003af0200b100d": {
         "Release Date": "2025-06-05",
         "dlc_name": "Rune Factory 4 Bachelorette Outfit Bundle",
         "base_game": "Rune Factory: Guardians of Azuma",
         "size": 18874368
     },
-    "01003af0200b100d": {
+    "010022a02008d00d": {
         "Release Date": "2025-06-05",
         "dlc_name": "Rune Factory 4 Bachelorette Outfit Bundle",
         "base_game": "Rune Factory: Guardians of Azuma",
@@ -14979,13 +14979,13 @@
         "Release Date": "2024-12-13",
         "dlc_name": "Chernobylite - Seasoned Scavenger Weapon Skin Pack",
         "base_game": "Chernobylite Complete Edition",
-        "size": 585105408
+        "size": 0
     },
     "01000ab01f9c1006": {
         "Release Date": "2024-12-13",
         "dlc_name": "Chernobylite - Irradiated Hideout Skin Pack",
         "base_game": "Chernobylite Complete Edition",
-        "size": 585105408
+        "size": 0
     },
     "0100da70186d501c": {
         "Release Date": "2024-12-12",
@@ -15190,12 +15190,6 @@
         "dlc_name": "Taiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 4",
         "base_game": "Taiko no Tatsujin: Rhythm Festival",
         "size": 15728640
-    },
-    "01006b0016ad7171": {
-        "Release Date": "2024-12-05",
-        "dlc_name": "Taiko no Tatsujin: Rhythm Festival - \u3010OSHI NO KO\u3011Collab. Pack",
-        "base_game": "Taiko no Tatsujin: Rhythm Festival",
-        "size": 9437184
     },
     "0100da40190fd002": {
         "Release Date": "2024-12-05",
@@ -15483,6 +15477,12 @@
         "Release Date": "2024-11-27",
         "dlc_name": "\u3010\u6211\u63a8\u7684\u5b69\u5b50\u3011\u5408\u4f5cPack",
         "base_game": "\ud0dc\uace0\uc758 \ub2ec\uc778 \ucff5\ub531! \uc6d0\ub354\ud480 \ud398\uc2a4\ud2f0\ubc8c",
+        "size": 9437184
+    },
+    "01006b0016ad7171": {
+        "Release Date": "2024-11-27",
+        "dlc_name": "Taiko no Tatsujin: Rhythm Festival - \u3010OSHI NO KO\u3011Collab. Pack",
+        "base_game": "Taiko no Tatsujin: Rhythm Festival",
         "size": 9437184
     },
     "0100bca0135a1146": {
@@ -17251,7 +17251,7 @@
     },
     "01006b0016ad7141": {
         "Release Date": "2024-10-03",
-        "dlc_name": "Taiko no Tatsujin: Rhythm Festival - Pacote SPY\u00d7FAMILY",
+        "dlc_name": "Taiko no Tatsujin: Rhythm Festival - SPY\u00d7FAMILY Pack",
         "base_game": "Taiko no Tatsujin: Rhythm Festival",
         "size": 9437184
     },
@@ -18337,7 +18337,7 @@
     },
     "01006b0016ad7129": {
         "Release Date": "2024-08-01",
-        "dlc_name": "Taiko no Tatsujin: Rhythm Festival - Pacote HATSUNE MIKU Vol. 5",
+        "dlc_name": "Taiko no Tatsujin: Rhythm Festival - HATSUNE MIKU Pack Vol. 5",
         "base_game": "Taiko no Tatsujin: Rhythm Festival",
         "size": 9437184
     },
@@ -23267,17 +23267,17 @@
         "base_game": "\ud0dc\uace0\uc758 \ub2ec\uc778 \ucff5\ub531! \uc6d0\ub354\ud480 \ud398\uc2a4\ud2f0\ubc8c",
         "size": 3145728
     },
-    "01006b0016ad70c5": {
-        "Release Date": "2023-12-07",
-        "dlc_name": "Taiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 3",
-        "base_game": "Taiko no Tatsujin: Rhythm Festival",
-        "size": 12582912
-    },
     "01006b0016ad70d4": {
         "Release Date": "2023-12-07",
         "dlc_name": "Taiko no Tatsujin: Rhythm Festival - 2000s Pops Pack",
         "base_game": "Taiko no Tatsujin: Rhythm Festival",
         "size": 15728640
+    },
+    "01006b0016ad70c5": {
+        "Release Date": "2023-12-07",
+        "dlc_name": "Taiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 3",
+        "base_game": "Taiko no Tatsujin: Rhythm Festival",
+        "size": 12582912
     },
     "0100bca0135a10c0": {
         "Release Date": "2023-12-07",
